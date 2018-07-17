@@ -37,7 +37,7 @@ Be cautious when photographing elephants. I was once on a press trip when a jour
 
 ---
 
-{{<  include themes/lpfa/gallery.html  >}}
+{{< include src="themes/lpfa/gallery.html" >}}
 
 ---
 

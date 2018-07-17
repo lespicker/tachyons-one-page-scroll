@@ -51,7 +51,7 @@ Mahalo!
 
 ---
 
-{{<  include themes/lpfa/gallery.html  >}}
+{{< include src="themes/lpfa/gallery.html" >}}
 
 ---
 

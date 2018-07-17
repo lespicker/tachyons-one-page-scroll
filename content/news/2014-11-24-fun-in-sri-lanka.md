@@ -36,7 +36,7 @@ The Sri Lanka tour was offered through the [Nikonians Academy](http://www.nikoni
 
 ---
 
-{{<  include themes/lpfa/gallery.html  >}}
+{{< include src="themes/lpfa/gallery.html" >}}
 
 ---
 

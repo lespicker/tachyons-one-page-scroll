@@ -36,7 +36,7 @@ Every year we have a marvelous four days traveling the back roads of Acadia. I l
 
 ---
 
-{{<  include themes/lpfa/gallery.html  >}}
+{{< include src="themes/lpfa/gallery.html" >}}
 
 ---
 

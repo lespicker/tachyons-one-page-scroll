@@ -15,7 +15,7 @@ folio:
 - 2012/11/canada-pfolio/canada-12.jpg
 comments: false
 ---
-{{<  include themes/lpfa/folio-array.html  >}}
+{{< include src="themes/lpfa/folio-array.html" >}}
 
 ---
 

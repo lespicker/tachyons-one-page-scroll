@@ -19,7 +19,7 @@ folio:
 comments: false
 ---
 
-{{<  include themes/lpfa/folio-array.html  >}}
+{{< include src="themes/lpfa/folio-array.html" >}}
 
 ---
 

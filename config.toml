@@ -1,6 +1,9 @@
-baseURL = "https://studio.cdox.ltd/"
+baseURL = "https://lpfa.cdox.ltd/"
 languageCode = "en-us"
-title = "Canned Ox Visuals"
+title = "LPFA"
+
+[frontmatter]
+  date  = [":filename", ":default"]
 
 Paginate = 5
 
