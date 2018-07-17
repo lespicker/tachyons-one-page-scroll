@@ -1,0 +1,215 @@
+{{ define "main" }}
+  <script type="text/javascript">
+    new WOW().init();
+  </script>
+
+  <section id="home" class="relative vh-100 w-100 pa4 bg-top cover" style="background-image: url('{{ .Params.image }}')">
+    <div class="relative flex flex-wrap items-center justify-center h-100">
+      <h1 class="ma0 dark-red f-subheadline f-headline-l fw9 tracked tracked-mega-ns lh-solid ttu tc">{{ .Title }}</h1>
+
+        <div class="mb4 mb0-ns w-100 tc">
+          <p class="dark-red f3 f2-l fw7 mb2 mv3 ttu">
+            Let's Work Together
+          </p>
+          <form id="news" class="db w-100">
+            <input placeholder="Email Address" name="email" class="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box">
+            <input id="subscribe" type="submit" value="Subscribe" class="input-reset w-100 w-auto-ns bg-transparent dark-red f5 pv2 pv3-ns ph4 ba b--dark-red dim ttu">
+            <div id="spinner" class="spinner v-btm mb1 dn">
+              <div class="rect1"></div>
+              <div class="rect2"></div>
+              <div class="rect3"></div>
+              <div class="rect4"></div>
+              <div class="rect5"></div>
+            </div>
+          </form>
+        </div>
+      
+    </div>
+  </section>
+
+  {{ partial "big-block" (dict "img" "/images/099A6920.jpg" "title" "Work With Us" "subtitle" "Dark &amp; dramatic<br>to light &amp; airy.<br><span class=\"dark-red fw7\">Bold colors</span><br> to classic black &amp; white." "sideline" "Fashion | Editorial | Portrait" "button" "Let's Start") }}
+
+  <section id="content" class="bg-black white min-vh-100">
+    <article class="cf ph3 ph4-m ph5-l pv5 wow animated fadeInUp">
+      <header class="fn fl-ns w-third-m w-50-l pr4-ns">
+        <h1 class="mb2 mt0 lh-title">Fashion / Editorial / Portrait</h1>
+        <time class="f6 ttu tracked gray">RW Boyer</time>
+        <img src="/images/DSC_4659.jpg" class="db mt4 measure-narrow-l center mh0-ns">
+      </header>
+      <div class="fn fl-ns w-two-thirds-m w-50-l fw3">
+        <p class="lh-copy measure-ns mt4 mt0-ns">Over two decades of experience producing outstanding visuals on location and in the studio for a wide range of clientele. We specialize in the art of crafting wardrobe, light, and styling to tell stories. All photographic content provided as samples are unretouched strait from the camera. We believe no matter what degree of post production is required to tell your story, that starting with superior quality assets is essential.</p>
+        <p class="lh-copy measure-ns">We'll bring the professional team required to tell your story&hellip; We'll source location, talent, equipment, and all of the details. Or, we'll seamlessly integrate with your team. We don't believen in a one size fits all approach. Each client and brief is unique and deserves to be treated with an plan that optimizes budget and talent to produce the best results.</p>
+        <article class="pv3 pv5-ns" data-name="slab-stat-small">
+          <h3 class="f6 ttu tracked">Mary</h3>
+          <div class="cf">
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Shutter</dd>
+              <dd class="f3 fw6 ml0">1/250s</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Aperture</dd>
+              <dd class="f3 fw6 ml0">f/4</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">ISO</dd>
+              <dd class="f3 fw6 ml0">800</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Focal Length</dd>
+              <dd class="f3 fw6 ml0">50mm</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Lighting</dd>
+              <dd class="f3 fw6 ml0">Window</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title">
+              <dd class="f6 fw4 ml0">Heads</dd>
+              <dd class="f3 fw6 ml0">n/a</dd>
+            </dl>
+          </div>
+        </article>
+      </div>
+    </article>
+  </section>
+
+  {{ partial "big-block" (dict "img" "/images/099A0914.jpg" "title" "Work With Us" "subtitle" "<span class=\"dark-pink\">It's not about the budget.<br>It's about <span class=\"white fw7\">Great Ideas</span><br> and creative execution.</span>" "sideline" "Editorial | 12 x 8 room | $20 wardrobe" "sidecolor" "dark-pink" "button" "Tell Us About Your Idea" "bcolor" "dark-pink" "bg" "bg-left") }}
+
+  <section id="next" class="min-vh-100">
+    <article class="cf ph3 ph4-m ph5-ns pv5 wow animated fadeInUp">
+      <header class="fn fl-ns w-third-m w-50-l pr4-ns">
+        <h1 class="mb2 mt0 lh-title">Creative Consulting</h1>
+        <time class="f6 ttu tracked gray">RW Boyer</time>
+        <img src="/images/099A2370.jpg" class="db mt4 measure-narrow-l center mh0-ns">
+      </header>
+      <div class="fn fl-ns w-two-thirds-m w-50-l fw3">
+        <p class="lh-copy measure-narrow-m measure-l mt4 mt0-ns">We can produce visuals for you, or help you produce your own. We solve visual problems, help inspire ideas, as well as coach individuals and businesses. We can help with design, technical consulting, and storyboards to develop your brand. Need to produce on-going visuals for your social marketing campaigns? We can do it for you or setup a production process that will allow your in-house resources to produce consitent hiqh quality assets.</p>
+        <p class="lh-copy measure-narrow-m measure-l">Our specialty are looks that run from clean and classic to highly polished perfection. We don't belive in following what everyone else is doing this week. Our goal is to produce highly memorable visuals that will continue to resonate today, next year, and hopefully into the next decade. Let others chase the disposable.</p>
+        <article class="pv3 pv5-ns" data-name="slab-stat-small">
+          <h3 class="f6 ttu tracked">Jehanne</h3>
+          <div class="cf">
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Shutter</dd>
+              <dd class="f3 fw6 ml0">1/200s</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Aperture</dd>
+              <dd class="f3 fw6 ml0">f/8</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">ISO</dd>
+              <dd class="f3 fw6 ml0">400</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Focal Length</dd>
+              <dd class="f3 fw6 ml0">85mm</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Lighting</dd>
+              <dd class="f3 fw6 ml0">Profoto</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title">
+              <dd class="f6 fw4 ml0">Heads</dd>
+              <dd class="f3 fw6 ml0">3</dd>
+            </dl>
+          </div>
+        </article>
+      </div>
+    </article>
+  </section>
+
+  <section class="flex flex-wrap relative overflow-hidden items-center justify-center vh-100 center bg-black-90">
+    <h2 class="absolute mv0 f-headline f-super-ns fw9 lh-solid black tc ttu">Get In<br>Touch</h2>
+    <div class="relative tc">
+      <h2 class="mv0 mh2 mh0-ns f1 f-subheadline-ns fw3 lh-title white tc">Have an idea? Reach out <br>and let's <span class="fw7 dark-red">work together.</span></h2>
+      <a href="mailto:info@cdox.cc" class="dib mt4 link w-auto-ns bg-transparent dark-red f5 pv2 pv3-ns ph4 ba b--dark-red dim ttu">Let's Start</a>
+    </div>
+    <div class="sideline absolute top-200 left-0 inline-flex items-center">
+      <span class="bar dib mr2 bg-dark-red"></span>
+      <h3 class="mv3 f6 fw5 tracked-mega dark-red ttu nowrap">A More Rewarding Creative Experience</h3>
+    </div>  
+  </section>
+  
+  {{ partial "big-block" (dict "img" "/images/DSC_5958.jpg" "title" "Inspired Lighting" "subtitle" "<span class=\"dark-red\">We love a <span class=\"fw7\">Challenge</span>.<br>How good can a $12 dess<br>look strait out of camera?</span>" "sideline" "Editorial | $12 Bodycon dress" "sidecolor" "dark-red" "button" "Challenge Us" "bcolor" "dark-red") }}
+
+  <section id="more" class="bg-black white min-vh-100">
+    <article class="cf ph3 ph4-m ph5-ns pv5 wow animated fadeInUp">
+      <header class="fn fl-ns w-third-m w-50-l pr4-ns">
+        <h1 class="mb2 mt0 lh-title">Photographic Workshops</h1>
+        <time class="f6 ttu tracked gray">RW Boyer</time>
+        <img src="/images/099A2424.jpg" class="db mt4 measure-narrow-l center mh0-ns">
+      </header>
+      <div class="fn fl-ns w-two-thirds-m w-50-l fw3">
+        <p class="lh-copy measure-narrow-m measure-l mt4 mt0-ns">From time to time we host open photographic workshops in the mid-Atlantic USA, Spain, and the UK. Our workshops are always about hands on learning for participants. We believe the best way to aquire new skills is in doing, not watching someone else do it. We offer a variety of topics, never the same workshop twice. Workshops range from lighting to talent direction to story telling. All of them have one thing in common; They demonstrate that all of the discrete elements have to come together in order to tell a story greater than the sum of the parts.</p>
+        <p class="lh-copy measure-narrow-m measure-l">Sign-up for our newsletter for an on-going schedule of locations and topics. Or reach out and we'll point you towards venues calendars where we will be.</p>
+        <article class="pv3 pv5-ns" data-name="slab-stat-small">
+          <h3 class="f6 ttu tracked">Jehanne</h3>
+          <div class="cf">
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Shutter</dd>
+              <dd class="f3 fw6 ml0">1/200s</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Aperture</dd>
+              <dd class="f3 fw6 ml0">f/8</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">ISO</dd>
+              <dd class="f3 fw6 ml0">400</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Focal Length</dd>
+              <dd class="f3 fw6 ml0">85mm</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
+              <dd class="f6 fw4 ml0">Lighting</dd>
+              <dd class="f3 fw6 ml0">Profoto</dd>
+            </dl>
+            <dl class="fl fn-l w-50 dib-l w-auto-l lh-title">
+              <dd class="f6 fw4 ml0">Heads</dd>
+              <dd class="f3 fw6 ml0">n/a</dd>
+            </dl>
+          </div>
+        </article>          
+      </div>
+    </article>
+  </section>
+
+  <section id="work" class="flex relative overflow-hidden items-center justify-center vh-100 center bg-left bg-center-ns cover" style="background-image: url('/images/099A0941.jpg')">
+    <h3 class="absolute mv0 f-headline f-super-ns fw9 lh-solid white-50 tc ttu">Work<br>With Us</h3>
+    <div class="relative tc">
+      <h2 class="mv0 f1 f-subheadline-ns fw3 lh-title black tc">We would love to hear from you<br>and get to know <span class="fw7 dark-red">your project.</span></h2>
+      <a href="mailto:info@cdox.cc" class="dib mt4 link w-auto-ns bg-transparent dark-red f5 pv2 pv3-ns ph4 ba b--dark-red dim ttu">Let's Start</a>
+    </div>
+    <div class="sideline absolute top-200 w-auto-ns left-0 inline-flex items-center">
+      <span class="bar dib mr2 bg-black"></span>
+      <h3 class="mv3 f7 f6-ns fw5 tracked-mega black ttu nowrap">Fashion | Editorial | Portrait</h3>
+    </div>  
+  </section>
+  
+  <section class="flex relative overflow-hidden items-center justify-center mw9 vh-100 center bg-center cover" style="background-image: url('/images/099A6927.jpg')">
+    <h2 class="absolute mv0 f-headline f-super-ns fw9 lh-solid white-30 tc ttu">Work<br>With Us</h2>
+    <div class="relative tc">
+      <h2 class="mv0 mh2 mh0-ns f1 f-subheadline-ns fw3 lh-title white tc">Wardrobe design, color palette,<br>and emotional feel for<br><span class="fw7 dark-red">your project.</span></h2>
+      <a href="mailto:info@cdox.cc" class="dib mt4 link w-auto-ns bg-transparent white f5 pv2 pv3-ns ph4 ba b--white dim ttu">Let's Start</a>
+    </div>
+    <div class="sideline absolute top-200 left-0 inline-flex items-center">
+      <span class="bar dib mr2 bg-white"></span>
+      <h3 class="mv3 f6 fw5 tracked-mega white ttu nowrap">Fashion | Editorial | Portrait</h3>
+    </div>  
+  </section>
+
+  <section class="flex relative overflow-hidden items-center justify-center vh-100 center bg-right bg-center-ns cover" style="background-image: url('/images/099A1532.jpg')">
+    <h2 class="absolute mv0 f-headline f-super-ns fw9 lh-solid white-30 tc ttu">Work<br>With Us</h2>
+    <div class="relative tc">
+    <h2 class="mv0 mh2 mh0-ns f1 f-subheadline-ns fw3 lh-title black tc">On location or in the studio.<br>We'll deliver the feel<br><span class="fw7 dark-red">for your brand.</span></h2>
+    <a href="mailto:info@cdox.cc" class="dib mt4 link w-auto-ns bg-transparent dark-red f5 pv2 pv3-ns ph4 ba b--dark-red dim ttu">Let's Start</a>
+    </div>
+    <div class="sideline absolute top-200 left-0 inline-flex items-center">
+      <span class="bar dib mr2 bg-dark-red"></span>
+      <h3 class="mv3 f6 fw5 tracked-mega dark-red ttu nowrap">Fashion | Editorial | Portrait</h3>
+    </div>  
+  </section>
+
+  {{ partial "big-block" (dict "img" "/images/DSC_5782.jpg" "title" "<span class=\"white-50\">Creative Geeks</span>" "subtitle" "<span class=\"dark-red\">We are creative geeks.<br>We love to <span class=\"white fw7\">Play</span><br> and extend concepts.</span>" "sideline" "Fashion | Concept Development" "sidecolor" "blue" "button" "Get In Touch" "bcolor" "white" "bg" "bg-right") }}
+
+{{ end }}
