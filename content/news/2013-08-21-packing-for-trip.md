@@ -14,7 +14,7 @@ tags:
 - luggage
 ---
 
-{{<  img /images/bli/2013/08/Canadian-Rockies-lake.jpg  >}}
+{{< figure src="/images/bli/2013/08/Canadian-Rockies-lake.jpg" title="  " >}}
 
 This weekend I leave for a two-week trek and photo shoot in the Canadian Rockies, one of the most wondrous places on Earth. As a photographer I can't say enough about it. My neighbors to the north are indeed blessed to have such staggeringly gorgeous scenery (of course we have places like the Grand Canyon and Yosemite, but that's petty bragging). 
 
@@ -55,7 +55,7 @@ Now, into what can one pack such a disparate collection of gear? First, I put mo
 
 Now comes the fun part; which carry-on bag to choose. I will sometimes choose to just carry my backpack, but on this trip I will stuff my backpack with clothes and assorted other items and place it in my checked bag (yes, my REI Wheely Beast will swallow my backpack). On this trip I'll use my ThinkTank Airport International V2.0, which I'm convinced is the best bag in the industry. I should be able to get all my above-mentioned cameras and lenses in there with no trouble. Plus, it has room for my 13" MacBook Air. 
 
-{{<  img /images/bli/2013/08/airport-int.jpeg  >}}
+{{< figure src="/airport-int.jpeg" title=" " >}}
 
 Even though my Airport International will take all my gear, I'll still take my ThinkTank Urban Disguise 50 V2.0 with me as my "pocketbook" carry-on. That way I can keep my laptop, iPhone, ear buds, gum, snacks, etc. The ThinkTank system allows me to mount my Urban Disguise onto the handle of the Airport International for seamless transport. I like that. 
 
@@ -63,7 +63,7 @@ Even though my Airport International will take all my gear, I'll still take my T
 
 I am really, really excited about rigorously testing my new-ish MindShift 180 Rotation backpack, a spinoff of the fabulous ThinkTank folks. 
 
-{{<  img /images/bli/2013/08/rotation-180.jpeg  >}}
+{{< figure src="/rotation-180.jpeg" title=" " >}}
 
 I've already worn it on several multi-hour hikes in a nearby park, but I have yet to run it through a thorough field test. So far I can say that this thing promises to be the best pack I've ever carried. Stay tuned for my exhaustive field test report when I return from the Rockies and an immediate follow-up trip to Iceland. As my regular readers know, I prefer real-time field tests by pro photographers, rather than techno tests that tell me nothing about how the gear will perform under real-life conditions. 
 

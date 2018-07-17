@@ -16,7 +16,7 @@ tags:
 - landscape
 ---
 
-{{<  img /images/bli/2014/05/South-Africa.jpg  >}}
+{{< figure src="/images/bli/2014/05/South-Africa.jpg" title="  " >}}
 
 It's been something like 16 years, but I'm finally back in South Africa. I was last here with a group of journalists just after apartheid fell apart and Nelson Mandela returned triumphantly to Pretoria. The atmosphere was electric back then, with hope and aspiration, and no doubt some anxiety, to be seen on the faces of South Africans.
 

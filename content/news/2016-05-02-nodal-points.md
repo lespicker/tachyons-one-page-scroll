@@ -22,7 +22,7 @@ tags:
 - Sony
 ---
 
-{{<  img /images/bli/2016/03/DSC_8292-Pano.jpg Haleakala Maui Hawaii  >}}
+{{< figure src="/images/bli/2016/03/DSC_8292-Pano.jpg" title=" Haleakala Maui Hawaii  " >}}
 
 A few years ago I recorded a YouTube video on [how to create detailed panoramas](https://youtu.be/edgmob9gtQ4) that you could print at 30 or more feet wide. That video on YouTube now has nearly 70,000 views and many comments. Now, for the prequel!
   

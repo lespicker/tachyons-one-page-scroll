@@ -21,7 +21,7 @@ tags:
 - Photo Plus
 ---
 
-{{<  img /images/bli/2015/10/hp_ppe15_register.jpg  >}}
+{{< figure src="/images/bli/2015/10/hp_ppe15_register.jpg" title="  " >}}
 
 I just returned today from leading a [wonderful workshop](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html) in Maine's Acadia National Park, an annual event that I look forward to every year. I have one day to reorient myself before heading off to the PhotoPlus International Conference and Expo.
 

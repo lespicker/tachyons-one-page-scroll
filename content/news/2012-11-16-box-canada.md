@@ -29,7 +29,7 @@ But I have come to know that there is a secret, magical land sitting on top of u
 
 One of the things I love about Canada is that, as a landscape artist, I don’t have to battle crowds to record the images I visualize. I can take my time to survey the area for the best vantage points, set up my tripod (all the images in this folio were taken tripod-mounted), and shoot, reposition and shoot again. Some of the images, in fact, took multiple visits before I was happy with the results.
 
-{{<  img /images/2012/11/DSC9916.jpg  >}}
+{{< figure src="/images/2012/11/DSC9916.jpg" title="  " >}}
 
 Each image in this *Portfolio Edition* was individually prepared for printing and then hand-printed on Museo Silver Rag archival, museum-quality, fine art paper (300gsm). Prints will last at least 100 years if they are properly cared for. To that end, please handle prints with the cotton gloves supplied and store them in the hand-made box at room temperatures. 
 

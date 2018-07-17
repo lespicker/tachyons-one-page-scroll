@@ -13,7 +13,7 @@ tags:
 - Hasselblad
 ---
 
-{{<  img /images/bli/2013/09/A0022734-pano.jpg  >}}
+{{< figure src="/images/bli/2013/09/A0022734-pano.jpg" title="  " >}}
 
 I have four openings available for my annual Fall workshop in the incomparable Acadia National Park on the rocky Maine coast. I personally consider Acadia the crown jewel of our park system and Fall is the prime time to photograph there. The crowds have thinned and the burst of color that eastern forests bless us with every year makes the Maine coast something special indeed.
 

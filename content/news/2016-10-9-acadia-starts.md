@@ -18,7 +18,7 @@ tags:
 - Tony Sweet
 ---
 
-{{<  img /images/bli/2016/10/DSC_5180.jpg  >}}
+{{< figure src="/images/bli/2016/10/DSC_5180.jpg" title="  " >}}
 
 Got up for sunrise yesterday preparing for my annual Acadia National Park workshop. Scooted over to Boulder Beach to wait for the sun to come up. What a lovely morning it was. 
 

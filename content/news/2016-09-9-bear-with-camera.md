@@ -20,7 +20,7 @@ tags:
 - workshop
 ---
 
-{{<  img /images/bli/2016/09/grizzly-1.jpg Jeff Wagner image  >}}
+{{< figure src="/images/bli/2016/09/grizzly-1.jpg" title=" Jeff Wagner image  " >}}
 
 **"There are strange things done in the midnight sun..."**
 
@@ -32,7 +32,7 @@ We stayed for about two happy hours photographing the trio and then continued no
 
 Early the next morning Jeff Wagner, one of my clients, pulled me aside to say that one of his images was a bit disturbing to him. It clearly showed one of the cubs with a digital camera in his mouth. Disturbing is an understatement when it comes to a large grizzly sow laying on an unidentified carcass and a digital camera is somehow tied into the scene.
 
-{{<  img /images/bli/2016/09/grizzly-2.jpg Jeff Wagoner image  >}}
+{{< figure src="/images/bli/2016/09/grizzly-2.jpg" title=" Jeff Wagoner image  " >}}
 
 So, off we went to the RCMP headquarters in Dawson City. A young   officer did a brilliant job interviewing us. I had fortunately noted the kilometer marker nearest the grizzlies. The RCMP made a copy if the image and sent it immediately to a wildlife officer near to that area. 
 

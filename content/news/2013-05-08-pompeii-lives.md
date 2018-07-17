@@ -11,7 +11,7 @@ tags:
 - tourist
 ---
 
-{{<  img /images/bli/2013/07/DSC_9027.jpg  >}}
+{{< figure src="/images/bli/2013/07/DSC_9027.jpg" title="  " >}}
 
 This was my first visit to Pompei and every preconception I had of the site was dashed within minutes. I had a schedule to keep and I alloted two hours to visiting Pompei. Instead, we ended up spending five very active hours and when the park closed we were one of the last to leave. I could easily have spent another day or two exploring these ancient ruins- and in fact I expect I will because my photography was rushed and I was not allowed to bring in my tripod without permission, which I will try to get next time in advance.
 

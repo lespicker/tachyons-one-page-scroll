@@ -15,7 +15,7 @@ tags:
 - how to
 ---
 
-{{<  img /images/bli/2014/02/banyan-tree.jpg  >}}
+{{< figure src="/images/bli/2014/02/banyan-tree.jpg" title="  " >}}
 
 On a recent hike in the spectacular Haleakala National Park on the Hawaiian island of Maui, I decided to do a quick video for you on how to create a panoramic image. 
 

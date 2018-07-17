@@ -17,7 +17,7 @@ tags:
 
 ---
 
-{{<  img /images/bli/2014/10/DSC_3568.jpg Sri Lankan Asian elephants  >}}
+{{< figure src="/images/bli/2014/10/DSC_3568.jpg" title=" Sri Lankan Asian elephants  " >}}
 
 I just returned from Sri Lanka, where I did several safaris in various national parks. While in Udawalawe National Park I noticed an interesting behavior that the Indian elephants exhibited. I’ve seen lots of Asian elephants before, as well as African elephants, but somehow I missed this particular behavior. 
 

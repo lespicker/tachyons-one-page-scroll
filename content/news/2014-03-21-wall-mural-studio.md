@@ -19,7 +19,7 @@ tags:
 - Enhance
 ---
 
-{{<  img /images/bli/2014/02/DSC_2336.jpg >}}
+{{< figure src="/images/bli/2014/02/DSC_2336.jpg" title=" " >}}
 
 In between photo trips to Hawaii and New Mexico, I'm working on the wall mural that I'll hang in my new studio. I'm really excited by this next step, as it will hopefully add a "WOW!" factor to our digs. 
 

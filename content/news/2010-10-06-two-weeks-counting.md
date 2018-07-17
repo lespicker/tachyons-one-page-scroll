@@ -14,7 +14,7 @@ tags:
 ---
 Okay, so the Australia-Fiji-New Zealand trip and assignment is exactly 15 days off and I’m feeling rattled. A few items in the itinerary have been nailed down since my last blog post, but there’s a heckuva lot more to go.
 
-{{<  img http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/lesontreadmill-1-of-1.jpg  >}}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/lesontreadmill-1-of-1.jpg" title="  " >}}
 
 So far I have the flights to and from Australia and New Zealand finalized, as well as one flight within Australia. Getting to Fiji has been set for months. I’ve got two car rentals arranged and a couple of nice lodging properties lined up and almost finalized, a good thing since I’m doing several travel articles/photojournalism pieces. But I figure I still have at least 60% of the arrangements left to make, particularly for properties around New Zealand’s southwest coast (Fiordland National Park region). I have numerous leads out there, but they haven’t been finalized.
 

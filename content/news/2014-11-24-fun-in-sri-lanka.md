@@ -22,7 +22,7 @@ gallery:
 - [tea-time-1.jpg, "Our group (minus Norm) relaxing over tea time"]
 ---
 
-{{<  img /images/bli/2014/11/Sr-Lanka-2014-group/chad-1.jpg  >}}
+{{< figure src="/images/bli/2014/11/Sr-Lanka-2014-group/chad-1.jpg" title="  " >}}
 
 Many people, when they think of photography tours, imagine folks  driven by itchy trigger fingers from sunrise to sunset, led by a crazed zealot who talks nonstop photography jargon. I’m here to tell you that nothing could be further from the truth. Okay, the crazed leader part is partially true… alright, it’s mostly true. 
 

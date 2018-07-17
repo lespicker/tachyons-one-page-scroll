@@ -10,7 +10,7 @@ tags:
 - canvas
 ---
 
-{{<  img /images/bli/2013/11/IMG_5826r1.JPG Wehmiller photo  >}}
+{{< figure src="/images/bli/2013/11/IMG_5826r1.JPG" title=" Wehmiller photo  " >}}
 
 It all started with a phone call from a dear friend and former art gallery owner, Carol Balick, who asked if I'd be willing to print some large format images for a photographer friend of hers (thanks, Carol!). That started one of the most satisfying projects, despite its small size, that we have ever been involved with. 
 
@@ -26,7 +26,7 @@ Hardly a novice, John was introduced to photography as a child by his father, fr
 
 "As much as I enjoy travel and documenting scenes from places such as the Southwest," John says, "I also believe in capturing images from the 'commonplace' scenes that are all around us. I always have a camera with me for this purpose.... one never knows!"
 
-{{<  img img-left /images/bli/2013/11/WehmillerJ03.jpg Wehmiller photo  >}}
+{{< figure src="/images/bli/2013/11/WehmillerJ03.jpg" title=" Wehmiller photo  " >}}
 
 Along his life's path John and his wife, Paula, maintained a close friendship with Ann and Tim Schenck, who live in a stunning northern Delaware location, surrounded by a mature forest that has always held John's photographic interest. So, with the Schenck's encouragement John began to photograph the trees behind their warm and welcoming house. 
 

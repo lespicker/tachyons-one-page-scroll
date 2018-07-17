@@ -16,13 +16,13 @@ tags:
 - landscape
 ---
 
-{{<  img /images/bli/2015/12/DSC_1184.jpg  >}}
+{{< figure src="/images/bli/2015/12/DSC_1184.jpg" title="  " >}}
 
 Man, am I excited! My upcoming 12-day [Sri Lanka Photo Tour](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#srilanka) now has a phenomenal new addition. Once the Sri Lanka segment is over, we all fly to Dubai for a 4-day extension trip. 
 
 <!--more-->
 
-{{<  img img-left /images/bli/2015/12/DSC_1158.jpg  >}}
+{{< figure src="/images/bli/2015/12/DSC_1158.jpg" title="  " >}}
 
 Yes, I say "we all", because the Dubai segment is so incredible everyone who registered for Sri Lanka has elected to add the Dubai extension. No wonder. We will be doing a 4-hour night shoot, with Dubai's lights and skyscrapers and reflections. Then three 8-hour days of shooting sand dunes, desert, Bedouins, markets, beaches, architecture, mosques and more. 
 

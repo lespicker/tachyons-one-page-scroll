@@ -16,7 +16,7 @@ tags:
 - Valetta
 ---
 
-{{<  img /images/bli/2013/07/DSC_0371.jpg  >}}
+{{< figure src="/images/bli/2013/07/DSC_0371.jpg" title="  " >}}
 
 If you are a photographer who has not visited Malta, book that trip now. If you do not have Malta on your bucket list, add it now.  I’ve just wound up a 5-day trip to this wonderful, exciting and visually dynamic island nation and I am already planning a second, more extensive two- or three-week return visit.
 

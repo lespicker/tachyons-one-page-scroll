@@ -16,7 +16,7 @@ tags:
 - African American
 ---
 
-{{<  img /images/bli/2017/03/IMG_0762.jpg  >}}
+{{< figure src="/images/bli/2017/03/IMG_0762.jpg" title="  " >}}
 
 Several years ago - more like several decades ago - I was photographing a piece for National Geographic WORLD magazine. The article was about edible wild plants and how kids loved to learn about them and even cook using them in the ingredients. 
 

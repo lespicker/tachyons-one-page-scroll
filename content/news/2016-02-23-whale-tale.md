@@ -18,7 +18,7 @@ tags:
 - flukes
 ---
 
-{{<  img /images/bli/2016/02/DSC_7919.jpg  Humpback breaching  >}}
+{{< figure src="/images/bli/2016/02/DSC_7919.jpg" title="  Humpback breaching  " >}}
 
 In my last week on Maui each year, I try to blog about one of my favorite animals, humpback whales. These 45-ton behemoths are truly gentle giants, traveling 2,500 long miles from Alaska to the warm, relatively shallow waters off Maui. 
 
@@ -36,11 +36,11 @@ No one knows for sure why whales breach. It could be a mating thing, since humpb
 
 Breaches happen so fast, you hardly have time to prepare for it with your camera. The water is flat and calm and suddenly a leviathan erupts from the water with no warning. Everyone on board oohs and aahs. Kids scream in delight. Then the beast falls back in the water with a thunderous, unforgettable sound.
 
-{{<  img /images/bli/2016/02/DSC_7921.jpg  Humpback landing  >}}
+{{< figure src="/images/bli/2016/02/DSC_7921.jpg" title="  Humpback landing  " >}}
 
 The resultant splash can be seen for miles. Typically one breach may signal more to come, whether by the same whale or by competitors. Both males and females may breach. 
 
-{{<  img /images/bli/2016/02/DSC_7905.jpg  >}}
+{{< figure src="/images/bli/2016/02/DSC_7905.jpg" title="  " >}}
 
 ### Preparing to Photograph Whales
 
@@ -56,7 +56,7 @@ Another tip is that I keep both eyes open as I scan the area where I last saw ac
 
 One final tip; don't get discouraged. Photographing active whales from a moving, bobbing boat isn't easy. At first a 10% hit rate would be good. 
 
-{{<  img /images/bli/2016/02/DSC_7794-Edit.jpg   >}}
+{{< figure src="/images/bli/2016/02/DSC_7794-Edit.jpg" title="   " >}}
 
 But, never mind the technical stuff. What is most wonderful to me is that we can observe these intelligent beings without slaughtering them. And how fortunate for us photographers. 
 

@@ -18,7 +18,7 @@ tags:
 - techniques
 ---
 
-{{<  img /images/bli/2018/06/DSC_4331.jpg What a Day!  >}}
+{{< figure src="/images/bli/2018/06/DSC_4331.jpg" title=" What a Day!  " >}}
 
 The first stop we made in leading my recent Africa Photo Adventure was in Uganda, where we stayed at Bwindi Impenetrable Forest for a chance to photograph the WOW!-inducing mountain gorillas. 
 
@@ -28,13 +28,13 @@ While gorilla family sightings can never be guaranteed, the success rate in Bwin
 
 The difficulty in getting to the gorillas lies in the mountainous, heavily jungled terrain. The gorillas live in a rain forest, and the Uganda-Rwanda habitats are staggeringly lush, which makes hiking the steep slopes sometimes slippery and difficult. On our first visit to a gorilla family, we hiked steadily for about 2 grueling hours, the 7,000 foot altitude not helping. But, let's face facts, none of my clients complained once we came face to face with the gorillas. 
 
-{{<  img /images/bli/2018/06/DSC_4388.jpg Watching the Babies  >}}
+{{< figure src="/images/bli/2018/06/DSC_4388.jpg" title=" Watching the Babies  " >}}
 
 Visitors are only allowed to spend an hour with the gorillas, so as not to stress them. But what an hour it was! At times we were no more than an arms length from members of the troop. The immense and powerful silverback kept somewhat of a distance - at most 10-20 feet - as he calmly kept check on his extended family. The babies played, wrestled one another, chased each other up and down trees, and occasionally stopped to nurse. I don't think anyone ever experienced an hour going by so quickly. Spending time with these sentient beings, to whom we are biologically so closely related (we share 98% of our DNA coding), is truly one of life's natural highs. 
 
 A few quick take-aways. First, we were surprised at how nonchalant the gorillas were in our presence. It was affirming to note that if we treat wildlife with respect we can learn to coexist. Second, the impression one gets from being with gorillas is how similar we are in terms of family experience. They touch each other, they hug, they groom, they play and scold, they eat and sleep together. 
 
-{{<  img /images/bli/2018/06/DSC_4576.jpg Looking for Playmates  >}}
+{{< figure src="/images/bli/2018/06/DSC_4576.jpg" title=" Looking for Playmates  " >}}
 
 Our guides and rangers were knowledgeable, concerned with our safety, and helpful, making the experience that much more enjoyable. 
 
@@ -56,7 +56,7 @@ If you plan to do a mountain gorilla trek, here are some tips to help you develo
 
 **Have a Mental Shot List**. Seeing the animals is such a thrill, you may just start shooting anything and everything. It's better to do some Internet research and come up with a series of images that you would like to bring home. Everyone knows what a gorilla looks like, so full body shots may not be the prize shot to bring home. In my case, since I primarily shoot in B&W nowadays, I was looking for images that showed the sentience on the faces of these beautiful animals. 
 
-{{<  img /images/bli/2018/06/DSC_4581.jpg Contemplation  >}}
+{{< figure src="/images/bli/2018/06/DSC_4581.jpg" title=" Contemplation  " >}}
 
 **It's Not All About Images**. Whatever you do, please take time to fully breathe in the wonder of the experience. You will be sharing an intimate hour with creatures that have been feared, mythologized, killed for sport and body parts, and driven from their natural ranges. Watch them passively eating leaves, hugging their young, feeding their babies, vocalizing, touching. Marvel at how they have adapted to human visitors who appreciate them now for their ecological role. 
 

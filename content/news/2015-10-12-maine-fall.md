@@ -16,7 +16,7 @@ tags:
 - fall foliage
 ---
 
-{{<  img /images/bli/2015/10/DSC_3712.jpg  >}}
+{{< figure src="/images/bli/2015/10/DSC_3712.jpg" title="  " >}}
 
 I arrived in Maine, the Pine Tree state, two days ago. I'm here preparing for my annual photography workshop in Acadia National Park, which begins in a few days. Despite the fact that I lived here for 10 years and know the park intimately, I like to arrive before each of these workshops to make sure everything runs smoothly for my attendees.
 

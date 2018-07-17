@@ -18,6 +18,6 @@ A friend, Morgan Melekos, just sent me this image he took while I was photograph
 
 If you are curious, the camera is a Hasselblad H4D-50 with a 28mm lens and a Hasselblad tilt-shift mechanism between the lens and camera. Clothing includes my ScotteVest hoodie sweatshirt (and two layers underneath). My waders are from Orvis (I use soft-soled waders so I can feel the rocks, which I believe helps me from slipping). My tripod is a Gitzo 3541 with a Really Right Stuff BH-55 ballhead.
 
-{{<  img http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/VT-Picker41.jpg  >}}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/VT-Picker41.jpg" title="  " >}}
 
 Winter Rocks!!

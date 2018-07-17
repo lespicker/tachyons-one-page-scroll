@@ -11,7 +11,7 @@ tags:
 - Egadi Islands
 ---
 
-{{<  img /images/bli/2013/07/DSC_9453-Edit.jpg  >}}
+{{< figure src="/images/bli/2013/07/DSC_9453-Edit.jpg" title="  " >}}
 
 Off the coast of Trapani, Sicily, right at the point of the boot, sit the three tiny Egadi Islands. The largest is Favignana and I’m here right now photographing. I thought I’d share with you today’s adventure as an illustration of creative choice in photography.
 

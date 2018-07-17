@@ -13,7 +13,7 @@ tags:
 - Italian
 ---
 
-{{<  img /images/bli/2013/07/DSC_9197.jpg  >}}
+{{< figure src="/images/bli/2013/07/DSC_9197.jpg" title="  " >}}
 
 This is a photography blog, and today I’m going to address a critical concern for all photographers visiting Italy- driving.  That’s right. It’s one thing to know your camera, but what good is that if you don’t arrive alive? So, if you want to live to photograph in Italy, you might want to read this.
 

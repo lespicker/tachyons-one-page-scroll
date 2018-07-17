@@ -18,7 +18,7 @@ tags:
 - frostbite
 ---
 
-{{<  img /images/bli/2015/01/heat-1.jpg  >}}
+{{< figure src="/images/bli/2015/01/heat-1.jpg" title="  " >}}
 
 
 Most of my friends think I'm nuts. They're probably right. The fact is I love cold weather, at least in reasonable doses. And the colder the  better. Dogsledding, snowshoeing and cross-country skiing are my preferred sports activities. 
@@ -41,7 +41,7 @@ The Austrian manufacturer counts amongst its customers various military and spec
 
 Here's what I like about the Heat 3 mittens. First, the outer shell is waterproof and windproof. It has a zipper pocket to hold hand warmers, which any landscape or wildlife photographer will appreciate. 
 
-{{<  img /images/bli/2015/01/heat-2.jpg  >}}
+{{< figure src="/images/bli/2015/01/heat-2.jpg" title="  " >}}
 
 The palms are made of full goat leather for a phenomenal grip and added warmth. Four ounces of Primaloft are added to boost warmth. 
 
@@ -49,14 +49,14 @@ The mitten shell extends far up the wrist to keep that part of your body warm an
 
 Inside the mitten is an integrated, thin fleece glove. The Shell has a zipper on the palm side that allows one to remove four fingers when you have to work your camera controls. One of the fingers has a silver fabric coating that allowed me to use my iPhone and access my CamRanger controls. 
 
-{{<  img /images/bli/2015/01/heat-3.jpg  >}}
+{{< figure src="/images/bli/2015/01/heat-3.jpg" title="  " >}}
 
 I am still in awe of how the designers thought of everything. I have used mittens before that allow fingers to come out of the shell, but then the mitten flap keeps getting in the way of glove operations. Not so with the Heat 3. The mitten flap secures to the back of the mitten with a magnetized snap that couldn't be easier to use. 
 
 The thumbs have a flap on them that secures with Velcro and allowed my thumbs to come out of the mitten shell. The thumbs also have silver fabric. These features alone justifies the price of the mittens, IMHO. In fact, just to prove my point, I typed the last two paragraphs with the mittens on and the gloved fingers out. 
 
 
-{{<  img /images/bli/2015/01/heat-4.JPG  >}}
+{{< figure src="/images/bli/2015/01/heat-4.JPG" title="  " >}}
 
 
 In using the mittens I found a time and heat saving tip that turned out to be useful. The pocket on the back of the mitten that holds the warmer is quite roomy. I found that I could store a spare battery in there, saving me the inconvenience of digging through my snow pants to my inner pockets where I usually store my spare batteries. 

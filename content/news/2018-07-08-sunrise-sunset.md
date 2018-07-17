@@ -23,7 +23,7 @@ tags:
 - sunset
 ---
 
-{{<  img /images/bli/2018/07/DSC_7585.jpg  >}}
+{{< figure src="/images/bli/2018/07/DSC_7585.jpg" title="  " >}}
 
 So many tourists go to the Serengeti and start their day with a hearty breakfast and then head out for a leisurely Rover ride to see the incredible wildlife. If only they realized that by then they have missed one of the high dramas of the day.
 
@@ -33,7 +33,7 @@ On my safaris, we start the day before sunrise, so that we are at advantageous p
 
 Sunrises and sunsets in the Serengeti are truly special. The golden sun rises full and large, usually into cloudless skies. That gives us a blank palette within which we can compose our images. 
 
-{{<  img /images/bli/2018/07/DSC_9407-2.jpg  >}}
+{{< figure src="/images/bli/2018/07/DSC_9407-2.jpg" title="  " >}}
 
 A few suggestions for those of you planning to be in the Serengeti (and elsewhere in Africa) in the near future:
 
@@ -45,11 +45,11 @@ A few suggestions for those of you planning to be in the Serengeti (and elsewher
 
 **Meter Correctly**. Based on your pre-visualization, you can determine how you'd like to meter your subject. For example, if you want your foreground elements to be in silhouette, spot meter on an area just off the sun. That will cause your foreground objects to darken. 
 
-{{<  img /images/bli/2018/07/DSC_8174.jpg  >}}
+{{< figure src="/images/bli/2018/07/DSC_8174.jpg" title="  " >}}
 
 **Experiment**. In the relative peace and quiet of early morning, when very few vehicles will be out, take the opportunity to experiment with your photography. Try wildly different settings. Possibly try black and white. 
 
-{{<  img /images/bli/2018/07/DSC_6248.jpg  >}}
+{{< figure src="/images/bli/2018/07/DSC_6248.jpg" title="  " >}}
 
 **Communicate**. You should develop a good communication system with your driver/guide. Sometimes moving your Rover three feet in one direction can make or break an image. 
 

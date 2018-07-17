@@ -15,6 +15,6 @@ tags:
 
 
 
-{{<  img http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3652-31.jpg  >}}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3652-31.jpg" title="  " >}}
 
 Les

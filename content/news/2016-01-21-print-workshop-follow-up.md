@@ -16,7 +16,7 @@ tags:
 - studio
 ---
 
-{{<  img /images/bli/2016/01/DSC_4779.jpg  >}}
+{{< figure src="/images/bli/2016/01/DSC_4779.jpg" title="  " >}}
 
 We just completed another of our [fine art printing workshops](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#printing) and boy was it fun! Yes, we were a bit discombobulated at the beginning of the day, as one of the printer profile sites we use changed its Internet location and format and we scampered to change our setup instructions. But our participants were patient and in good spirits (Bob and I were neither!) as we fixed the problem and settled in for a productive day. To quote Forrest Gump: "Stuff happens!"
 

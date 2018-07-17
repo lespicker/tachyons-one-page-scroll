@@ -11,7 +11,7 @@ tags:
 - giveaway
 ---
 
-{{<  img /images/bli/2013/07/LAP_5366.jpg  >}}
+{{< figure src="/images/bli/2013/07/LAP_5366.jpg" title="  " >}}
 
 
 Here is a novel idea! How about you sharing with my readers a photo tip and I will send you a valuable gift -- FREE! -- that I am confident you will cherish for a lifetime? Are you hooked?

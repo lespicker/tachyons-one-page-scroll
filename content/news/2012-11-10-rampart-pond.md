@@ -5,7 +5,7 @@ categories:
 - print
 comments: false
 ---
-{{<  img /images/LAP3080.jpg $1500.  >}}
+{{< figure src="/images/LAP3080.jpg" title=" $1500.  " >}}
 
 ---
 

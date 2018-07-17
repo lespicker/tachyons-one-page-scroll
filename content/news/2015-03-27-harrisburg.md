@@ -17,7 +17,7 @@ tags:
 
 ---
 
-{{<  img /images/bli/2015/03/camera-club.jpg  >}}
+{{< figure src="/images/bli/2015/03/camera-club.jpg" title="  " >}}
 
 If you are in the area of Harrisburg, Pennsylvania on April 11, or interested enough in photography to travel a bit, I will be giving the keynote speech at the 5th annual Light and Creativity Conference. Coordinated by the Harrisburg Camera Club, the event is a major photo gathering offering workshops and vendor booths to allow photographers of all levels to learn, interact and leave with new and improved skills.
 

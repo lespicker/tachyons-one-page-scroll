@@ -24,7 +24,7 @@ gallery:
 - [maine-lobsterboat1.jpg, ""]
 ---
 
-{{<  img /images/bli/2014/07/A0022734-pano.jpg  >}}
+{{< figure src="/images/bli/2014/07/A0022734-pano.jpg" title="  " >}}
 
 Independence Day is around the corner, so it's time to put out the word about my annual Fall Acadia National Park workshop. 
 

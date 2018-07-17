@@ -16,7 +16,7 @@ tags:
 - photos
 ---
 
-{{<  img /images/bli/2018/01/DSC9768.jpg  >}}
+{{< figure src="/images/bli/2018/01/DSC9768.jpg" title="  " >}}
 
 I was once asked by an interviewer what I thought the most difficult job in photography is. I have to admit that the question stumped me. Getting up for sunrise entered my mind. Hiking for three days with a 30-pound photo backpack to get a single shot? Telling one's spouse that you are about to spend $30,000 on a new Hasselblad digital camera system? 
 
@@ -48,13 +48,13 @@ Take, for example, the [3-day workshop](http://workshops.lesterpickerphoto.com/p
 
 Our principle goal is to teach our clients how to self-edit their work. We start two months ahead of the face-to-face workshop weekend by having each client send us approximately 50 images. Bob an I spend hours going over each set of images, offering critique, making suggestions and helping our clients create a focused portfolio. 
 
-{{<  img /images/bli/2018/01/portfolio-workshop.jpg  >}}
+{{< figure src="/images/bli/2018/01/portfolio-workshop.jpg" title="  " >}}
 
 During the Friday-Sunday workshop, we work together with the four photographers, offering insights into post-processing, helping them work as a team to come up with the final 10-12 images that will constitute their current best work. Then Bob an I pull an all-nighter, printing their final selections on Moab Fine Art papers (a division of Legion Paper), using our state-of-the-art Canon ProGraf large format printers. 
 
 The physical take-aways are quite impressive, but we hope that it's the mental take-aways that form the basis for photographic excellence moving forward. And there are things you can to improve your self-editing, even without the need to take a workshop. 
 
-{{<  img /images/bli/2018/01/DSC9916.jpg  >}}
+{{< figure src="/images/bli/2018/01/DSC9916.jpg" title="  " >}}
 
 ### Some Self-Editing Tips
 

@@ -14,7 +14,7 @@ tags:
 - photography
 ---
 
-{{<  img /images/bli/2014/02/LAP4746.jpg  >}}
+{{< figure src="/images/bli/2014/02/LAP4746.jpg" title="  " >}}
 
 I return to Hawaii each year in February, in the midst of the annual whale migration here for calving and mating, a sight I never tire of. The whales, in turn, bring scads of tourists, some to see the whales and most just escaping the miserable winter weather back home, wherever that may be. 
 

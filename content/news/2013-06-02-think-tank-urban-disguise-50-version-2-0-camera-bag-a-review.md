@@ -16,7 +16,7 @@ tags:
 - Urban Disguise
 ---
 
-{{<  img /images/bli/2013/07/thinktank50.jpeg  >}}
+{{< figure src="/thinktank50.jpeg" title=" " >}}
 
 I have owned an <a href="http://www.thinktankphoto.com/products/urban-disguise-50-v2.aspx">Urban Disguise 50 (Version 2.0)</a> camera bag for two years now and have never done a review of it. Frankly, I own far too many camera bags, particularly from <a href="http://www.thinktankphoto.com/">Think Tank</a> Photo, so much so that I’m afraid my camera friends will begin to call me Imelda. But as I’ve gotten older I find that the right bag can prevent many of the aches and pains that we older photographers are prone to get.
 

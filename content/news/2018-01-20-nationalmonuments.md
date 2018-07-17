@@ -17,7 +17,7 @@ tags:
 - environment
 ---
 
-{{<  img /images/bli/2018/01/grand-staircase-4.jpg  >}}
+{{< figure src="/images/bli/2018/01/grand-staircase-4.jpg" title="  " >}}
 
 
 If you are a regular reader of my blog, you probably know that I have a firm rule to never, ever mix politics with photography. You also know that "every rule has an exception," and this will be it!

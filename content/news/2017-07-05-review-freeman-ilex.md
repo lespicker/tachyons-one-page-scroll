@@ -15,7 +15,7 @@ tags:
 - creativity
 ---
 
-{{<  img /images/bli/2017/09/IMG_1738.jpg  >}}
+{{< figure src="/images/bli/2017/09/IMG_1738.jpg" title="  " >}}
 
 Each summer I try (emphasis on "try") to carve out time to catch up on my photography reading. By that I mean actual hold-in-your-hands, turn-the-pages kinds of photo books that have been sent to me for review. Over the course of the next few months I'll report to you about some books that I think you should know about. 
 

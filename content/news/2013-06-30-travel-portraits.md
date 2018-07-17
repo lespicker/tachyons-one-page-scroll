@@ -12,7 +12,7 @@ tags:
 - travel
 ---
 
-{{<  img /images/bli/2013/07/A0019129.jpg  >}}
+{{< figure src="/images/bli/2013/07/A0019129.jpg" title="  " >}}
 
 Bob, my associate and I were taking a lunch break from testing print profiles for [Museo Fine Art papers](http://www.museofineart.com) for our <a href="http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html">upcoming workshop this fall in Maine</a>. We got into a discussion about capturing images of local and indigenous people when traveling. It's one of those infrequent times that Bob and I completely agreed about an issue that has many times gotten us into a rage, as it turns out.
 
@@ -20,7 +20,7 @@ Bob, my associate and I were taking a lunch break from testing print profiles fo
 
 The conversation started out innocently enough, as we discussed what lenses we prefer to capture people. Bob prefers a 50mm and he has a collection of them that rivals anyone's. As for me, I'm eclectic, preferring a super wide angle (my Nikkor 14-24 or 17-35) in some circumstances and my Nikkor 24-70 in most others. On occasion I have even used my Nikkor 70-200 when I can't get close to my subject, perhaps while they are involved in a native ceremony or other activity.
 
-{{<  img http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/LAP2568.jpg  >}}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/LAP2568.jpg" title="  " >}}
 
  
 ### Tools of Ignorance

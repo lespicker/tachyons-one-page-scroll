@@ -19,7 +19,7 @@ tags:
 - tilt-shift
 ---
 
-{{<  img http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/pano.jpg  >}}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/pano.jpg" title="  " >}}
 
 As a professional landscape, wildlife and travel photographer, I eagerly awaited the arrival of my <a href="http://www.gigapan.com">Gigapan Epic Pro</a> test unit. I had been reading a lot of press about this techno-marvel, and was especially impressed by George Lepp’s experience. George is a veteran photographer who I admire.
 

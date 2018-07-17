@@ -20,18 +20,18 @@ Now, carefully fill it with earth, clumps of grass, dried weeds, for whatever sc
 
 Case in point: last year my wife’s tomato plants were bugged by bugs. Not your garden variety (pardon the puns). These bugs were huge. They are called Tomato Hornworms and, while colorful… in fact gorgeous… I hate competition for my wife’s prized tomatoes. These “worms” metamorphose into the spectacular caterpillars you see here.
 
-{{<  img http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3274.jpg  >}}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3274.jpg" title="  " >}}
 
 So, I picked off a few and plunked them into my terrarium. I started to photograph them. Lots of fun. Then, to my amazement, something extraordinary began to happen right before my eyes. While photographing one afternoon, I saw something live emerging from the skin of the worm! Soon, other wiggly things began to emerge. Within hours the poor Hornworm was covered with these translucent worms.
 
-{{<  img http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3549.jpg  >}}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3549.jpg" title="  " >}}
 
 Within minutes of emerging, these tiny creatures spun a cocoon around themselves, all the while attached to the Hornworm. After two weeks of enduring what must be a painful demise, the Hornworm caterpillar died and the cocoons dropped off into the soil.
 
-{{<  img http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3591.jpg  >}}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3591.jpg" title="  " >}}
 
 What I learned after some research is that the tiny wigglies are the larvae of a miniature and harmless (to humans, that is) wasp. On a nice summer’s day the wasp lands on the Hornworm caterpillar and injects its eggs under its victim’s skin, along with a virus that is thought to delay the maturation of the eggs into the larvae (so as to give the caterpillar a chance to fatten up). Over the next few weeks the eggs transform into a larva. At the end of the season the larvae emerge, take sustenance from the caterpillar’s body, form cocoons that drop into the soil, go through another metamorphosis into wasps and emerge again in the spring. Is that neat, or what? I’d never have learned about this parasitic lifecycle if not for boredom.
 
-{{<  img http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3429.jpg  >}}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3429.jpg" title="  " >}}
 
 So, what will you do with your photo doldrums this year? Complain? Whine? Be short-tempered with your wife and kids? Not any more. Boredom is good!

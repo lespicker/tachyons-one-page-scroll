@@ -17,7 +17,7 @@ tags:
 - travel ebook
 ---
 
-{{<  img /images/bli/2016/01/travel-cover.jpg  >}}
+{{< figure src="/images/bli/2016/01/travel-cover.jpg" title="  " >}}
 
 Here's hoping that you all had a great Holiday week and a great New Year's celebration.  I also wish each of you a wonderful, productive 2016. For our part, we are kicking off 2016 with a big bang!
 

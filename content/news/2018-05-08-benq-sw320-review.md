@@ -8,7 +8,7 @@ categories:
 - Monitor
 ---
 
-{{<  img /images/bli/2018/05/1479872466.jpg  >}}
+{{< figure src="/images/bli/2018/05/1479872466.jpg" title="  " >}}
 
 **NOTE:** This comprehensive review of the Ben Q monitor was written by my assistant Robert Boyer, who has a great deal of expertise on monitor performance and color management. 
 

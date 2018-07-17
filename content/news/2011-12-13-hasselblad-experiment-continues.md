@@ -13,7 +13,7 @@ I continue to test out my Hasselblad H4D-50 as I prepare for a major installatio
 
 Here are a few images taken with the Hassy, along with some background info for those of you who might be interested. The images have not been seriously post-processed, but they have been tweaked as part of our experimentation. All images were taken tripod-mounted.
 
-{{<  img http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/A00174292.jpg  >}}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/A00174292.jpg" title="  " >}}
 
 As always, your comments, positive or negative, are welcome.
 

@@ -11,7 +11,7 @@ tags:
 - travel
 ---
 
-{{<  img /images/bli/2013/08/LAP3935.jpg  >}}
+{{< figure src="/images/bli/2013/08/LAP3935.jpg" title="  " >}}
 
 Right now I'm in the Houston airport, waiting for my flight to Calgary. (How does an airline figure that it is cost-effective to route one from Baltimore to Houston in order to get to Calgary?) I'll land at around 9:00 PM (11:00 PM my time), after 11 hours of flying and layovers.  
 

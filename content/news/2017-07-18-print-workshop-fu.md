@@ -20,7 +20,7 @@ tags:
 - photography workshops
 ---
 
-{{<  img /images/bli/2017/08/IMG_1254.JPG  >}}
+{{< figure src="/images/bli/2017/08/IMG_1254.JPG" title="  " >}}
 
 Another of our day-long Fine Art Print workshops recently ended. I'd like to share some observations about it, our clients and us. 
 
@@ -30,7 +30,7 @@ First, some BTS info. My assistant, Bob, and I really look forward to every prin
 
 A few days prior we test our large format Canon Pro-Graf printers to make sure that all is well on the techno side of things. 
 
-{{<  img /images/bli/2017/08/IMG_1290.JPG Bob checking our Canon ProGraf 4000  >}}
+{{< figure src="/images/bli/2017/08/IMG_1290.JPG" title=" Bob checking our Canon ProGraf 4000  " >}}
 
 The day before the event I open our large work table, set up the work stations and prep the studio for our clients. Prepping includes putting out teas, coffees, snacks, stocking the fridge, etc. On the  morning of the event, I'm up early making coffee, starting the printers, stacking the papers, and getting the laptops ready, while my wife bakes some of her signature desserts. All is ready and I'm stoked. When Bob arrives we are primed for a great day ahead. 
 

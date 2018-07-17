@@ -18,7 +18,7 @@ tags:
 - flukes
 ---
 
-{{<  img /images/bli/2017/02/DSC_0694.jpg  Humpback breaching  >}}
+{{< figure src="/images/bli/2017/02/DSC_0694.jpg" title="  Humpback breaching  " >}}
 
 One of the reasons I love Maui in February is the return of the humpback whales to their mating and birthing grounds. It is such a celebratory time, as boatloads of tourists revel in the spectacle of thousands of whales frolicking, singing, taking care of their babies and... breaching. 
 
@@ -34,16 +34,16 @@ This week I cruised with the Pacific Whale Foundation and saw lots of breaching 
 
 For 30 minutes we watched its newborn try to emulate Mom. His (or her) first attempts were pretty pathetic. 
 
-{{<  img /images/bli/2017/02/DSC_0731.jpg  valiant attempt  >}}
+{{< figure src="/images/bli/2017/02/DSC_0731.jpg" title="  valiant attempt  " >}}
 
 But after a while it began to get the idea and with each breach it improved. I'd have to give this one an 8.5 in the Junior Breaching Olympics. 
 
 I'm sure Mom reminded baby that practice makes prefect.
 
-{{<  img /images/bli/2017/02/DSC_0832.jpg  still trying  >}}
+{{< figure src="/images/bli/2017/02/DSC_0832.jpg" title="  still trying  " >}}
 
 And finally, baby scores big!
 
-{{<  img /images/bli/2017/02/DSC_0768.jpg  Success  >}}
+{{< figure src="/images/bli/2017/02/DSC_0768.jpg" title="  Success  " >}}
 
 If you are looking for tips on how to photograph whales, [click here](http://www.lesterpickerphoto.com/2016/02/23/whale-tale/).

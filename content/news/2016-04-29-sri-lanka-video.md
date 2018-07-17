@@ -19,7 +19,7 @@ tags:
 - participants
 ---
 
-{{<  img /images/bli/2016/04/DSC_0674.jpg Nuwara Eliya Sri Lanka  >}}
+{{< figure src="/images/bli/2016/04/DSC_0674.jpg" title=" Nuwara Eliya Sri Lanka  " >}}
 
 For those of you who have never experienced the wonderful country and people of Sri Lanka, please allow me to show you a sample of what is in store for you if and when you go. My assistant, Bob, and I put together a [5-minute video](https://youtu.be/-lNOxQcLmV0), using some of my images and video clips from Sri Lanka, mixed with images taken by participants in the recent photography tour I led there in March, 2016. 
 

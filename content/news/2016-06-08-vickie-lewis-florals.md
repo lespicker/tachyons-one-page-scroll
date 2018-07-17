@@ -16,7 +16,7 @@ tags:
 
 ---
 
-{{<  img /images/bli/2016/06/lewis-floral.jpeg Image by Vickie Lewis  >}}
+{{< figure src="/lewis-floral.jpeg" title="Image by Vickie Lewis  " >}}
 
 I love looking at some floral images, although I admit I do not particularly enjoy taking them. Oh, I've taken a few nice ones over the years (actually, decades would be more accurate). But I've never managed to become proficient with it. 
 

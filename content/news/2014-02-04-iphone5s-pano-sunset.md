@@ -13,7 +13,7 @@ tags:
 - panorama
 ---
 
-{{<  img /images/bli/2014/02/IMG_2152.JPG  >}}
+{{< figure src="/images/bli/2014/02/IMG_2152.JPG" title="  " >}}
 
 I'm back in Hawaii, working but also enjoying this almost paradise. I say almost because I'm on the island of Maui with its traffic and overbuilt shoreline in spots. 
 
