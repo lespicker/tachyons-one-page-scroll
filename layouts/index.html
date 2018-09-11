@@ -3,27 +3,68 @@
     new WOW().init();
   </script>
 
-  <section id="home" class="relative vh-100 w-100 pa4 bg-top cover" style="background-image: url('{{ .Params.image }}')">
-    <div class="relative flex flex-wrap items-center justify-center h-100">
-      <h1 class="ma0 dark-red f-subheadline f-headline-l fw9 tracked tracked-mega-ns lh-solid ttu tc">{{ .Title }}</h1>
+  <section id="home" class="relative flex items-center justify-center vh-100 w-100 bg-top bg-fixed cover lh-solid white" style="background-image: url('{{ .Params.image }}')">
+    <div class="absolute overflow-x-hidden">
+      <h1 class="f-headline f-super-ns fw7 black-50 rbc tracked-tight ttu tc">LPFA</h1>
+    </div>
+    <div class="absolute pl3 pl0-ns">
+      <h3 class="w-100 mt0 mb3">What we do.</h3>
+      <h2 class="w-100 mv0 f2 f-subheadline-ns rbc fw7 ttu">Les Picker</h2>
+      <h2 class="w-100 mv0 f2 f-subheadline-ns rbc fw7 ttu white-80">Fine Art Photography</h2>
+      <h2 class="w-100 mv0 f2 f-subheadline-ns rbc fw7 ttu white-60">Prints</h2>
+      <h2 class="w-100 mv0 f2 f-subheadline-ns rbc fw7 ttu white-50">Tours</h2>
+      <h2 class="w-100 mv0 f2 f-subheadline-ns rbc fw7 ttu white-40">Education</h2>
+      <span class="db w4 mt3 bb bw2 b--dark-red"></span>
+    </div>
+  </section>
 
-        <div class="mb4 mb0-ns w-100 tc">
-          <p class="dark-red f3 f2-l fw7 mb2 mv3 ttu">
-            Let's Work Together
-          </p>
-          <form id="news" class="db w-100">
-            <input placeholder="Email Address" name="email" class="mw-100 w-100 w5-ns f5 input-reset ba b--black-20 pv3 ph4 border-box">
-            <input id="subscribe" type="submit" value="Subscribe" class="input-reset w-100 w-auto-ns bg-transparent dark-red f5 pv2 pv3-ns ph4 ba b--dark-red dim ttu">
-            <div id="spinner" class="spinner v-btm mb1 dn">
-              <div class="rect1"></div>
-              <div class="rect2"></div>
-              <div class="rect3"></div>
-              <div class="rect4"></div>
-              <div class="rect5"></div>
-            </div>
-          </form>
+  <section class="relative flex flex-wrap items-center justify-center bg-black-90 white pv6 min-vh-100">
+    <h2 class="relative w-100 mv0 white f3 ttu tc">Events</h2>
+    <div class="absolute overflow-x-hidden">
+      <h1 class="f-headline f-super-ns fw7 black-50 rbc tracked-tight ttu tc">Events</h1>
+    </div>
+    <div class="absolute">
+    <div class="dn w-100 flex-l items-stretch mw8 mt5 center">
+      <div class="w-80">
+        <h2 class="os-cond dib mt0 mb2 ph3 pv2 bg-btv-blue white f5 fw7 ttu tc">Featured Event</h2>
+      </div>
+      <div class="ml2 w-40">
+        <h2 class="os-cond dib mt0 mb2 ph3 pv2 bg-btv-blue white f5 fw7 ttu tc">Upcoming Events</h2>
+      </div>
+    </div>
+    <div class="flex flex-wrap flex-nowrap-l items-stretch mw8 ph2 ph0-l center">
+      <div class="w-100 w-80-l mb2">
+        {{ range first 1 (where (where .Data.Pages "Section" "events") "Params.featured" "feature") }}
+          <article class="flex flex-wrap flex-nowrap-l ph4 pv4 cover bg-center" style="background-image: url('{{ .Params.image }}')">
+          <img src="{{ .Params.image }}" alt="biking event" class="dib self-start w-100 w-25-l mr3-l">
+          <header class="mt4 mt0-l">
+            <h1 class="mt0 mb1 f3 fw7 lh-solid">{{ .Title | plainify }}</h1>
+            <h2 class="mt0 mb2 f5 fw7 lh-solid">{{ .Params.location }} / {{ dateFormat "Jan 02, 2006" .Params.event_date }}</h2>
+            <p class="">{{ .Summary }}</p>
+            <a href="{{ .Permalink }}" class="f6 link  br2 ba ph3 pv2 mb2 dib dark-red hover-white hover-bg-dark-red b--dark-red ttu">More Info</a>
+          </header>
+          </article>
+        {{ end }}
+      </div>
+      <div class="ml0 ml2-l w-100 w-40-l">
+        <div class="">
+          {{ range first 3 (where (where (.Data.Pages.ByParam "event_date") "Section" "events") "Params.featured" "ne" "feature") }}
+          <article class="flex items-stretch mb2">
+            <aside class=" w-25 white f2 fw9 tc">
+              <div class="relative v-center">
+                <span class="db f5 fw5">{{ dateFormat "January" .Params.event_date }}</span>{{ dateFormat "02" .Params.event_date }}
+              </div>
+            </aside>
+            <header class="ma3">
+              <h2 class="mt0 mb1 f5 lh-solid">{{ .Title | plainify }}</h2>
+              <h3 class="mt0 mb3 f6 lh-solid">{{ .Params.location }}</h3>
+              <a href="{{ .Permalink }}" class="f6 link br2 ba ph3 pv2 mb2 dib dark-red hover-white hover-bg-dark-red b--dark-red ttu">More Info</a>
+            </header>
+          </article>
+          {{ end }}
         </div>
-      
+      </div>
+    </div>
     </div>
   </section>
 
@@ -213,5 +254,5 @@
   {{ partial "big-block" (dict "img" "/images/DSC_5782.jpg" "title" "<span class=\"white-50\">Creative Geeks</span>" "subtitle" "<span class=\"dark-red\">We are creative geeks.<br>We love to <span class=\"white fw7\">Play</span><br> and extend concepts.</span>" "sideline" "Fashion | Concept Development" "sidecolor" "blue" "button" "Get In Touch" "bcolor" "white" "bg" "bg-right") }}
 
   {{ partial "sticky-footer" . }}
-  
+
 {{ end }}

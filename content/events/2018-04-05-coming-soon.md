@@ -2,7 +2,7 @@
 title: '<span class="black-30">Coming Soon</span>'
 date: "2018-04-05"
 subtitle: '<span class="blue">More coming soon as I''ve recently <span class="fw7">purged everything.</span></span>'
-event_date: 2018-10-02T17:15:00Z
+event_date: 2018-11-02T17:15:00Z
 location: "Generic Place"
 sideline: 'Fashion|Editorial | Portrait'
 sidecolor: 'blue'
