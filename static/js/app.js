@@ -1,5 +1,5 @@
 $( function(){
-  $("#news").submit(function (event) {
+  $("form.news").submit(function (event) {
     $("#subscribe").prop("disabled", true);
     $("#spinner").addClass("dib");
     console.log(data = $(this).serializeArray());
@@ -17,7 +17,7 @@ $( function(){
       body: JSON.stringify(p)
     }).then(response => {
       $("#spinner").removeClass("dib");
-      $('#news').trigger("reset");
+      $('form.news').trigger("reset");
       $("#subscribe").prop("disabled", false);
     });
   });
