@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Knowing When to Say “No”"
+title: "Knowing When to Say No"
 comments: true
 categories:
 - Photo Tips
