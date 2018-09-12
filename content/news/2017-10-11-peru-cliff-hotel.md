@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nightmare Hotel
+image: "/images/bli/2017/10/DSC_0337.jpg"
 comments: true
 categories:
 - Featured

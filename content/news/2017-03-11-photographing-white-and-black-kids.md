@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Photographing People of Different Races
+subtitle: "How To"
+image: "/images/bli/2017/03/IMG_0762.jpg"
 comments: true
 categories:
 - Featured

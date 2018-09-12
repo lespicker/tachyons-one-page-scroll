@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '<span class="white-70">Fine Art Printing Workshop</span>'
-subtitle: '<span class="dark-red"><span class="fw9">Sunday</span>, Sunday, Sunday!</span>'
+subtitle: '<span class="white-70">Fine Art Printing Workshop</span>'
+title: '<span class="dark-red"><span class="fw9">Sunday</span>, Sunday, Sunday!</span>'
 bcolor: dark-red
 image: "/images/bli/2018/07/DSCF0217.jpg"
 comments: true

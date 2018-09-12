@@ -1,6 +1,8 @@
 ---
 layout: post
-title: FLM Travel Tripod Review
+title: FLM Travel Tripod
+subtitle: Review
+image: "/images/bli/2018/01/IMG_2123.jpg"
 comments: true
 categories:
 - Featured
@@ -15,8 +17,6 @@ tags:
 - Gitzo 3541
 - MeFoto tripod
 ---
-
-{{< figure src="/images/bli/2018/01/IMG_2123.jpg" title="  " >}}
 
 What photographer doesn't need a travel tripod? There are times when lugging an 11-pound monster tripod just doesn't cut it, as in touring the crowded streets of Rome or photographing a spelunking trip or trekking for two weeks in Nepal. But the field of travel tripods today is so vast, how does one choose? 
 

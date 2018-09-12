@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Framing Your Fine Art Prints
+subtitle: DIY
+image: /images/bli/2018/04/099A3717.jpg
 comments: true
 categories:
 - Featured
@@ -13,8 +15,6 @@ tags:
 - digital printing
 - B and H photo
 ---
-
-{{< figure src="/images/bli/2018/04/099A3717.jpg" title="  " >}}
 
 If you you are a photographer who loves prints, you probably have a love-hate relationship with framing your images. If you outsource your framing needs, then you probably have a side job to finance those exorbitant costs. If you frame your prints yourself, you know how time consuming that chore is. Well, I'm about to offer some help!
 

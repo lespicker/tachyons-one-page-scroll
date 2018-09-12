@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Sunrise, Sunset in the Serengeti
+subtitle: Sunrise
+title: "Sunrise, Sunset in the Serengeti"
+image: "/images/bli/2018/07/DSC_7585.jpg"
 comments: true
 categories:
 - Featured
@@ -22,8 +23,6 @@ tags:
 - sunrise
 - sunset
 ---
-
-{{< figure src="/images/bli/2018/07/DSC_7585.jpg" title="  " >}}
 
 So many tourists go to the Serengeti and start their day with a hearty breakfast and then head out for a leisurely Rover ride to see the incredible wildlife. If only they realized that by then they have missed one of the high dramas of the day.
 

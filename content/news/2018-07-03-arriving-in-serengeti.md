@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "Arriving in Serengeti"
+subtitle: '<span class="white-50">Arriving in Serengeti</span>'
+title: "Zebras, Wildebeests, Hartebeests, Massai Giraffes, Hyenas, Mongoose, a Bat-Eared Fox, Jackals, Ostriches, Lionesses, &amp; more&hellip;"
 date: "2018-05-01"
-subtitle: 'The <span class="fw9">mountain gorillas</span> in Bwindi Impenetrable Forest National Park'
 image: "/images/bli/2018/07/IMG_2751.jpg"
 comments: true
 categories:
@@ -22,8 +21,6 @@ tags:
 - zebras
 - wildebeests
 ---
-
-{{< figure src="/images/bli/2018/07/IMG_2751.jpg" title="  " >}}
 
 We were picked up by our guides at the dirt strip airport on the Serengeti in late afternoon, after spending four adrenaline fueled days in Uganda visiting with the mountain gorillas in Bwindi Impenetrable Forest National Park. 
 

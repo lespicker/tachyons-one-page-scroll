@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Joys of Printing
+image: "/images/bli/2017/08/IMG_1254.JPG"
 comments: true
 categories:
 - Featured

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Recommended Photo Books
+subtitle: Review
+image: "/images/bli/2017/09/IMG_1738.jpg"
 comments: true
 categories:
 - Featured

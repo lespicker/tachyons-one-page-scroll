@@ -1,6 +1,8 @@
 ---
 layout: post
-title: back to our origins
+title: Back to our origins
+subtitle: Africa
+image: "/images/bli/2018/06/DSC_8174.jpg"
 comments: true
 categories:
 - Featured
@@ -16,8 +18,6 @@ tags:
 - gorillas
 - mouintain gorillas
 ---
-
-{{< figure src="/images/bli/2018/06/DSC_8174.jpg" title=" African Sunset  " >}}
 
 Here's a question for you... why does going to Africa feel like going home, to me anyway? I realize that sounds like a dumb question, but I do mean to ask it. And I'm not speaking mainly of photography.
 

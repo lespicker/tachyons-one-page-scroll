@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Editing One's Work
+image: "/images/bli/2018/01/DSC9768.jpg"
 comments: true
 categories:
 - Featured
@@ -15,8 +16,6 @@ tags:
 - images
 - photos
 ---
-
-{{< figure src="/images/bli/2018/01/DSC9768.jpg" title="  " >}}
 
 I was once asked by an interviewer what I thought the most difficult job in photography is. I have to admit that the question stumped me. Getting up for sunrise entered my mind. Hiking for three days with a 30-pound photo backpack to get a single shot? Telling one's spouse that you are about to spend $30,000 on a new Hasselblad digital camera system? 
 

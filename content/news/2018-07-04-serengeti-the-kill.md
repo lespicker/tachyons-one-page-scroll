@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Kill
+title: "Feeding the pride"
+subtitle: The Kill
 date: '2018-07-10'
 image: "/images/bli/2018/06/DSC_6016.jpg"
 comments: true
@@ -26,9 +27,6 @@ tags:
 - prey
 - ecosystem
 ---
-
-{{< figure src="/images/bli/2018/06/DSC_8215.jpg" title=" Watching Mom  " >}}
-
 
 It was early morning and we had already been out since before sunrise. Our phenomenal Thomson Safaris guide, Robert, spotted a pride of lions not 100 yards from the dirt road. The young were intently peering into the distance. 
 

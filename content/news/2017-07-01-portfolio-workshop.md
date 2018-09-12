@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is There a Portfolio in Your Future?
+image: "/images/bli/2017/07/portfolio-closeup.jpg"
 comments: true
 categories:
 - News

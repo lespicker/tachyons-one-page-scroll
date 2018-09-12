@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Love Can be Cruel, Indeed
+subtitle: "Praying Mantis"
+image: "/images/bli/2017/10/DSC_4620.jpg"
 comments: true
 categories:
 - Featured
@@ -13,8 +15,6 @@ tags:
 - close-up
 - macro
 ---
-
-{{< figure src="/images/bli/2017/10/DSC_4620.jpg" title="  " >}}
 
 ***Note: all images here were taken by me over the past several decades.***  
 

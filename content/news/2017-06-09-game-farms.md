@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Game Farm Photography Is For Frauds"
+image: "/images/bli/2017/06/DSC_0873-Edit.jpg"
 comments: true
 categories:
 tags:

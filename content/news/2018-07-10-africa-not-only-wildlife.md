@@ -1,7 +1,6 @@
 ---
-layout: post
-title: "African Landscape"
-subtitle: "Africa Is Not Only About Wildlife"
+subtitle: "African Landscape"
+title: "Africa Is Not Only About Wildlife"
 image: /images/bli/2018/07/DSC_6572.jpg
 date: "2018-07-10"
 sideline: "Africa Adventure | 2018"

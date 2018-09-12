@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Printing a Fine Art Panorama
+image: "/images/bli/2017/10/Capture0058.jpg"
 comments: true
 categories:
 - Featured

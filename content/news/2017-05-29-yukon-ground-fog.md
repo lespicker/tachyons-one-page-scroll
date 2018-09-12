@@ -1,6 +1,8 @@
 ---
 layout: post
-title: A Yukon Weather Phenomenon
+title: '<span class="dark-red">A Yukon Weather Phenomenon</span>'
+image: "/images/bli/2017/05/DSC_5618.jpg"
+bcolor: dark-red
 comments: true
 categories:
 - Featured
@@ -17,8 +19,6 @@ tags:
 - McKenzie Delta
 - Northwest Territories
 ---
-
-{{< figure src="/images/bli/2017/05/DSC_5618.jpg" title="  " >}}
 
 There is an unusual weather phenomenon that happens in the far north of Yukon Territory, near its border with Northwest Territories. I've been fortunate enough to experience it several times and during last year's Yukon Photo Adventure my clients also marveled at it. 
 

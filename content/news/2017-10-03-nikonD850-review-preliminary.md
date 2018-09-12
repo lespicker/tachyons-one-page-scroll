@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'The Latest & Greatest: Nikon D850'
+subtitle: Review
+image: "/images/bli/2017/10/nikond850.jpg"
 comments: true
 categories:
 - Featured
