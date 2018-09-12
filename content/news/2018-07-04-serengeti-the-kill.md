@@ -2,7 +2,7 @@
 layout: post
 title: The Kill
 date: '2018-07-10'
-image: "/images/bli/2018/06/DSC_8215.jpg"
+image: "/images/bli/2018/06/DSC_6016.jpg"
 comments: true
 bcolor: 'white'
 sideline: "Africa Adventure | 2018"

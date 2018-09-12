@@ -5,6 +5,9 @@ title = "LPFA"
 [frontmatter]
   date  = [":filename", ":default"]
 
+[permalinks]
+  news = ":year/:month/:day/:slug"
+
 Paginate = 5
 
 [sitemap]
