@@ -8,7 +8,7 @@
 
   {{/* partial "big-block" (dict "img" .Params.image "title" .Title ( cond (isset .Params "subtitle") "subtitle" "") .Params.subtitle (cond (isset .Params "sideline") "sideline" "") .Params.sideline ( cond (isset .Params "sidecolor") "sidecolor" "" ) .Params.sidecolor "button" "Read More" "bnlink" .Permalink (cond (isset .Params "bcolor") "bcolor" "") .Params.bcolor "bg" .Params.background) */}}
 
-    <li class="list"><a href="{{.Permalink}}" class="link">{{ .Title }}&nbsp;&mdash;&nbsp;{{ .Permalink }}</a></li>
+    <li class="list"><a href="{{.Permalink}}" class="link">{{ .Title }} &nbsp;&mdash;&nbsp;{{ .File }}</a></li>
 
   {{ end }}
 
