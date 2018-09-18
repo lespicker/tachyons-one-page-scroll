@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Number One Tip For Better Photos"
+image: http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/colorado-river6.jpg
 comments: true
 categories:
-- Featured
-- Photo Tips
+- how-to
 tags:
 - accessories
 - diopter adjustment
@@ -13,7 +13,6 @@ tags:
 - polarizer
 - polarizing filter
 ---
-<img class="alignleft size-thumbnail wp-image-10" style="margin: 0 15px;" title="Colorado river3" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/colorado-river3.jpg?w=100" alt="Colorado river3" width="175" height="300">
 
 If there is one question that amateurs most often ask about my images, it’s: “How do you get those clouds to pop out so much?” The alternative question is how I get the blue skies to render so… well, blue.
 <h3>Use a Polarizing Filter</h3>
@@ -21,7 +20,7 @@ The short answer is that I use a polarizing filter probably 80% of the time when
 
 A polarizing filter works by taking scattered light and filtering it so that you have more parallel rays getting through to the camera’s sensor (or film, if you are still using a film camera). You don’t need to know all the physics, but the effect is powerful. See the accompanying photos that I took on a recent trip down the Colorado River and you’ll get an idea of how a polarizer can improve your photos.
 
-<img class="size-thumbnail wp-image-12 alignright" style="margin: 0 15px;" title="Colorado river6" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/colorado-river6.jpg?w=150" alt="Colorado river6" width="300" height="175">
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/colorado-river3.jpg" >}}
 
 If you are willing to invest in a polarizer, make sure you buy what is known as a circular polarizer. A circular polarizer consists of two pieces of glass that rotate relative to each other. You can dial in just the right amount of polarization to suit your creative vision. Polarizers also cut through some of the haze that ruins images on hot, humid days. Polarizers can also help make reflections more prominent.
 <h3>Ins and Outs of Polarizers</h3>
