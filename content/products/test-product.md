@@ -22,6 +22,7 @@ product:
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
+    bcolor: black
 studio:
   client: "Personal Project"
   model: "Lauren"
