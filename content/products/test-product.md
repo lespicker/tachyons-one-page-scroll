@@ -14,6 +14,14 @@ image: "/images/bli/2018/09/Lester-Picker_07.jpg"
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
+product:
+    data_item_id: WRK0001
+    data_item_name: "Workshop Test"
+    data_item_price: 1495.00
+    data_item_description: "A fairly expensive workshop of little use."
+    data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
+    data_item_categories: "workshop"
+    data_item_shippable: "false"
 studio:
   client: "Personal Project"
   model: "Lauren"
