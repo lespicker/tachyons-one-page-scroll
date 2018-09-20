@@ -8,6 +8,11 @@ title = "LPFA"
 [permalinks]
   news = ":year/:month/:day/:slug"
 
+[taxonomies]
+  category = "categories"
+  type = "types"
+  tag = "tags"  
+
 Paginate = 5
 
 [sitemap]

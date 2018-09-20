@@ -6,7 +6,6 @@ event_date: 2018-11-02T17:15:00Z
 event_end: 2018-11-04T17:15:00Z
 event_link: "https://www.horizonworkshops.com/"
 location: "University of Delaware, Newark"
-featured: "feature"
 sideline: 'Fashion | Editorial | Dualities'
 sidecolor: 'white'
 textcolor: white
@@ -15,7 +14,7 @@ bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
 types:
- - workshop
+  - workshop
 product:
     data_item_id: WRK0001
     data_item_name: "Workshop Test"

@@ -1,0 +1,46 @@
+<section class="relative flex flex-wrap items-center justify-center bg-white black pv6 min-vh-100">
+    <div class="">
+    <h2 class="dn-l mt0 mb2 ph3 pv2 black f2 fw7 ttu tc">Photographic Education</h2>
+    <div class="dn w-100 flex-l items-stretch mw9 mb5 center">
+      <div class="w-60 lh-title">
+        <h2 class="dib mt0 mb2 ph3 pv2 black f2 fw7 ttu tc">Featured</h2>
+      </div>
+      <div class="ml2 w-40 lh-title">
+        <h2 class="dib mt0 mb2 ph3 pv2 black f2 fw7 ttu tc">Workshops &amp; Tours</h2>
+      </div>
+    </div>
+    <div class="flex flex-wrap flex-nowrap-l items-stretch mw9 ph2 ph0-l">
+      {{ range first 1 (where (where .Data.Pages "Section" "products") "Params.featured" "feature") }}
+      <div class="w-100 w-60-l mb2 cover bg-center" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ .Params.image }}'); background-position:
+      center center; background-size: cover;">
+        <article class="flex flex-wrap flex-nowrap-l white ph4 pv4">
+        <header class="mt4 mt0-l">
+          <h1 class="mt0 mb1 f3 fw7 lh-solid">{{ .Title | plainify }}</h1>
+          <h2 class="mt0 mb2 f5 fw7 lh-solid">{{ .Params.location }} / {{ dateFormat "Jan 02, 2006" .Params.event_date }}</h2>
+          <p class="">{{ .Summary }}</p>
+          <a href="{{ .Permalink }}" class="f6 link  br2 ba ph3 pv2 mb2 dib white hover-black hover-bg-white b--white ttu">More Info</a>
+        </header>
+        </article>
+      </div>
+      {{ end }}
+      <div class="ml0 ml2-l w-100 w-40-l mt5 mt0-l">
+        <div class="">
+          {{ range first 3 (where (where (.Data.Pages.ByParam "event_date") "Section" "products") "Params.featured" "ne" "feature") }}
+          <article class="flex justify-end items-stretch mb4">
+            <aside class="w-40 f1 fw9 tc">
+              <div class="relative vcenter">
+                <span class="db f3 fw5">{{ dateFormat "January" .Params.event_date }}</span>{{ dateFormat "02" .Params.event_date }}
+              </div>
+            </aside>
+            <header class="ma3 w-60">
+              <h2 class="mt0 mb1 f3 lh-solid">{{ .Title | plainify }}</h2>
+              <h3 class="mt0 mb3 f6 lh-solid">{{ .Params.location }}</h3>
+              <a href="{{ .Permalink }}" class="f6 link br2 ba ph3 pv2 mb2 dib dark-red hover-white hover-bg-dark-red b--dark-red ttu">More Info</a>
+            </header>
+          </article>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>

@@ -22,7 +22,9 @@
     {{ with .Params.stats }}
       {{ partial "slab-stat" . }}
     {{ end }}
+    <div class="db mt4">
     {{ partial "product-buy-button.html" . }}
+    </div>
   </aside>
   </div>
 </section>

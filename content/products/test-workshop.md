@@ -15,7 +15,7 @@ bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
 types:
- - workshop
+  - workshop
 product:
     data_item_id: WRK0001
     data_item_name: "Workshop Test"
