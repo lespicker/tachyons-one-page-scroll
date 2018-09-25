@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Going for the Gold... Yukon Gold!"
+image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-Dempster-Highway-1782009-09-05.jpg
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- travel
 tags:
 - accessories
 - bear
@@ -19,17 +18,15 @@ tags:
 - wildlife
 - Yukon
 ---
-It’s showtime again. In ten days I leave for a photo assignment in Yukon, Canada. This will be my fourth trip to the Yukon, a land I’ve grown to love, as much for its friendly, independent people as for its majestic scenery and incredible wildlife.
+It’s showtime again. In ten days I leave for a photo assignment in Yukon, Canada. This will be my umpteenth trip to the Yukon, a land I’ve grown to love, as much for its friendly, independent people as for its majestic scenery and incredible wildlife.
 
-First some perspective. Yukon is in the northwestern corner of Canada, bordered by Alaska to its west and the Arctic Ocean to its north, British Columbia to the south and Northwest Territory to the east. It has approximately 33,000 residents, 24,000 of whom live in its capital city, Whitehorse. That leaves about 9,000 people spread over an area 20% larger than California! [BTW, California has 37 million residents. Even if you remove Los Angeles, that leaves 33 million. Hmmm!]
+First some perspective. Yukon is in the northwestern corner of Canada, bordered by Alaska to its west and the Arctic Ocean to its north, British Columbia to the south and Northwest Territory to the east. It has approximately 34,000 residents, 28,000 of whom live in its capital city, Whitehorse. That leaves about 6,000 people spread over an area 20% larger than California! [BTW, California has 35 million residents. Even if you remove Los Angeles, that leaves 33 million. Hmmm!]
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Grizzly.jpg"><img class="size-medium wp-image-867" title="Grizzly" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Grizzly-300x225.jpg" alt="" width="300" height="225"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Grizzly.jpg" >}}
 
 There are two moose for every person in the Yukon, and nearly one bear. That’s aside from caribou herds, wolves, fox, mountain goats, mountain sheep and wood bison.
 
 The scenery of the Yukon defies description. Mountains tower above lush valleys, pristine lakes mirror snow-capped mountains and the immense tundra in the north boggles the mind. But, to me, it’s the ever-present Yu-kun-ah, the mighty Yukon River that winds its way through this magnificent land, that is its icon, bringing its life-giving waters to all.
-
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-Dempster-Highway-1782009-09-05.jpg"><img class="size-medium wp-image-868" title="Yukon2009-Dempster Highway 1782009-09-05" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-Dempster-Highway-1782009-09-05-300x199.jpg" alt="" width="300" height="199"></a>
 
 Twenty-five percent of Yukoners are aboriginal people, representing 14 First Nations, speaking eight different languages. Is it any wonder, then, that Yukon is a photographer’s dream?
 
@@ -47,6 +44,4 @@ I’ll also be testing out some equipment that manufacturers have sent me to see
 
 My main assignment is to cover the start of the Yukon Quest dogsled race, a 1,000 mile, rough-and-tumble adventure that pits man/woman and dogs against the most brutal elements nature can muster. The Quest precedes the Iditarod by a month, but many consider it even more challenging. Surrounding the Quest is a week or more of events, including the world’s northernmost film festival.
 
-I’m really looking forward to being back in the Yukon, visiting dear friends (more about them in a later blog), and photographing the snow-covered landscapes. One thing that I will do a bit differently is that I will begin using the SPOT Satellite Messenger System. This is an emergency beacon and tracking device that allows adventurers to call in an SOS. But, more than that, it also allows us to leave “tracks” that can be followed online. So, each day that I blog, I’ll post the URL address, so those of you following my progress can click on the link and up will pop a Google map with my exact location.
-
-I look forward to your comments as I blog throughout my adventure. In the meantime, stay warm!
+I’m really looking forward to being back in the Yukon, visiting dear friends, and photographing the snow-covered landscapes. 

@@ -3,16 +3,19 @@ layout: post
 title: "Havre de Grace: Pride of the Chesapeake"
 comments: true
 categories:
-- Travelogue
+- Travel
 tags:
+- Havre de Grace
+- Maryland
+- travel
 ---
 Historic Town Offers Much More Than Its Annual Decoy Festival
 
 By Lester Picker
 
-[This article originally appeared in <em>The Baltimore Sun</em>. I updated it for use in 2010.]
+[This article originally appeared in <em>The Baltimore Sun</em>. Confirm latest information.]
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/hdg-lighthouse-1-of-11.jpg"><img class="size-medium wp-image-396" title="lighthouse, Havre de Grace, MD, USA" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/hdg-lighthouse-1-of-11-200x300.jpg" alt="" width="200" height="300"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/hdg-lighthouse-1-of-11.jpg" >}}
 
 Walking the tree-lined streets of historic Havre de Grace, Maryland is like stepping back in time. Leave the hustle and bustle of the city behind, skip the mad rush of suburban shopping malls, and spend an enjoyable weekend in this quaint town, tucked into the northeastern-most corner of Harford County.
 
@@ -20,7 +23,7 @@ Ideally located at the confluence of the Susquehanna River and the Chesapeake Ba
 
 Today, Havre de Grace is known for its quiet streets, thirty-plus antique shops, decoy shops, historic homes, and The Promenade, an environmentally friendly boardwalk that skirts the southern end of town and links the historic Concord Point Lighthouse with the bustling Tydings Memorial Park.
 
-The town hosts tourist events throughout the year, including its famed Decoy, Wildlife Art and Sportsmen’s Festival, which spans the first full weekend in May (7-9). But, unlike gentrified Annapolis, Havre de Grace is still a working town, replete with marinas, crabbers and an active stone quarry that ships its wares by barges and tugboats to places as far away as Virginia.
+The town hosts tourist events throughout the year, including its famed Decoy, Wildlife Art and Sportsmen’s Festival, which spans the first full weekend in May. But, unlike gentrified Annapolis, Havre de Grace is still a working town, replete with marinas, crabbers and an active stone quarry that ships its wares by barges and tugboats to places as far away as Virginia.
 
 There are so many ways to enjoy Havre de Grace, you might want to plan to spend an entire weekend. Since Havre de Grace is a walking (or bicycling) town, I suggest you arrive early and park in the municipal lot on the waterfront behind MacGregor’s Restaurant and adjacent to the Tidewater Grill, two of Havre de Grace’s most distinctive restaurants. Walk west to a tucked-away shop behind St. John Street and meet horologist John Stephens, proprietor of Stephens and Stephens. Horologist? In plain English, Stephens is a watch and clockmaker, and his small, but friendly waterfront shop is a tribute to his profession.
 
@@ -34,11 +37,11 @@ Here are some of my favorite places to eat and visit, along with a smattering of
 
 For fresh ground and brewed coffee, you have two choices:  Java By the Bay, next door to Joseph’s Department Store and Jana’s Java, at the intersection of St. John’s Street, Washington Street and Green Street. Sit outdoors, sip your fragrant brew, and watch the crowds walk by.
 
-My absolute favorite place for lunch and fine dining is Laurrapin Grill. Chef Bruce is a master with meats and seafood. The bar features an eclectic selection of beers and wines. The back dining room has a view of the water.
+My absolute favorite place for lunch and fine dining is Laurrapin Grill. The bar features an eclectic selection of beers and wines. The back dining room has a view of the water.
 
-Two Italian restaurants within a few blocks of each other serve the tiny town. La Cucina is great for informal dining, while Chiaparelli’s offers upscale fine dining.
+La Cucina is great for informal Italian dining.
 
-For a fun and informal lunch option, try The Ritz, on St. John Street, across from Lafayette Square.
+The Wine Bar's laid back atmosphere complements its tapas menu. Each menu item can be matched to a fine wine. The food is simply divine. 
 
 Oh, I almost forgot. Some of the best chocolates in Maryland are made in Havre de Grace, at Bomboy’s, a family run business on Market Street. Skip lunch, but don’t miss Bomboy’s.
 
@@ -50,13 +53,13 @@ Havre de Grace may not have any hotels or chain motels, but that is one of the m
 
 In and around Havre de Grace are myriad activities for a family, ranging from mild to strenuous. The most accessible for the entire family is a leisurely stroll along The Promenade. Park in the public area at Tydings Memorial Park at the town’s southern edge, at the east end of Union Avenue. Bring binoculars and walk along the wide boardwalk, stopping at the many convenient benches to admire the view. I’ve found the best time to be near dusk, when you may be lucky enough to see a wading Great Blue Heron or other aquatic birds. The Promenade winds along the shore and culminates in a marshy area, perfect for birding, at the foot of the Concord Point Lighthouse.
 
-There are two bicycle shops in town. Chesapeake Cycle and Sport is located on the corner of Washington and Congress streets. Biller’s Bikes is located on the corner of Lodge Lane, Franklin and St. John streets. Havre de Grace is bicycle friendly. Spend a pleasant few hours peddling around the many coves and quiet streets of Havre de Grace. If you’re a fishing enthusiast, nothing beats the flats, where the Susquehanna River meets the Bay, for freshwater and striped bass.
+Havre de Grace is bicycle friendly. Spend a pleasant few hours peddling around the many coves and quiet streets of Havre de Grace. If you’re a fishing enthusiast, nothing beats the flats, where the Susquehanna River meets the Bay, for freshwater and striped bass.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/susqstpk-1-of-1.jpg"><img class="size-medium wp-image-395" title="susqstpk 1 of 1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/susqstpk-1-of-1-199x300.jpg" alt="" width="199" height="300"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/susqstpk-1-of-1.jpg" >}}
 
-Hikers and bikers would also do well to visit Susquehanna State Park (410-557-7994), due west on Route 155, a few miles outside of Havre de Grace. There you can stroll or bicycle along river paths, view historic sites, fish and birdwatch. Bald eagles have staged an incredible comeback in this area, and draw nature enthusiasts all year long, especially in winter, where they congregate just below the Conowingo Dam. A large nature viewing area is open all year.
+Hikers and bikers would also do well to visit Susquehanna State Park, due west on Route 155, a few miles outside of Havre de Grace. There you can stroll or bicycle along river paths, view historic sites, fish and birdwatch. Bald eagles have staged an incredible comeback in this area, and draw nature enthusiasts all year long, especially in winter, where they congregate just below the Conowingo Dam. A large nature viewing area is open all year.
 
-Golfers have a choice of some of Maryland’s finest courses, one of which – Pete Dye designed Bulle Rock (410-939-8887) - is rated one of the top golf courses in the nation. One of the many pleasures of teeing off well north of Baltimore is less crowded tee times. Try Wetlands Golf Club (410-273-7488) and Ruggles (410-278-4794), an old-style, forgiving course located on the Aberdeen Proving Grounds.
+Golfers have a choice of some of Maryland’s finest courses, one of which – Pete Dye designed Bulle Rock - is rated one of the top golf courses in the nation. One of the many pleasures of teeing off well north of Baltimore is less crowded tee times. Try Wetlands Golf Club (410-273-7488) and Ruggles (410-278-4794), an old-style, forgiving course located on the Aberdeen Proving Grounds.
 
 Havre de Grace is also known for its more than thirty antique shops, clustered here and there along Washington Street, Union Avenue, Market Street and on many of its side streets.
 

@@ -1,21 +1,19 @@
 ---
 layout: post
-title: "A Cold Night in ... "
+title: "A Cold Night in ... Finland"
 comments: true
 categories:
-- Featured
-- Notes From The Field
-- Reviews
-- Travelogue
+- travel
 tags:
 - Finland
 - ice hotel
 - Lainio
 - Snow Village
 ---
-I figure this is something you do once, just to get it out of your system. If you think about coming back again, I’ll recommend my step-son, who is a terrific psychoanalyst.
+I figure this is something you do once, just to get it out of your system. If you think about coming back, I’ll recommend my step-son, who is a terrific psychoanalyst.
 
 Here’s the concept. You get to sleep in an unheated building carved from pure ice and resurrected every year anew, so that in no way is the hotel the same every year. You sleep on a bed made of ice. Simple, eh? Think sleeping in your freezer. And I’ll bet you thought travel journalism is all fun and games.
+
 <h3>The Snow Village</h3>
 Last night I slept in The Snow Village Hotel located in Lainio, Finland (<a href="http://www.snowvillage.fi">www.snowvillage.fi</a>). It’s nuttier than all get-out, but it’s something I’ve wanted to do for at least 20 years, ever since I first heard of it. You all know that I’m partial to cold weather environments. Since I was going to Finland anyway to do some photography, I figured I’d finally get my chance. And so I booked into the hotel, sometimes known as the ice palace.
 
@@ -23,21 +21,23 @@ The scoop is that every November, here in Finalnd’s north which is known as La
 
 For example, they build a large, domed “chapel” with a ceiling that is at least 25 feet high. They do this by blowing up a huge balloon, then spraying a chemical-free, secret mixture of snow and water over the balloon. It’s so cold in Lapland in November, the structure freezes solid in three hours. They deflate the balloon and continue adding ice until the walls are 18-32 inches thick.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45252.jpg"><img class="size-medium wp-image-1963" title="_LAP4525" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45252-199x300.jpg" alt="" width="199" height="300"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45252.jpg" >}}
 
 Using prefabbed molds they then build the arched walkways of the hotel, from which radiate the 25 individual guest rooms. When the walls are thickened and hardened, they bring in the folks who work long days and nights to carve the various ice statues and wall carvings that are unique to each room.
 
 Amazingly, they do all this within four weeks. This past year it was slightly above zero well into November. Delayed to the last minute, the owners brought in carvers from China to finish the hotel in record time- 2-1/2 weeks!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45201.jpg"><img class="size-medium wp-image-1964" title="_LAP4520" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45201-300x199.jpg" alt="" width="300" height="199"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45201.jpg" >}}
+
 <h3>Settling In</h3>
 Guests are given an orientation to the Village, which is an active tourist’s paradise. The Hotel runs snowmobile tours, dogsledding tours, reindeer tours, snowshoeing and cross-country skiing tours. It does have heated cabins on the property, but I wouldn’t be writing this if that’s all they had.
 
 The hotel offers an ice bar and restaurant. Seriously folks, you can order drinks or an entire meal, served to you by waitresses wearing down jackets, woolen caps and mittens. At least I think they were waitresses. Could’ve been waiters, now that I think of it.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178871.jpg"><img class="size-medium wp-image-1965" title="B0017887" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178871-300x225.jpg" alt="" width="300" height="225"></a>
+{{< figure src="hhttp://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178871.jpg" >}}
 
 There is also a normal, heated restaurant on the property.  But, you’re probably wondering what it’s like sleeping in a room naturally at -5 Celsius (that’s about 23F), on a bed made of a solid block of ice. Well, it’s…
+
 <h3>The Big Prep</h3>
 First a bit of prep. You are given a well made mummy sleeping bag guaranteed to -30F. You also have a freshly washed liner and a pillow. Then follows the advice. Wear your long johns, maybe two pairs if you get cold easily while you sleep. Wear a stocking cap, even though the sleeping bag has a tight drawstring for the head area and all that is exposed are your eyes.
 
@@ -47,9 +47,10 @@ Oh, obviously you can’t have a heated bathroom or dressing area in an ice hote
 
 Oh, and it might not be a good idea to drink before going to bed - actually anytime near bedtime, because, well, you know. It was forecast to be minus 30C (-22F) that night. I decided not to drink after noon.
 
-Oh, and your shoes. I forgot about those. Obviously you’ll leave them next to your “bed,” so on the odd chance that you do get up during the night to pee, you’ll find them a tad bit cold.
+Oh, and your shoes. I forgot about those. Obviously you’ll leave them next to your “bed,” so on the odd chance that you do get up during the night to pee, you’ll find them jus a wee bit cold.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178861.jpg"><img class="size-medium wp-image-1969" title="B0017886" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178861-300x225.jpg" alt="" width="300" height="225"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178861.jpg" >}}
+
 <h3>The Verdict</h3>
 So, how was it, you ask? Before the penultimate answer, I’ll quickly describe the process of going to sleep... in an ice hotel, that is.
 
@@ -63,7 +64,7 @@ The Snow Hotel is fortunate to have Ella Kurtakko in the kitchen. Each summer sh
 
 The Snow Hotel is not luxurious by any means, but it is up to European expectations. For example, it has but one tiny bathroom serving the entire reception, restaurant and bar area. The entranceway to the hotel is so unadorned, it looks like a Soviet-era clinic. There is no Internet service but, really, why would you want it in such exquisite surroundings?
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178661.jpg"><img class="size-medium wp-image-1966" title="B0017866" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178661-225x300.jpg" alt="" width="225" height="300"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178661.jpg" >}}
 
 So, if you’re in Finland, you might want to try The Snow Village. Once.
 

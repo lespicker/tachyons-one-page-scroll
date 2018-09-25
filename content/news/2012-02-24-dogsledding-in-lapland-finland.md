@@ -3,9 +3,7 @@ layout: post
 title: "Dogsledding in Lapland, Finland"
 comments: true
 categories:
-- Featured
-- Notes From The Field
-- Travelogue
+- travel
 tags:
 - dogs
 - dogsledding
@@ -14,9 +12,9 @@ tags:
 - snow
 - woods
 ---
-(Part of a series on Finland)
 
 One of the activities I looked forward to the most while in Finland was a two-day dog-sledding adventure, taking off from the Harriniva Holiday Centre, about 45 minutes out of Kittela. In turn, Kittela is a 90-minute plane ride from Helsinki, so it’s a fair bit of effort to get to this region, located well inside the Arctic Circle.
+
 <h3>Harraniva</h3>
 Harraniva is a multi-purpose, multi-season resort run by the grandchildren of the family that founded it in 1973. As such, it boasts a true home-style atmosphere. At any point you might be approached by one of the brothers or sisters that currently run this jewel of a resort and asked about how your stay is going.
 
@@ -33,6 +31,7 @@ Outfitted, we then walked a few hundred yards to the kennels where 430 sled dogs
 Basically, there are two types of sled dogs. One is, of course, the purebred Siberian husky. The other is the Alaskan husky, which is the term applied to any sled dog of mixed husky breed. If you’ve never heard the eagerness of sled dogs ready to run, you’re in for a surprise. These dogs are happiest when they are on the trail, doing what it is they were bred for. <a href="http://youtu.be/DgxPo4uYJUk">Here, for example, is a short video of them waiting to pull the sled during one of our stops.</a>
 
 After some preliminary instructions, we were off, divided into two groups, each with its own professional guide. My group was guided by Raikka (pronounced “Reekee” with a rolling R). The other was guided by Markko. Each turned out to be a unique and colorful character.
+
 <h3>On the Trail</h3>
 No sooner had we left Harraniva lodge, then we ran into a snowstorm. Fortunately, the terrain was flat for the first few kilometers, allowing the novice mushers a chance to get a feel for maneuvering their sleds. These dogs didn’t change their pace by voice command. They simply run, either quickly while going downhill, or slowly while pulling their sleds uphill. The trick is learning to maneuver the sled. That involves leaning one way or the other into turns, deftly applying the brakes as needed and jumping off the sled and walking behind it while going up steep grades.
 
@@ -45,6 +44,7 @@ In the far north (we were about 200 km above the Arctic Circle), the sun- when i
 In about two hours, Raikka stopped our group next to a wooden teepee. There were outhouses available and while we staked our teams to prevent them from running off, Raikka and Markko started a roaring log fire in the middle of the large teepee and prepared us a hot meal of pan-fried salmon served on potato bread, hot tea or coffee and cookies. Refreshed, we were back on the trail an hour later.
 
 So the rest of the day went, with Raikka using hand signals indicating when we needed to slow down, stop or just plain be cautious due to trail conditions. In another few hours, as dusk fell, we arrived at our cabin for the night.
+
 <h3>The Cabin Experience</h3>
 In dogsledding, the adventure includes dog care, so as soon as we reached camp we unhitched the dogs, tied them to stakes for the night, fed and watered them, while Raikka and Markko made sure they were in good health. Only when that was done did we move our gear into the cabins.
 
@@ -58,10 +58,6 @@ The women bedded down in one room, while the men went upstairs to the loft to sl
 
 After a hearty breakfast, and dog care, we were off again.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/A0017831.jpg"><img class="size-medium wp-image-1992" title="A0017831" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/A0017831-300x225.jpg" alt="" width="300" height="225"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/A0017831.jpg" >}}
 
-The route back covered 35 km (22 miles). Given that the group had gained experience, we made better time coming back. But, confidence sometimes breeds carelessness. On a steep downhill run, a slightly built, 61-year old woman in our group lost control of her sled and it crashed into a tree. She had the wind knocked out of her, but after 30 minutes she was back on her sled, a real trooper in our collective opinion.
-
-Our sledding ended back at Harriniva just as the sun was setting. What we did not know then is that <a href="http://blog.lesterpickerphoto.com/2012/02/19/northern-lights/">a real aurora light show would greet us</a> once we washed up and did the obligatory sauna.
-
-<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/8276/Finland/Lapland/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/8276.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Lapland on Dwellable</a></div>
+The route back covered 35 km (22 miles). Given that the group had gained experience, we made better time coming back. But, confidence sometimes breeds carelessness. On a steep downhill run, a slightly built, 61-year old woman in our group lost control of her sled and it crashed into a tree. She had the wind knocked out of her, but after 30 minutes she was back on her sled, a real trooper in our collective opinion. Our sledding ended back at Harriniva just as the sun was setting. 

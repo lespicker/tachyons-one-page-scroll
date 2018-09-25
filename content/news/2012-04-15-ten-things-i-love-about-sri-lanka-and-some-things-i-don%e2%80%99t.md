@@ -3,10 +3,7 @@ layout: post
 title: "Ten Things I Love About Sri Lanka (and some things I don’t!)"
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
-- Uncategorized
+- travel
 tags:
 - animals
 - best things
@@ -33,13 +30,13 @@ Here, then, are some of my favorite and not so favorite aspects of Sri Lanka for
 
 <strong><em>The People</em></strong>. You will absolutely never find friendlier people anywhere you travel on this planet. As a primarily Buddhist nation, when you greet a person, hands together, you will receive a warm smile. Service in restaurants is fabulous. For photographers, the country is ideal, as nearly everyone agrees to have their photo taken.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_2126.jpg"><img class="size-medium wp-image-2099" title="DSC_2126" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_2126-300x200.jpg" alt="" width="300" height="200"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_2126.jpg" >}}
 
 <strong><em>Food</em></strong>. Sri Lanka offers a widely diverse menu. I would definitely recommend taking advantage of local foods, such as curries with various rices, all grown in-country. Since many Buddhists are primarily vegetarians, there is an abundance of fresh, colorful, delicious veggies.
 
 <strong><em>Photo Opps</em></strong>. Sri Lanka has got to be one of the most photogenic countries on earth, no exaggeration. First, the geography varies from lush mountains in the north to dry desert-like conditions in the south. Second, it has some of the most photographable architecture in the way of its temples and shrines. Third, its wildlife is exceptional, from monkeys to leopards and elephants. Fourth, its people are beautiful, both in looks and spirit, and nearly always willing to allow you to take their picture.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018633.jpg"><img class="size-medium wp-image-2103" title="A0018633" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018633-232x300.jpg" alt="" width="232" height="300"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018633.jpg" >}}
 
 <strong><em>The Geography</em></strong>. In a day’s drive you can go from lush, tropical highlands where Sri Lanka’s finest tea plantations are located, to the forest and flat scrub brush country of Yala National Park. Bring a wide and medium length lens with you (a zoom works fine) and use a polarizer.
 
@@ -47,11 +44,11 @@ Here, then, are some of my favorite and not so favorite aspects of Sri Lanka for
 
 <strong><em>The Tea</em></strong>. I am an ardent tea drinker, having given up coffee more than 10 years ago. I love the subtle differences between teas. Sri Lanka makes some of the best teas in the world. I had the joy of visiting a tea plantation, as well as a tea factory. (“The coffee is terrible!” was the most common refrain at breakfasts). The tea growing region is just so gorgeous and you are guaranteed to see women picking every day, as Sri Lanka’s climate is ideal for growing the plants.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018845.jpg"><img class="size-medium wp-image-2100" title="A0018845" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018845-300x225.jpg" alt="" width="300" height="225"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018845.jpg" >}}
 
 <strong><em>The Animals</em></strong>. Sri Lanka is a gold mine for animal lovers and photographers. There are several national parks that are home to Sri Lanka’s 6,000 elephants. <a href="http://blog.lesterpickerphoto.com/2012/04/14/sri-lanka%E2%80%99s-incredible-yala-national-park/">Yala National Park</a> is considered one of the top leopard environments on Earth. Bring a telephoto lens with you and a sturdy tripod or beanbag.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_0307.jpg"><img class="size-medium wp-image-2101" title="DSC_0307" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_0307-300x179.jpg" alt="" width="300" height="179"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_0307.jpg" >}}
 
 <strong><em>Massages</em></strong>. How can you resist a one-hour full body massage for $20-25 USD? Every hotel has Ayurvedic masseuses who will work their magic on those sore muscles.
 
@@ -59,7 +56,7 @@ Here, then, are some of my favorite and not so favorite aspects of Sri Lanka for
 
 <strong><em>The Attitude</em></strong>. Perhaps most important is what we can take away form a visit to Sri Lanka. I like to think that it has taught me the value of peaceful co-existence. Buddhists are live-and-let-live kind of folks and that is contagious after a few weeks spent here, especially after leaving America last month in the midst of election season divisiveness, acrimony and polarization. Buddhists, Hindus, Muslims and Christians seem to live together peacefully, even to the point of celebrating each others’ holidays.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_2124.jpg"><img class="size-medium wp-image-2102" title="DSC_2124" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_2124-198x300.jpg" alt="" width="198" height="300"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_2124.jpg" >}}
 
 … and some things I don’t like so much
 

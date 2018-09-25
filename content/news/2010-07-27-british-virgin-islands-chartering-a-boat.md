@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "British Virgin Islands: Chartering a Boat"
+image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/BVI-virgin-gorda_2008-08-27_5%C2%A9LesterPicker.jpg
 comments: true
 categories:
-- Travelogue
+- Travel
 tags:
 - beach
 - British Virgin Islands
@@ -56,8 +57,6 @@ Captain Ron, 32-years old and an experienced sailor, was as easygoing as a perso
 On our third day, it occurred to us that we hadn’t touched land at all. We sailed to the Dogs, a series of rocky islands east of Tortola, where we anchored and spent a wondrous morning snorkeling in and around the reefs. At West Dog we found a cave carved into the rocks and our entire group snorkeled in and out. Long shafts of sunlight flickered down to the depths of the cave and colorful tropical fish darted in and out, their iridescent colors flashing on and off as they made their appearances.
 
 We were so taken by the experience, at one point we all swam as far as we could into a particularly long cave and then spontaneously gathered in a circle in the water and let out a long holler. Definitely a guy thing.
-
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/BVI-virgin-gorda_2008-08-27_5%C2%A9LesterPicker.jpg"><img class="size-medium wp-image-341" title="Virgin Gorda, Tortola, BVI" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/BVI-virgin-gorda_2008-08-27_5%C2%A9LesterPicker-199x300.jpg" alt="" width="199" height="300"></a>
 
 That afternoon we made a short stop for supplies at the Virgin Gorda Yacht Harbour, our first landfall. The Yacht Harbour caters to the boating community, with a full-services marina, marine supply store, a dive shop, a quaint bar and restaurant, and a few tourist shops. Virgin Gorda itself is an 8.5 square mile, rambling island due east of Tortola, boasting towns, long stretches of white sand beaches and, for hikers and nature lovers, Gorda Peak National Park. The Park is a favorite for birders, with chances good for spotting some of the more than 200 species of Virgin Island birds. Christopher Columbus named it The Fat Virgin because of its unusual shape; fat in the middle with elongated spurs of land running east and west.
 

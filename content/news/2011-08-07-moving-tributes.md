@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Moving Tributes"
+title: "Concord, Massachussetts"
 comments: true
 categories:
-- Featured
-- News
-- Travelogue
+- travel
 tags:
 - Battle of Concord
 - Battle of Lexington
@@ -20,7 +18,7 @@ Allow me to digress a bit here, away from photography and into the not too dista
 <h3>The Shot Heard Round the World</h3>
 So, moving chronologically, I visited The Manse, the home of Ralph Waldo Emerson, and at one point rented out to his friend Nathaniel Hawthorne and his new wife.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/photo.jpg"><img class="size-medium wp-image-1383" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/photo-300x225.jpg" alt="" width="300" height="225"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/photo.jpg" >}}
 
 From the upstairs bedroom, Emerson's father and grandfather looked out their back field and saw a group of farmers on the far bank of the stream, facing off against a contingent of British Redcoats on the near side. The day was April 19, 1775. To their horror, they were witness to the first battle of the Revolutionary War, the Battle of Concord and Lexington, immortalized in Emerson's poem, <a href="http://www.nationalcenter.org/ConcordHymn.html">Concord Hymn</a>.
 

@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "The Art of Practice – Why Photographers Need to Shoot Every Day     "
+title: "Practice Makes Perfect"
 comments: true
 categories:
-- Headline
+- news
 tags:
 - blog
 - Darwin Wiggett
 - guest
+- practice
+- photography
+- tip
+- photo tip
 ---
 by <strong><a href="http://www.darwinwiggett.com">Darwin Wiggett</a></strong>
 
@@ -19,15 +23,15 @@ Nothing will sharpen both your technical skills and your artistic eye faster tha
 
 I know we all have really busy lives, so who has time to shoot every day? You might think it’s easy for me as a professional photographer to shoot daily--after all that is my job isn’t it? But to make it as a pro, you need to do some heavy marketing and selling. I only get to go on photo shoots about 1/3<sup>rd</sup> of the time, the other 2/3<sup>rd</sup> is spent doing the business part of photography (yech!). In the past, I found that between shoots I was not practicing with my camera and that my art was suffering. It often took 2 or 3 days into a trip to get back into ‘seeing’. I was not practiced and ready.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP12726.jpg"><img class="size-medium wp-image-2119 " title="NMP.tif" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP12726-300x225.jpg" alt="" width="300" height="225"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP12726.jpg" >}}
 
 For the last two or three years I have begun to carry a small point-n-shoot digital camera with me everywhere I go. I do not have to carve out special time to shoot daily; I just take a snapshot here and there in my day as I see something interesting. I might be walking the dog, or standing in line at the bank, doing dishes or visiting the washroom. But if something catches my eye, I make an image. Now I am doing a little photography almost every day and the differences I have seen in my ability to see and be creative is amazing. I no longer have any ‘photographer’s block’ and I no longer need to ‘warm up’ before going on a serious photo shoot. I see photos everywhere!
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP12081.jpg"><img class="size-medium wp-image-2120" title="NMP.tif" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP12081-300x195.jpg" alt="" width="300" height="195"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP12081.jpg" >}}
 
 Even though I am a nature photographer, anything that catches my eye can become a photo. The great thing about shooting daily is that soon you’ll begin to remove labels from subjects and just learn to see light, pattern, form and design. You’ll see beauty in the mundane, and you’ll be inspired anywhere you go from the park to the parking lot. The better you become at photography in general, the better you’ll be at outdoor photography in particular. So do not restrict yourself to pretty nature scenes.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP10113A.jpg"><img class="size-medium wp-image-2121" title="NMP.tif" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP10113A-300x228.jpg" alt="" width="300" height="228"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP10113A.jpg" >}}
 
 Although I have mentioned the wonders of a point-n-shoot camera here before, I really think anyone who is serious about becoming a better photographer should invest in one and carry and use it. You’ll really see the huge benefits of practice. Happy shooting.
 

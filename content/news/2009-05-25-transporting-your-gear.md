@@ -3,14 +3,12 @@ layout: post
 title: "Transporting Your Gear"
 comments: true
 categories:
-- Photo Tips
 - Reviews
 tags:
 - accessories
 - camera bags
-- Eagle Creek
 - equipment
-- Lowepro
+- Mind Shift
 - photo luggage
 - security
 - Think Tank
@@ -25,7 +23,7 @@ Off I went to the gate. I was still 90 minutes early, so I repacked all my equip
 
 As an aside I have to tell you that I weigh 163 pounds soaking wet. With my wheel-on, I would clock in at under 200, max. The man who sat next to me weighed a conservative 240-260 pounds AND he carried a computer bag AND an overnighter. Does this airline weight regulation make any sense… at all?
 
-Anyway, what is a serious photographer to do? First a deep, dark secret. I probably have more photo bags in my office than my wife has pocketbooks! Seriously, over the years I have accumulated more over-the-shoulder, around-the-waist, wheeling, backpacking and sling photography bags than Imelda Marcus has shoes. But, if my wife is reading this, I swear I need them all, Hon!
+Anyway, what is a serious photographer to do? First a deep, dark secret. I probably have more photo bags in my studio than my wife has pocketbooks! Seriously, over the years I have accumulated more over-the-shoulder, around-the-waist, wheeling, backpacking and sling photography bags than Imelda Marcus had shoes. But, if my wife is reading this, I swear I need them all, Hon!
 
 I very regularly use the following:
 <ul>
@@ -38,20 +36,12 @@ I very regularly use the following:
 </strong> </em></li>
 	<li><em><strong>Think Tank Airport Check-In
 </strong> </em></li>
-	<li><em><strong>Lowe Pro Nature Trekker</strong></em></li>
-</ul><a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/rotation-360-1.jpg"><img class="size-medium wp-image-334" title="rotation-360--1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/rotation-360-1-300x192.jpg" alt="" width="300" height="192"></a>
+	<li><em><strong>MindShift Rotation 180</strong></em></li>
 
 Along with these basics, I have an assortment of dedicated side packs, pouches and lens cases that fasten to the sides of the bags.
 
-Obviously, I single-handedly keep Think Tank’s business in the black. But, although their products are expensive, to me they are worth every penny. They are incredibly rugged and ingeniously well thought out, probably because their designers are also professional photographers. They also have some of the best security features in the industry. Go to <a href="http://www.thinktankphoto.com">www.thinktankphoto.com</a> for more info. While at their site, be sure to download a copy of their free helpful publication on how to travel with camera equipment and tips on how to get through airport security.
+Obviously, I single-handedly keep Think Tank’s and MindShift's business in the black. But, although their products are expensive, to me they are worth every penny. They are incredibly rugged and ingeniously well thought out, probably because their designers are also professional photographers. They also have some of the best security features in the industry. Go to <a href="http://www.thinktankphoto.com">www.thinktankphoto.com</a> for more info. While at their site, be sure to download a copy of their free helpful publication on how to travel with camera equipment and tips on how to get through airport security.
 
-My Lowepro (<a href="http://www.lowepro.com">www.lowepro.com</a>) is my go-to bag for backpacking into rough terrain, where I may have to bring several days of equipment. It never ceases to amaze me how much cra… I mean, gear I can pack into that thing. I usually add a side pouch for water and another for snacks.
+My Mind Shift Rotation 180 is my go-to bag for backpacking into rough terrain, where I may have to bring several days of equipment. It never ceases to amaze me how much cra… I mean, gear I can pack into that thing. I usually use the side pouches for snacks and accessories.
 
-I always pack my tripod in my checked luggage and pad it well. Since I exclusively use rugged Eagle Creek luggage (<a href="http://www.eaglecreek.com">www.eaglecreek.com</a>), with their roomy interiors, I always take one of my Think Tank waist packs with me, place it in the luggage and pack it tight with my clothes and some other camera accessories. Then, when I get to my photo location, I have a daypack to use as needed.
-
-Let me know your photo equipment travel tips. In a later blog I’ll share with you what I carry in my backpack for remote shooting.
-
-<em>Lester Picker is a Maryland-based wildlife and landscape photographer. He welcomes photography questions to his blog. Visit his website at: </em><em><a href="http://www.lesterpickerphoto.com">www.lesterpickerphoto.com </a></em>
-
-<em>
-</em>
+Please share your photo equipment travel tips. 

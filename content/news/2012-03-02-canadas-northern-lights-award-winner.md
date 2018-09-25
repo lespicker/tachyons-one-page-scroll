@@ -3,17 +3,16 @@ layout: post
 title: "Canada's Northern Lights Award Winner"
 comments: true
 categories:
-- Featured
-- Headline
 - News
 tags:
 - award
 - Canada Northern Lights Award
 - First Place
+- Best photographer
 ---
 I am just so excited to announce that I was awarded First Place for Photography in Canada's Northern Lights Award for travel journalism.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/timthumb.php_.jpeg"><img class="alignnone size-full wp-image-2003" title="timthumb.php" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/timthumb.php_.jpeg" alt="" width="120" height="120"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/timthumb.php_.jpeg" >}}
 
 I'll have more to say about the award in a blog next week, after I speak with the organizers. I was just informed today via phone tag and email. The award will be presented at a ceremony in April in San Francisco. For now, I can only thank the tourism folks in Canada, who have been so helpful to me whenever I cross the border to photograph and write about their spectacular country and wonderful people.
 

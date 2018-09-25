@@ -3,7 +3,7 @@ layout: post
 title: "Bar Harbor, Maine"
 comments: true
 categories:
-- Travelogue
+- Travel
 tags:
 - article
 - Bar Harbor
@@ -33,7 +33,7 @@ tags:
 
 Bar Harbor, the hub of Mount Desert Island, is a sleepy island community in Frenchman’s Bay for 8 months of the year, with a population of just 2,600.  But, from June through September, the island is host to some 4 million visitors, who come to take in the sights, sounds, tastes and ocean smells of Acadia National Park, which occupies the majority of the island.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maine-2009-Longpond-hdr.jpg"><img class="size-medium wp-image-274" title="Maine 2009-Longpond-hdr" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maine-2009-Longpond-hdr-199x300.jpg" alt="" width="199" height="300"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maine-2009-Longpond-hdr.jpg" >}}
 
 Amazingly, only a tiny percentage of visitors ventures off the well-worn roads to take advantage of the eco-tourism this island paradise offers, according to National Park officials.  The spectacular beauty and ecological abundance of the Maine coast makes Bar Harbor the ideal base for the kind of hiking, biking, canoeing and kayaking, that enables the entire family to learn first-hand about our natural world.
 
@@ -51,7 +51,7 @@ From the Bar Harbor town pier, take the 105 foot <em>Whale Watcher</em>, a moder
 
 <strong><em>Sea Kayaking</em></strong>.  There simply can’t be a better way to explore Maine’s waters than by kayak.  You’re seated low in the water, with a seal’s eye view of the world around you.  Best of all, kayaks are more stable than canoes and easier to maneuver.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/othellomtns1-1.jpg"><img class="size-medium wp-image-270" title="Maine coast" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/othellomtns1-1-300x199.jpg" alt="" width="300" height="199"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/othellomtns1-1.jpg" >}}
 
 All Bar Harbor companies offer trips for novices, families, and experienced kayakers, including half-day, full-day and multi-day tours, with experienced guides.  In a typical half-day tour for beginners, you’ll start out near the Bar Harbor town pier and receive basic instruction.  In no time, the naturalist-guides are leading your group from island to island, among the dozens of picturesque islands in sight of Bar Harbor.  Be prepared to see eagles, ospreys, seals and, if you’re lucky, a rare puffin or two.
 
@@ -65,7 +65,7 @@ Contact Acadia Bike &amp; Canoe, 48 Cottage Street, Bar Harbor, ME  04609: 207-
 
 <strong><em>Hiking</em></strong>.  Hiking the peaks and valleys of Acadia National Park is an experience every family will cherish.  Very few of the Park’s millions of annual visitors stray beyond the familiar tourist attractions.  In thirty easy minutes a family can hike to the top of Flying Mountain for a picnic and breathtaking views of Somes Sound, the only true fjord in the eastern United States.  Its deep, blue-green water set among towering cliffs is a photographer’s dream.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/othellomtns1.jpg"><img class="size-medium wp-image-272" title="Acadia NP" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/othellomtns1-300x199.jpg" alt="" width="300" height="199"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/othellomtns1.jpg" >}}
 
 More adventurous families might try The Beehive, overlooking Sand Beach, with its narrow paths, steep drops and iron ladders hammered into the cliff face to enable you to climb to a secure landing.  Or, for an all-day, strenuous treat of forests, islands, and ocean vistas, hike the Dorr Mountain granite stairs trail to Cadillac’s summit.  There are dozens of mountains and hundreds of trails to choose from in Acadia.  Just bring along plenty of water.
 
@@ -102,6 +102,3 @@ For those unwilling to make the family car trek all the way to Bar Harbor, major
 <strong><em>For More Information</em></strong>
 
 Contact the Bar Harbor Chamber of Commerce, P.O. Box 158, Bar Harbor, ME 04609-0158: 207-288-5103.
-
-
-<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/3200/Maine/Downeast-and-Acadia/Bar-Harbor-and-Mount-Desert-Island/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/3200.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Bar Harbor and Mount Desert Island on Dwellable</a></div>

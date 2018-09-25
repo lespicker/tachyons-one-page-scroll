@@ -3,10 +3,7 @@ layout: post
 title: "Whitehorse, Yukon: Gateway to the North"
 comments: true
 categories:
-- Featured
-- Headline
-- Notes From The Field
-- Travelogue
+- travel
 tags:
 - activities
 - Antoinette's
@@ -65,9 +62,10 @@ If you’re headed for a Yukon adventure, you’ll almost definitely stay in Whi
 
 Whitehorse, capital city of the Yukon, is really a lovely small city, the kind you can easily wrap your brain around. One of the things I love most about it is that, unlike so many American cities, there is actually a walkable downtown where residents do much of their shopping. There are clothing stores, restaurants, two real, live bookstores, small hotels and lots of coffee shops. There are huge, colorful murals covering many of the downtown buildings, celebrating aspects of life Up North. So, for those of you contemplating a trip “Up North,” here is my modest guide to Whitehorse.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-9.jpg"><img class="size-medium wp-image-953" title="Yukon Quest2011-around downtown Whitehorse 9" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-9-300x200.jpg" alt="" width="300" height="200"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-9.jpg" >}}
 
 I’ll periodically update this section each time I visit and discover new treats, so check again before you take off for the North. Also, make sure to visit my blogs on Dawson City (<a href="http://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/">http://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/</a>).
+
 <h3>Coffee Rules!</h3>
 In a land where winter occupies most of the pages in the calendar, coffee is the drug of choice. Whitehorse sports a dozen (maybe more) coffee shops, so you’re sure to find at least one that will appeal to you. Here is a sampling.
 
@@ -77,11 +75,12 @@ Next up is the omnipresent <strong><em>Starbucks</em></strong>, and Whitehorse h
 
 My favorite downtown coffee shop is <strong><em>Baked Cafe</em></strong> (100-108 Main Street), although it has now been “found” and is often crowded. However, the coffee is great and the pastries divine. Baked also offers a wide range of healthy, delicious sandwiches for breakfast or lunch. Try one of their egg panini sandwiches for breakfast. Hot off the grill it’s hard to beat on a cold morning.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-22.jpg"><img class="size-medium wp-image-949" title="Yukon Quest2011-around downtown Whitehorse 22" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-22-300x200.jpg" alt="" width="300" height="200"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-22.jpg" >}}
 
 If you’re headed for a day of cross-country skiing, snowshoeing, snowmobiling or just sightseeing, be sure to stop at <strong><em>Bean North Coffee Roasting Company</em></strong>. Located on the Takhini Hot Springs Road, you could couple a hearty cup of java with a dip in the hot springs. Bean North is housed in an old house and you’ll sit in comfortable chairs and couches while you sip your favorite beverage. All coffee is roasted on site and they also provide the coffee for Baked Cafe.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Bean-Noth-Coffee-Roasters-Takhini-8-1.jpg"><img class="size-medium wp-image-959" title="Yukon Quest2011-Bean Noth Coffee Roasters-Takhini  8 (1)" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Bean-Noth-Coffee-Roasters-Takhini-8-1-200x300.jpg" alt="" width="200" height="300"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Bean-Noth-Coffee-Roasters-Takhini-8-1.jpg" >}}
+
 <h3>Restaurants</h3>
 There is no shortage of restaurants in Whitehorse. From meat and potatoes to fresh caught salmon, you’ll be able to find it here. One thing to note. The Yukon is known for its water-to-table salmon and char. Here you’ll also find fresh meats, including bison and elk. Another note: Yukon is very informal. You never really need to dress up, even at the most upscale establishments. Here are some of my favorite restaurants.
 
@@ -91,7 +90,7 @@ Right next door to Antoinette’s is <em><strong>Ruby’s</strong></em>, a funky
 
 <strong><em>Klondike Rib and Salmon</em></strong> (Second Avenue off Steele Street) is an enormously popular restaurant, and for good reason. They serve fresh food, good bread and trimmings. However, they are not open in winter, as you can see from the following sign in their window.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-44.jpg"><img class="size-medium wp-image-950" title="Yukon Quest2011-around downtown Whitehorse 44" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-44-300x200.jpg" alt="" width="300" height="200"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-44.jpg" >}}
 
 The restaurant is designed as a cabin tent. When the place is hopping, it can be crowded and noisy, but the food is superb. Try their ribs or muskox dishes, which my companions tell me is delicious (I wouldn’t know, since I don’t eat meat). Their fish and chips (which I do eat) was delicious, washed down with an ice-cold Yukon Gold beer.
 
@@ -108,6 +107,7 @@ The <strong><em>Burnt Toast Cafe</em></strong> is another option for breakfast o
 I wouldn’t exactly call the <strong><em>Urban Cake Shop</em></strong> a restaurant, but it is a damned good place for traditional as well as zany cupcakes.
 
 Okay, I kinda saved the best for last. If you’re going from Whitehorse to Dawson City, plan to stop about 75 minutes out of town for breakfast. Now, here’s the point; skip breakfast! Instead get one of <strong><em>Braeburn Lodge</em></strong>’s Cinnamon Buns. Just one. It’s guaranteed to feed at least 4 people and you’ll still have some left over for an after lunch treat. It truly is THAT good! Proprietor (and baker) Steve Watson is the big, burly guy with the white beard. Enjoy a cup of hot coffee with him. Thanks to Sibell and Stephen for the introductions.
+
 <h3>Hotels</h3>
 Whitehorse offers a range of lodging, from hostels and low-budget motels to comfortable (but not luxury) hotels. I’ve only had experience with  four hotels, and two I feel comfortable recommending.
 
@@ -120,6 +120,7 @@ For the penultimate Yukon experience, there is nothing that can beat the<strong>
 The Quest alternates its starting gate, with odd years launching from Whitehorse and even years from Fairbanks so you’ll need to make plans accordingly. When the race leaves from Whitehorse, the tourism folks do a bang-up job of making it a fun family event, with celebrations lasting a week. There are hot air balloons, a banquet, dogsled rides, and lots more.
 
 Whitehorse sponsors festivals throughout the year, including the Frostbite Music Festival, the Available Light Film Festival, Kayak and triathlete marathons, summer and fall events. Go to <a href="http://www.trafelyukon.com">www.travelyukon.com</a> for details.
+
 <h3>Activities</h3>
 You name the summer or winter sport and it’s available in and around Whitehorse. There are just too many vendors to mention here, but suffice it to say that the best tend to stay in business.
 
@@ -129,4 +130,4 @@ Whitehorse also has top-ranked adventure guides and facilities offering canoeing
 
 Flightseeing is available year round. One solid company is <strong><em>Sifton Air</em></strong> in Haines Junction (<a href="http:/www.yukonairtours.com">www.yukonairtours.com</a>), about 90 minutes from Whitehorse. They run glacier tours into Kluane National Park surely one of the most spectacular places on Earth. I especially recommend the winter tours and suggest taking a morning or late afternoon flight when the sun is low in the sky and the mountains are warmed by the sun’s rays. On my recent flight, we spotted 12 moose, 2 wolves, and two coyotes. We even tracked a grizzly that had briefly awakened from its winter sleep but were unable to locate the animal itself.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Haines-Junction-Flightseeing-28.jpg"><img class="size-medium wp-image-951 " title="Yukon Quest2011-Haines Junction Flightseeing 28" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Haines-Junction-Flightseeing-28-300x200.jpg" alt="" width="300" height="200"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Haines-Junction-Flightseeing-28.jpg" >}}

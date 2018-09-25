@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Dawson City or Bust!"
+image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-28.jpg
 comments: true
 categories:
-- Featured
-- Notes From The Field
-- Travelogue
+- travel
 tags:
 - Canada
 - Cremation of Sam McGee
@@ -29,15 +28,13 @@ tags:
 ---
 Dawson City, Yukon, is like an itch under your skin. No matter how much you scratch, it’s always there. That’s how Dawson City is for me. I love this whacky, unpaved, raw hole in the wilderness, where the people are real and the frontier mentality is alive and well. When I’m gone for any appreciable time, I think of it and its zany character.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-28.jpg"><img class="aligncenter size-medium wp-image-942" title="Yukon Quest2011-Dawson City 28" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-28-300x200.jpg" alt="The Downtown Hotel" width="300" height="200"></a>
-
 Dawson City was built nearly overnight, at the height of the Klondike Gold Rush. During its heyday in 1898, Dawson had more than 40,000 people, every one them somehow involved in the madness of the gold rush. Today the town has perhaps 1,200 residents, although that number climbs somewhat in summer.
 
 Today, Dawson is the epicenter of wilderness travel, the launch point for canoeing, kayaking, hiking and touring adventures. It is the provisioning place for those traveling to the western Arctic Circle and beyond. I’m here today for two reasons. First is to cover the Yukon Quest dogsled race, an epic 1,000 mile battle between man and dog and nature. Dawson City is a major stop in that race, a mandatory 36-hour layover for mushers and their dogs. Once all the mushers leave Dawson for their final dash to Fairbanks, Alaska, I’m off with fellow photographer Richard Hartmier to the Arctic Circle, where we hope to rendezvous with the Porcupine Caribou herd for a photo shoot.
 
 Back to Dawson. Surrounding the city are the scarred remains of the gold rush, when massive mining machines entered the fray and tore through the earth, heaving tons of soil and rock aside in man’s unquenchable thirst for the gold metal. But the tiny town of Dawson itself is a jewel. First, there are fantastic places to eat, from simple breakfasts to fine dinners (specifics in a later blog). The streets are laid out in a neat grid, with museums and historic building left or restored to their former glory. There is even a wonderful Opera House that serves to this day as an entertainment venue.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-13.jpg"><img class="size-medium wp-image-943 " title="Yukon Quest2011-Dawson City 13" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-13-300x200.jpg" alt="" width="300" height="200"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-13.jpg" >}}
 
 Dawson was also the first town in Canada to have a gambling hall, and Diamond Tooth Gertie’s Gambling Hall is still operating. Aside from the gambling there is a marvelously entertaining, turn-of-the-century vaudeville show.
 
@@ -45,8 +42,10 @@ Of course, Dawson is a true frontier town and, as such, has its quirky side, mos
 
 Robert Service, the great Canadian poet whose Cremation of Sam McGee is a staple in schools throughout North America, lived here in Dawson and his cabin is still preserved, along with Jack London's cabin, all worthy of tours. You'll see odes to these great literary figures throughout town.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-16.jpg"><img class="size-medium wp-image-944" title="Yukon Quest2011-Dawson City 16" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-16-300x200.jpg" alt="" width="300" height="200"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-16.jpg" >}}
+
 <h2 style="text-align: center;">Dawson City Details</h2>
+
 <h3>Places of Interest</h3>
 <strong>Dawson City Museum</strong> (595 Fifth Avenue: <a href="http://www.dawsonmuseum.ca">www.dawsonmuseum.ca</a>) is a wonderful educational venue for the family. As soon as you enter the museum you are presented with interactive displays explaining the geology of the region. Displays also cover the indigenous aboriginal cultures, as well as exploration by whites, the Klondike Gold Rush and development of Dawson City. There is also a nice gift shop with items on natural history, aboriginal culture, photography books, jewelry and more.
 

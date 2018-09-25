@@ -3,7 +3,7 @@ layout: post
 title: "Iceland or Geyserland?"
 comments: true
 categories:
-- Travelogue
+- travel
 tags:
 - eruption
 - geyser
@@ -19,10 +19,8 @@ The Icelanders have ingeniously tapped into its proliferation of geysers and use
 
 In Seltun, there is a wonderful self-guided tourist park that winds through an active geyser field.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto3.jpg"><img class="size-medium wp-image-2168" title="CameraAwesomePhoto" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto3-300x225.jpg" alt="" width="300" height="225"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto3.jpg" >}}
 
 Here is an example of <a href="http://youtu.be/VcMdq4XrkxY">a typical geyser field</a> (taken with my iPhone).
 
 In some instances, due to constrictions in the gases' ability to escape, pressure builds up and the geysers erupt in spectacular fashion. Of course Americans are familiar with this phenomenon in the form of Old Faithful in Yellowstone National Park. In Iceland <a href="http://youtu.be/YPjMWxEsUX8">here is a geyser eruption</a> I recorded.
-
-In any event, it is a strange and exciting phenomenon to an east coast American, like me.

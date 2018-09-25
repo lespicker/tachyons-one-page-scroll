@@ -3,7 +3,7 @@ layout: post
 title: "Boulder, Colorado-Winter Fun"
 comments: true
 categories:
-- Travelogue
+- Travel
 tags:
 - activities
 - biking
@@ -61,7 +61,7 @@ The <strong>Butterfly Pavilion and Insect Center</strong> is located midway betw
 
 Boulder is also the home to <strong>Celestial Seasonings Tea company</strong>, where a pleasant morning or afternoon can be spent touring the factory, sampling dozens of different teas, and viewing art exhibits. But, don’t miss the Mint Room, where natural mints for teas are stored.  It’s guaranteed to be an unforgettable experience.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images-1.jpeg"><img class="size-full wp-image-331" title="images-1" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images-1.jpeg" alt="" width="168" height="212"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/images-1.jpeg" >}}
 
 And, don’t forget the <strong>Boulder Public Library</strong> when planning the day’s events.  With a full slate of films, lectures, discussion groups, children’s storytime, concerts and young adult activities, the library is a family’s best friend.  Best of all, the main library hosts a gift shop and espresso bar in an inviting open architecture that soothes the soul.
 

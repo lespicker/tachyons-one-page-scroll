@@ -3,10 +3,7 @@ layout: post
 title: "Albuquerque (Part 3 of 3): Eats and Retreats"
 comments: true
 categories:
-- Featured
-- Headline
-- Reviews
-- Travelogue
+- travel
 tags:
 - ABQ
 - Albuquerque
@@ -22,13 +19,13 @@ tags:
 - Torinos @ Home
 - Tucanos Brazilian Grill
 ---
-<!--StartFragment-->For the final blog in this travel series on Albuquerque, I’ll look at some restaurants that I recently sampled, along with two hotels I experienced. A third motel I stayed in, about 45 minutes outside of ABQ, I will not mention here, even though they left me a wonderful surprise in my bed… a bedbug! Needless to say I darted out of there as quickly as I could. I did post a (negative) review of the hotel on Trip Advisor.
+<!--StartFragment-->For the final blog in this travel series on Albuquerque, I’ll look at some restaurants that I recently sampled, along with two hotels I experienced. A third motel I stayed in, about 45 minutes outside of ABQ, I will not mention here, even though they left me a wonderful surprise in my bed…  bedbugs! Needless to say I darted out of there as quickly as I could. I did post a (negative) review of the hotel on Trip Advisor.
 <h2>RESTAURANTS</h2>
 ABQ is a great city, blessed with a wide variety of ethnic foods and a nice share of quality restaurants.
 
 <strong>El Pinto</strong>. El Pinto is a 1,000 seat restaurant that roasts its own chile peppers and makes its own popular brand of salsa. The menu is quite broad and the food good. El Pinto serves upscale Margaritas using artisanal tequilas. These drinks are outstanding. If you think all magaritas are the same, tell me that after you sample their wares. Try to arrive at a time when you can tour their salsa factory, which is behind the restaurant. <a href="http://www.elpinto.com">www.elpinto.com</a>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/LAP9912.jpg"><img class="aligncenter size-medium wp-image-1277" title="El Pinto Restaurant" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/LAP9912-300x200.jpg" alt="" width="300" height="200"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/LAP9912.jpg" >}}
 
 <strong>Scalo</strong> Northern Italian Grill. Located in the downtown area in Nob Hill section of the city this comfortable eatery won the coveted Wine Spectator Award of Excellence. Moderately priced, nice ambience and delicious food. <a href="http://www.scalonobhill.com">www.scalonobhill.com</a>
 
@@ -40,7 +37,8 @@ ABQ is a great city, blessed with a wide variety of ethnic foods and a nice shar
 
 <strong>St. James Tea Room</strong>: Incredible dining and creative imagination combine in an intimate series of dining spaces, each discreetly separated from its neighbor. You can delight in a 3-course Afternoon Tea experience seated outside in a private garden or inside in Victorian-decorated rooms. Dinners are by reservation only. The desserts are exquisite, but served in small portions so that you may indulge in as many or few as you wish. The selection of tea is not only broad, but deep in quality and individually pot-brewed. <a href="http://www.stjamestearoom.com">www.stjamestearoom.com</a>.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/LAP9972.jpg"><img class="aligncenter size-medium wp-image-1278" title="St. James Tearoom" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/LAP9972-300x199.jpg" alt="" width="300" height="199"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/LAP9972.jpg" >}}
+
 <h2>LODGING</h2>
 <strong>Hotel Albuquerque at Old Town</strong>: Located just a few blocks from the Old Town Plaza tourist district, this is a comfortable, mainstream hotel with a full complement of amenities. The lobby and rooms are nicely decorated with a Hispanic influence. Breakfasts are excellent. Staff is very helpful. <a href="http://www.hotelabq.com/">http://www.hotelabq.com/</a>
 

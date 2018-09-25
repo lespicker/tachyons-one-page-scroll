@@ -3,9 +3,7 @@ layout: post
 title: "What Did You Say?"
 comments: true
 categories:
-- Featured
-- Headline
-- Photo Tips
+- Opinion
 tags:
 - Alberta
 - Calgary
@@ -17,6 +15,9 @@ tags:
 - Kananaskis National Park
 - story
 - Tutorial
+- tip
+- photo tip
+- opinion
 ---
 <!--StartFragment-->If I had to distill what I teach in a photo workshop to one lesson, it would be this: What exactly are you trying to say through that image? If you can tell me in 10 or 25 words exactly what the point of the image is, then we’re most probably looking at a good, maybe even a great image.
 
@@ -37,11 +38,12 @@ I had just had a frightening bear encounter while I knelt in a stream, taking im
 I drove a few miles down the road and stopped for lunch at a pond. As I got out of the car I noticed a mated pair of coyotes hunting across the pond. I snapped some images, even though they were out of range of my tele. I laid my camera down and started to eat.
 
 In a few minutes, I felt the hair on my neck crawling. I turned slowly to see the male standing not 5 feet from me. He was so close, in fact, that my telephoto could not focus on him. I slowly put my food away, as I have a strict work ethic that does not allow me to feed wild animals. I spoke to him quietly, all the while setting up my camera-lens by feel to maximize my chances. With wild animals, photographic moments are fleeting. He backed away just enough for me to focus. I addressed him again, with some sounds that I have learned over the years garners the attention, if not disdain, of animals. He turned to look at me. I talked to him. He cocked his head this way and that. I answered. He responded. Click, click, talk, click, click. We connected.
+
 <h3>Your Call</h3>
 So here are the images. The first is “coyote,” maybe okay for a textbook. The second is… well… what does the second image say to you or do for <strong><em>you</em></strong>?
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CanadianRockies2009-1462009-10-05.jpg"><img class="size-medium wp-image-1192" title="CanadianRockies2009 1462009-10-05" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CanadianRockies2009-1462009-10-05-200x300.jpg" alt="" width="200" height="300"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CanadianRockies2009-1462009-10-05.jpg" >}}
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CaRockies2009-Route-742-Peter-Lougheed-Park-Kananaskis-country-117-of-166.jpg"><img class="size-medium wp-image-1193" title="CaRockies2009-Route 742-Peter Lougheed Park, Kananaskis country 117 of 166" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CaRockies2009-Route-742-Peter-Lougheed-Park-Kananaskis-country-117-of-166-198x300.jpg" alt="" width="198" height="300"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CaRockies2009-Route-742-Peter-Lougheed-Park-Kananaskis-country-117-of-166.jpg" >}}
 
 <!--EndFragment-->

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "A Boulder Kind of Morning"
+image: http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg
 comments: true
 categories:
-- Featured
-- Headline
+- travel
 tags:
 - Boulder
 - Chataqua
@@ -26,4 +26,4 @@ These were five vertical images, shot from a level tripod. I did not have time t
 
 I pieced the image together in PTGUI, did a tonal curve sitting here at the airport and here we are. Nothing fancy, but nice use of what might otherwise have been a wasted morning.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg"><img class="size-medium wp-image-2681" title="DSC_8383 Panorama-flatirons-3" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3-300x85.jpg" alt="" width="300" height="85"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg" >}}

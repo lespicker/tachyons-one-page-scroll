@@ -3,7 +3,7 @@ layout: post
 title: "Ansel Adams???"
 comments: true
 categories:
-- Featured
+- news
 tags:
 - Ansel Adams
 - Bob Stowe
@@ -25,6 +25,6 @@ Now, even nice gestures sometimes create conundrums. and this one created a B-I-
 
 The third image Bob processed in sepia tone, conveying the old-timey feel of Ansel Adam's time. This, Bob confided in me, was his wife's favorite rendition. Ah, and now I'm supposed to pick one, eh Bob? So, in the interests of marital harmony and the higher purposes of life, I decided on... the sepia one, naturally (click on the image to enlarge).
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LesterAnselAdamsSepia-2.jpg"><img class="size-medium wp-image-1950" title="LesterAnselAdamsSepia-2" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LesterAnselAdamsSepia-2-300x200.jpg" alt="" width="300" height="200"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LesterAnselAdamsSepia-2.jpg" >}}
 
 Teasing aside, thanks to Bob (and Ruth) for the gift. Have a great week!

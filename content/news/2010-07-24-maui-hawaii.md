@@ -3,7 +3,7 @@ layout: post
 title: "Maui, Hawaii"
 comments: true
 categories:
-- Travelogue
+- Travel
 tags:
 - beach
 - Hawaii
@@ -18,7 +18,7 @@ tags:
 - United States
 - whales
 ---
-[This article originally appeared in <em>Interval International Magazine</em>. Please confirm details.]
+[This article originally appeared in <em>Interval International Magazine</em>. Please confirm latest details.]
 
 <strong>Maui</strong>
 
@@ -26,7 +26,7 @@ by Lester Picker
 
 I love Hawaii. Few destinations in the world offer as much variety, as much depth and breadth of experience, as much visual pleasure, as do the Hawaiian islands. Born of cataclysm in the middle of the Pacific Ocean a million or so years ago, the islands today offer so many options, I always threaten to stay. When my vacations there wind down, I find my To-Do list already growing for the next visit. There are the hikes near the volcano that I still want to take on the Big Island of Hawaii, the shops I want to visit on Oahu, the breathtaking walks along Kauai’s Napali coast. But, of all the Hawaiian islands, I find myself most irresistibly drawn back to Maui.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-17_1%C2%A9LesterPicker.jpg"><img class="size-medium wp-image-290" title="Maui_2009-02-17_1©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-17_1%C2%A9LesterPicker-300x184.jpg" alt="" width="300" height="184"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-17_1%C2%A9LesterPicker.jpg" >}}
 
 <strong>An Island of Contrasts</strong>
 
@@ -44,7 +44,7 @@ Despite commercial developments over the past few decades, Maui’s shoreline is
 
 Notice I say “mostly.” There are trouble spots, like on a recent weekend evening when my wife and I tried to drive to Lahaina to meet a couple of friends for dinner. As they say, fuggedaboudit! Because of congestion on the narrow road, we were 45-minutes late. But thanks to the laid-back island attitude, the maitre de sat us promptly. There are also the typical minor traffic backups in and around popular shopping areas, like Kahului’s malls.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-24_3%C2%A9LesterPicker.jpg"><img class="size-medium wp-image-288" title="Maui_2009-02-24_3©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-24_3%C2%A9LesterPicker-300x200.jpg" alt="" width="300" height="200"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-24_3%C2%A9LesterPicker.jpg" >}}
 
 But for me, there are few drives in the world that can compete with the famous (or infamous) Road to Hana, a mostly elevated, sometimes hair-raising 55-mile drive along the coast with non-stop, stunning views of ocean, lava fields and tropical forest. No matter what the guidebooks estimate the drive should take, I literally double that so I have time to stop frequently, take photos, and hike closer to the many waterfalls and crashing ocean waves I pass. If you’re afraid of heights, be warned. At points along this drive you may have to peel your fingers off the steering wheel. A simple solution I employ is to drive southeast from Kahului. That way I stay on the inside lane and stretch my supply of anti-anxiety meds.
 
@@ -82,7 +82,9 @@ After dinner, we strolled down Front Street, popping into the various galleries 
 
 <strong>On the Beach</strong>
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-18_2%C2%A9LesterPicker.jpg"><img class="alignright size-medium wp-image-289" title="Maui_2009-02-18_2©LesterPicker" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-18_2%C2%A9LesterPicker-199x300.jpg" alt="" width="199" height="300"></a>Between hiking, whale watching and scenic driving, we sometimes have to schedule beach time when we’re in Maui, which is a little nuts since Maui’s beaches are consistently rated among the Top Ten on world lists. All beaches in Hawaii are accessible by the public, even those in front of upscale beach resorts. Most of Maui’s coastline is still rugged and inaccessible. But, if the beach is sandy and you can get to it, you can use it.
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-18_2%C2%A9LesterPicker.jpg" >}}
+
+Between hiking, whale watching and scenic driving, we sometimes have to schedule beach time when we’re in Maui, which is a little nuts since Maui’s beaches are consistently rated among the Top Ten on world lists. All beaches in Hawaii are accessible by the public, even those in front of upscale beach resorts. Most of Maui’s coastline is still rugged and inaccessible. But, if the beach is sandy and you can get to it, you can use it.
 
 One of the most incredible things about Maui’s beaches is that you can often whale watch right from your beach chair. The water immediately off shore is deep, so whales tend to hug the coast in their search for food and protected play areas. We always bring along binoculars and scan for spouts, then follow their antics. If you keep your eyes open as you drive, you will often see cars pulled off the road on bluffs, where people gather to whale-watch.
 

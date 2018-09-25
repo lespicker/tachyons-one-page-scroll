@@ -3,8 +3,7 @@ layout: post
 title: "Rope Making in Sri Lanka"
 comments: true
 categories:
-- Featured
-- Travelogue
+- travel
 tags:
 - rope-making
 - small business
@@ -16,7 +15,7 @@ I had the opportunity to visit with a family business that still makes coconut r
 
 It all starts with the coconut, from which all manner of products are made, including shampoos, cooking oils, liquor, soap... the list goes on. Once the fruit and meat are removed, what is left is the husk.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/images.jpeg"><img class="size-full wp-image-2055" title="images" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/images.jpeg" alt="" width="259" height="194"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/images.jpeg" >}}
 
 Now the women (yes, it is primarily a women's occupation), take these husk sections and put it through a machine that combs the fibers and orients them in the same direction. <a href="http://youtu.be/i16SnuxFpNs">Here is what that process looks like.</a>
 
