@@ -11,7 +11,8 @@ title = "LPFA"
 [taxonomies]
   category = "categories"
   type = "types"
-  tag = "tags"  
+  tag = "tags"
+  destination = "destination"  
 
 Paginate = 5
 

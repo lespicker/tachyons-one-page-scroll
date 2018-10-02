@@ -3,6 +3,7 @@ layout: post
 title: "Dawson City or Bust!"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-28.jpg
 comments: true
+destination: canada
 categories:
 - travel
 tags:

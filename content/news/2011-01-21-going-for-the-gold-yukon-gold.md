@@ -3,6 +3,7 @@ layout: post
 title: "Going for the Gold... Yukon Gold!"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-Dempster-Highway-1782009-09-05.jpg
 comments: true
+destination: canada
 categories:
 - travel
 tags:
