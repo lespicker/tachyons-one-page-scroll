@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland's Many Churches"
+destination: europe
 comments: true
 categories:
 - travel

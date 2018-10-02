@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "il Fontina"
+destination: middle east
 comments: true
 categories:
 - travel

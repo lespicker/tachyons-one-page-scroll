@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland's Glaciers"
+destination: europe
 comments: true
 categories:
 - travel

@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Elephants"
+title: "Photographing Elephants"
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- how-to
 tags:
 - kudu
 - South Africa		
@@ -23,7 +21,7 @@ gallery:
 - [DSC_4783-Edit.jpg, ""]
 ---
 
-{{< figure src="/images/bli/2014/07/DSC_2887.jpg" title="  " >}}
+{% img /images/bli/2014/07/DSC_2887.jpg %}
 
 I have to say that I love elephants; baby elephants, mother elephants, huge bulls, ones with tusks and those without. On my just completed trip to South Africa I was blessed with lots of opportunities to view elephants. I'll venture to share some thoughts about photographing elephants. 
 
@@ -37,7 +35,7 @@ Be cautious when photographing elephants. I was once on a press trip when a jour
 
 ---
 
-{{< include src="themes/lpfa/gallery.html" >}}
+{% include themes/lpfa/gallery.html %}
 
 ---
 

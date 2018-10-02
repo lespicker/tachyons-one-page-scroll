@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dogsledding in Lapland, Finland"
+destination: europe
 comments: true
 categories:
 - travel

@@ -3,9 +3,7 @@ layout: post
 title: Haleakala Pano
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- how-to
 tags:
 - test
 - photography
@@ -18,7 +16,7 @@ tags:
 - instruction
 ---
 
-{{< figure src="/images/bli/2016/02/haleakala-pano.jpg" title="  Backside of Haleakala  " >}}
+{% img /images/bli/2016/02/haleakala-pano.jpg  Backside of Haleakala %}
 
 When it comes to recording panorama images, there is simple and complex. I often take multi-row, multi-shot panos with more than 45 images. Yet sometimes I may not have the time or patience to set up and capture these monstrosities (although I have to admit I love panos and enjoy capturing them). 
 

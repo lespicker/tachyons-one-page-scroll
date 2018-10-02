@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Back in Paradise"
+destination: south america
 comments: true
 categories:
 - travel

@@ -3,9 +3,7 @@ layout: post
 title: Travel Photography e-Book
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- news
 tags:
 - photography
 - travel
@@ -17,13 +15,11 @@ tags:
 - travel ebook
 ---
 
-{{< figure src="/images/bli/2016/01/travel-cover.jpg" title="  " >}}
-
-Here's hoping that you all had a great Holiday week and a great New Year's celebration.  I also wish each of you a wonderful, productive 2016. For our part, we are kicking off 2016 with a big bang!
-
-<!--more-->
+{% img /images/bli/2016/01/travel-cover.jpg %}
 
 A week or two ago I launched my latest e-Book, titled [Travel Photography](http://shop.lesterpickerphoto.com/page/110). This is a book that I've wanted to put together for several years and I was finally able to write it this past summer. But writing was only half of the battle. I also had to coordinate more than 100 images to illustrate the various elements of the book. It was, as the saying goes, a labor of love.
+
+<!--more-->
 
 For those of you who have followed my blog for a while, you know that I won the Canada Northern Lights Award for Best Travel Photographer. This is a juried award, given to me by a panel of my peers, so it has meant a lot to me. I love doing travel photography, and I also teach it in places throughout the world. I wanted to create a work that would help people make the kind of travel images they would be proud to show to friends, hang on their walls, or submit to contests. 
 

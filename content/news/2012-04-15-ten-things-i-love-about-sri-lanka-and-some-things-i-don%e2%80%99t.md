@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ten Things I Love About Sri Lanka (and some things I don’t!)"
+destination: asia
 comments: true
 categories:
 - travel

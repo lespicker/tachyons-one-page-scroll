@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sri Lankan Hindu Festival"
+destination: asia
 comments: true
 categories:
 - travel

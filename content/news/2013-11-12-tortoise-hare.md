@@ -3,14 +3,14 @@ layout: post
 title: "Mr. Tortoise and Ms. Hare: A Fantabulous Fotographer Fable"
 comments: true
 categories:
-- Review
+- opinion
 tags:
 - review
 - methods
 - fable
 ---
 
-{{< figure src="/images/bli/2013/11/tortoise-hare.jpg" title="  " >}}
+{% img img-left /images/bli/2013/11/tortoise-hare.jpg %}
 
 This is the story of Tortoise and Hare, both of them avid photographers (bet you didn't know that). Naturally, the names have been changed to protect the innocent.
 

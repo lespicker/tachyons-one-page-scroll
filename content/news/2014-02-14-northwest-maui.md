@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "The Other Side of Maui"
+destination: hawaii
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- travel
 tags:
 - coast
 - Hawaii
@@ -14,7 +13,7 @@ tags:
 - photography
 ---
 
-{{< figure src="/images/bli/2014/02/LAP4746.jpg" title="  " >}}
+{% img /images/bli/2014/02/LAP4746.jpg %}
 
 I return to Hawaii each year in February, in the midst of the annual whale migration here for calving and mating, a sight I never tire of. The whales, in turn, bring scads of tourists, some to see the whales and most just escaping the miserable winter weather back home, wherever that may be. 
 
@@ -35,6 +34,3 @@ You just take Route 30 and drive from Lahaina, the ancient capital of Hawaii, an
 But there are ample photo opps all along the road and ample turnouts to accommodate cars. I recommend leaving early in the morning. The sun will be in your face as you turn east, but looking back you'll have the sun at your back and cliffs that flame golden. On that rare clear day you'll see the impressive sea cliffs of Molokai just a few miles away. 
 
 So enjoy the many faces of Maui, but if you are a photographer, make sure to take advantage of what the northwest tip offers. You'll either curse me as you negotiate the curves, or thank me when you review your images, or maybe a bit of both. 
-
-
-<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/49/Maui/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/49.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Maui on Dwellable</a></div>

@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Timm Balouschek <fearblog@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: irresistible/archive.php:31
+#: irresistible/index.php:18
+#: irresistible/custom-home.php:17
+msgid "% Comments &#187;"
+msgstr "% Kommentare &#187;"
+
+#. Text in function
+#: irresistible/comments.php:18
+#: irresistible/comments-legacy.php:23
+msgid "% Responses"
+msgstr "% Antworten"
+
+#. Text in function
+#: irresistible/archive.php:41
+#: irresistible/search.php:23
+#: irresistible/index.php:28
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ältere Beiträge"
+
+#. Text in function
+#: irresistible/comments.php:71
+#: irresistible/comments.php:78
+#: irresistible/comments-legacy.php:82
+#: irresistible/comments-legacy.php:89
+msgid "(required)"
+msgstr "(benötigt)"
+
+#. Text in function
+#: irresistible/archive.php:31
+#: irresistible/index.php:18
+#: irresistible/custom-home.php:17
+msgid "1 Comment &#187;"
+msgstr "1 Kommentar &#187;"
+
+#. Text in function
+#: irresistible/archive.php:44
+msgid "<h2 class='center'>No posts found.</h2>"
+msgstr "<h2 class='center'>Keine Beiträge gefunden.</h2>"
+
+#. Text in function
+#: irresistible/archive.php:44
+msgid "<h2 class='center'>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr "<h2 class='center'>Sorry, es sind noch keine Beiträge über %s vorhanden.</h2>"
+
+#. Text in function
+#: irresistible/archive.php:44
+msgid "<h2 class='center'>Sorry, but there aren't any posts in the %s category yet.</h2>"
+msgstr "<h2 class='center'>Sorry, bisher gibt es keine Beiträge in der %s Kategorie.</h2>"
+
+#. Text in function
+#: irresistible/archive.php:44
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr "<h2>Sorry, aber es gibt keine Beiträge mit diesem Datum.</h2>"
+
+#. Text in function
+#: irresistible/page.php:14
+msgid "<p><strong>Pages:</strong> "
+msgstr "<p><strong>Seiten:</strong> "
+
+#. Text in function
+#: irresistible/page.php:13
+msgid "<p>Read the rest of this page &raquo;</p>"
+msgstr "<p>Lies den Rest &raquo;</p>"
+
+#. Text in function
+#: irresistible/index.php:20
+msgid "<span class=\"continue\">Continue Reading</span>"
+msgstr "<span class=\"continue\">Weiterlesen</span>"
+
+#. Text in echo
+#: irresistible/footer.php:8
+msgid "All rights reserved"
+msgstr "Alle Rechte vorbehalten."
+
+#. Text in echo
+#: irresistible/header.php:11
+#: irresistible/header.php:12
+msgid "Archive"
+msgstr "Archiv"
+
+#. Text in echo
+#: irresistible/archive.php:9
+#: irresistible/archive.php:13
+#: irresistible/archive.php:15
+#: irresistible/archive.php:17
+msgid "Archive for"
+msgstr "Archiv für"
+
+#. Text in echo
+#: irresistible/archive.php:19
+msgid "Author Archive"
+msgstr "Autorarchiv"
+
+#. Text in echo
+#: irresistible/header.php:8
+msgid "Author Archives"
+msgstr "Autorarchive"
+
+#. Text in echo
+#: irresistible/archive.php:21
+msgid "Blog Archives"
+msgstr "Blogarchive"
+
+#. Text in echo
+#: irresistible/custom-home.php:65
+msgid "Browse Flickr"
+msgstr "Flickr durchstöbern"
+
+#. Text in echo
+#: irresistible/template-archives.php:29
+msgid "Categories"
+msgstr "Kategorien"
+
+#. Text in echo
+#: irresistible/comments.php:92
+#: irresistible/comments-legacy.php:103
+msgid "Comments"
+msgstr "Kommentare"
+
+#. Text in echo
+#: irresistible/comments.php:36
+#: irresistible/comments-legacy.php:54
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#. Text in echo
+#: irresistible/footer.php:8
+msgid "Copyright"
+msgstr "Copyright"
+
+#. Text in function
+#: irresistible/single.php:13
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#. Text in function
+#: irresistible/page.php:17
+msgid "Edit this entry."
+msgstr "Bearbeite diesen Eintrag."
+
+#. Text in echo
+#: irresistible/comments.php:78
+#: irresistible/comments-legacy.php:89
+msgid "Email"
+msgstr "E-Mail"
+
+#. Text in echo
+#: irresistible/header.php:43
+msgid "Home"
+msgstr "Home"
+
+#. Text in function
+#: irresistible/comments.php:46
+msgid "Leave a Reply"
+msgstr "Hinterlasse einen Kommentar"
+
+#. Text in function
+#: irresistible/comments.php:46
+msgid "Leave a Reply to %s"
+msgstr "Hinterlasse einen Kommentar zu %s"
+
+#. Text in echo
+#: irresistible/comments-legacy.php:62
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#. Text in echo
+#: irresistible/comments.php:61
+#: irresistible/comments-legacy.php:72
+msgid "Logged in as"
+msgstr "Eingeloggt als "
+
+#. Text in echo
+#: irresistible/comments.php:61
+#: irresistible/comments-legacy.php:72
+msgid "Logout &raquo;"
+msgstr "Ausloggen &raquo; "
+
+#. Text in echo
+#: irresistible/template-archives.php:35
+msgid "Monthly Archives"
+msgstr "Monatsarchive"
+
+#. Text in echo
+#: irresistible/index.php:9
+#: irresistible/custom-home.php:7
+msgid "My Writings. My Thoughts."
+msgstr "Meine Texte. Meine Gedanken."
+
+#. Text in echo
+#: irresistible/custom-home.php:81
+msgid "My favblog. Feeds from them."
+msgstr "Mein Favblog und seine Feeds."
+
+#. Text in echo
+#: irresistible/custom-home.php:69
+msgid "My lifestream. Stay updated with me."
+msgstr "Mein Lifestream. Sei über mich informiert."
+
+#. Text in echo
+#: irresistible/includes/theme-widgets.php:15
+#: irresistible/custom-home.php:60
+msgid "My photos. Now you know me."
+msgstr "Meine Fotos. Nun kennst du mich."
+
+#. Text in echo
+#: irresistible/includes/video.php:3
+#: irresistible/includes/video-home.php:3
+msgid "My videos. Featured videos."
+msgstr "Meine Videos. Ausgewählte Videos."
+
+#. Text in echo
+#: irresistible/comments.php:71
+#: irresistible/comments-legacy.php:82
+msgid "Name"
+msgstr "Name"
+
+#. Text in function
+#: irresistible/archive.php:42
+#: irresistible/search.php:24
+#: irresistible/index.php:29
+msgid "Newer Entries &raquo;"
+msgstr "Neuere Beiträge &raquo;"
+
+#. Text in function
+#: irresistible/archive.php:31
+#: irresistible/index.php:18
+#: irresistible/custom-home.php:17
+msgid "No Comments &#187;"
+msgstr "Keine Kommentare &#187;"
+
+#. Text in function
+#: irresistible/comments.php:18
+#: irresistible/comments-legacy.php:23
+msgid "No Responses"
+msgstr "Keine Antworten"
+
+#. Text in echo
+#: irresistible/index.php:33
+msgid "No posts found"
+msgstr "Keine Beiträge gefunden"
+
+#. Text in echo
+#: irresistible/custom-home.php:26
+msgid "No posts found."
+msgstr "Keine Beiträge gefunden"
+
+#. Text in echo
+#: irresistible/search.php:30
+msgid "No results under"
+msgstr "Keine Beiträge über"
+
+#. Text in function
+#: irresistible/comments.php:18
+#: irresistible/comments-legacy.php:23
+msgid "One Response"
+msgstr "1 Antwort"
+
+#. Text in echo
+#: irresistible/search.php:14
+msgid "Permanent Link to"
+msgstr "Permalink zu"
+
+#. Text in echo
+#: irresistible/archive.php:11
+msgid "Posts Tagged"
+msgstr "Beiträge getaggt"
+
+#. Text in function
+#: irresistible/includes/theme-comments.php:22
+msgid "Reply to this comment"
+msgstr "Antworte auf diesen Kommentar"
+
+#. Text in echo
+#: irresistible/comments-legacy.php:32
+msgid "Says:"
+msgstr "sagt:"
+
+#. Text in echo
+#: irresistible/header.php:57
+msgid "Search"
+msgstr "Suche"
+
+#. Text in echo
+#: irresistible/search.php:7
+#: irresistible/header.php:7
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#. Text in echo
+#: irresistible/404.php:9
+msgid "Sorry! Nothing here!"
+msgstr "Sorry! Nichts hier!"
+
+#. Text in echo
+#: irresistible/comments.php:103
+#: irresistible/comments-legacy.php:114
+msgid "Submit"
+msgstr "Abschicken"
+
+#. Text in echo
+#: irresistible/header.php:13
+msgid "Tag Archive"
+msgstr "Tagarchiv"
+
+#. Text in echo
+#: irresistible/template-archives.php:18
+msgid "The Last 30 Posts"
+msgstr "Die 30 neuesten Beiträge"
+
+#. Text in echo
+#: irresistible/comments.php:7
+#: irresistible/comments-legacy.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Beitrag ist passwortgeschützt. Trage das Passwort ein um die Kommentare zu sehen."
+
+#. Text in echo
+#: irresistible/404.php:11
+msgid "Unfortunately we were not able to find that page you were looking for..."
+msgstr "Leider finden wir die Seite die du suchst nicht..."
+
+#. Text in echo
+#: irresistible/custom-home.php:30
+msgid "View Archives"
+msgstr "Archive ansehen"
+
+#. Text in echo
+#: irresistible/404.php:12
+msgid "We suggest that you try going back one page or visit"
+msgstr "Am besten gehst du eine Seite zurück oder besuchst"
+
+#. Text in echo
+#: irresistible/comments.php:85
+#: irresistible/comments-legacy.php:96
+msgid "Website"
+msgstr "Website"
+
+#. Text in echo
+#: irresistible/comments.php:49
+#: irresistible/comments-legacy.php:65
+msgid "You must be"
+msgstr "Du musst"
+
+#. Text in echo
+#: irresistible/includes/theme-comments.php:18
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar befindet sich in der Moderation."
+
+#. Text in echo
+#: irresistible/comments-legacy.php:33
+msgid "at"
+msgstr "bei"
+
+#. Text in echo
+#: irresistible/404.php:12
+msgid "instead"
+msgstr "stattdessen"
+
+#. Text in echo
+#: irresistible/comments.php:49
+#: irresistible/comments-legacy.php:65
+msgid "logged in"
+msgstr "eingeloggt sein"
+
+#. Text in echo
+#: irresistible/404.php:12
+msgid "our homepage"
+msgstr "unsere Homepage"
+
+#. Text in echo
+#: irresistible/header.php:72
+msgid "read more"
+msgstr "Weiterlesen..."
+
+#. Text in echo
+#: irresistible/header.php:56
+msgid "search"
+msgstr "Suche"
+
+#. Text in echo
+#: irresistible/comments.php:49
+#: irresistible/comments-legacy.php:65
+msgid "to post a comment."
+msgstr "um kommentieren zu können."
+

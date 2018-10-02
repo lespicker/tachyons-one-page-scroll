@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rudolph, the Red-Nosed... Sandwich?"
+destination: europe
 comments: true
 categories:
 - travel

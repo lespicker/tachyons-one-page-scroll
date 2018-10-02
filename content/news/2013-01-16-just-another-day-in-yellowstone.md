@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Just Another Day in Yellowstone"
+destination: usa
 comments: true
 categories:
 - travel

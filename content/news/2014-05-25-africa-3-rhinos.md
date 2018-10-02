@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Rhinos!"
+destination: africa
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- travel
 tags:
 - Africa
 - South Africa
@@ -18,7 +17,7 @@ tags:
 
 ---
 
-{{< figure src="/images/bli/2014/05/DSC_0684.jpg" title="  " >}}
+{% img /images/bli/2014/05/DSC_0684.jpg %}
 
 We had just rounded a curve on a dusty back road in South Africa's Kruger National Park. What I saw made me gasp. The road dipped and rose again and atop the rise was an animal I first thought was an elephant. It took my staggered brain a second or two to register that I was looking at a prime example of a male white rhinoceros.
 
@@ -28,11 +27,11 @@ It was huge. I slowly inched my car down the hill and up the other side and stop
 
 Taking out my trusty Nikon D800 and Nikkor 200-400mm lens with a 1.5x tele-extender, I started snapping away. At some points The animals were so close I had to change to a second body with a 70-200mm attached. 
 
-{{< figure src="/images/bli/2014/05/DSC_0762.jpg" title="  " >}}
+{% img /images/bli/2014/05/DSC_0762.jpg %}
 
 For the next hour we kept shooting away. We were even able to catch the oxpecker, a bird that sits on the back of the rhino, picking off insects. Periodically, they fly into the rhino's ears and take out ticks. What magnificent beasts. 
 
-{{< figure src="/images/bli/2014/05/DSC_0751.jpg" title="  " >}}
+{% img /images/bli/2014/05/DSC_0751.jpg %}
 
 But all is not well in rhino land. There is a very serious poaching problem in Kruger, to the tune of hundreds of rhinos killed every year, their horns cut off with a chain saw, and their bodies left to rot. All to support the Asian trade (mostly China and Vietnam) for the horns' supposed male penis enhancement and aphrodisiacal properties. Can you believe that in 2014 there are still people who believe in that crap? Sorry, but as a conservationist this slaughter really boils my blood. One would think that as advanced a society as China, for one, would try to play down such superstitious stupidity and make a true concerted effort to stop this carnage. Worldwide populations of tigers, bears, elephants and rhinos are slaughtered to supply this illicit trade. 
 

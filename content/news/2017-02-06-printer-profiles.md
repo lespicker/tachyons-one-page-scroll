@@ -3,9 +3,7 @@ layout: post
 title: To Profile or Not; That is the Question!
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- how-to
 tags:
 - photography
 - studio
@@ -18,7 +16,7 @@ tags:
 - fine art paper
 ---
 
-{{< figure src="/images/bli/2017/02/canon-moab-print.jpg" title="  " >}}
+{% img /images/bli/2017/02/canon-moab-print.jpg %}
 
 As a Moab Master photographer I'm often asked whether we create our own ICC profiles for our studio prints. After all, we do charge a premium for our work, so one might assume that we go through the intense machinations needed to create our own profiles, right?
 
@@ -30,7 +28,7 @@ Could we do our own profiles? Sure, but why bother? To create an exacting ICC pr
 
 So, what do we do to ensure we have top-notch, reliable and consistent profiles? With companies like Moab Paper (a division of Legion Paper), we know that they will give us the very best profiles possible. In fact, they have a dedicated employee on the west coast whose responsibility is to create those accurate profiles that we know will work on each of our Canon printers. And they have never failed us. Why would they? Bad profiles would sour us on using any paper manufacturer's papers, so they have a vested interest in getting you the very best profiles. Plain common sense. 
 
-{{< figure src="/moab-zebra-prints.jpeg" title=" " >}}
+{% img /images/bli/2017/02/moab-zebra-prints.jpeg %}
 
 There is another plus to using the manufacturer's profiles. They are constantly looking to improve them as new technologies emerge. Not only wouldn't I choose to buy a $5,000 machine, I would shudder every time a better technology hit the market. I'd much rather spend that money on a new lens or on a photo trip to some exotic locale. 
 

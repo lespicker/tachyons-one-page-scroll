@@ -2,6 +2,7 @@
 layout: post
 title: "Egypt: Soul of the Desert"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-1-of-5.jpg
+destination:	middle east
 comments: true
 categories:
 - Travel

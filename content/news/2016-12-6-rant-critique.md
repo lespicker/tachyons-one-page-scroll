@@ -3,9 +3,7 @@ layout: post
 title: Please, Listen Up!
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- opinion
 tags:
 - listen
 - photography

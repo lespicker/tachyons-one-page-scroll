@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lots to See and Do in Sydney"
+destination: ausnz
 comments: true
 categories:
 - travel

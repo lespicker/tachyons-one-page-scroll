@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Love Can be Cruel, Indeed
-subtitle: "Praying Mantis"
-image: "/images/bli/2017/10/DSC_4620.jpg"
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- news
 tags:
 - photography
 - insect
@@ -15,6 +11,8 @@ tags:
 - close-up
 - macro
 ---
+
+{% img /images/bli/2017/10/DSC_4620.jpg %}
 
 ***Note: all images here were taken by me over the past several decades.***  
 
@@ -34,19 +32,19 @@ And, yes, they are capable of biting, but the chance of that happening is slim. 
 
 Just like Linus and Lucy, every fall is witness to the Praying Mantis equivalent of the snatched-away football. As the weather turns slightly cold, females release a hormone that is irresistible to males. With love beckoning, the male mounts the female and deposits a sperm packet into her. 
 
-{{< figure src="/images/bli/2017/10/prayingmantis-mating-7_edited-2.jpg" title="  " >}}
+{% img /images/bli/2017/10/prayingmantis-mating-7_edited-2.jpg %}
 
 The female will then turn around and try to bite off the head of the male. In about 25% of cases in our local mantis species she succeeds. I won't go into the intricacies of this act, but you can judge for yourself from this image, taken about 35 years ago when I photographed the life cycle of the mantis for a magazine. 
 
-{{< figure src="/images/bli/2017/10/prayingmantis-killingmale.jpg" title="  " >}}
+{% img /images/bli/2017/10/prayingmantis-killingmale.jpg %}
 
 With copulation over, the female will then secrete a sticky egg mass that will cling to just about any surface. Inside this mass will be anywhere from 75-200 eggs. The mass hardens into the characteristic shape we see here. 
 
-{{< figure src="/images/bli/2017/10/_LAP4283.jpg" title="  " >}}
+{% img /images/bli/2017/10/_LAP4283.jpg %}
 
 That mass (known as the ootheca) will overwinter and in spring, after a sustained warm spell, out will come the little mantises. 
 
-{{< figure src="/images/bli/2017/10/prayingmantis-emerging-2.jpg" title="  " >}}
+{% img /images/bli/2017/10/prayingmantis-emerging-2.jpg %}
 
 
 ### The Backstory
@@ -63,6 +61,6 @@ Anyway, to complete my mantis story, I had to get a shot of mantises mating, so 
 
 So, have fun photographing mantises, but do so at your peril… and definitely avoid doing this if you are single and dating… which the following cartoon will prove.
 
-{{< figure src="/images/bli/2017/10/mantis-cartoon.jpg" title="  " >}}
+{% img /images/bli/2017/10/mantis-cartoon.jpg %}
 
  

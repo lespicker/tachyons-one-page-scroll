@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rope Making in Sri Lanka"
+destination: asia
 comments: true
 categories:
 - travel

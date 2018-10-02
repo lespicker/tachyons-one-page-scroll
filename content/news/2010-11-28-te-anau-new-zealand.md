@@ -2,6 +2,7 @@
 layout: post
 title: "Te Anau, New Zealand"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/South-Island-New-Zealand-112010-11-19.jpg
+destination: ausnz
 comments: true
 categories:
 - travel

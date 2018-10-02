@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "There's Nothing Like Maine in Fall"
+destination: usa
 comments: true
 categories:
 - travel

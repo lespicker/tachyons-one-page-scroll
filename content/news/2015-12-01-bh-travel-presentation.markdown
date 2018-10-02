@@ -3,6 +3,7 @@ layout: post
 title: "Free Presentation at B&H"
 comments: true
 categories:
+- news
 tags:
 - fine art
 - print
@@ -12,8 +13,6 @@ tags:
 - workshop
 - travel
 ---
-
-
 
 {% img /images/bli/2015/12/travel-ebook-jpg.jpg iBook example page %}
 

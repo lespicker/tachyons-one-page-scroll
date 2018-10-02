@@ -1,14 +1,9 @@
 ---
 layout: post
-subtitle: '<span class="white-70">Fine Art Printing Workshop</span>'
-title: '<span class="dark-red"><span class="fw9">Sunday</span>, Sunday, Sunday!</span>'
-bcolor: dark-red
-image: "/images/bli/2018/07/DSCF0217.jpg"
+title: Fine Art Printing Workshop
 comments: true
 categories:
-- Featured
-- Headline
-- Workshop
+- news
 tags: 
 - photography
 - Les Picker
@@ -17,6 +12,8 @@ tags:
 - moab
 - techniques
 ---
+
+{% img /images/bli/2018/07/DSCF0217.jpg What a Day! %}
 
 The summer 2018 edition of our fine art printing workshop is coming up quick. I can't believe we're in July already. Where did May and June go? The all-day Saturday printing workshop will be held August 4th, 2018. [There are a few spots left in this limited availability event so if you can make it sign up now.](http://workshops.lesterpickerphoto.com/page/803) 
 

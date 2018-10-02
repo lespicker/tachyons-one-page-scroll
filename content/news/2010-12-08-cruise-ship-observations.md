@@ -2,6 +2,7 @@
 layout: post
 title: "Cruise Ship Observations"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-782010-11-07.jpg
+destination: general
 comments: true
 categories:
 - travel

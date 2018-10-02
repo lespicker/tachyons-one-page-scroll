@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sydney: From Inner City to Inner Harbour"
+destination: ausnz
 comments: true
 categories:
 - travel

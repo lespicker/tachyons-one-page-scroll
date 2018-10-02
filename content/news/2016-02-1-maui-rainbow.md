@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Another Maui Rainbow
+title: "Another Maui Rainbow"
+destination: hawaii
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- travel
 tags:
 - photography
 - travel
@@ -15,7 +14,7 @@ tags:
 - technique
 ---
 
-{{< figure src="/images/bli/2016/02/maui-rainbow.jpg" title="  " >}}
+{% img /images/bli/2016/02/maui-rainbow.jpg %}
 
 On my first day this year on Maui I was driving north of Kaanapali on Maui's northwest shore, when a rainbow began to grow in the sky. At first it was a sliver rising from the agricultural foothills of the West Maui Mountains. But as I drove it grew in the sky until a perfect rainbow formed. Of course, I pulled over and even as I ran across some wet, waist-high sugar cane, the rainbow started to fade. 
 

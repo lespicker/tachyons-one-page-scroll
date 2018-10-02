@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland Saga: Snaefellsnes"
+destination: europe
 comments: true
 categories:
 - travel

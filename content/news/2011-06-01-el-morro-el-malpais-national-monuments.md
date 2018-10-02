@@ -2,8 +2,8 @@
 layout: post
 title: "El Morro & El Malpais National Monuments"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0869-Panorama.jpg
-comments: true
 destination: usa
+comments: true
 categories:
 - travel
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland or Geyserland?"
+destination: europe
 comments: true
 categories:
 - travel

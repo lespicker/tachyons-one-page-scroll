@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Cold Night in ... Finland"
+destination: europe
 comments: true
 categories:
 - travel

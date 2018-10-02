@@ -4,7 +4,6 @@ title: "Homework Assignment: Depth of Field"
 comments: true
 categories:
 - How-to
-- Uncategorized
 tags:
 - image
 - improvement

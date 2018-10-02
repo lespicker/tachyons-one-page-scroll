@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Albuquerque: Part 2"
+destination: usa
 comments: true
 categories:
 - travel

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Having a Whale of a Time"
+destination: hawaii
 comments: true
 categories:
 - travel

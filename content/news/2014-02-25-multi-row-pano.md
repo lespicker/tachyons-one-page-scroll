@@ -3,9 +3,7 @@ layout: post
 title: "How to Create a Multi Row Pano"
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- how-to
 tags:
 - Hawaii
 - panorama
@@ -17,7 +15,7 @@ tags:
 - Gitzo tripod
 ---
 
-{{< figure src="/images/bli/2014/02/DSC_0884.jpg" title="   " >}}
+{% img /images/bli/2014/02/DSC_0884.jpg  %}
 
 My clients love wall murals and super-large prints with impact. Early on we learned that the only way to get large prints or wallpaper that covers an entire wall and looks wonderfully detailed, was to employ some advanced panorama creating techniques.
 
@@ -29,6 +27,6 @@ The lead blog image is a simple, two-row, 18-image pano that I took that day. I'
 
 Using the same technique, here is a 3-row, 27-image pano I took of a Banyan tree in Haleakala National Park, which I detailed in [this recent blog post](http://www.lesterpickerphoto.com/2014/02/21/banyan-tree-pano/).
 
-{{< figure src="/images/bli/2014/02/banyan-tree.jpg" title=" 3-row and 27-image pano  " >}}
+{% img /images/bli/2014/02/banyan-tree.jpg 3-row and 27-image pano %}
 
 As always, comments and suggestions are welcome. Please let me know if this is helpful and if you'd like others. 

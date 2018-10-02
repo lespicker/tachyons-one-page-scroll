@@ -2,6 +2,7 @@
 layout: post
 title: "Lifou, New Caledonia"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-1152010-11-05.jpg
+destination: ausnz
 comments: true
 categories:
 - travel

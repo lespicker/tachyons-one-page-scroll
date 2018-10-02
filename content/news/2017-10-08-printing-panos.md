@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Printing a Fine Art Panorama
-image: "/images/bli/2017/10/Capture0058.jpg"
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- how-to
 tags:
 - printing
 - fine art printing
@@ -18,7 +15,7 @@ tags:
 - fine art paper
 ---
 
-{{< figure src="/images/bli/2017/10/Capture0058.jpg" title="  " >}}
+{% img /images/bli/2017/10/Capture0058.jpg %}
 
 As a Moab Master Photographer, our studio regularly gets questions from readers and clients about fine art printing. Last week we received a particularly interesting question, which I'd like to share with those of you interested in printing panoramic images. I think that my assistant and Master Printer, Bob Boyer's, response goes a long way to explaining some fine art printing concepts that we employ here in our studio. 
 

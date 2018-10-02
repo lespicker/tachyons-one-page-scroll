@@ -2,6 +2,7 @@
 layout: post
 title: "Alive and Well in Christchurch"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-652010-11-20.jpg
+destination: ausnz
 comments: true
 categories:
 - travel

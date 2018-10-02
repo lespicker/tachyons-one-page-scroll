@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bar Harbor, Maine"
+destination: usa
 comments: true
 categories:
 - Travel

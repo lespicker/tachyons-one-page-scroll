@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sydney, Australia"
+destination: ausnz
 comments: true
 categories:
 - travel

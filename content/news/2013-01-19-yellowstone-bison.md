@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Yellowstone Bison"
+destination: usa
 comments: true
 categories:
 - travel

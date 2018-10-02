@@ -2,6 +2,7 @@
 layout: post
 title: "Put Bothfeet to Work on Australia's Great Ocean Walk"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-Road-Victoria-Australia-902010-11-09.jpg
+destination: ausnz
 comments: true
 categories:
 - travel

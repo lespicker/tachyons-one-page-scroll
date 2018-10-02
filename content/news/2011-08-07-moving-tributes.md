@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Concord, Massachussetts"
+destination: usa
 comments: true
 categories:
 - travel

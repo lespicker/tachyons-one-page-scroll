@@ -1,13 +1,9 @@
 ---
 layout: post
 title: 'The Latest & Greatest: Nikon D850'
-subtitle: Review
-image: "/images/bli/2017/10/nikond850.jpg"
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- reviews
 tags:
 - photography
 - review
@@ -15,7 +11,7 @@ tags:
 - Nikon D850
 ---
 
-{{< figure src="/images/bli/2017/10/nikond850.jpg" title="  " >}}
+{% img /images/bli/2017/10/nikond850.jpg %}
  
 Let's get one thing straight from the get-go. I am decidedly not a gear-head. I never do reviews of photo equipment in which I delve into performance curves, charts and statistics, most of which I believe is entirely besides the point. 
 

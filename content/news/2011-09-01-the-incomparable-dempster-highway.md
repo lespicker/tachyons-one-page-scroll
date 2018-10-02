@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Incomparable Dempster Highway"
+destination: canada
 comments: true
 categories:
 - travel

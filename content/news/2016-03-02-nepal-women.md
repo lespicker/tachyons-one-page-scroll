@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Nepal's Women
+title: "Nepal's Women"
+destination: asia
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- travel
 tags:
 - Nepal
 - women
@@ -13,7 +12,7 @@ tags:
 - earthquake
 ---
 
-{{< figure src="/images/bli/2016/03/DSC_0701.jpg" title="  " >}}
+{% img /images/bli/2016/03/DSC_0701.jpg %}
 
 One of the not-so-surprising things I found on my recent visit to Nepal last year is just how hard the women there work. I found that as true in cities like Kathmandu as it is in the hardscrabble rural areas. 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland Lodging"
+destination: europe
 comments: true
 categories:
 - travel

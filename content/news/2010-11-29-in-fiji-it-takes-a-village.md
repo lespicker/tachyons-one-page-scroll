@@ -2,6 +2,7 @@
 layout: post
 title: "In Vanuatu, It Takes a Village"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-232010-11-04.jpg
+destination: ausnz
 comments: true
 categories:
 - travel

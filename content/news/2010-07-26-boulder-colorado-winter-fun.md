@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Boulder, Colorado-Winter Fun"
+destination: usa
 comments: true
 categories:
 - Travel

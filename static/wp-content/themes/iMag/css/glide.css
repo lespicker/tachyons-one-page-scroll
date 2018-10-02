@@ -1,0 +1,63 @@
+.glidecontentwrapper{
+	position:relative; /* Do not change this value */
+	width:671px;
+	height:266px; /* Set height to be able to contain height of largest content shown */
+	overflow:hidden;
+	margin:0 0 14px;
+	}
+
+.glidecontentwrapper .featured-post { /*style for each glide content DIV within wrapper.*/
+	background:transparent url(../images/featured-post-bg.gif) no-repeat 50% 7px;
+	position:absolute; /* Do not change this value */
+	width:657px;
+	padding:7px;
+	margin:0;
+	/* height:220px; */
+	overflow:hidden;
+	float:left;
+}
+
+.glidecontenttoggler{ /*style for DIV used to contain toggler links. */
+}
+
+.glidecontenttoggler a { /*style for every navigational link within toggler */
+	display:block;
+	height:22px;
+	float:left;
+	font-size:10px;
+	line-height:22px;
+	text-transform:uppercase;
+	color:#717171;
+	margin-right:5px;
+	width:15px;
+}
+
+.glidecontenttoggler a.selected, .glidecontenttoggler a:hover { /*style for selected page's toggler link. ".selected" class auto generated! */
+	color:#9597C2;
+}
+
+.glidecontenttoggler a span {
+	display:block;
+	height:22px;
+	float:left;
+	cursor:pointer;
+	padding-right:6px;
+}
+
+.glidecontenttoggler a.toc { /*style for individual toggler links (page 1, page 2, etc). ".toc" class auto generated! */
+}
+
+.glidecontenttoggler a.prev { /*style for "prev" and "next" toggler links. ".prev" and ".next" classes auto generated! */
+}
+.glidecontenttoggler a.next {
+}
+
+.glidecontenttoggler a.prev:hover {
+}
+
+.glidecontenttoggler a.next:hover{
+}
+
+#togglebox {
+	/*margin-bottom:10px;*/
+}

@@ -3,9 +3,7 @@ layout: post
 title: My Newest e-Book
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- news
 tags:
 - photography
 - ebook
@@ -14,7 +12,7 @@ tags:
 - inspiration
 ---
 
-{{< figure src="/images/bli/2016/07/shun-ebook-cover.jpg" title="  " >}}
+{% img /images/bli/2016/07/shun-ebook-cover.jpg %}
 
 I've been a photographer for (gulp!!) more than half a century. In that time I have worked with, watched and studied some of the best photographers in their respective genres. Then, about 30 years ago, it dawned on me (duh!!) that perhaps these terrific photographers had some secrets that I should uncover in order to up my own game. And so, I began to research this angle in earnest.
 
@@ -50,7 +48,7 @@ This visualization presumes the final 'tion,' which is the nemesis of all photog
 
 I have been teaching photography and leading photography tours around the world for decades. Almost every one of my colleagues agrees on this one point; the toughest thing to teach in photography is composition. More promising images are ruined by poor composition than any other cause. Period. 
 
-{{< figure src="/images/bli/2016/07/dorothea-lange.jpg" title=" Dorothea Lange image  " >}}
+{% img /images/bli/2016/07/dorothea-lange.jpg Dorothea Lange image %}
 
 A great photographer internalizes good composition so that it flows from a deeper source. It comes from being more mindful. It is a way of capturing a scene that is inherently dramatic, emotional, pleasing to the eye (or intentionally discordant). How on Earth did Dorothea Lange capture that exquisitely painful image of a mother during the Great Depression, her two children looking away from the camera, their heads buried in their mother's neck? There is almost a sixth sense to it, a feeling that the perfectly composed image transcends time and space. Did Lange stop to think of Rule of Thirds, foreground elements or any of the other so-called rules of composition? Hardly. She was in the zone. Composition was in her blood. 
 

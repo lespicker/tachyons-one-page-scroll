@@ -2,6 +2,7 @@
 layout: post
 title: "South Africa: Sun City"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/sun-city-SA_2006-10-29_7%C2%A9LesterPicker.jpg
+destination: africa
 comments: true
 categories:
 - Travel

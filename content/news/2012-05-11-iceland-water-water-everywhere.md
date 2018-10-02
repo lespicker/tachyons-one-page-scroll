@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland: Water, Water Everywhere"
+destination: europe
 comments: true
 categories:
 - travel

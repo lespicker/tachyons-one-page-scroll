@@ -1,11 +1,9 @@
 ---
 layout: post
-title: The Joys of fine Art Printing
+title: The Joys of Fine Art Printing
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- news
 tags:
 - photography
 - travel
@@ -15,7 +13,7 @@ tags:
 - printing
 ---
 
-{{< figure src="/images/bli/2016/10/kevin-duncan-print.jpg" title="  " >}}
+{% img /images/bli/2016/10/kevin-duncan-print.jpg %}
 
 We just completed another of our limited seating fine art printing workshops and I thought I'd share some images and a video with you. 
 
@@ -25,7 +23,7 @@ We just completed another of our limited seating fine art printing workshops and
 
 One of the joys of our work is that we get a chance to make lots of folks really, really happy by seeing their work become "real" on a fine art print done on museum-quality Moab papers. Take a look at Kevin Duncan, one of our attendees, after he nailed a 24" x 66" pano print! Pure joy!
 
-{{< figure src="/images/bli/2016/10/kevin-duncan-print-w-les.jpg" title="  " >}}
+{% img /images/bli/2016/10/kevin-duncan-print-w-les.jpg %}
 
 Our clients typically get to take home anywhere from three to eight prints, which more than makes up for the cost of the workshop. Plus, we always have a fun time. 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vermont Jewel"
+destination: usa
 comments: true
 categories:
 - travel

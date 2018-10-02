@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Recommended Photo Books
-subtitle: Review
-image: "/images/bli/2017/09/IMG_1738.jpg"
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- reviews
 tags:
 - photography
 - book
@@ -17,7 +13,7 @@ tags:
 - creativity
 ---
 
-{{< figure src="/images/bli/2017/09/IMG_1738.jpg" title="  " >}}
+{% img /images/bli/2017/09/IMG_1738.jpg %}
 
 Each summer I try (emphasis on "try") to carve out time to catch up on my photography reading. By that I mean actual hold-in-your-hands, turn-the-pages kinds of photo books that have been sent to me for review. Over the course of the next few months I'll report to you about some books that I think you should know about. 
 

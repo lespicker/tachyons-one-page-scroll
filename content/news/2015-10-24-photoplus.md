@@ -3,9 +3,7 @@ layout: post
 title: Some Photography Observations
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- news
 tags:
 - New York City
 - photography
@@ -15,7 +13,7 @@ tags:
 - equipment
 ---
 
-{{< figure src="/images/bli/2015/10/FullSizeRender.jpg" title="  " >}}
+{% img /images/bli/2015/10/FullSizeRender.jpg %}
 
 (All images iPhone photos.)
 
@@ -31,7 +29,7 @@ As one who has witnessed nearly five decades of photography, here are some obser
 
 **Photography is taking off... literally!** From two years ago to this year, I was amazed by the profusion of drone photography. Granted that drones are way above my head (ouch! that was a bad pun), as I already have too much gear to carry. But I am so excited for this young generation of photographers who are embracing this nifty tool. We are already seeing them push the boundaries of photography. I can't wait to see where they take our art in the near future. 
 
-{{< figure src="/images/bli/2015/10/FullSizeRender-2.jpg" title="  " >}}
+{% img /images/bli/2015/10/FullSizeRender-2.jpg %}
 
 **It's all about the print.** With the advent of monitors that practically define reality, we all need to keep in mind that since the birth of photography our images have been judged by one yardstick above all, and that is The Print. I say that with reverence, because to me there is nothing more gorgeous, more luscious, more appealing to the eye or more demanding to produce than a photographic print. 
 
@@ -47,10 +45,10 @@ You also meet quirky folks here, as we artists often are. Here are a couple:
  
 For "Best Tie" I nominate this dapper gent:
 
-{{< figure src="/images/bli/2015/10/FullSizeRender-4.jpg" title="  " >}}
+{% img /images/bli/2015/10/FullSizeRender-4.jpg %}
 
 For "Best Hat" I nominate this cowpoke:
 
-{{< figure src="/images/bli/2015/10/FullSizeRender-3.jpg" title="  " >}}
+{% img /images/bli/2015/10/FullSizeRender-3.jpg %}
 
 Have fun shooting. And don't forget, if you want to up your photo game, get to PhotoPlus next year. 

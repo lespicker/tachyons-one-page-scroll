@@ -2,8 +2,8 @@
 layout: post
 title: "A Boulder Kind of Morning"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg
-comments: true
 destination: usa
+comments: true
 categories:
 - travel
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Yukon Quest"
+destination: canada
 comments: true
 categories:
 - Travel

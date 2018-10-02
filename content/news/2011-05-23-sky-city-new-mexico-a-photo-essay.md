@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sky City, New Mexico: A Photo Essay"
+destination: usa
 comments: true
 categories:
 - Travel

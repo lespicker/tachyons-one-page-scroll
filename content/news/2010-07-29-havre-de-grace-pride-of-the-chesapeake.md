@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Havre de Grace: Pride of the Chesapeake"
+destination: usa
 comments: true
 categories:
 - Travel

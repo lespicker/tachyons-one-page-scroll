@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Hiking the Pipiwai Trail"
+destination: hawaii
 comments: true
 categories:
 - travel
-- tips
 tags:
 - travel
 - equipment
@@ -15,7 +15,7 @@ tags:
 - Haleakala National Park
 ---
 
-{{< figure src="/images/bli/2014/02/DSC_8920.jpg" title=" Oheo Gulch waterfalls  " >}}
+{% img /images/bli/2014/02/DSC_8920.jpg Oheo Gulch waterfalls %}
 
 Tourists who come to Hawaii's Maui island invariably drive the infamous/wondrous Road to Hana at some point during their stay. This 50-mile route winds, twists and hair-pin turns over dozens of narrow, one-car bridges as it treats visitors with drop-dead gorgeous ocean vistas, cascading waterfalls and lush jungles. The road is almost always listed as one of the top ten scenic drives in the world. 
 
@@ -27,19 +27,19 @@ But on the mountain, or mauka, side of the road lies one of the most visited tra
 
 ### A Varied Trail Experience, but...
 
-{{< figure src="/images/bli/2014/02/Pipiwai-welcome-sign.JPG" title=" iPhone image  " >}}
+{% img img-left /images/bli/2014/02/Pipiwai-welcome-sign.JPG iPhone image %}
 
 The trail itself is a marvelous, varied and potentially dangerous experience, as this mixed-message welcome signs attests. But, it's better to be prepared and safe, so you can thoroughly enjoy what is ahead. 
 
 As you begin you walk through a shrubby path, until you enter the [tree root-lined section](http://youtu.be/f9CpmXJIeFQ) that climbs fairly quickly through rises and steps. Twice along the path you will [cross a small waterfall](http://youtu.be/3MyyAIH-y_o) and the rushing Pipiwai Stream. 
 
-{{< figure src="/images/bli/2014/02/pipiwai-danger-2.JPG" title=" iPhone image  " >}}
+{% img img-right /images/bli/2014/02/pipiwai-danger-2.JPG iPhone image %}
 
 Along the way you will encounter signs like these. Please do not tempt the fates. Several fatalities have occurred over the years. I would also keep any children close at hand because the drop-offs happen suddenly. One second you might be hiking an inviting spur trail and the next instant you are on the edge of a 200-foot precipice. 
 
 Finally, more than half-way through your climb, you enter what could rightfully be called a fantasy land, a spiritual section known as The Bamboo Forest. This magical part of the trail winds through and up a thick stand of trees that seems to go on and on. If you can hike this in the early morning, when almost no one is around, you will be stunned by its Zen-like, calming influence. 
 
-{{< figure src="/images/bli/2014/02/DSC_9052.jpg" title="  " >}}
+{% img /images/bli/2014/02/DSC_9052.jpg %}
 
 Once beyond the Bamboo Forest, the end of the trail is within reach... so long as it has not rained too much recently. If it has rained, be careful and be glad you brought along your water shoes. You may have a [strong stream to ford](http://youtu.be/q4nRc3Zz_0E) before you cross to Waimoku. 
 
@@ -62,6 +62,3 @@ As far as photo gear goes, here is what I recommend:
 Sturdy tripod, DSLR of your choice, wide-angle lens (at least 24mm) or a wide zoom (perhaps 24-70mm), the usual accessories (extra memory card, lens wipes, extra battery, cable release, etc). If the falls is really full it may spew a lot of mist, so a microfiber cloth is a good idea.
 
 Whatever you do, relax and enjoy every delicious moment of this memorable hike. 
-
-
-<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/49/Maui/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/49.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Maui on Dwellable</a></div>

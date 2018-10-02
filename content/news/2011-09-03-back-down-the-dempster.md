@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Back Down the Dempster"
+destination: canada
 comments: true
 categories:
 - travel

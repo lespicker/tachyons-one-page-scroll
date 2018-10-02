@@ -1,0 +1,1 @@
+[07-Jul-2013 13:04:48 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/lester/blog/wordpress/wp-content/plugins/hello.php on line 60

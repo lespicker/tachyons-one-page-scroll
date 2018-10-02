@@ -2,6 +2,7 @@
 layout: post
 title: "Australia's Great Ocean Drive: Photo Valhalla"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-Road-Victoria-Australia-3432010-11-11.jpg
+destination: ausnz
 comments: true
 categories:
 - travel

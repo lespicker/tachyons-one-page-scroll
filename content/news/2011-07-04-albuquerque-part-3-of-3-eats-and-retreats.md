@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Albuquerque (Part 3 of 3): Eats and Retreats"
+destination: usa
 comments: true
 categories:
 - travel

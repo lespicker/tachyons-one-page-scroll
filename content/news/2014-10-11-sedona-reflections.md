@@ -1,11 +1,10 @@
 ---
 layout: post
 title: “Sedona Reflections"
+destination: usa
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- travel
 tags:
 - Sedona
 - Arizona
@@ -16,7 +15,7 @@ tags:
 
 ---
 
-{{< figure src="/images/bli/2014/10/DSC_6374-Panorama.jpg" title="  " >}}
+{% img /images/bli/2014/10/DSC_6374-Panorama.jpg %}
 
 On my trip early this fall to Sedona, I hiked to the same spot three or four times over as many days, before capturing the cover image here. I’m not claiming that this one qualifies for a Limited Edition designation. Still, I’d like to spend a few paragraphs discussing it, because I think there are lessons to be learned for photographers willing to up their game. 
 
@@ -42,7 +41,7 @@ So, I decided to do a 3 shot pano. Enter the shift function. All I needed to do 
 
 Here’s a shot of me setting up (photo courtesy Leslie Picker). 
 
-{{< figure src="/images/bli/2014/10/photo-2-4.JPG" title="  " >}}
+{% img /images/bli/2014/10/photo-2-4.JPG %}
 
 I do wish there were clouds in the sky. As the sun bathed the mountain in a more golden light a few minutes later, the wind kicked up and the reflection disappeared. Frustrating, but you learn to smile and still feel grateful for just being out there. 
 

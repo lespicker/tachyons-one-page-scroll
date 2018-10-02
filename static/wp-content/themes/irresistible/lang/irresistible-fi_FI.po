@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: irresistible/archive.php:31
+#: irresistible/index.php:18
+#: irresistible/custom-home.php:17
+msgid "% Comments &#187;"
+msgstr "% kommenttia &#187;"
+
+#. Text in function
+#: irresistible/comments.php:18
+#: irresistible/comments-legacy.php:23
+msgid "% Responses"
+msgstr "% vastausta"
+
+#. Text in function
+#: irresistible/archive.php:41
+#: irresistible/search.php:23
+#: irresistible/index.php:28
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Vanhemmat artikkelit"
+
+#. Text in function
+#: irresistible/comments.php:71
+#: irresistible/comments.php:78
+#: irresistible/comments-legacy.php:82
+#: irresistible/comments-legacy.php:89
+msgid "(required)"
+msgstr "(vaaditaan)"
+
+#. Text in function
+#: irresistible/archive.php:31
+#: irresistible/index.php:18
+#: irresistible/custom-home.php:17
+msgid "1 Comment &#187;"
+msgstr "1 kommentti &#187;"
+
+#. Text in function
+#: irresistible/archive.php:44
+msgid "<h2 class='center'>No posts found.</h2>"
+msgstr "<h2 class='center'>Artikkeleita ei löytynyt.</h2>"
+
+#. Text in function
+#: irresistible/archive.php:44
+msgid "<h2 class='center'>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr "<h2 class='center'>Pahoittelut, mutta toistaiseksi %s ei ole kirjoittanut yhtään artikkelia.</h2>"
+
+#. Text in function
+#: irresistible/archive.php:44
+msgid "<h2 class='center'>Sorry, but there aren't any posts in the %s category yet.</h2>"
+msgstr "<h2 class='center'>Pahoittelut, mutta aiheessa %s ei ole vielä yhtään artikkelia.</h2>"
+
+#. Text in function
+#: irresistible/archive.php:44
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr "<h2>Pahoittelut, mutta tällä päivämäärällä ei ole artikkeleita.</h2>"
+
+#. Text in function
+#: irresistible/page.php:14
+msgid "<p><strong>Pages:</strong> "
+msgstr "<p><strong>Sivut:</strong>"
+
+#. Text in function
+#: irresistible/page.php:13
+msgid "<p>Read the rest of this page &raquo;</p>"
+msgstr "<p>Lue loput tästä sivusta &raquo;</p>"
+
+#. Text in function
+#: irresistible/index.php:20
+msgid "<span class=\"continue\">Continue Reading</span>"
+msgstr "<span class=\"jatka\">Jatka lukemista</span>"
+
+#. Text in echo
+#: irresistible/footer.php:8
+msgid "All rights reserved"
+msgstr "Kaikki oikeudet pidätetään"
+
+#. Text in echo
+#: irresistible/header.php:11
+#: irresistible/header.php:12
+msgid "Archive"
+msgstr "Arkisto"
+
+#. Text in echo
+#: irresistible/archive.php:9
+#: irresistible/archive.php:13
+#: irresistible/archive.php:15
+#: irresistible/archive.php:17
+msgid "Archive for"
+msgstr "Arkisto aiheelle"
+
+#. Text in echo
+#: irresistible/archive.php:19
+msgid "Author Archive"
+msgstr "Kirjoittajan arkisto"
+
+#. Text in echo
+#: irresistible/header.php:8
+msgid "Author Archives"
+msgstr "Kirjoittajan arkistot"
+
+#. Text in echo
+#: irresistible/archive.php:21
+msgid "Blog Archives"
+msgstr "Arkistot"
+
+#. Text in echo
+#: irresistible/custom-home.php:65
+msgid "Browse Flickr"
+msgstr "Selaa Flickriä"
+
+#. Text in echo
+#: irresistible/template-archives.php:29
+msgid "Categories"
+msgstr "Aiheet"
+
+#. Text in echo
+#: irresistible/comments.php:92
+#: irresistible/comments-legacy.php:103
+msgid "Comments"
+msgstr "Kommentit"
+
+#. Text in echo
+#: irresistible/comments.php:36
+#: irresistible/comments-legacy.php:54
+msgid "Comments are closed."
+msgstr "Kommentit ovat pois päältä."
+
+#. Text in echo
+#: irresistible/footer.php:8
+msgid "Copyright"
+msgstr "Copyright"
+
+#. Text in function
+#: irresistible/single.php:13
+msgid "Edit"
+msgstr "Muokkaa"
+
+#. Text in function
+#: irresistible/page.php:17
+msgid "Edit this entry."
+msgstr "Muokkaa tätä artikkelia."
+
+#. Text in echo
+#: irresistible/comments.php:78
+#: irresistible/comments-legacy.php:89
+msgid "Email"
+msgstr "Sähköposti"
+
+#. Text in echo
+#: irresistible/header.php:43
+msgid "Home"
+msgstr "Etusivu"
+
+#. Text in function
+#: irresistible/comments.php:46
+msgid "Leave a Reply"
+msgstr "Jätä vastaus"
+
+#. Text in function
+#: irresistible/comments.php:46
+msgid "Leave a Reply to %s"
+msgstr "Jätä vastaus nimimerkille %s"
+
+#. Text in echo
+#: irresistible/comments-legacy.php:62
+msgid "Leave a comment"
+msgstr "Jätä kommentti"
+
+#. Text in echo
+#: irresistible/comments.php:61
+#: irresistible/comments-legacy.php:72
+msgid "Logged in as"
+msgstr "Kirjautuneena tunnuksella"
+
+#. Text in echo
+#: irresistible/comments.php:61
+#: irresistible/comments-legacy.php:72
+msgid "Logout &raquo;"
+msgstr "Kirjaudu ulos &raquo;"
+
+#. Text in echo
+#: irresistible/template-archives.php:35
+msgid "Monthly Archives"
+msgstr "Kuukausittaiset artikkelit"
+
+#. Text in echo
+#: irresistible/index.php:9
+#: irresistible/custom-home.php:7
+msgid "My Writings. My Thoughts."
+msgstr "Kirjoitukseni. Ajatukseni."
+
+#. Text in echo
+#: irresistible/custom-home.php:81
+msgid "My favblog. Feeds from them."
+msgstr "Suosikkiblogini. Syötteitä niistä."
+
+#. Text in echo
+#: irresistible/custom-home.php:69
+msgid "My lifestream. Stay updated with me."
+msgstr "Nettistriimini. Pysy ajantasalla."
+
+#. Text in echo
+#: irresistible/includes/theme-widgets.php:15
+#: irresistible/custom-home.php:60
+msgid "My photos. Now you know me."
+msgstr "Kuvani. Nyt tiedät minut."
+
+#. Text in echo
+#: irresistible/includes/video.php:3
+#: irresistible/includes/video-home.php:3
+msgid "My videos. Featured videos."
+msgstr "Videoni. Suositellut videot."
+
+#. Text in echo
+#: irresistible/comments.php:71
+#: irresistible/comments-legacy.php:82
+msgid "Name"
+msgstr "Nimi"
+
+#. Text in function
+#: irresistible/archive.php:42
+#: irresistible/search.php:24
+#: irresistible/index.php:29
+msgid "Newer Entries &raquo;"
+msgstr "Uudemmat artikkelit &raquo;"
+
+#. Text in function
+#: irresistible/archive.php:31
+#: irresistible/index.php:18
+#: irresistible/custom-home.php:17
+msgid "No Comments &#187;"
+msgstr "Ei kommentteja &#187;"
+
+#. Text in function
+#: irresistible/comments.php:18
+#: irresistible/comments-legacy.php:23
+msgid "No Responses"
+msgstr "Ei vastauksia"
+
+#. Text in echo
+#: irresistible/index.php:33
+msgid "No posts found"
+msgstr "Artikkeleita ei löytynyt"
+
+#. Text in echo
+#: irresistible/custom-home.php:26
+msgid "No posts found."
+msgstr "Artikkeleita ei löytynyt."
+
+#. Text in echo
+#: irresistible/search.php:30
+msgid "No results under"
+msgstr "Ei tuloksia"
+
+#. Text in function
+#: irresistible/comments.php:18
+#: irresistible/comments-legacy.php:23
+msgid "One Response"
+msgstr "Yksi vastaus"
+
+#. Text in echo
+#: irresistible/search.php:14
+msgid "Permanent Link to"
+msgstr "Pysyvä linkki artikkeliin"
+
+#. Text in echo
+#: irresistible/archive.php:11
+msgid "Posts Tagged"
+msgstr "Avainsanoitettuja artikkeleita"
+
+#. Text in function
+#: irresistible/includes/theme-comments.php:22
+msgid "Reply to this comment"
+msgstr "Vastaa tähän kommenttiin"
+
+#. Text in echo
+#: irresistible/comments-legacy.php:32
+msgid "Says:"
+msgstr "Sanoo:"
+
+#. Text in echo
+#: irresistible/header.php:57
+msgid "Search"
+msgstr "Haku"
+
+#. Text in echo
+#: irresistible/search.php:7
+#: irresistible/header.php:7
+msgid "Search Results"
+msgstr "Hakutulokset"
+
+#. Text in echo
+#: irresistible/404.php:9
+msgid "Sorry! Nothing here!"
+msgstr "Anteeksi! Täällä ei ole mitään!"
+
+#. Text in echo
+#: irresistible/comments.php:103
+#: irresistible/comments-legacy.php:114
+msgid "Submit"
+msgstr "Lähetä"
+
+#. Text in echo
+#: irresistible/header.php:13
+msgid "Tag Archive"
+msgstr "Avainsana-arkisto"
+
+#. Text in echo
+#: irresistible/template-archives.php:18
+msgid "The Last 30 Posts"
+msgstr "Viimeisimmät 30 artikkelia"
+
+#. Text in echo
+#: irresistible/comments.php:7
+#: irresistible/comments-legacy.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tämä artikkeli on salasanasuojattu. Syötä salasanasi jatkaaksesi."
+
+#. Text in echo
+#: irresistible/404.php:11
+msgid "Unfortunately we were not able to find that page you were looking for..."
+msgstr "Valitettavasti emme kyenneet löytämään sivua, jota etsit."
+
+#. Text in echo
+#: irresistible/custom-home.php:30
+msgid "View Archives"
+msgstr "Katso arkistoja"
+
+#. Text in echo
+#: irresistible/404.php:12
+msgid "We suggest that you try going back one page or visit"
+msgstr "Suosittelemme, että yrität palata sivun taaksepäin tai vierailet"
+
+#. Text in echo
+#: irresistible/comments.php:85
+#: irresistible/comments-legacy.php:96
+msgid "Website"
+msgstr "Kotisivu"
+
+#. Text in echo
+#: irresistible/comments.php:49
+#: irresistible/comments-legacy.php:65
+msgid "You must be"
+msgstr "Sinun täytyy olla"
+
+#. Text in echo
+#: irresistible/includes/theme-comments.php:18
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa hyväksyntää."
+
+#. Text in echo
+#: irresistible/comments-legacy.php:33
+msgid "at"
+msgstr ""
+
+#. Text in echo
+#: irresistible/404.php:12
+msgid "instead"
+msgstr "sen sijaan"
+
+#. Text in echo
+#: irresistible/comments.php:49
+#: irresistible/comments-legacy.php:65
+msgid "logged in"
+msgstr "kirjautunut"
+
+#. Text in echo
+#: irresistible/404.php:12
+msgid "our homepage"
+msgstr "kotisivumme"
+
+#. Text in echo
+#: irresistible/header.php:72
+msgid "read more"
+msgstr "lue lisää"
+
+#. Text in echo
+#: irresistible/header.php:56
+msgid "search"
+msgstr "haku"
+
+#. Text in echo
+#: irresistible/comments.php:49
+#: irresistible/comments-legacy.php:65
+msgid "to post a comment."
+msgstr "lähettääksesi kommentin."
+

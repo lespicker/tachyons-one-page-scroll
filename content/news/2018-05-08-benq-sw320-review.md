@@ -1,15 +1,12 @@
 ---
 layout: post
-title: '<span class="black">BenQ SW320</span>'
-subtitle: '<span class="black-20">Review</span>'
-bcolor: black
-image: "/images/bli/2018/05/1479872466.jpg"
+title: "BenQ SW320, A Review"
 comments: true
 categories:
-- Photography
-- Review
-- Monitor
+- reviews
 ---
+
+{% img /images/bli/2018/05/1479872466.jpg %}
 
 **NOTE:** This comprehensive review of the Ben Q monitor was written by my assistant Robert Boyer, who has a great deal of expertise on monitor performance and color management. 
 

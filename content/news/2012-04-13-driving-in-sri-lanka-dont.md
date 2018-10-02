@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Driving in Sri Lanka... Don't"
+destination: asia
 comments: true
 categories:
 - travel

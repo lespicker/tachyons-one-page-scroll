@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Think Your Equipment is Safe? Think Again!"
+destination: general
 comments: true
 categories:
 - Travel

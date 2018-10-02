@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Nightmare Hotel
-image: "/images/bli/2017/10/DSC_0337.jpg"
+title: "Nightmare Hotel"
+destination: "south america"
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- travel
 tags:
 - photography
 - mountain climbing
@@ -17,7 +15,7 @@ tags:
 
 ---
 
-{{< figure src="/images/bli/2017/10/DSC_0337.jpg" title="  " >}}
+{% img /images/bli/2017/10/DSC_0337.jpg %}
 
 I generally do not consider myself a scaredy-cat, afraid to take prudent risks. The operative word is prudent. 
 
@@ -25,13 +23,13 @@ On a recent trip to Peru, I happened to look up as we drove down a rural road. I
 
 <!--more-->
 
-{{< figure src="/images/bli/2017/10/Picker-Peru-3.jpg" title="  " >}}
+{% img /images/bli/2017/10/Picker-Peru-3.jpg %}
 
 Can you imagine staying in this "hotel"? Does one ever sleep there? I'd be up all night tethered to the sheer rock face for dear life, a blabbering idiot praying to gods that haven't been invented yet! 
 
 Notice the man under the hotel pod in the next picture. I can only imagine the conversation...
 
-{{< figure src="/images/bli/2017/10/DSC_0346.jpg" title="  " >}}
+{% img /images/bli/2017/10/DSC_0346.jpg %}
 
 "I feel like a breath of fresh air, honey. I'll be back in a minute."
 

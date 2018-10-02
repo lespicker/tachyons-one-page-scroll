@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Haines Alaska"
+destination: usa
 comments: true
 categories:
 - travel

@@ -2,6 +2,7 @@
 layout: post
 title: "Summarizing My Canadian Rockies Trip"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/rockiesblog-1-of-1.jpg
+destination: canada
 comments: true
 categories:
 - travel

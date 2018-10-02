@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Sri Lanka’s Incredible Yala National Park  "
+title: "Sri Lanka’s Incredible Yala National Park"
+destination: asia
 comments: true
 categories:
 - travel

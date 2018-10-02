@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Israel: A Nation of Stark Contrasts"
+destination: middle east
 comments: true
 categories:
 - travel

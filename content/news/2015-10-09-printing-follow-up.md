@@ -3,9 +3,7 @@ layout: post
 title: Print-A-Thon
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- news
 tags:
 - printing
 - print making
@@ -14,7 +12,7 @@ tags:
 - photography
 ---
 
-{{< figure src="/images/bli/2015/10/DSC_3475.jpg" title="  " >}}
+{% img /images/bli/2015/10/DSC_3475.jpg %}
 
 # The Print-A-Thon
 
@@ -24,13 +22,13 @@ We just completed another sold-out print workshop and, man, was it a blast! Once
 
 One of the best things about the printing workshop is the way everyone shares knowledge, tips and critiques. As each large format print emerged from the printer, people would gather around to ooh and aah. If asked, they were willing to critique aspects that would improve the prints. Of course, Bob and I hopefully added to those discussions. 
 
-{{< figure src="/images/bli/2015/10/DSC_3482.jpg" title=" Two participants confer  " >}}
+{% img /images/bli/2015/10/DSC_3482.jpg Two participants confer %}
 
 As always, our Canon printers were workhorses. We have three large format printers, so the six participants had no trouble accessing an unoccupied printer to get their prints out. 
 
 Everyone went home with at least two 17" x 22" prints, but several of the participants managed to bang out as many as 8, some of them 17" x 40" panoramas. We were so focused on what we were doing, we blew past the 5:00 PM stop time and the last photographer did not leave until 6:15! We love it when our workshop attendees get into it like that!!
 
-{{< figure src="/images/bli/2015/10/DSC_3477.jpg" title=" Bob helping out  " >}}
+{% img /images/bli/2015/10/DSC_3477.jpg Bob helping out %}
 
 If you are interested in taking one of our print workshops, please sign up for our mailing list. We intentionally keep the print workshop intimate, with no more than 6 photographers. That also means they close out fast, so when you see the next one open, try to register right away. Our next workshop will be in January. 
 

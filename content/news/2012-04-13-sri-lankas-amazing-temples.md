@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sri Lanka's Amazing Temples"
+destination: asia
 comments: true
 categories:
 - travel

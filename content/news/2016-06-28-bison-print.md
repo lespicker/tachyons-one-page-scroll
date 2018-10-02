@@ -3,9 +3,7 @@ layout: post
 title: A Winning Print
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- news
 tags:
 - photography
 - printing
@@ -19,7 +17,7 @@ tags:
 - Museo Silver Rag
 ---
 
-{{< figure src="/images/bli/2016/06/Deb-Bailey-Yellowstone.jpg" title=" image by Deb Bailey  " >}}
+{% img /images/bli/2016/06/Deb-Bailey-Yellowstone.jpg image by Deb Bailey %}
 
 A funny thing happened during our most recent fine art printing workshop. One of our clients, a woman with a good deal of photography experience and a good eye for composition, had some difficulty with a print. 
 
@@ -31,7 +29,7 @@ The issue was what to do with the image to get it to print well. My client did n
 
 She ran the final print on Museo Fine Art Silver Rag paper, which brought out every speck of color and rendered the snow perfectly. The consensus of the group was that the print even exceeded the original on-screen image. I agree. Here is how it printed, along with the other prints from the group. 
 
-{{< figure src="/images/bli/2016/06/print-clients.jpg" title="  " >}}
+{% img /images/bli/2016/06/print-clients.jpg %}
 
 I can't wait to see all our clients' images framed and adorning walls for all to admire. 
 

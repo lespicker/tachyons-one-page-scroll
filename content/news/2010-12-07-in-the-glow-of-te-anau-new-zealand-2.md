@@ -2,6 +2,7 @@
 layout: post
 title: "In the Glow of Te Anau, New Zealand"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Lake-Te-Anau-South-Island-New-Zealand-282010-11-16.jpg
+destination: ausnz
 comments: true
 categories:
 - travel

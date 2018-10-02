@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Traveling to Haines, Alaska for Bear"
+destination: usa
 comments: true
 categories:
 - travel

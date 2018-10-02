@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "The Tsunami That Wasn't (Thank God!)"
+destination: asia
 comments: true
 categories:
-- Featured
-- News
-- Travelogue
+- travel
 tags:
 - Sri Lanka
 - tsunami

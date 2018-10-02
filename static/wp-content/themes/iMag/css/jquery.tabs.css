@@ -1,0 +1,122 @@
+/* Caution! Ensure accessibility in print and other media types... */
+@media projection, screen { /* Use class for showing/hiding tab content, so that visibility can be better controlled in different media types... */
+	.tabs-hide {
+		display:none;
+	}
+}
+
+/* Hide useless elements in print layouts... */
+@media print {
+	.tabs-nav {
+		display:none;
+	}
+}
+
+/* Skin */
+.tabs-nav {
+}
+.tabs-nav:after { /* clearing without presentational markup, IE gets extra treatment */
+	display:block;
+	clear:both;
+	content:" ";
+}
+.tabs-nav li {
+	float:left;
+	margin:0 5px 5px 0;
+	border:none !important;
+}
+
+.tabs-nav li.last { margin:0; }
+
+.tabs-nav a, .tabs-nav a span {
+	display:block;
+}
+.tabs-nav a {
+	position:relative;
+	top:1px;
+	z-index:2;
+	font-size:10px;
+	color:#B9C4CE;
+	text-align:center;
+	white-space:nowrap; /* required in IE 6 */
+	text-transform:uppercase;
+	float:left;
+	height:21px;
+}
+.tabs-nav .tabs-selected a {
+	color:#FFF;
+}
+.tabs-nav .tabs-selected a, .tabs-nav a:hover, .tabs-nav a:focus, .tabs-nav a:active {
+	background:transparent url(../images/tabnav-selected-bg.gif) no-repeat 0 1px;
+	padding-left:6px;
+	outline:0; /* prevent dotted border in Firefox */
+}
+.tabs-nav a, .tabs-nav .tabs-disabled a:hover, .tabs-nav .tabs-disabled a:focus, .tabs-nav .tabs-disabled a:active {
+	background:#F9F9F9 url(../images/tabnav-bg.gif) no-repeat 0 0;
+	padding-left:6px;
+}
+.tabs-nav a span {
+	float:left;
+	height:21px; /* IE 6 treats height as min-height */
+	min-height:21px;
+	line-height:21px;
+}
+*>.tabs-nav a span { /* hide from IE 6 */
+	width:auto;
+	height:auto;
+}
+.tabs-nav .tabs-selected a span {
+}
+.tabs-nav .tabs-selected a span, .tabs-nav a:hover span, .tabs-nav a:focus span, .tabs-nav a:active span {
+	background:transparent url(../images/tabnav-selected-bg.gif) no-repeat 100% 1px;
+	padding-right:6px;
+}
+.tabs-nav a span, .tabs-nav .tabs-disabled a:hover span, .tabs-nav .tabs-disabled a:focus span, .tabs-nav .tabs-disabled a:active span {
+	background:#F9F9F9 url(../images/tabnav-bg.gif) no-repeat 100% 0;
+	padding-right:6px;
+}
+.tabs-nav .tabs-selected a:link, .tabs-nav .tabs-selected a:visited, .tabs-nav .tabs-disabled a:link, .tabs-nav .tabs-disabled a:visited { /* @ Opera, use pseudo classes otherwise it confuses cursor... */
+	cursor:text;
+}
+.tabs-nav a:hover, .tabs-nav a:focus, .tabs-nav a:active { /* @ Opera, we need to be explicit again here now... */
+	cursor:pointer;
+	color:#CCCCCC;
+}
+.tabs-nav .tabs-disabled {
+	opacity:.4;
+}
+.tabs-container {
+	clear:left;
+	background:transparent url(../images/tab-content-bg.gif) repeat-y 0 0; /* declare background color for container to avoid distorted fonts in IE while fading */
+}
+
+.tabs-container-top {
+	background:transparent url(../images/tab-content-top-bg.gif) no-repeat 0 0;
+	padding:1px 5px 0;
+}
+
+.tabs-container-bottom {
+	background:#F1F1F1 url(../images/tab-content-bottom-bg.gif) no-repeat 0 0;
+	height:6px;
+}
+
+.tabs-loading em {
+	padding:0 0 0 20px;
+}
+
+.tabs-container ul li {
+	background:transparent url('../images/all-icons.gif') no-repeat 2px -45px;
+	line-height:28px;
+	border-bottom:1px solid #E6E6DD;
+	padding-left:20px;
+	color:#8A8A8A;
+}
+
+.tabs-container ul li.hover { background-color:#F9F9F9; }
+
+.tabs-container ul li a { color:#8A8A8A; }
+
+.tabs-container ul li a:hover { color:#4B9DED; }
+
+#tab-content { margin-bottom:10px; }
+

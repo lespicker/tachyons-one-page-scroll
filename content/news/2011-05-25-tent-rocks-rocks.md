@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tent Rocks Rocks!"
+destination: usa
 comments: true
 categories:
 - travel

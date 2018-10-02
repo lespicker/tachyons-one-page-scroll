@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Yukon Gold Miners: A Photoessay"
+destination: canada
 comments: true
 categories:
 - Travel

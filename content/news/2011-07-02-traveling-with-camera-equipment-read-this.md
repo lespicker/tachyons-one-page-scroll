@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Traveling With Camera Equipment? Read This!!"
+destination: general
 comments: true
 categories:
 - travel

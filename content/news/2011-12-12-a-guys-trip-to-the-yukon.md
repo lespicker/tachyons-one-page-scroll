@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Guy's Trip to the Yukon"
+destination: canada
 comments: true
 categories:
 - travel

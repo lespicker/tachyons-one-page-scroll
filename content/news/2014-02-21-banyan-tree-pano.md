@@ -3,8 +3,7 @@ layout: post
 title: "Creating a Pano of a Banyan Tree"
 comments: true
 categories:
-- travel
-- tips
+- how-to
 tags:
 - travel
 - tree
@@ -15,7 +14,7 @@ tags:
 - how to
 ---
 
-{{< figure src="/images/bli/2014/02/banyan-tree.jpg" title="  " >}}
+{% img /images/bli/2014/02/banyan-tree.jpg %}
 
 On a recent hike in the spectacular Haleakala National Park on the Hawaiian island of Maui, I decided to do a quick video for you on how to create a panoramic image. 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Rocky Mountains: The Rocky Mountaineer"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-Rocky-Mountaineer-2010-08-10.jpg
+destination: canada
 comments: true
 categories:
 - travel

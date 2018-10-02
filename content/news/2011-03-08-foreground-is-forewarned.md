@@ -4,7 +4,6 @@ title: "Foreground is Forewarned"
 image: 
 comments: true
 categories:
-- Featured
 - How-to
 tags:
 - accessories

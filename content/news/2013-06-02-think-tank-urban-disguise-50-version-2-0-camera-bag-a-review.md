@@ -16,7 +16,7 @@ tags:
 - Urban Disguise
 ---
 
-{{< figure src="/thinktank50.jpeg" title=" " >}}
+{% img /images/bli/2013/07/thinktank50.jpeg %}
 
 I have owned an <a href="http://www.thinktankphoto.com/products/urban-disguise-50-v2.aspx">Urban Disguise 50 (Version 2.0)</a> camera bag for two years now and have never done a review of it. Frankly, I own far too many camera bags, particularly from <a href="http://www.thinktankphoto.com/">Think Tank</a> Photo, so much so that I’m afraid my camera friends will begin to call me Imelda. But as I’ve gotten older I find that the right bag can prevent many of the aches and pains that we older photographers are prone to get.
 
@@ -44,7 +44,7 @@ Other pluses include the thoughtful little things that Think Tank does. One is t
 
 Here is a photo of the gear I packed in the UD50 to take with me for a one-month photo tour of Italy, Sicily and Malta.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/photo.jpg"><img class="size-medium wp-image-2794" title="photo" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/photo-300x225.jpg" alt="" width="300" height="225"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/photo.jpg" >}}
 
 For the record, the gear includes a Nikon D800 with attached Nikkor 24-70 f2.8, Nikkor 70-200 f2.8, Nikkor 24mm tilt-shift, Nikkor 1.4 tele-extender, Hoodman loupe, 5 Lee/Singh-Ray 4x6 filters in case, Lee large filter holder, batteries, and paraphernalia.
 
@@ -52,7 +52,7 @@ In addition, I carried my 15” MacBook Air in the purpose-built laptop compartm
 
 In this front pouch I carry lots of travel accessories, including pens, my stash of teas, business cards, earbuds, etc.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/photo-copy.jpg"><img class="alignnone size-medium wp-image-2795" title="photo copy" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/photo-copy-300x225.jpg" alt="" width="300" height="225"></a>
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/photo-copy.jpg" >}}
 
 
 I’m not sure whether the bag fools anyone into thinking this is not chock full of camera equipment (as in "Urban Disguise"), but the bag does well with one body and 2-3 lenses, filters and accessories.
@@ -66,4 +66,4 @@ You can purchase an optional backpack harness that allows you to carry it on you
  
 ### Conclusion
 
-Despite its limitations, I like the UD50 and will continue to use it for weekend trips to cities or special assignments. I will soon be reviewing Mindshift’s newest bag, the Rotation 180. Now THAT is a bag you can hike with all day, every day! Mindshift is a spinoff of ThinkTank.
+Despite its limitations, I like the UD50 and will continue to use it for weekend trips to cities or special assignments. 

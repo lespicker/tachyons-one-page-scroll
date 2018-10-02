@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Reflections on Iceland"
+destination: europe
 comments: true
 categories:
 - travel
-- tips
 tags:
 - travel
 - equipment
@@ -14,7 +14,7 @@ tags:
 - panorama
 ---
 
-{{< figure src="/images/bli/2013/09/A8398385.jpg" title="  " >}}
+{% img /images/bli/2013/09/A8398385.jpg %}
 
 Leaving Iceland today, I thought I'd offer my photographer readers some reflections about this amazing island, as well as some tips. Please check back, as I'll add items as I think of them and as you write me with your comments and suggestions (with full credit to those of you who offer tips). 
 
@@ -28,7 +28,7 @@ TIP: Bring lots of equipment. You'll need wide angles, a mid-range zoom and a me
 
 TIP: Learn how to take panoramic images and practice before you arrive. Iceland is a country of grand scenics that no wide angle can adequately represent. 
 
-{{< figure src="/images/bli/2013/09/A8398396-Panorama.jpg" title="  " >}}
+{% img /images/bli/2013/09/A8398396-Panorama.jpg %}
 
 ### Weather
 
@@ -55,7 +55,7 @@ TIP: Drive off-road. There are myriad gravel roads in Iceland that offer fun dri
 
 TIP: Buy a few 10,000Kr ($82USD) gas fill-up cards from N1 stations. The stations are ubiquitous throughout the island. The cards are good for food, too, and most N1s serve sandwiches and many have grills. The gas pumps are all automated and an attendant will be happy to explain to you how they are used. Oh, gas is expensive in Iceland (approximately $9.00USD/gallon). On our most recent trip we put on 2,400 miles and we only covered half the island. Here is my DeLorme GPS Emergency system map of my journey. 
 
-{{< figure src="/Screen-Shot.png"  >}}
+{% img /images/bli/2013/09/Screen-Shot.png %}
 
 ### People
 
@@ -68,5 +68,3 @@ TIP: Don't be afraid to stop and ask for directions, suggestions for places to p
 Lodging in Iceland can be a great, adventurous experience. On our recent 10-day visit, other than the first and last nights, we did not have any lodging reserved in advance. I set a goal of what area I want to be in on a given day, but then I like to let my photography dictate where I end up on any particular night. Yes, I have developed favorite lodging that I return to if I am in the area (I'd be happy to share them with you… just email me), but most of the time, before it begins to get dark, I find a likely B & B, usually part of a farm family's operation, and book on the spot. You get to meet friendly people, get valuable shooting intelligence, sleep in a clean bed, and start your day with a hearty breakfast. If the B & B is full, they helpfully call around to neighboring lodging to find you a place. 
 
 I always stay in the Hotel Keflavik when I fly in and out of the airport. It is a great hotel with a top-notch restaurant (Idno). It is also a solid base for an exploration of the Reykjanes peninsula, an under-rated photo paradise that you would do well to take two or three days to explore. 
-
-<div style='text-align:center;font-size:11px;font-family:arial;font-weight:normal;margin:10px;padding:0;line-height:normal'><a href='http://www.dwellable.com/a/9671/Iceland/Vacation-Rentals' style='border:none'><img src='http://www.dwellable.com/dwellback/9671.jpg' style='width:102px;height:20px;border:none;margin:0;padding:0'><br>Iceland on Dwellable</a></div>

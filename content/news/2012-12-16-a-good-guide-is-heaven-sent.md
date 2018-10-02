@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Good Guide Is Heaven Sent"
+destination: asia
 comments: true
 categories:
 - travel

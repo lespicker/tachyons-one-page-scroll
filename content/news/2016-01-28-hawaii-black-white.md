@@ -1,11 +1,10 @@
 ---
 layout: post
-title: The Big Island
+title: "The Big Island"
+destination: hawaii
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- travel
 tags:
 - photography
 - travel
@@ -16,7 +15,7 @@ tags:
 - trees
 ---
 
-{{< figure src="/images/bli/2016/01/tree-surf.jpg" title="  " >}}
+{% img /images/bli/2016/01/tree-surf.jpg %}
 
 I'm back in the Hawaiian Islands, developing a travel and landscape workshop. Right now I'm on the Big Island of Hawaii. I was just driving around, recovering from a botched flight schedule that ended up taking 26 hours, so I was not really primed for a major photo shoot. Still, I couldn't ignore what the photo gods offered up on a silver platter.
 
@@ -28,10 +27,8 @@ I shot this on my D810, with my brand-spanking new 80-400 Nikkor lens that I am 
 
 With this next image, I knew from the get-go that this would be a B&W image. The day gradually darkened as I drive to the interior. When I came across this copse of trees I liked the leading road, the grasses, the fences and the sky. Color was out of the question in my mind's eye. 
 
-{{< figure src="/images/bli/2016/01/copse-sky-road.jpg" title="  " >}}
+{% img /images/bli/2016/01/copse-sky-road.jpg %}
 
 I know I'll rework this image once I get back to the studio. I find it frustratingly difficult to work on my images on a laptop late at night while I am in a hotel room. 
 
 The specs are: D810 with 80-400 Nikkor zoom, ISO 200, 1/80 @ f11, 112mm, and -1.3 EV, tripod mounted and converted with Silver Efex Pro 2.0. 
-
-As always, please feel free to comment. 

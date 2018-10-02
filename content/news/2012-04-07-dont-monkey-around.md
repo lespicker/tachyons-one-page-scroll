@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Don't Monkey Around!"
+destination: asia
 comments: true
 categories:
 - travel

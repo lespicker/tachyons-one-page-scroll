@@ -3,9 +3,9 @@ layout: post
 title: "Of Hornworms and Other Strange Pursuits"
 comments: true
 categories:
-- Featured
 - How-to
 tags:
+- photo tip
 - tip
 - aquarium
 - macro photography

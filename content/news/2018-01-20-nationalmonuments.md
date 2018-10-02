@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Help Save Our National Monuments
-image: "/images/bli/2018/01/grand-staircase-4.jpg"
 comments: true
 categories:
-- Featured
-- Headline
-- Travelogue
+- opinion
 tags:
 - photography
 - Lester Picker
@@ -17,6 +14,9 @@ tags:
 - Bears Ears
 - environment
 ---
+
+{% img /images/bli/2018/01/grand-staircase-4.jpg %}
+
 
 If you are a regular reader of my blog, you probably know that I have a firm rule to never, ever mix politics with photography. You also know that "every rule has an exception," and this will be it!
 

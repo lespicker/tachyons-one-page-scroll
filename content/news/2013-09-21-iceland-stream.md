@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "On the Road in Iceland"
+destination: europe
 comments: true
 categories:
 - travel
-- tips
 tags:
 - travel
 - Iceland
@@ -13,7 +13,7 @@ tags:
 - panorama
 ---
 
-{{< figure src="/images/bli/2013/09/DSC_7319-Panorama.jpg" title="  " >}}
+{% img /images/bli/2013/09/DSC_7319-Panorama.jpg %}
 
 I've said this before: Iceland is incredible. Everywhere you turn is a photo opp. Here's a quick one I'll share from my travels today. 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Galapagos"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/galapagos_2007-12-12_10%C2%A9LesterPicker.jpg
+destination: "south america"
 comments: true
 categories:
 - Travel
