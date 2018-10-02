@@ -15,9 +15,9 @@ tags:
 - tourists
 - poaching
 
----
 
-{% img /images/bli/2015/03/DSC_4783-Edit.jpg %}
+image: /images/bli/2015/03/DSC_4783-Edit.jpg
+---
 
 Can you imagine a world without wild elephants? The very thought of it makes me cringe. Yet that is what we face, according to a [report released today](https://uk.news.yahoo.com/time-running-wild-african-elephants-experts-125948615.html#hl8cdNq) at the African Elephant Summit in Botswana. 
 

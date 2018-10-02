@@ -10,9 +10,9 @@ tags:
 - Iceland
 - steam vents
 - volcano
----
 
-{% img /images/bli/2013/10/DSC_7620.jpg %}
+image: /images/bli/2013/10/DSC_7620.jpg
+---
 
 We are in the process of moving my studio to larger quarters right now, so I decided to take a break from packing (yucch!) and lifting (even worse!!). With only a few minutes between those chores and two assignments, I quickly looked through some my September Iceland trip.    
 

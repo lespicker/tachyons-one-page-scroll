@@ -12,9 +12,9 @@ tags:
 - ocean
 - green
 - green flash
----
 
-{% img /images/bli/2018/02/DSC_2290.jpg %}
+image: /images/bli/2018/02/DSC_2290.jpg
+---
 
 For decades now, whenever my travels have taken me on an ocean voyage, people have told me about the proverbial "green flash" that is supposed to happen when the last sliver of the3 sun's disk is about to sink into the ocean horizon. "Yeah, right", was my reaction. I figured this was nothing but fake news. 
 

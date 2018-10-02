@@ -9,9 +9,9 @@ tags:
 - New Mexico
 - White Sands National Monument
 - landscape
----
 
-{% img /images/bli/2014/04/DSC_3428.jpg %}
+image: /images/bli/2014/04/DSC_3428.jpg
+---
 
 I finally made it to White Sands National Monument in Alamagordo, New Mexico, thanks to two photography friends who invited me to visit. Both men had taken my Nikonians photo workshop in Acadia National Park, Maine last year and we hit it off immediately. That resulted in a series of regular emails and eventually to my flying to New Mexico to check off another item on my photography bucket list. 
 

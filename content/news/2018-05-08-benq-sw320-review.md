@@ -4,9 +4,9 @@ title: "BenQ SW320, A Review"
 comments: true
 categories:
 - reviews
----
 
-{% img /images/bli/2018/05/1479872466.jpg %}
+image: /images/bli/2018/05/1479872466.jpg
+---
 
 **NOTE:** This comprehensive review of the Ben Q monitor was written by my assistant Robert Boyer, who has a great deal of expertise on monitor performance and color management. 
 

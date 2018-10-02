@@ -15,9 +15,9 @@ tags:
 - humpbacks
 - breaching
 - flukes
----
 
-{% img /images/bli/2017/02/DSC_0694.jpg  Humpback breaching %}
+image: /images/bli/2017/02/DSC_0694.jpg
+---
 
 One of the reasons I love Maui in February is the return of the humpback whales to their mating and birthing grounds. It is such a celebratory time, as boatloads of tourists revel in the spectacle of thousands of whales frolicking, singing, taking care of their babies and... breaching. 
 

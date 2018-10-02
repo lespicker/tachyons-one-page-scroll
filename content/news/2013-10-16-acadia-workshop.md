@@ -9,9 +9,9 @@ tags:
 - workshops
 - Maine
 - Acadia National Park
----
 
-{% img /images/bli/2013/10/hunters-beach-pano.JPG %}
+image: /images/bli/2013/10/hunters-beach-pano.JPG
+---
 
 Well, my annual Acadia photo workshop is over and I finally have a chance for some reflections after its, shall I say, "hectic" pace. 
 

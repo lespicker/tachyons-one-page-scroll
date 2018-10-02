@@ -9,9 +9,9 @@ tags:
 - photography
 - portraits
 - travel
----
 
-{% img /images/bli/2013/07/A0019129.jpg %}
+image: /images/bli/2013/07/A0019129.jpg
+---
 
 Bob, my associate and I were taking a lunch break from testing print profiles and got into a discussion about capturing images of local and indigenous people when traveling. It's one of those infrequent times that Bob and I completely agreed about an issue that has many times gotten us into a rage, as it turns out.
 

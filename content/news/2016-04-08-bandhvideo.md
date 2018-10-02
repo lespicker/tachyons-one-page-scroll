@@ -17,9 +17,9 @@ tags:
 - travel photography
 - tips
 - techniques
----
 
-{% img /images/bli/2016/04/travel.jpg %}
+image: /images/bli/2016/04/travel.jpg
+---
 
 Travel photography is an area of growing interest among photographers. Whether from novices or accomplished amateurs, over the past ten years I have been asked more questions about travel photography than any other topic. Steady sales of my [Travel Photography e-book](http://shop.lesterpickerphoto.com/page/110) are just one indication of that interest.  
 

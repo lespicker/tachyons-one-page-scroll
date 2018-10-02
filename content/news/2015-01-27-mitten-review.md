@@ -14,9 +14,9 @@ tags:
 - Heat 3
 - The Heat Company
 - frostbite
----
 
-{% img /images/bli/2015/01/heat-1.jpg %}
+image: /images/bli/2015/01/heat-1.jpg
+---
 
 
 Most of my friends think I'm nuts. They're probably right. The fact is I love cold weather, at least in reasonable doses. And the colder the  better. Dogsledding, snowshoeing and cross-country skiing are my preferred sports activities. 

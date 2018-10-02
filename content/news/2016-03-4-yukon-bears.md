@@ -20,9 +20,9 @@ tags:
 - Northern Lights
 - aurora
 - Aurora Borealis
----
 
-{% img /images/bli/2016/03/DSC_3150.jpg %}
+image: /images/bli/2016/03/DSC_3150.jpg
+---
 
 My assistant, Bob, and I were cleaning up some old files when I found this blog that I meant to post, but somehow forgot about. I had just returned last year from Canada's Yukon Territory, so I thought I would share it now for two reasons. 
 

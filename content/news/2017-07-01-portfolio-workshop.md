@@ -16,9 +16,9 @@ tags:
 - Portfolio development
 - inkjet printers
 - photography workshops
----
 
-{% img /images/bli/2017/07/portfolio-closeup.jpg Closeup of Portfolio Box %}
+image: /images/bli/2017/07/portfolio-closeup.jpg
+---
 
 We recently completed a 3-day workshop for advanced amateur and professional photographers to help them create their first professional quality fine art portfolios. My hat is off to Norm Arnold, Jim Harris, Lew Rothman and Jeff Wagoner, who spent an intense few days focused on culling, critiquing, post-processing (again and again), printing, sorting, sequencing and finally assembling their art into a coherent and beautiful narrative. 
 

@@ -12,9 +12,9 @@ tags:
 - portfolio
 - images
 - photos
----
 
-{% img /images/bli/2018/01/DSC9768.jpg %}
+image: /images/bli/2018/01/DSC9768.jpg
+---
 
 I was once asked by an interviewer what I thought the most difficult job in photography is. I have to admit that the question stumped me. Getting up for sunrise entered my mind. Hiking for three days with a 30-pound photo backpack to get a single shot? Telling one's spouse that you are about to spend $30,000 on a new Hasselblad digital camera system? 
 

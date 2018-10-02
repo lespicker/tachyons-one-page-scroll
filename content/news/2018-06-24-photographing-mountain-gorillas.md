@@ -16,9 +16,9 @@ tags:
 - gorillas
 - tips
 - techniques
----
 
-{% img /images/bli/2018/06/DSC_4331.jpg What a Day! %}
+image: /images/bli/2018/06/DSC_4331.jpg
+---
 
 The first stop we made in leading my recent Africa Photo Adventure was in Uganda, where we stayed at Bwindi Impenetrable Forest for a chance to photograph the WOW!-inducing mountain gorillas. 
 

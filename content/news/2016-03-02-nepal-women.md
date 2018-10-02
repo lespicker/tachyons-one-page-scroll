@@ -10,9 +10,9 @@ tags:
 - women
 - work
 - earthquake
----
 
-{% img /images/bli/2016/03/DSC_0701.jpg %}
+image: /images/bli/2016/03/DSC_0701.jpg
+---
 
 One of the not-so-surprising things I found on my recent visit to Nepal last year is just how hard the women there work. I found that as true in cities like Kathmandu as it is in the hardscrabble rural areas. 
 

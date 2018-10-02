@@ -12,9 +12,9 @@ tags:
 - Maui
 - rainbow
 - technique
----
 
-{% img /images/bli/2016/02/maui-rainbow.jpg %}
+image: /images/bli/2016/02/maui-rainbow.jpg
+---
 
 Earlier this week I posted an image of a full Maui rainbow that I happened to see while driving on my first day here. One of the things I love photographically in Maui is the chance to witness and to photograph rainbows. They are such a visual candy store. 
 

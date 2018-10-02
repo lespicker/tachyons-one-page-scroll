@@ -11,9 +11,9 @@ tags:
 - improvement
 - practice
 - better photography
----
 
-{% img /images/bli/2018/01/DSC_1503.jpg %}
+image: /images/bli/2018/01/DSC_1503.jpg
+---
 
 I was asked to speak to the delightful Harford County, Maryland, Photography Club (led by visionary Steve Sattler) at the end of last year. Specifically, they asked me to address the issue of the journey one should be on to be a better photographer. Believe me, I thought deeply about this talk, as it is a topic that is  dear to my heart as a photography educator. Here is what I came up with, but it's obviously the opinion of only one photographer. Feel free to leave your own thoughts in the comments/discussion section. 
 

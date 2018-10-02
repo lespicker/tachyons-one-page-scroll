@@ -13,9 +13,9 @@ tags:
 - travel
 - red rocks
 
----
 
-{% img /images/bli/2014/10/DSC_6374-Panorama.jpg %}
+image: /images/bli/2014/10/DSC_6374-Panorama.jpg
+---
 
 On my trip early this fall to Sedona, I hiked to the same spot three or four times over as many days, before capturing the cover image here. I’m not claiming that this one qualifies for a Limited Edition designation. Still, I’d like to spend a few paragraphs discussing it, because I think there are lessons to be learned for photographers willing to up their game. 
 

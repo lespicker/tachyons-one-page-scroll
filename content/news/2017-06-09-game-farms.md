@@ -12,9 +12,9 @@ tags:
 - travel
 - workshops
 - photography
----
 
-{% img /images/bli/2017/06/DSC_0873-Edit.jpg Wild lioness in South Africa %}
+image: /images/bli/2017/06/DSC_0873-Edit.jpg
+---
 
 Please read no further if you get uncomfortable with someone ranting, because this is bound to be an emotional rant. 
 

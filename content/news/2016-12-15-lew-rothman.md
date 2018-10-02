@@ -13,9 +13,9 @@ tags:
 - prints
 - printing
 - exhibit
----
 
-{% img /images/bli/2016/12/rothman-1.jpeg Rothman in front of his exhibit %}
+image: /images/bli/2016/12/rothman-1.jpeg
+---
 
 One of the pleasures of being a photography workshop leader is seeing your clients excel. A few years ago, Dr. Lew Rothman, a retired physician, took my Acadia National Park workshop and I was immediately impressed by his work and his very considered and mindful approach to photography. We have kept in touch ever since. So, it was no surprise to hear that Lew's work is now on exhibit in the New York area. 
 

@@ -9,9 +9,9 @@ tags:
 - street photography
 - Thomas Leuthard
 - black and white
----
 
-{% img /images/bli/2016/03/leuthard.jpg Thomas Leuthard %}
+image: /images/bli/2016/03/leuthard.jpg
+---
 
 I like to think that I know something about street photography, having traveled the world while capturing some decent images of people going about their daily routines, celebrating milestones, or participating in festivals. But after viewing the work of [Thomas Leuthard](http://thomas.leuthard.photography/) I realize how little I really know about the subject. And if you stick around I'll tell you how to get his stunning work for free. 
 

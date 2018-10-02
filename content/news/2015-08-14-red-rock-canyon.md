@@ -13,9 +13,9 @@ tags:
 - tourists
 - rock formations
 - landscape
----
 
-{% img /images/bli/2015/08/red-rock-canyon-1.jpg %}
+image: /images/bli/2015/08/red-rock-canyon-1.jpg
+---
 
 Today I'll do two photo shoots in the same locale, followed by one other tomorrow at sunrise. I'm speaking of the Red Rock Canyon National Conservation Area, just 25 minutes from downtown Las Vegas. That's right, only 25 minutes outside of one of the most frenetic and bizarre cities in the world. 
 

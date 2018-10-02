@@ -12,9 +12,9 @@ tags:
 - review
 - product
 - product review
----
 
-{% img /images/bli/2016/04/bag-1.jpg %}
+image: /images/bli/2016/04/bag-1.jpg
+---
 
 Every so often I am sent photography-related products to review for my readers (that would be YOU!). In most cases I refuse, since I, and most of my readers, would never have a need for such a product. But in those instances where I can see the need for a product that my readers would be interested in, I agree to a review. However, I always stipulate that I give 100% candid reviews based on my experience and opinions. Seller beware!
 

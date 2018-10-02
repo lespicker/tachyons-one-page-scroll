@@ -20,9 +20,9 @@ tags:
 - landscapes
 - sunrise
 - sunset
----
 
-{% img /images/bli/2018/07/DSC_7585.jpg %}
+image: /images/bli/2018/07/DSC_7585.jpg
+---
 
 So many tourists go to the Serengeti and start their day with a hearty breakfast and then head out for a leisurely Rover ride to see the incredible wildlife. If only they realized that by then they have missed one of the high dramas of the day.
 

@@ -15,9 +15,9 @@ tags:
 - photographer
 - Sacra Infermeria
 - Valetta
----
 
-{% img /images/bli/2013/07/DSC_0371.jpg %}
+image: /images/bli/2013/07/DSC_0371.jpg
+---
 
 If you are a photographer who has not visited Malta, book that trip now. If you do not have Malta on your bucket list, add it now.  I’ve just wound up a 5-day trip to this wonderful, exciting and visually dynamic island nation and I am already planning a second, more extensive two- or three-week return visit.
 

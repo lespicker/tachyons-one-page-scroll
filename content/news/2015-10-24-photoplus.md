@@ -11,9 +11,9 @@ tags:
 - PhotoPlus
 - conference
 - equipment
----
 
-{% img /images/bli/2015/10/FullSizeRender.jpg %}
+image: /images/bli/2015/10/FullSizeRender.jpg
+---
 
 (All images iPhone photos.)
 

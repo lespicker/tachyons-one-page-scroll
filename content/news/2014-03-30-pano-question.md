@@ -11,9 +11,9 @@ tags:
 - Nikon
 - photography
 - D800
----
 
-{% img /images/bli/2014/03/DSC_6960.jpg %}
+image: /images/bli/2014/03/DSC_6960.jpg
+---
 
 I received an interesting question from a reader last week concerning [my blog](http://www.lesterpickerphoto.com/2014/02/25/multi-row-pano/) and my overly long [Youtube video](http://www.youtube.com/watch?v=edgmob9gtQ4&feature=share&list=UUq6TJZjUFp877PkgeJkETew&index=1) showing how I record panorama images. I thought I'd share his question and my response.
 

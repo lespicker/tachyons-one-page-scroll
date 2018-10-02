@@ -12,9 +12,9 @@ tags:
 - Hawaii
 - Maui
 - how to
----
 
-{% img /images/bli/2014/02/banyan-tree.jpg %}
+image: /images/bli/2014/02/banyan-tree.jpg
+---
 
 On a recent hike in the spectacular Haleakala National Park on the Hawaiian island of Maui, I decided to do a quick video for you on how to create a panoramic image. 
 

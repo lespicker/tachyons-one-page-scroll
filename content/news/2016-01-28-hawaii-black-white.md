@@ -13,9 +13,9 @@ tags:
 - Black and white
 - surf
 - trees
----
 
-{% img /images/bli/2016/01/tree-surf.jpg %}
+image: /images/bli/2016/01/tree-surf.jpg
+---
 
 I'm back in the Hawaiian Islands, developing a travel and landscape workshop. Right now I'm on the Big Island of Hawaii. I was just driving around, recovering from a botched flight schedule that ended up taking 26 hours, so I was not really primed for a major photo shoot. Still, I couldn't ignore what the photo gods offered up on a silver platter.
 

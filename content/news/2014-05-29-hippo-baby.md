@@ -16,9 +16,9 @@ tags:
 - hippopotamus
 - tourists
 
----
 
-{% img /images/bli/2014/05/DSC_1779.jpg %}
+image: /images/bli/2014/05/DSC_1779.jpg
+---
 
 We had a grand morning on an otherwise slow viewing day at Kruger National Park. By slow, let me clarify. We saw 14 different non-bird species this day, including elephants, giraffes, white rhino, impala, kudus, baboons, vervet monkeys, crocs, blue wildebeest, and zebra. But with no sightings of lions, leopards or cheetahs... well, let's just say one gets a bit jaded in this wildlife paradise. 
 

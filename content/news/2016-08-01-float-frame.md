@@ -13,9 +13,9 @@ tags:
 - Moab
 - Moab Desert Varnish
 - Lester Picker Photography
----
 
-{% img /images/bli/2016/08/elephant-1.jpg %}
+image: /images/bli/2016/08/elephant-1.jpg
+---
 
 Having just come on board as a Moab Master, I published a do-it-yourself article on how to create your own [professional float frames](http://moabpaper.com/blog/2016/7/27/making-your-own-floating-frames.html). Hope you try it out. I think you'll be pleased. 
 

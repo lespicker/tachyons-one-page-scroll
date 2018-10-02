@@ -15,9 +15,9 @@ tags:
 - elephants
 - tourists
 
----
 
-{% img /images/bli/2014/09/DSC_6726.jpg Buddhist pilgrims visiting the caves %}
+image: /images/bli/2014/09/DSC_6726.jpg
+---
 
 After 17 hours in the air, plus a two-hour layover between flight segments, we arrived in Sri Lanka today safe and unsound, having landed at 3:30 AM. I have the hardest time sleeping on planes nowadays. I'm not certain how much of that is due to aging and how much is due to my having an aversion to sleeping in a sardine can. 
 

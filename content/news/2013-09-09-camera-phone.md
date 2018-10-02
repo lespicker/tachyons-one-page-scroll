@@ -12,9 +12,9 @@ tags:
 - Snapseed
 - Canada
 - Lake Louise
----
 
-{% img /images/bli/2013/09/pano-1.JPG %}
+image: /images/bli/2013/09/pano-1.JPG
+---
 
 If there is one piece of equipment that has permanently transformed photography, it has got to be the camera phone. These ubiquitous devices have truly revolutionized photography. Able to be carried everywhere in your pocket or purse, today's camera phones have insane levels of resolution and color accuracy. 
 

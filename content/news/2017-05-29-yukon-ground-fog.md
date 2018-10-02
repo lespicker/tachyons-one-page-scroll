@@ -15,9 +15,9 @@ tags:
 - Arctic Ocean
 - McKenzie Delta
 - Northwest Territories
----
 
-{% img /images/bli/2017/05/DSC_5618.jpg %}
+image: /images/bli/2017/05/DSC_5618.jpg
+---
 
 There is an unusual weather phenomenon that happens in the far north of Yukon Territory, near its border with Northwest Territories. I've been fortunate enough to experience it several times and during last year's Yukon Photo Adventure my clients also marveled at it. 
 

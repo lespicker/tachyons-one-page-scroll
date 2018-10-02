@@ -15,9 +15,9 @@ tags:
 - Museo
 - Museo Fine Art Media
 - Museo Silver Rag
----
 
-{% img /images/bli/2016/06/Deb-Bailey-Yellowstone.jpg image by Deb Bailey %}
+image: /images/bli/2016/06/Deb-Bailey-Yellowstone.jpg
+---
 
 A funny thing happened during our most recent fine art printing workshop. One of our clients, a woman with a good deal of photography experience and a good eye for composition, had some difficulty with a print. 
 

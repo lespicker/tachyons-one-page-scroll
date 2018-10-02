@@ -11,9 +11,9 @@ tags:
 - east coast
 - horses
 - waterfall
----
 
-{% img /images/bli/2013/09/DSC_6874.jpg %}
+image: /images/bli/2013/09/DSC_6874.jpg
+---
 
 Travelers always mention Icelandic sheep, and with good reason. They are ubiquitous on farms and when they get out of their fences, a frequent occurrence, they amble across major roads, or scurry away from passing cars on secondary gravel roads. True to form, I've taken more than my share of Icelandic sheep photos. But there is more to the livestock story here in Iceland, and that involves the hardy Icelandic horse.
 

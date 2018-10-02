@@ -15,9 +15,9 @@ tags:
 - elephants
 - tourists
 
----
 
-{% img /images/bli/2014/05/DSC_1410.jpg %}
+image: /images/bli/2014/05/DSC_1410.jpg
+---
 
 You just have to love South Africa's Kruger National Park. Would you rather have a traffic jam on your nearest city beltway or be stopped by a herd of wild elephants crossing the road to get to their favorite watering hole? C'mon, fess up!
 

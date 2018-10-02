@@ -14,9 +14,9 @@ tags:
 - wildlife
 - gorillas
 - mouintain gorillas
----
 
-{% img /images/bli/2018/06/DSC_8174.jpg African Sunset %}
+image: /images/bli/2018/06/DSC_8174.jpg
+---
 
 Here's a question for you... why does going to Africa feel like going home, to me anyway? I realize that sounds like a dumb question, but I do mean to ask it. And I'm not speaking mainly of photography.
 

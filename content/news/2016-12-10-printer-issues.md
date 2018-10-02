@@ -12,9 +12,9 @@ tags:
 - test prints
 - nozzle check
 - system cleaning
----
 
-{% img /images/bli/2016/12/canon-1000-twins.jpg %}
+image: /images/bli/2016/12/canon-1000-twins.jpg
+---
 
 Last week we had a major printer glitch in our studio and I figure it was instructive enough for a blog. Since we teach fine art printing workshops regularly, we get a good share of questions from the alumni of our workshops and from online printmakers. But this case even stumped us for a while.
 

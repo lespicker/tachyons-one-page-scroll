@@ -9,9 +9,9 @@ tags:
 - review
 - Nikon
 - Nikon D850
----
 
-{% img /images/bli/2017/10/nikond850.jpg %}
+image: /images/bli/2017/10/nikond850.jpg
+---
  
 Let's get one thing straight from the get-go. I am decidedly not a gear-head. I never do reviews of photo equipment in which I delve into performance curves, charts and statistics, most of which I believe is entirely besides the point. 
 

@@ -13,9 +13,9 @@ tags:
 - Peru
 - hotel
 
----
 
-{% img /images/bli/2017/10/DSC_0337.jpg %}
+image: /images/bli/2017/10/DSC_0337.jpg
+---
 
 I generally do not consider myself a scaredy-cat, afraid to take prudent risks. The operative word is prudent. 
 

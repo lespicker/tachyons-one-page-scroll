@@ -17,9 +17,9 @@ tags:
 - photography
 - travel
 - workshop
----
 
-{% img /images/bli/2016/09/grizzly-1.jpg Jeff Wagner image %}
+image: /images/bli/2016/09/grizzly-1.jpg
+---
 
 **"There are strange things done in the midnight sun..."**
 

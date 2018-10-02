@@ -11,9 +11,9 @@ tags:
 - Canada
 - sunrise
 - Hasselblad
----
 
-{% img /images/bli/2013/08/moraine-lake-partial.jpg %}
+image: /images/bli/2013/08/moraine-lake-partial.jpg
+---
 
 Well, it was another interesting day out in the Canadian Rockies. I started the day at Moraine Lake, one of my favorite spots in North America. Maybe it's because of how intimate it seems to me, or the grand mountainous arc that protects this blue jewel. 
 

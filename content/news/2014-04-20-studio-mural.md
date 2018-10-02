@@ -11,9 +11,9 @@ tags:
 - studio
 - photography
 - mural
----
 
-{% img /images/bli/2014/04/photo-2.JPG %}
+image: /images/bli/2014/04/photo-2.JPG
+---
 
 Exciting things are happening in my studio. Two weeks ago we printed the wall covering panels for the 28-foot curved space that I had the contractors purpose-build for my studio. 
 

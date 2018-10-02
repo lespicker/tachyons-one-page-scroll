@@ -12,9 +12,9 @@ tags:
 - Garden of the Gods
 - landscape
 - Colorado Springs
----
 
-{% img /images/bli/2015/04/DSC_7061.jpg %}
+image: /images/bli/2015/04/DSC_7061.jpg
+---
 
 I was in Colorado Springs today, shooting in the must-stop for photographers, the Garden of the Gods. Few places in the world afford so many photo opps as this unique park.  
 

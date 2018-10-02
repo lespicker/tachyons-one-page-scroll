@@ -14,9 +14,9 @@ tags:
 - printing
 - Moab
 - fine art paper
----
 
-{% img /images/bli/2017/02/canon-moab-print.jpg %}
+image: /images/bli/2017/02/canon-moab-print.jpg
+---
 
 As a Moab Master photographer I'm often asked whether we create our own ICC profiles for our studio prints. After all, we do charge a premium for our work, so one might assume that we go through the intense machinations needed to create our own profiles, right?
 

@@ -16,9 +16,9 @@ tags:
 - Prints
 - inkjet printers
 - photography workshops
----
 
-{% img /images/bli/2017/08/IMG_1254.JPG %}
+image: /images/bli/2017/08/IMG_1254.JPG
+---
 
 Another of our day-long Fine Art Print workshops recently ended. I'd like to share some observations about it, our clients and us. 
 

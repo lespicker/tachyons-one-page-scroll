@@ -10,9 +10,9 @@ tags:
 - masters
 - lessons
 - inspiration
----
 
-{% img /images/bli/2016/07/shun-ebook-cover.jpg %}
+image: /images/bli/2016/07/shun-ebook-cover.jpg
+---
 
 I've been a photographer for (gulp!!) more than half a century. In that time I have worked with, watched and studied some of the best photographers in their respective genres. Then, about 30 years ago, it dawned on me (duh!!) that perhaps these terrific photographers had some secrets that I should uncover in order to up my own game. And so, I began to research this angle in earnest.
 

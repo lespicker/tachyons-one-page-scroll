@@ -11,9 +11,9 @@ tags:
 - Nevada
 - rock formations
 - landscape
----
 
-{% img /images/bli/2015/08/VofF-3.jpg %}
+image: /images/bli/2015/08/VofF-3.jpg
+---
 
 Ask one hundred people to recall anything about Nevada and chances are 99% of them will immediately say Las Vegas. Sad, really, because Nevada is an incredibly diverse state, especially for we landscape photographers. 
 

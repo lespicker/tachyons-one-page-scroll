@@ -13,9 +13,9 @@ tags:
 - travel photography
 - ebook
 - travel ebook
----
 
-{% img /images/bli/2016/01/travel-cover.jpg %}
+image: /images/bli/2016/01/travel-cover.jpg
+---
 
 A week or two ago I launched my latest e-Book, titled [Travel Photography](http://shop.lesterpickerphoto.com/page/110). This is a book that I've wanted to put together for several years and I was finally able to write it this past summer. But writing was only half of the battle. I also had to coordinate more than 100 images to illustrate the various elements of the book. It was, as the saying goes, a labor of love.
 

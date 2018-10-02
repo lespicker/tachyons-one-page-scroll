@@ -13,9 +13,9 @@ tags:
 - Africa
 - poachers
 - poaching
----
 
-{% img /images/bli/2013/07/DSC_1535.jpg %}
+image: /images/bli/2013/07/DSC_1535.jpg
+---
 
 I am feeling sick right now; literally sick to my stomach. I've just read yet another story about the slaughter of elephants in Africa by poachers feeding the world trade in ivory. Police in Hong Kong intercepted a stash of 4,800 pounds of elephant tusks destined for China. [Last October they intercepted a haul of 8,500 pounds!](http://www.nytimes.com/2013/07/20/world/asia/hong-kong-seizes-smuggled-elephant-tusks.html?hpw)
 

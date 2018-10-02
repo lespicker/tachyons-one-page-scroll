@@ -17,9 +17,9 @@ tags:
 - Sicily
 - Trapani
 - village
----
 
-{% img /images/bli/2013/07/DSC_9844.jpg %}
+image: /images/bli/2013/07/DSC_9844.jpg
+---
 
 If you’re photo travel plans include Sicily, you will not want to miss the small, medieval town of Erice. Situated on a mountaintop near Trapani, on the southern coast, Erice is reached by car, private and public bus, or cable car.
 

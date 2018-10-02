@@ -13,9 +13,9 @@ tags:
 - photography
 - Really Right Stuff
 - Gitzo tripod
----
 
-{% img /images/bli/2014/02/DSC_0884.jpg  %}
+image: /images/bli/2014/02/DSC_0884.jpg
+---
 
 My clients love wall murals and super-large prints with impact. Early on we learned that the only way to get large prints or wallpaper that covers an entire wall and looks wonderfully detailed, was to employ some advanced panorama creating techniques.
 

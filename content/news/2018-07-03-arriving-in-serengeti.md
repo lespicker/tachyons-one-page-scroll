@@ -17,9 +17,9 @@ tags:
 - elephants
 - zebras
 - wildebeests
----
 
-{% img /images/bli/2018/07/IMG_2751.jpg %}
+image: /images/bli/2018/07/IMG_2751.jpg
+---
 
 We were picked up by our guides at the dirt strip airport on the Serengeti in late afternoon, after spending four adrenaline fueled days in Uganda visiting with the mountain gorillas in Bwindi Impenetrable Forest National Park. 
 

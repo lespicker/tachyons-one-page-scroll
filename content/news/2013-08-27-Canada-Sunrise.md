@@ -11,9 +11,9 @@ tags:
 - Canada
 - sunrise
 - Hasselblad
----
 
-{% img /images/bli/2013/08/wedge-pond-sunrise.jpg %}
+image: /images/bli/2013/08/wedge-pond-sunrise.jpg
+---
 
 It's now 4:00 PM in Banff National Park in Canada. I've been up since 4:00 AM on my first day here this year, hoping to catch a nice sunrise at Kananaskis Regional Park en route to Banff. Judging from this unprocessed image from my camera, I think I did.  
 

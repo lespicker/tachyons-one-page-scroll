@@ -11,9 +11,9 @@ tags:
 - Hoodman
 - multi-tool
 - carabiner
----
 
-{% img /images/bli/2015/12/Crucial-Multi-Tool-Green_fulljpg.jpg %}
+image: /images/bli/2015/12/Crucial-Multi-Tool-Green_fulljpg.jpg
+---
 
 When pros write about cameras, lenses, tripods and the other "big guns" of photography, we often ignore the finer elements of the game. By that I mean the tiny things that can often make difference between a successful photo outing and failure, or perhaps an easier shooting session rather than a frustrating one. 
 

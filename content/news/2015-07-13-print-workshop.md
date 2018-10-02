@@ -12,9 +12,9 @@ tags:
 - Canon
 - photography
 - workshop
----
 
-{% img /images/bli/2015/07/DSC_3543.jpg Bob working with the group %}
+image: /images/bli/2015/07/DSC_3543.jpg
+---
 
 We just finished another hands-on fine art printing workshop and  we are humbled by the anonymous written evaluations, which were raves; everyone learned a lot, we all had lots of fun, and the resulting fine art prints were amazingly good.
 

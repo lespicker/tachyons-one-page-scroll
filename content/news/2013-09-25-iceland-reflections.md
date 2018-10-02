@@ -12,9 +12,9 @@ tags:
 - east coast
 - waterfalls
 - panorama
----
 
-{% img /images/bli/2013/09/A8398385.jpg %}
+image: /images/bli/2013/09/A8398385.jpg
+---
 
 Leaving Iceland today, I thought I'd offer my photographer readers some reflections about this amazing island, as well as some tips. Please check back, as I'll add items as I think of them and as you write me with your comments and suggestions (with full credit to those of you who offer tips). 
 

@@ -10,9 +10,9 @@ tags:
 - printer
 - large format
 - photography
----
 
-{% img /images/bli/2015/10/DSC_3475.jpg %}
+image: /images/bli/2015/10/DSC_3475.jpg
+---
 
 # The Print-A-Thon
 

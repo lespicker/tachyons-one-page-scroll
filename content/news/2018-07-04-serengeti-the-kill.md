@@ -20,9 +20,9 @@ tags:
 - predator
 - prey
 - ecosystem
----
 
-{% img /images/bli/2018/06/DSC_8215.jpg Watching Mom %}
+image: /images/bli/2018/06/DSC_8215.jpg
+---
 
 
 It was early morning and we had already been out since before sunrise. Our phenomenal Thomson Safaris guide, Robert, spotted a pride of lions not 100 yards from the dirt road. The young were intently peering into the distance. 

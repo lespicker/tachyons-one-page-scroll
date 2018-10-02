@@ -19,9 +19,9 @@ gallery:
 - [DSC_2859.jpg, ""]
 - [DSC_2861.jpg, ""]
 - [DSC_4783-Edit.jpg, ""]
----
 
-{% img /images/bli/2014/07/DSC_2887.jpg %}
+image: /images/bli/2014/07/DSC_2887.jpg
+---
 
 I have to say that I love elephants; baby elephants, mother elephants, huge bulls, ones with tusks and those without. On my just completed trip to South Africa I was blessed with lots of opportunities to view elephants. I'll venture to share some thoughts about photographing elephants. 
 

@@ -8,9 +8,9 @@ tags:
 - art
 - light
 - lighting
----
 
-{% img /images/bli/2013/12/van-gogh-1.JPG %}
+image: /images/bli/2013/12/van-gogh-1.JPG
+---
 
 In the midst of our recent move we decided to take a break and visit the National Gallery in Washington, DC, something we do a couple of times each year. My initial purpose in going was to see the marvelous Vincent Van Gogh painting, "Green Wheat Fields, Auvers" that is being exhibited in public for the first time since 1966. 
 

@@ -14,9 +14,9 @@ tags:
 - humpbacks
 - breaching
 - flukes
----
 
-{% img /images/bli/2016/02/DSC_7919.jpg  Humpback breaching %}
+image: /images/bli/2016/02/DSC_7919.jpg
+---
 
 In my last week on Maui each year, I try to blog about one of my favorite animals, humpback whales. These 45-ton behemoths are truly gentle giants, traveling 2,500 long miles from Alaska to the warm, relatively shallow waters off Maui. 
 

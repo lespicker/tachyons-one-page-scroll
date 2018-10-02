@@ -18,9 +18,9 @@ tags:
 - wildebeests
 - trees
 - landscapes
----
 
-{% img /images/bli/2018/07/DSC_6572.jpg %}
+image: /images/bli/2018/07/DSC_6572.jpg
+---
 
 Sure, it's true that we photographers spend boku bucks and long hours traveling to safaris in Africa to record the magnificent wildlife playing out the cycle of life and death before our eyes and cameras. But, there is more to Africa than wildlife… lots more.
 

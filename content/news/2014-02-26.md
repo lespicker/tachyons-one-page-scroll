@@ -12,9 +12,9 @@ tags:
 - Maui
 - photography
 - whales
----
 
-{% img /images/bli/2014/02/DSC_1712.jpg %}
+image: /images/bli/2014/02/DSC_1712.jpg
+---
 
 Okay, so I'm a bit obsessed with whales. Get over it! In this case I honestly was not out to photograph the beasties. I was doing some landscapes in the cove you see in the image above, when my wife yelled to come over to the cliff edge. In the cove below us was a mom and her two calves. 
 

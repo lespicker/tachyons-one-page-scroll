@@ -11,9 +11,9 @@ tags:
 - review
 - travel
 - tripod
----
 
-{% img /images/bli/2013/07/427006211_109.jpg %}
+image: /images/bli/2013/07/427006211_109.jpg
+---
 
 I just returned from a 30-day photo excursion to Italy, Sicily, the Egadi Islands and Malta, a trip that caused me not a small amount of angst before we left. That’s because I usually lug around some 30-40 pounds (14-18 kg) of equipment with me on my landscape adventures, including a Gitzo 3541 tripod with a Really Right Stuff ballhead that alone clocks in at 8 pounds! I needed some real neck and back relief!
 

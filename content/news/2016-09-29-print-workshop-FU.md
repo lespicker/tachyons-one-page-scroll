@@ -11,9 +11,9 @@ tags:
 - pano
 - print
 - printing
----
 
-{% img /images/bli/2016/10/kevin-duncan-print.jpg %}
+image: /images/bli/2016/10/kevin-duncan-print.jpg
+---
 
 We just completed another of our limited seating fine art printing workshops and I thought I'd share some images and a video with you. 
 

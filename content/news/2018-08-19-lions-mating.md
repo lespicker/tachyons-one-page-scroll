@@ -14,9 +14,9 @@ tags:
 - serengeti
 - lions
 - mating
----
 
-{% img /images/bli/2018/08/DSC_9724.jpg Mated Pair %}
+image: /images/bli/2018/08/DSC_9724.jpg
+---
 
 
 Pornography warning! 

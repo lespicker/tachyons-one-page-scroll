@@ -15,9 +15,9 @@ tags:
 - landscape
 - sunrise
 - morning
----
 
-{% img /images/bli/2015/08/DSC_1024.jpg %}
+image: /images/bli/2015/08/DSC_1024.jpg
+---
 
 I'm dedicating this blog to Audrey, my high school sweetheart, who has hiked in these very canyons. I hope they bring back wonderful memories for you and your family. 
 

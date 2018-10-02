@@ -15,9 +15,9 @@ tags:
 - humpbacks
 - breaching
 - flukes
----
 
-{% img /images/bli/2017/02/DSC_0591.jpg %}
+image: /images/bli/2017/02/DSC_0591.jpg
+---
 
 It  is said that the sunsets on Maui are the most spectacular in the world. Whether that is a fact or an alternate fact I can't say, but I can tell you that Maui sunsets are gorgeous. 
 

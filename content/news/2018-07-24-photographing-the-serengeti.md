@@ -19,9 +19,9 @@ tags:
 - tips
 - techniques
 - landscape
----
 
-{% img /images/bli/2018/07/DSC_8901-2.jpg %}
+image: /images/bli/2018/07/DSC_8901-2.jpg
+---
 
 I don't believe it makes a difference whether you are professional wildlife photographer or a serious amateur landscape photographer. I suspect that every photographer dreams of a photo trip to Tanzania's amazing Serengeti National Park and Ngorongoro Crater. 
 

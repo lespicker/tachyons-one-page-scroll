@@ -10,9 +10,9 @@ tags:
 - framing
 - digital printing
 - B and H photo
----
 
-{% img /images/bli/2018/04/099A3717.jpg %}
+image: /images/bli/2018/04/099A3717.jpg
+---
 
 If you you are a photographer who loves prints, you probably have a love-hate relationship with framing your images. If you outsource your framing needs, then you probably have a side job to finance those exorbitant costs. If you frame your prints yourself, you know how time consuming that chore is. Well, I'm about to offer some help!
 

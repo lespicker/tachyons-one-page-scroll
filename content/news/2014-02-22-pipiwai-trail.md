@@ -13,9 +13,9 @@ tags:
 - waterfalls
 - Pipiwai Trail
 - Haleakala National Park
----
 
-{% img /images/bli/2014/02/DSC_8920.jpg Oheo Gulch waterfalls %}
+image: /images/bli/2014/02/DSC_8920.jpg
+---
 
 Tourists who come to Hawaii's Maui island invariably drive the infamous/wondrous Road to Hana at some point during their stay. This 50-mile route winds, twists and hair-pin turns over dozens of narrow, one-car bridges as it treats visitors with drop-dead gorgeous ocean vistas, cascading waterfalls and lush jungles. The road is almost always listed as one of the top ten scenic drives in the world. 
 

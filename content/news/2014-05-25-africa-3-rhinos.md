@@ -15,9 +15,9 @@ tags:
 - rhinoceros
 - poaching
 
----
 
-{% img /images/bli/2014/05/DSC_0684.jpg %}
+image: /images/bli/2014/05/DSC_0684.jpg
+---
 
 We had just rounded a curve on a dusty back road in South Africa's Kruger National Park. What I saw made me gasp. The road dipped and rose again and atop the rise was an animal I first thought was an elephant. It took my staggered brain a second or two to register that I was looking at a prime example of a male white rhinoceros.
 

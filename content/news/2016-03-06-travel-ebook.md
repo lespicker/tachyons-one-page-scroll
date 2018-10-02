@@ -9,9 +9,9 @@ tags:
 - travel
 - ebook
 - instruction
----
 
-{% img /images/bli/2015/12/travel-cover.jpg %}
+image: /images/bli/2015/12/travel-cover.jpg
+---
 
 It's been an incredible two months. After a worldwide travel schedule, I was able to use this summer and Fall to complete two photography books that I have been wanting to share with you. The first one - Travel Photography - has been available for the past few months on a selective basis and the reviews have been overwhelmingly positive. 
 

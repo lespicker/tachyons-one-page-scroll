@@ -10,9 +10,9 @@ tags:
 - praying mantis
 - close-up
 - macro
----
 
-{% img /images/bli/2017/10/DSC_4620.jpg %}
+image: /images/bli/2017/10/DSC_4620.jpg
+---
 
 ***Note: all images here were taken by me over the past several decades.***  
 

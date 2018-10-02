@@ -5,8 +5,9 @@ destination: canada
 categories: 
 - travel
 comments: false
+
+image: /images/LAP3652.jpg
 ---
-{% img /images/LAP3652.jpg $1500. %}
 
 ---
 

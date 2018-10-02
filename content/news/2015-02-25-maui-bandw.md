@@ -28,9 +28,9 @@ gallery:
 - [DSC_6299.jpg, "Bamboo Forest"]
 - [DSC_6577.jpg, "Yucca"]
 - [DSC_6593.jpg, "Rocky Beach"]
----
 
-{% img /images/bli/2015/02/DSC_6283.jpg Hidden Falls %}
+image: /images/bli/2015/02/DSC_6283.jpg
+---
 
 Aloha! February is, once again, ending, and with it my annual visit to Maui. (I know, life is tough, but someone's got to do it.) I'm used to not getting any sympathy from friends about the work I have to do while in Maui, but I have to admit that I'm not missing the weather back east. In any event, I wanted to share with you a photography insight about Maui that I had on this visit. 
 

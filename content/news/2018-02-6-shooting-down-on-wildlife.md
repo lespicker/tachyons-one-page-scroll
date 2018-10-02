@@ -11,9 +11,9 @@ tags:
 - Africa
 - whales
 - Maui
----
 
-{% img /images/bli/2018/02/DSC_1535.jpg %}
+image: /images/bli/2018/02/DSC_1535.jpg
+---
 
 Telephoto lenses are the domain of wildlife photographers. We never seem to get close enough to wildlife. We want to record them large enough to fill the frame. Moving closer, as long as you are safe, usually gives better results. However, regardless of whether you are close or far, one thing is for sure. Try not to shoot downward toward wildlife (dogs and cats, sure, but not majestic wildlife). 
 

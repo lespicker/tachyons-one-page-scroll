@@ -15,9 +15,9 @@ tags:
 - fall foliage
 - ferns
 - forest
----
 
-{% img /images/bli/2015/10/DSC_3756.jpg %}
+image: /images/bli/2015/10/DSC_3756.jpg
+---
 
 If you read [my blog yesterday](http://www.lesterpickerphoto.com/2015/10/12/maine-fall/) you'd know that I had a near perfect photo day. The one image I included in my blog was of reflections over a tidal inlet. I kinda suspected that the photo gods would not grant another day quite like that. Turns out I was right. 
 

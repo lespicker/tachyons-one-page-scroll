@@ -11,9 +11,9 @@ tags:
 - commercial
 - hospital
 - award
----
 
-{% img /images/bli/2016/04/sinai-wallpaper.jpg 30-foot mural %}
+image: /images/bli/2016/04/sinai-wallpaper.jpg
+---
 
 Please allow us to brag a bit. [Architect Magazine](http://www.architectmagazine.com/project-gallery/traumatic-brain-injury-unit-at-sinai-hospital) recently published coverage of Sinai Hospital's Traumatic Brain Injury Unit (Baltimore, Maryland), for which we were selected as exclusive artists. This state-of-the-art facility was designed and built by one of the country's premier architectural design-build companies, Hord, Coplan and Macht (HCM). We are proud and honored to have partnered with Sinai and HCM in the interior design of this unit. 
 
