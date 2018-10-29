@@ -1,5 +1,5 @@
 ---
-title: '<span class="white-30">Horizon Photography Summit</span>'
+title: 'Horizon Photography Summit'
 date: "2018-06-27"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 event_date: 2018-11-02T17:15:00Z

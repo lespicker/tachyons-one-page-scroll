@@ -3,24 +3,10 @@
 <nav id="menu" role="navigation" class="z-999">
   <a class="db link lh-solid f-headline fw9 light-gray" href="/#home"><img class="" src="/images/FineArtLogo-white.png"></a>
   <ul class="list"> 
-    <li>
-      <a href="/#content">Visual Production</a>
-    </li>
-    <li>
-      <a href="/#next">Creative</a>
-    </li>
-    <li>
-      <a href="/#more">Workshops</a>
-    </li>
-    <li>
-      <a href="/#work">Let's Work</a>
-    </li>
-    <li>
-      <a href="/projects">Projects</a>
-    </li>
-    <li>
-      <a href="/news">News</a>
-    </li>    
+    {{ $currentNode := . }}
+    {{ range .Site.Menus.main }}
+    <li class=""><a href="{{.URL}}" class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}active{{end}}">{{.Name}}</a></li>
+    {{ end }}
   </ul>
 </nav>
   
