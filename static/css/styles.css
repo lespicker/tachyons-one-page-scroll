@@ -23,6 +23,20 @@
   transform-origin: top right;
 }
 
+.bg-clip-text{
+  -webkit-background-clip: text;
+  color: transparent !important;
+}
+
+.clip-text{
+  -webkit-text-fill-color: transparent;
+}
+
+.sticky{
+  position: -webkit-sticky;
+  position: sticky;
+}
+
 .top-200{
   top: 200px
 }
@@ -108,6 +122,49 @@
 
 .bq::after{
   content: close-quote;
+}
+
+.ofc{
+  object-fit: contain;
+}
+
+.opl{
+  object-position: 0% 50%;
+}
+
+.bq::before{
+  content: open-quote;
+}
+
+.bq::after{
+  content: close-quote;
+}
+
+/* Experimental css grid stuff */
+
+.hscroll-gallery{
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: 1rem 100% repeat(var(--total), 100%) 1rem;
+  grid-template-rows: minmax(200px, 1fr);
+  overflow-x: scroll;
+  scroll-snap-type: x proximity;
+}
+
+@media screen and (min-width: 48em){
+  .hscroll-gallery{
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: 1rem 50% repeat(var(--total), 50%) 1rem;
+    grid-template-rows: minmax(200px, 1fr);
+    overflow-x: scroll;
+    scroll-snap-type: x proximity;
+  }
+}
+
+.hscroll-gallery:before,
+.hscroll-gallery::after{
+  content: '';
 }
 
 /* CMS stuff */
