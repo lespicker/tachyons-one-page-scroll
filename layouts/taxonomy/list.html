@@ -1,16 +1,16 @@
 {{ define "main" }}
   <section class="vh-25 flex items-center justify-center bg-center cover bg-black white" style="background-image:url({{.Params.image}}) ;">
-    <h1 class="f-headline fw9 lh-solid mv0 tc">{{.Title}}</h1>
+    <h1 class="f2 f-headline-ns fw9 lh-solid mv0 tc">{{.Title}}</h1>
   </section>
 
   {{/* $paginator := .Paginate .Pages */}}
-  <div class="cf mv6 mh4">
+  <div class="cf mv4 mv6-ns mh2 mh4-ns">
 
   {{ range .Pages }}
 
   {{/* partial "big-block" (dict "img" .Params.image "title" .Title ( cond (isset .Params "subtitle") "subtitle" "") .Params.subtitle (cond (isset .Params "sideline") "sideline" "") .Params.sideline ( cond (isset .Params "sidecolor") "sidecolor" "" ) .Params.sidecolor "button" "Read More" "bnlink" .Permalink (cond (isset .Params "bcolor") "bcolor" "") .Params.bcolor "bg" .Params.background) */}}
 
-    <article class="fl w-100 w-third-ns center pa4">
+    <article class="fl w-100 w-third-ns center pa2 pa4-ns">
       <div class="aspect-ratio aspect-ratio--6x4">
         <div class="aspect-ratio--object cover bg-center flex flex-wrap items-center justify-center bg-black" style="background-image:url({{.Params.image}}) ;">
           <h2 class="white tc mt0 mb3 db w-100 f3 fw9 lh-solid">{{ .Title | safeHTML }}</h2>
