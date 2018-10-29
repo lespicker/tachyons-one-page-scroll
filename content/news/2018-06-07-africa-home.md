@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Back to our Origins"
+subtitle: Africa
 destination: africa
 comments: true
 categories:

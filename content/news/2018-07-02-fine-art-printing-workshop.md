@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fine Art Printing Workshop
+subtitle: Printing
 comments: true
 categories:
 - news

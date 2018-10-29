@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sunrise, Sunset in the Serengeti"
+subtitle: Africa
 destination: africa
 comments: true
 categories:

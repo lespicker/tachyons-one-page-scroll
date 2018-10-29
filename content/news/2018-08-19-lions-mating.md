@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mating Time in Serengeti"
+subtitle: Africa
 destination: africa
 comments: true
 categories:

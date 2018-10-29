@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Kill"
+subtitle: Lions
 destination: africa
 comments: true
 categories:

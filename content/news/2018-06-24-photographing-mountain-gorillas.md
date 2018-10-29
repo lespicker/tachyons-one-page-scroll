@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Photographing Mountain Gorillas
+subtitle: Gorillas
 destination: africa
 comments: true
 categories:

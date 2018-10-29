@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Arriving in Serengeti"
+subtitle: Travel
 destination: africa
 comments: true
 categories:

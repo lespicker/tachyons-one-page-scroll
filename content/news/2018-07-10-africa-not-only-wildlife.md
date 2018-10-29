@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Africa Is Not Only About Wildlife"
+subtitle: Africa
 destination: africa
 comments: true
 categories:
