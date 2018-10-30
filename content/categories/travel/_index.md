@@ -1,5 +1,5 @@
 ---
-title: "Travel Destinations"
+title: "Travel Related"
 image: "http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg"
 cta: "/contact"
 ---
