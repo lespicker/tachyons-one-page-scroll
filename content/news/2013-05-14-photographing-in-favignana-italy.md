@@ -4,7 +4,7 @@ title: "Photographing in Favignana, Italy"
 destination: europe
 comments: true
 categories:
-- Travel
+
 tags:
 - Favignana
 - Italy

@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Ca
 destination: ausnz
 comments: true
 categories:
-- travel
+
 tags:
 - beach
 - farm

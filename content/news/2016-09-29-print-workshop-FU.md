@@ -6,7 +6,7 @@ categories:
 - news
 tags:
 - photography
-- travel
+
 - workshop
 - pano
 - print

@@ -4,7 +4,7 @@ title: "Iceland or Geyserland?"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - eruption
 - geyser

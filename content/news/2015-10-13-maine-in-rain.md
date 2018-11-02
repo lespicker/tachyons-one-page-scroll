@@ -4,11 +4,11 @@ title: "The Rain in Maine"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - Maine
 - photography
-- travel
+
 - workshop
 - Acadia
 - Acadia National Park

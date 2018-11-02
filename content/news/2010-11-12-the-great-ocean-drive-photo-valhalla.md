@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-
 destination: ausnz
 comments: true
 categories:
-- travel
+
 tags:
 - australia
 - beach

@@ -7,7 +7,7 @@ categories:
 tags:
 - cold weather
 - photography
-- travel
+
 - winter
 - gloves
 - mittens

@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/sun-city-SA_
 destination: africa
 comments: true
 categories:
-- Travel
+
 tags:
 - baboons
 - Cape Town

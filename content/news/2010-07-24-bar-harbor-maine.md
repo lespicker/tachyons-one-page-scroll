@@ -4,7 +4,7 @@ title: "Bar Harbor, Maine"
 destination: usa
 comments: true
 categories:
-- Travel
+
 tags:
 - article
 - Bar Harbor
@@ -18,7 +18,7 @@ tags:
 - ocean
 - recreation
 - restaurants
-- travel
+
 - United States
 ---
 [This article originally appeared in <em>Better Homes &amp; Gardens. </em>I've deleted all pricing information. Please use the contact information to confirm details.]

@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-De
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - accessories
 - bear
@@ -15,7 +15,7 @@ tags:
 - ice
 - Landscape
 - snow
-- travel
+
 - wildlife
 - Yukon
 ---

@@ -4,7 +4,7 @@ title: "Fabulous Na Pali"
 destination: hawaii
 comments: true
 categories:
-- travel
+
 tags:
 - coast
 - filters

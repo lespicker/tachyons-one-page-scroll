@@ -4,7 +4,7 @@ title: "Sydney, Australia"
 destination: ausnz
 comments: true
 categories:
-- travel
+
 tags:
 - australia
 - biking
@@ -18,7 +18,7 @@ tags:
 - Sydney
 - tourism
 - tourists
-- travel
+
 ---
 The past three days have been wonderful, as we toured Sydney about as hard as any travel photojournalist could. My tendency is to try out-of-the-way venues to add value to my readers’ experience, and this visit was no exception.   First, some impressions. Sydney is as high energy as Manhattan, and I don’t say that idly, since I am a native New Yawkah. Sydney is every bit as frenetic and cosmopolitan, but in a wholly different way. We’re here in late October (spring) and it is sunny and bright, with the expected periodic rain showers.
 

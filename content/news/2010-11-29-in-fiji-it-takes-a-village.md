@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Villa
 destination: ausnz
 comments: true
 categories:
-- travel
+
 tags:
 - Ekasup Village
 - fiji

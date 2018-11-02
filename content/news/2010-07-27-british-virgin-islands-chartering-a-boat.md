@@ -2,10 +2,10 @@
 layout: post
 title: "British Virgin Islands: Chartering a Boat"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/BVI-virgin-gorda_2008-08-27_5%C2%A9LesterPicker.jpg
-destination: carribean
+destination: caribbean
 comments: true
 categories:
-- Travel
+
 tags:
 - beach
 - British Virgin Islands

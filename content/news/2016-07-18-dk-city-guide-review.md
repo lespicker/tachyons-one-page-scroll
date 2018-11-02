@@ -7,7 +7,7 @@ categories:
 tags:
 - photography
 - book
-- travel
+
 - city
 - DK
 - Doris Kindersley

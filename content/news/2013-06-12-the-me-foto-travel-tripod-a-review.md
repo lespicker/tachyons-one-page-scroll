@@ -9,7 +9,7 @@ tags:
 - lightweight
 - MeFoto
 - review
-- travel
+
 - tripod
 
 image: /images/bli/2013/07/427006211_109.jpg

@@ -7,7 +7,7 @@ categories:
 tags:
 - test
 - photography
-- travel
+
 - Hawaii
 - Maui
 - panorama

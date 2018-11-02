@@ -4,9 +4,9 @@ title: "Of Iceland and Horses"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
-- travel
+
 - Iceland
 - east coast
 - horses

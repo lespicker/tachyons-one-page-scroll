@@ -4,11 +4,11 @@ title: “Asian Elephant Behavior”
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - Sri Lanka
 - photography
-- travel
+
 - tourists
 - elephants
 - behavior

@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0869-Pano
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - El Malpais National Monument
 - El Morro National Monument

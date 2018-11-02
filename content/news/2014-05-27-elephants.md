@@ -4,13 +4,13 @@ title: "Elephants Crossing Road"
 destination: africa
 comments: true
 categories:
-- travel
+
 tags:
 - Africa
 - South Africa
 - wildlife
 - photography
-- travel
+
 - Kruger National Park
 - elephants
 - tourists

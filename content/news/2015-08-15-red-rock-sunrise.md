@@ -4,7 +4,7 @@ title: "Sunrise at Red Rock Canyon"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - photography
 - Red Rock Canyon

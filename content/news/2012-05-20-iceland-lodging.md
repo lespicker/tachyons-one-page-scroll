@@ -4,7 +4,7 @@ title: "Iceland Lodging"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - Bogarnes Bed and Breakfast
 - glaciers

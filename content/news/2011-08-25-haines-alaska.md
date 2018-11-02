@@ -4,7 +4,7 @@ title: "Traveling to Haines, Alaska for Bear"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - Alaska
 - bear photography
@@ -13,7 +13,7 @@ tags:
 - Haines
 - telephoto lens
 - Yukon Territory
-- travel
+
 ---
 I just traveled from Whitehorse, Yukon Territory, Canada to Haines, Alaska</a> today, in a car ride punctuated by frequent photo stops. The landscapes were enhanced by low-lying fog, so look for future blogs showcasing some of those images or visit my <a href="http://www.lesterpickerphoto.com">gallery website</a> to see the final cuts.
 

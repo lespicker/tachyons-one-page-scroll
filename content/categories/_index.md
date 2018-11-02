@@ -1,6 +1,6 @@
 ---
 title: "Topics"
-image: "http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg"
+image: "/images/bli/2017/10/DSCF6355.jpg"
 cta: "/contact"
 menu:
   main:

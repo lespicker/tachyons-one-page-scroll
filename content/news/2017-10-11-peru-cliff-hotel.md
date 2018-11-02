@@ -4,7 +4,7 @@ title: "Nightmare Hotel"
 destination: "south america"
 comments: true
 categories:
-- travel
+
 tags:
 - photography
 - mountain climbing

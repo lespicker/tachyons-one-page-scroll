@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRock
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - Banff
 - Canada
@@ -16,7 +16,7 @@ tags:
 - Rocky Mountaineer
 - Rocky Mountains
 - train
-- travel
+
 ---
 We’re on a two-day train trip from Vancouver, British Columbia to Jasper, Alberta, what many of my fellow passengers are calling the trip of a lifetime. This trip I’m joined by my wife and granddaughter and we are aboard the Rocky Mountaineer, an upscale riding experience that winds through some of the most spectacular scenery in the world, a never-ending smorgasbord of mountain, stream and meadow eye-candy.
 

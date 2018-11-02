@@ -4,7 +4,7 @@ title: "Dogsledding in Lapland, Finland"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - dogs
 - dogsledding

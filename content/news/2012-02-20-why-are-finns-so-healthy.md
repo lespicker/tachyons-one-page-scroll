@@ -4,7 +4,7 @@ title: "Why are Finns So Healthy?"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - Finland
 - health

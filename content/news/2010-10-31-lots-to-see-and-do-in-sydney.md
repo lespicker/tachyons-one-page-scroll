@@ -4,7 +4,7 @@ title: "Lots to See and Do in Sydney"
 destination: ausnz
 comments: true
 categories:
-- travel
+
 tags:
 - australia
 - Discovery Museum

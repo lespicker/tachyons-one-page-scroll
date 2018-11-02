@@ -5,7 +5,7 @@ comments: true
 categories:
 - reviews
 tags:
-- travel
+
 - Trident Messenger Bag
 - photography
 - travel photography

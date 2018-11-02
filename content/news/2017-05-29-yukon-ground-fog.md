@@ -4,7 +4,7 @@ title: A Yukon Weather Phenomenon
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - Yukon
 - Canada

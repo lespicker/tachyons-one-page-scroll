@@ -167,6 +167,10 @@
   content: '';
 }
 
+.cite:before{
+  content: "\2014 \2009";
+}
+
 /* CMS stuff */
 
 .content p{
@@ -197,14 +201,17 @@
   margin: 0;
 }
 
-
-
 .content cite{
   display: block;
   margin-top: 1rem;
   font-size: 1rem;
   font-style: normal;
   font-weight: 500
+}
+
+.content ol li{
+  padding-left: 1rem;
+  margin-bottom: 1rem;
 }
 
 .content cite:before{

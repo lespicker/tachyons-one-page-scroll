@@ -4,12 +4,12 @@ title: "Iceland's Many Churches"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - church
 - Iceland
 - Lutheran
-- travel
+
 ---
 I have come to find out that religion is a funny sort of thing in Iceland. While most Icelanders identify themselves as Christian, a 2011 Gallup poll found that 60% of them do not feel religion is important in their lives. That's one of the highest percentage of irreverent believers in the world.
 

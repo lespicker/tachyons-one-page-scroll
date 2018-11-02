@@ -5,7 +5,7 @@ comments: true
 categories:
 - how-to
 tags:
-- travel
+
 - tree
 - panorama
 - stitching

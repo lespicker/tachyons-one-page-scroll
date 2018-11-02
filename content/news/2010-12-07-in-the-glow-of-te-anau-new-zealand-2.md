@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Lake-Te-Anau
 destination: ausnz
 comments: true
 categories:
-- travel
+
 tags:
 - Te Anau
 - new zealand

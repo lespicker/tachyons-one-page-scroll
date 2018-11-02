@@ -4,7 +4,7 @@ title: "Vermont Jewel"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - Barr Hill Natural Area
 - hike

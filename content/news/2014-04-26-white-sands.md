@@ -4,7 +4,7 @@ title: "White Sands"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - New Mexico
 - White Sands National Monument

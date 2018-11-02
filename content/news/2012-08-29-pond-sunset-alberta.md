@@ -3,7 +3,7 @@ layout: post
 title: Pond Sunset
 destination: canada
 categories: 
-- travel
+
 comments: false
 
 image: /images/LAP3652.jpg

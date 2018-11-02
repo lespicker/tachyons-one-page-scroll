@@ -4,10 +4,10 @@ title: "Garden of the Gods"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - photography
-- travel
+
 - Colorado
 - Garden of the Gods
 - landscape

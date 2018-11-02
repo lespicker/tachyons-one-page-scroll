@@ -6,7 +6,7 @@ categories:
 - reviews
 tags:
 - photography
-- travel
+
 - tools
 - Hoodman
 - multi-tool

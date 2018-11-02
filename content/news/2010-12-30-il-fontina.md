@@ -4,7 +4,7 @@ title: "il Fontina"
 destination: middle east
 comments: true
 categories:
-- travel
+
 tags:
 - antiquity
 - Arabic
@@ -13,7 +13,7 @@ tags:
 - il Fontina island
 - Muslim
 - people
-- travel
+
 ---
 Egypt is one of the most photogenic places on Earth, not just for its antiquities, but for its warm and friendly people. I have been to Egypt many times in my career and I find that I can never get enough of it, although I do have safety concerns. 
 

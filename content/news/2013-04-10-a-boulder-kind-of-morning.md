@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Pan
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - Boulder
 - Chataqua

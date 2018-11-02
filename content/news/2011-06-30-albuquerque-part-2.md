@@ -4,7 +4,7 @@ title: "Albuquerque: Part 2"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - ABQ
 - Acoma Sky City
@@ -25,7 +25,7 @@ tags:
 - Rio Grande
 - to do
 - Torrean Fresco
-- travel
+
 ---
 <h2>MUSEUMS &amp; CULTURAL ATTRACTIONS</h2>
 In Part 1 I discussed events and things to do outdoors while in ABQ. Today it is museums and cultural attractions. In the final installment Ill cover restaurants (God, there are some great ones in ABQ!) and hotels.

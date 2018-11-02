@@ -9,7 +9,7 @@ tags:
 - conservation
 - wildlife
 - photography
-- travel
+
 - Kruger National Park
 - elephants
 - tourists

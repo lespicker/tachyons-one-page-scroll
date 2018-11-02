@@ -4,7 +4,7 @@ title: "Concord, Massachussetts"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - Battle of Concord
 - Battle of Lexington

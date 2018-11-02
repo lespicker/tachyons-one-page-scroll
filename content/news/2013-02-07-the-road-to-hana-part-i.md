@@ -4,7 +4,7 @@ title: "The Road to Hana: Part I"
 destination: hawaii
 comments: true
 categories:
-- travel
+
 tags:
 - hawaii
 - maui

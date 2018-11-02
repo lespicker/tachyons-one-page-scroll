@@ -7,7 +7,7 @@ categories:
 tags:
 - New York City
 - photography
-- travel
+
 - PhotoPlus
 - conference
 - equipment

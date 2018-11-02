@@ -4,7 +4,7 @@ title: "Sri Lanka’s Incredible Yala National Park"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - elephant
 - Jeeps

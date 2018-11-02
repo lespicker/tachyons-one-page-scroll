@@ -4,7 +4,7 @@ title: "A Strange Thing Happened in Yukon"
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - Yukon
 - Yukon Territory
@@ -15,7 +15,7 @@ tags:
 - Grizzly
 - bear
 - photography
-- travel
+
 - workshop
 
 image: /images/bli/2016/09/grizzly-1.jpg

@@ -6,7 +6,7 @@ destination: africa
 comments: true
 categories:
 - how-to
-- travel
+
 tags: 
 - Africa
 - photography

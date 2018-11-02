@@ -4,7 +4,7 @@ title: "Yellowstone in Winter"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - coyote
 - winter

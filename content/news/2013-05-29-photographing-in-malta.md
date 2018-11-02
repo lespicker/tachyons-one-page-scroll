@@ -4,7 +4,7 @@ title: "Photographing in Malta"
 destination: europe
 comments: true
 categories:
-- Travel
+
 tags:
 - Ggantija
 - Hagar Qim

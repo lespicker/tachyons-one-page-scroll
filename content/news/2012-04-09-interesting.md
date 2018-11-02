@@ -4,7 +4,7 @@ title: "Chaaya Wild Yala Lodge?!"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - Chaaya Wild Yala Lodge
 - elephants

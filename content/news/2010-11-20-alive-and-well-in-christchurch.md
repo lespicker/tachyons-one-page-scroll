@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch
 destination: ausnz
 comments: true
 categories:
-- travel
+
 tags:
 - Arts Centre
 - Christchurc

@@ -4,7 +4,7 @@ title: "Yellowstone Bison"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - bison
 - Yellowstone National Park

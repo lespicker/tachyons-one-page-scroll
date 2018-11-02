@@ -16,7 +16,7 @@ tags:
 - Really Right Stuff
 - shutter speed
 - technique
-- travel
+
 - tripod
 - Tutorial
 - wind

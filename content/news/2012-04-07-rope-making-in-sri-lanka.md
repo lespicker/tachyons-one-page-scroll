@@ -4,7 +4,7 @@ title: "Rope Making in Sri Lanka"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - rope-making
 - small business

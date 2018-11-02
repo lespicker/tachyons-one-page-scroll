@@ -4,10 +4,10 @@ title: "Another Maui Rainbow"
 destination: hawaii
 comments: true
 categories:
-- travel
+
 tags:
 - photography
-- travel
+
 - Hawaii
 - Maui
 - rainbow

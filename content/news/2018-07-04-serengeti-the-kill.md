@@ -5,7 +5,7 @@ subtitle: Lions
 destination: africa
 comments: true
 categories:
-- travel
+
 tags:
 - Africa
 - photography

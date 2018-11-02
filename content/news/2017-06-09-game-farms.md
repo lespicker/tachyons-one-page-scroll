@@ -9,7 +9,7 @@ tags:
 - wildlife
 - game farms
 - ethics
-- travel
+
 - workshops
 - photography
 

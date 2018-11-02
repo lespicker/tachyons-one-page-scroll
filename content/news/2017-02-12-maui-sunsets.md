@@ -4,11 +4,11 @@ title: "Maui Sunsets"
 destination: hawaii
 comments: true
 categories:
-- travel
+
 tags:
 - test
 - photography
-- travel
+
 - Hawaii
 - Maui
 - whales

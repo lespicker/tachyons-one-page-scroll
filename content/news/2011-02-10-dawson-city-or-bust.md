@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - Canada
 - Cremation of Sam McGee

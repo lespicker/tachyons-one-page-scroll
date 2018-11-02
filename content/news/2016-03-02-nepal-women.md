@@ -4,7 +4,7 @@ title: "Nepal's Women"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - Nepal
 - women

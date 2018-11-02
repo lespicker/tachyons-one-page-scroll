@@ -4,10 +4,10 @@ title: "A Sri Lanka Recap"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - photography
-- travel
+
 - travel photography
 - Sri Lanka
 - elephants

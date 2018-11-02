@@ -4,9 +4,9 @@ title: "Hiking the Pipiwai Trail"
 destination: hawaii
 comments: true
 categories:
-- travel
+
 tags:
-- travel
+
 - equipment
 - Hawaii
 - Maui

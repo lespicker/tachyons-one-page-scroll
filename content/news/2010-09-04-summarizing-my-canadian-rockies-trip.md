@@ -5,14 +5,14 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/rockiesblog-
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - Canada
 - Canadian rockies
 - Banff
 - Jasper
 - train
-- travel
+
 - how-to
 - photography
 - landscape

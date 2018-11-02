@@ -4,11 +4,11 @@ title: Breaching Whales
 destination: hawaii
 comments: true
 categories:
-- travel
+
 tags:
 - test
 - photography
-- travel
+
 - Hawaii
 - Maui
 - whales

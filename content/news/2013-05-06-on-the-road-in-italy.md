@@ -4,7 +4,7 @@ title: "On the Road in Italy"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - B&amp;B
 - driving

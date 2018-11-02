@@ -4,7 +4,7 @@ title: "Sky City, New Mexico: A Photo Essay"
 destination: usa
 comments: true
 categories:
-- Travel
+
 tags:
 - Acoma
 - camera
@@ -16,7 +16,7 @@ tags:
 - Sky City
 - Spanish
 - Tutorial
-- travel
+
 ---
 This week I visited Sky City, an ancient pueblo atop a 370-foot tall mesa in the high desert outside Albuquerque. The day was windy, overcast and cold, dust blowing everywhere. Yet, despite the weather, I was struck by the very special, even spiritual feelings this tiny village exudes. Built in the 12th century, archaeologists believe the community chose the mesa for defensive purposes. It’s sheer walls are pretty impressive, to be sure. Still, the tiny pueblo was decimated by the Spaniards, who killed 90% of the men, women and children in what is known as the Battle of Acoma. Years later, in a coordinated rebellion with other Pueblo people, the Acoma people drove the Spanish out of the region and regained their culture, albeit forever changed by the Spanish.
 

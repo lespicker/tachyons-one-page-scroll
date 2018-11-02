@@ -4,7 +4,7 @@ title: "Sri Lanka: Going to the Dogs"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - Buddhist
 - dogs

@@ -4,9 +4,9 @@ title: "Iceland- Bowels of the Earth"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
-- travel
+
 - Iceland
 - steam vents
 - volcano

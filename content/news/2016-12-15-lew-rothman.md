@@ -7,7 +7,7 @@ categories:
 tags:
 - Lew Rothman
 - photography
-- travel
+
 - photographer
 - black and white
 - prints

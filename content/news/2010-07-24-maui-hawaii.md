@@ -4,7 +4,7 @@ title: "Maui, Hawaii"
 destination: hawaii
 comments: true
 categories:
-- Travel
+
 tags:
 - beach
 - Hawaii

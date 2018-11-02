@@ -7,7 +7,7 @@ categories:
 tags:
 - photography
 - Lester Picker
-- travel
+
 - travel photography
 - national monuments
 - Grand Staircase-Escalante

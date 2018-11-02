@@ -4,9 +4,9 @@ title: "Reflections on Iceland"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
-- travel
+
 - equipment
 - Iceland
 - east coast

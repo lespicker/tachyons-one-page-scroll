@@ -4,7 +4,7 @@ title: "Whitehorse, Yukon: Gateway to the North"
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - activities
 - Antoinette's

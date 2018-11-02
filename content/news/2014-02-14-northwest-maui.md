@@ -4,7 +4,7 @@ title: "The Other Side of Maui"
 destination: hawaii
 comments: true
 categories:
-- travel
+
 tags:
 - coast
 - Hawaii

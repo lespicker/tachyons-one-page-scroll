@@ -4,7 +4,7 @@ title: "Haines Alaska"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - Alaska
 - American Bald Eagle Foundation

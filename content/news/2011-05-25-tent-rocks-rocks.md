@@ -4,7 +4,7 @@ title: "Tent Rocks Rocks!"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - 4 x 5 camera
 - accessories
@@ -24,7 +24,7 @@ tags:
 - snakes
 - technique
 - Tent Rocks National Monument
-- travel
+
 - Tutorial
 - United States
 ---

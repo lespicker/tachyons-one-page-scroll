@@ -4,7 +4,7 @@ title: "Sri Lanka's Amazing Temples"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - Buddhist
 - Dambulla Cave Temple

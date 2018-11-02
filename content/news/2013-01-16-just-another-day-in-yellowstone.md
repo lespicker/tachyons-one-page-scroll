@@ -4,7 +4,7 @@ title: "Just Another Day in Yellowstone"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - bighorn sheep
 - Nikkor 200-400mm

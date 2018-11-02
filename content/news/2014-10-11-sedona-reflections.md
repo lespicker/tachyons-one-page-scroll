@@ -4,13 +4,13 @@ title: “Sedona Reflections"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - Sedona
 - Arizona
 - reflections
 - photography
-- travel
+
 - red rocks
 
 

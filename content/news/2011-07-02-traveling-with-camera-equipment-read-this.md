@@ -4,9 +4,9 @@ title: "Traveling With Camera Equipment? Read This!!"
 destination: general
 comments: true
 categories:
-- travel
+
 tags:
-- travel
+
 - safety
 - camera equipment
 ---

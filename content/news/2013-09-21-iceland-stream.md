@@ -4,9 +4,9 @@ title: "On the Road in Iceland"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
-- travel
+
 - Iceland
 - east coast
 - waterfall

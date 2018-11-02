@@ -4,7 +4,7 @@ title: "Photographing in Historic Erice, Sicily"
 destination: europe
 comments: true
 categories:
-- Travel
+
 tags:
 - architecture
 - castle

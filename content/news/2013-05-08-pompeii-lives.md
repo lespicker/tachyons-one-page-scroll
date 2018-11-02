@@ -4,7 +4,7 @@ title: "Pompeii Lives"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - Italy
 - Pompei

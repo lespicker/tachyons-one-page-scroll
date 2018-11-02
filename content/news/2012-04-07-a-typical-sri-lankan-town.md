@@ -4,7 +4,7 @@ title: "A Typical Sri Lankan Town"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - rural
 - Sri Lanka

@@ -4,7 +4,7 @@ title: "Iceland Saga: Snaefellsnes"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - camera
 - cold

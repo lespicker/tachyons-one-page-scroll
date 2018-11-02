@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-
 destination: general
 comments: true
 categories:
-- travel
+
 tags:
 - buffet
 - cruise ship

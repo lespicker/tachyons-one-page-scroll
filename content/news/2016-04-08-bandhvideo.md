@@ -5,7 +5,7 @@ comments: true
 categories:
 - news
 tags:
-- travel
+
 - B and H
 - video
 - presentation

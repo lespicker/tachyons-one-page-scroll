@@ -4,13 +4,13 @@ title: "Back in Sri Lanka"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - Sri Lanka
 - Colombo
 - wildlife
 - photography
-- travel
+
 - Dambulla Cave Temple
 - elephants
 - tourists

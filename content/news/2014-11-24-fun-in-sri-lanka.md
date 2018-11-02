@@ -4,11 +4,11 @@ title: "Fun in Sri Lanka"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - landscape
 - photography
-- travel
+
 - people
 - culture
 - Sri Lanka

@@ -8,7 +8,7 @@ tags:
 - review
 - iPhone
 - camera phone
-- travel
+
 - Snapseed
 - Canada
 - Lake Louise

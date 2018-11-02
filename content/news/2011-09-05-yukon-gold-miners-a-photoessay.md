@@ -4,7 +4,7 @@ title: "Yukon Gold Miners: A Photoessay"
 destination: canada
 comments: true
 categories:
-- Travel
+
 tags:
 - Canada
 - Dawson City

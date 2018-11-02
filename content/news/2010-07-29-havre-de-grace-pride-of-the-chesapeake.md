@@ -4,11 +4,11 @@ title: "Havre de Grace: Pride of the Chesapeake"
 destination: usa
 comments: true
 categories:
-- Travel
+
 tags:
 - Havre de Grace
 - Maryland
-- travel
+
 ---
 Historic Town Offers Much More Than Its Annual Decoy Festival
 

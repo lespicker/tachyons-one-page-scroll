@@ -4,7 +4,7 @@ title: "Iceland: Water, Water Everywhere"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - Gullfoss
 - Iceland

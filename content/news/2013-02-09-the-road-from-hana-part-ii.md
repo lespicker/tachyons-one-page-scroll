@@ -4,7 +4,7 @@ title: "The Road From Hana: Part II"
 destination: hawaii
 comments: true
 categories:
-- travel
+
 tags:
 - cattle
 - farms

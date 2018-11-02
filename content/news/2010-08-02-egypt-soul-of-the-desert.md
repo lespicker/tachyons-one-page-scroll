@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-1-of-5
 destination:	middle east
 comments: true
 categories:
-- Travel
+
 tags:
 - Arabic
 - bedouin

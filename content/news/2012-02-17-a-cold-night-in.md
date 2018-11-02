@@ -4,7 +4,7 @@ title: "A Cold Night in ... Finland"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - Finland
 - ice hotel

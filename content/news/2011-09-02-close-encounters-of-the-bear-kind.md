@@ -4,7 +4,7 @@ title: "Close Encounters of the Bear Kind"
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - accessories
 - bear

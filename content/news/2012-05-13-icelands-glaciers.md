@@ -4,7 +4,7 @@ title: "Iceland's Glaciers"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - glacier
 - Iceland

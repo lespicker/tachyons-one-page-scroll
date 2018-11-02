@@ -6,7 +6,7 @@ categories:
 - news
 tags:
 - photography
-- travel
+
 - ebook
 - instruction
 

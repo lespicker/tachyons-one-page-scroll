@@ -4,7 +4,7 @@ title: "The Tsunami That Wasn't (Thank God!)"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - Sri Lanka
 - tsunami

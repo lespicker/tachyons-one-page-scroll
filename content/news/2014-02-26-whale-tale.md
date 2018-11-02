@@ -4,7 +4,7 @@ title: "Another Whale Tale"
 destination: hawaii
 comments: true
 categories:
-- travel
+
 tags:
 - coast
 - Hawaii

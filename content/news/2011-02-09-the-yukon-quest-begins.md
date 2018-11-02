@@ -4,7 +4,7 @@ title: "The Yukon Quest"
 destination: canada
 comments: true
 categories:
-- Travel
+
 tags:
 - athletes
 - Canada

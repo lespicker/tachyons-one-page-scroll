@@ -4,7 +4,7 @@ title: "Back Down the Dempster"
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - dempster highway
 - yukon

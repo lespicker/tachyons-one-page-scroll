@@ -5,7 +5,7 @@ image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/galapagos_20
 destination: "south america"
 comments: true
 categories:
-- Travel
+
 tags:
 ---
 The Galapagos: Enchanted Islands

@@ -10,7 +10,7 @@ tags:
 - iPhone
 - iPod
 - planning
-- travel
+
 - travel tip
 - trip
 - TripIt

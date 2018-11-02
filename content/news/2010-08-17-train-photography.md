@@ -10,7 +10,7 @@ tags:
 - Rocky Mountaineer
 - Rocky Mountains
 - train
-- travel
+
 - how to
 - tip
 - photo tip

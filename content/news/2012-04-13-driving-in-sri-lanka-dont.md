@@ -4,7 +4,7 @@ title: "Driving in Sri Lanka... Don't"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - driving
 - Sri Lanka

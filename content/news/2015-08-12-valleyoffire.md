@@ -4,7 +4,7 @@ title: "Nevada's Valley of Fire"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - photography
 - Valley of Fire

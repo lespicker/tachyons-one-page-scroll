@@ -8,7 +8,7 @@ tags:
 - people
 - photography
 - portraits
-- travel
+
 
 image: /images/bli/2013/07/A0019129.jpg
 ---

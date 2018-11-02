@@ -16,7 +16,7 @@ tags:
 - rain
 - technique
 - Techniques
-- travel
+
 - travel tip
 - urban
 - tip

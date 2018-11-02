@@ -4,14 +4,14 @@ title: "Sydney: From Inner City to Inner Harbour"
 destination: ausnz
 comments: true
 categories:
-- travel
+
 tags:
 - boats
 - Darling Harbour
 - eating
 - restaurants
 - Sydney
-- travel
+
 ---
 Sydney is a walker’s city, so I’m hard pressed make a recommendation for where to stay. Anyplace you choose, within your budget, of course, would be fine as far as location goes. I highly recommend the Four Points Sheraton, located smack-dab on the shore of Darling Harbour, and linked to it by walkway. The Ibis Hotel is another great facility, located a few blocks further within the city, next to the theater district.
 

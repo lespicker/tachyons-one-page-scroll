@@ -4,7 +4,7 @@ title: "Iceland: A Jewel in Borgarnes"
 destination: europe
 comments: true
 categories:
-- travel
+
 tags:
 - B&amp;B
 - bed and breakfast

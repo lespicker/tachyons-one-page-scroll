@@ -4,7 +4,7 @@ title: "Amazing Albuquerque: Part 1"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - ABQ Trolley
 - Albuquerque

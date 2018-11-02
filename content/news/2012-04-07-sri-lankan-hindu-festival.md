@@ -4,7 +4,7 @@ title: "Sri Lankan Hindu Festival"
 destination: asia
 comments: true
 categories:
-- travel
+
 tags:
 - Cataragama
 - festival

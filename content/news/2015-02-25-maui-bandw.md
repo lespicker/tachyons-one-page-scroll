@@ -4,13 +4,13 @@ title: "The Pain of Leaving Maui"
 destination: hawaii
 comments: true
 categories:
-- travel
+
 tags:
 - Hawaii
 - Maui
 - photography
 - landscape
-- travel
+
 - tourists
 - Hana
 - waterfall

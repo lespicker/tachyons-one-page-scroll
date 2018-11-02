@@ -4,7 +4,7 @@ title: "There's Nothing Like Maine in Fall"
 destination: usa
 comments: true
 categories:
-- travel
+
 tags:
 - Asticou Azalea Gardens
 - Bass Harbor Lighthouse

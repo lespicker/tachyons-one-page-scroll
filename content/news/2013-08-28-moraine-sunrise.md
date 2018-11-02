@@ -4,10 +4,10 @@ title: "Another Nice Sunrise"
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - photography
-- travel
+
 - Canada
 - sunrise
 - Hasselblad

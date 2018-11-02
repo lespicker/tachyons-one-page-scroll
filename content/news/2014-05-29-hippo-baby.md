@@ -4,13 +4,13 @@ title: "Of Hippos and Babies"
 destination: africa
 comments: true
 categories:
-- travel
+
 tags:
 - Africa
 - South Africa
 - wildlife
 - photography
-- travel
+
 - Kruger National Park
 - hippo
 - hippopotamus

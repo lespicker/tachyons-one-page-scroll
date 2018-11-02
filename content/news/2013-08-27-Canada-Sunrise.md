@@ -4,10 +4,10 @@ title: "Sunrise in the Canadian Rockies"
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - photography
-- travel
+
 - Canada
 - sunrise
 - Hasselblad

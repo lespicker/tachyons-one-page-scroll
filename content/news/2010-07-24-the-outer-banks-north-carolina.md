@@ -4,7 +4,7 @@ title: "The Outer Banks, North Carolina"
 destination: usa
 comments: true
 categories:
-- Travel
+
 tags:
 - coast
 - food

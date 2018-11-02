@@ -4,7 +4,7 @@ title: "D-d-d-driving in Italy"
 destination: europe
 comments: true
 categories:
-- Travel
+
 tags:
 - Italy
 - driving

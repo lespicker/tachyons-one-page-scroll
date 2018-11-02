@@ -4,7 +4,7 @@ title: "Hunting for Bear and Light"
 destination: canada
 comments: true
 categories:
-- travel
+
 tags:
 - Yukon
 - Yukon Territory
@@ -13,7 +13,7 @@ tags:
 - bear
 - grizzly
 - photography
-- travel
+
 - beaver
 - Canada
 - adventure
