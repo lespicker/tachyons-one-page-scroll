@@ -19,7 +19,7 @@ Bob, my associate and I were taking a lunch break from testing print profiles an
 
 The conversation started out innocently enough, as we discussed what lenses we prefer to capture people. Bob prefers a 50mm and he has a collection of them that rivals anyone's. As for me, I'm eclectic, preferring a super wide angle (my Nikkor 14-24 or 17-35) in some circumstances and my Nikkor 24-70 in most others. On occasion I have even used my Nikkor 70-200 when I can't get close to my subject, perhaps while they are involved in a native ceremony or other activity.
 
-{% img http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/LAP2568.jpg %}
+{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/LAP2568.jpg" caption="" >}}
 
  
 ### Tools of Ignorance

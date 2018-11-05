@@ -42,11 +42,11 @@ Be sure to have good, tight cases for all your gear. I also recommend you take v
 
 **It's All About the Wildlife**. The Serengeti is a wild, complex place. If you arrive during migrations it can be hectic, fast-paced, dizzying. I suggest reading up on the behavior of the wildlife you will see so you can anticipate their movements. Have an idea of the kind of imagery you want to capture for each species. Look for images that are not what I call "Wildlife 101", meaning images of the entire animal that you would see in a biology textbook. Look for action, evidence of sentience, even humor. This image of a wildebeest shows just how dorky they are. One guide I know says that God made them out of spare parts. 
 
-{% img /images/bli/2018/07/DSC_4362-Edit.jpg %}
+{{< figure src="/images/bli/2018/07/DSC_4362-Edit.jpg" caption="" >}}
 
 **But, It's Not Just Wildlife**. The Serengeti is a stark, yet strikingly beautiful land, ever changing with the seasons. The land provides opportunities for wonderful landscapes. The annual rains bring grasses that quickly turn golden. Rocky outcroppings add dimensionality to scenes. Sunrises and sunsets are gorgeous. Acacia trees make great subjects. Just make sure that you [work on your compositional elements](http://ebooks.lesterpickerphoto.com/page/111). 
 
-{% img /images/bli/2018/07/DSC_9407-3.jpg %}
+{{< figure src="/images/bli/2018/07/DSC_9407-3.jpg" caption="" >}}
 
 **Take Two Camera Bodies**. If you use a DSLR and plan to take a few lenses, you are well advised to mount the most used lenses (see below) on separate bodies to avoid dust infiltration. Rest your lens even for a few seconds on dust-covered seats and you are asking for trouble. 
 

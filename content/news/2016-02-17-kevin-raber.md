@@ -27,7 +27,7 @@ I was photographing in a fairly remote section of Molokai, a relatively small is
 
 It is a bit of a hassle getting to Molokai. You can get there by small plane, but most people arrive via a 1-1/2 to 2-hour ferry ride from Lahaina, Maui. You have to be at the ferry terminal at 5:30 AM and seas are often choppy, making one especially overjoyed to reach Molokai's rock-solid shores. 
 
-{% img /images/bli/2016/02/molokai-south-mountains.jpg Southern topography of Molokai %}
+{{< figure src="/images/bli/2016/02/molokai-south-mountains.jpg" caption="Southern topography of Molokai " >}}
 
 Once off the boat on this visit, my first stop was at the popular Paddler's Inn, not to eat, but to visit with Al Mercel, a senior Hawaiian gentleman who is a legendary bonsai master. I am into bonsai (the art of miniature Japanese trees) myself, so my wife and I had a grand time spending a couple of hours with Al and Paddler's Inn owner Jerry. I love learning from experienced bonsai masters and Al fit the bill perfectly. Al's masterpieces are on display in the restaurant/bar and get lots of attention. Can't wait to see him next year. 
 
@@ -41,10 +41,10 @@ Kevin and his lovely wife, Debra, have had an exciting year, having been married
 
 As I was about to move to another site Kevin mentioned that one of the things he was doing on this trip was testing the newest Leica X-U, their first waterproof camera. I couldn't resist photographing Kevin performing the history-making, first Leica "dunk test" ever done on Molokai.  I'm pretty sure that's a fact.
 
-{% img /images/bli/2016/02/kevin-raber.jpg Kevin Raber %}
+{{< figure src="/images/bli/2016/02/kevin-raber.jpg" caption="Kevin Raber " >}}
 
 Anyway, I look forward to future contacts with Kevin. As soon as I got back to Maui I re-upped my membership in LL (a very thrifty $12.00/year). For the past week I've been catching up on the dozens of excellent videos on the site and have already learned a few things that I intend to incorporate into my workflow. 
 
-{% img /images/bli/2016/02/luminous-landscape.jpg %}
+{{< figure src="/images/bli/2016/02/luminous-landscape.jpg" caption="" >}}
 
 I look forward to cultivating our new friendship. In the meantime, as Kevin and I often do workshops in the same places, I also look forward to bumping into him again. Iceland, anyone?

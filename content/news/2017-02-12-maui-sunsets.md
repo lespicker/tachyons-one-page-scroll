@@ -37,7 +37,7 @@ Because of the  mountains that were off camera to the left of the image, the RAW
 
 This last image is a more traditional sunset. 
 
-{% img /images/bli/2017/02/DSC_0921.jpg %}
+{{< figure src="/images/bli/2017/02/DSC_0921.jpg" caption="" >}}
 
 The lesson here is to find foreground elements that add something to the scene. This small rocky beach has some wonderful seaweed on it that has spread over the past dozen years and at sunset seems to glow. So here I did use my 45mm tilt-shift, with a long exposure and a 4-stop ND filter to keep the sun from blowing out. Again, I lightened the shadows just a tad in Lightroom, but other than that left the image alone. I plan to return to this spot soon and shoot lower down by the rocks so that I can catch some of that golden reflection in the still water tide pools. I just have to wait for another amazing Maui sunset!
 

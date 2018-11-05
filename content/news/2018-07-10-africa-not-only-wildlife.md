@@ -31,7 +31,7 @@ One of the things I suggest for photographers going to Africa is to take time ou
 
 During the day in the Serengeti, there are often blue, cloudless skies, the perfect setting for striking B&W images. Put together that cloudless sky and a long horizon broken only by a lone tree and you have rich compositional material with which to work.  
 
-{% img /images/bli/2018/07/DSC_9630-Pano.jpg %}
+{{< figure src="/images/bli/2018/07/DSC_9630-Pano.jpg" caption="" >}}
 
 Here are a few suggestions that may help:
 
@@ -45,10 +45,10 @@ Here are a few suggestions that may help:
 
 **Silhouettes Rock**. You don't need to trust your metering system, which will seek to set a neutral grayscale and balance your exposure. Instead, meter for the sky sometimes, allowing the trees to render dark or black in silhouette. 
 
-{% img /images/bli/2018/07/DSC_8198.jpg %}
+{{< figure src="/images/bli/2018/07/DSC_8198.jpg" caption="" >}}
 
 **Try B&W**. Lone subjects set against a vast, empty-feeling landscape make for dynamic B&W images. 
 
 **Experiment**. Be daring. Try different post-processing treatments. Have fun. 
 
-{% img /images/bli/2018/07/DSC_7346-Edit.jpg %}
+{{< figure src="/images/bli/2018/07/DSC_7346-Edit.jpg" caption="" >}}

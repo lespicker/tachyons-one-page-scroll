@@ -20,7 +20,7 @@ If you you are a photographer who loves prints, you probably have a love-hate re
 
 On Monday, April 30 I will be giving a framing presentation from B & H Photo in New York City, beginning at 4:00 PM Eastern time. I'll cover the basics of framing your own fine art prints, including my workflow, tips and suggestions. 
 
-{% img /images/bli/2018/04/099A3756.jpg %}
+{{< figure src="/images/bli/2018/04/099A3756.jpg" caption="" >}}
 
 My talk will be live streamed on the Internet, so if you are interested in learning about framing your own prints (and possibly saving some money), then go online [here](https://www.bhphotovideo.com/find/eventDetails.jsp/id/2742). 
 

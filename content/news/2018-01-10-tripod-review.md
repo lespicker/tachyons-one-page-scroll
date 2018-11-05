@@ -30,7 +30,7 @@ One thing I feel obliged to say before getting into specifics; a travel tripod i
 
 First off, this is one beautifully engineered tool. The tolerances are ridiculously tight, a tribute to classic German engineering. When extending or collapsing the legs, for example, I merely had to turn the knurled, rubberized collars maybe 1/8 turn to get them to release or tighten, even in bitter cold. 
 
-{% img /images/bli/2018/01/IMG_2141.jpg %}
+{{< figure src="/images/bli/2018/01/IMG_2141.jpg" caption="" >}}
 
 The FLM weighs in at about 4 pounds and at a folded length of about 21" (with ball head). The legs fold tightly for easy backpacking. The tripod comes with a sturdy carry bag with strap and rubber leg tips, but interchangeable metal spikes are also available as an option. 
 
@@ -49,29 +49,29 @@ Unfortunately, the minuses for me outweighed the pluses. There is a noticeable d
 
 **Height**. First, as you can see in these iPhone images, the tripod is short... as in unworkably short for a pro or advanced amateur that is over five-and-a-half feet tall. At 47" without the center column (55" with it fully extended), I had to bend over uncomfortably while using my Nikon D850. With my Fuji GFX the articulating eyepiece saved me some backache, but I still had to bend to use the FLM. I prefer not to use the center column because all such columns introduce camera shake, but if you find you like to use one, then the FLM CP-26 may work well for you. In contrast, the MeFoto sits higher, as you can see below. BTW, the monster tripod you see sheltering the travel babies is my go-to Gitzo 3541 with a Really Right Stuff BH-55 ball head. Some difference, eh? That is why I prefer my Gitzo over any travel tripod. Like I said earlier, travel tripods are compromises.  
 
-{% img /images/bli/2018/01/IMG_2121.jpg %}
+{{< figure src="/images/bli/2018/01/IMG_2121.jpg" caption="" >}}
 
 **Stability**. Another significant downside is the stability of the tripod. My camera/lens combinations are quite heavy. Using my medium format Fuji GFX with a 120mm Fujinon lens under slightly windy conditions caused the tripod to visibly shake. 
 
-{% img /images/bli/2018/01/IMG_2138.jpg %}
+{{< figure src="/images/bli/2018/01/IMG_2138.jpg" caption="" >}}
 
 The same held true with my Nikon D850 with an 80-400 Nikkor lens. My MeFoto did not experience that shake, in part because of the factors I discuss next. 
 
-{% img /images/bli/2018/01/IMG_2170.jpg %}
+{{< figure src="/images/bli/2018/01/IMG_2170.jpg" caption="" >}}
 
 **Leg Diameter**. I think the basic instability fault can be laid to the diameters of the legs, particularly the lowest section. I found significant leg flex at the fully extended and spread position. In the following image, compare the lowest leg section of the FLM (on the right) with the meatier MeFoto. 
 
-{% img /images/bli/2018/01/IMG_2126.jpg %}
+{{< figure src="/images/bli/2018/01/IMG_2126.jpg" caption="" >}}
 
 Both tripods have the same folded 21" length with attached ball head, although if you collapse the FLM with the ball head inside the legs, it reduces its footprint to only 15 inches. But, the FLM is a tad heavy for a travel tripod. Despite its thicker legs, the MeFoto clocks in at half-pound lighter than the FLM. One could argue that this extra mass is good, but I would rather add mass via my backpack attached to the center column loop than carry that extra weight around all day. 
 
-{% img /images/bli/2018/01/IMG_2129.jpg %}
+{{< figure src="/images/bli/2018/01/IMG_2129.jpg" caption="" >}}
 
 I did notice a significant improvement in camera shake with the FLM when I collapsed the lower section and even better performance when I collapsed the bottom two sections. In addition, looking at the image (above) of the three tripods compared, the MeFoto has a wider leg spread than the FLM, adding a bit more stability. 
 
 One important item to me that I'll mention. The MeFoto tripod, but not the FLM, has one detachable leg that, when screwed together with the center column, creates a monopod. That feature has come in handy for me several times over the years. 
 
-{% img /images/bli/2018/01/IMG_2133.jpg %}
+{{< figure src="/images/bli/2018/01/IMG_2133.jpg" caption="" >}}
 
 **Knobs**. Those pesky control knobs in most travel tripod are obviously designed for dainty fingers. Now add a pair of gloves or mittens in cold weather and you will find new and creative combinations of nasty language. That was certainly true for the FLM. I regularly shoot in cold weather environments so knob design and function are critical to me. I found the knobs to be difficult to use, necessitating the removal of my gloves every time I needed to make an adjustment. And, in below zero weather, with added wind, fiddling with the metal knobs was not fun at all.
 
@@ -81,7 +81,7 @@ One important item to me that I'll mention. The MeFoto tripod, but not the FLM, 
 
 FLM does offer a quick release clamp, but that was not available for my testing. 
 
-{% img /images/bli/2018/01/IMG_2134.jpg %}
+{{< figure src="/images/bli/2018/01/IMG_2134.jpg" caption="" >}}
 
 
 **Price**. Okay, now we get to the penultimate decision point in your quest for a good travel tripod. The FLM unit, as sent to me for testing, costs $876 ($474 for the tripod, $398 for the ball head, $54 for the clamp... the quick release clamp costs more). The MeFoto costs $299, all in. 'Nuf said. 

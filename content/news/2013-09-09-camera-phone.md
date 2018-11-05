@@ -30,11 +30,11 @@ I took the image above at a rest stop just to try it out under extremely contras
 
 Next, just for fun, I added a funky filter to the scene and voila! 
 
-{% img /images/bli/2013/09/grunge-1.JPG %}
+{{< figure src="/images/bli/2013/09/grunge-1.JPG" caption="" >}}
 
 Ditto for this scenic of the iconic Lake Louise in Banff. I decided to just walk up to the lake from the parking lot with no gear other than my trusty iPhone. Once I captured this scene on a nasty day, I put it into [Snapseed](https://itunes.apple.com/us/app/snapseed/id439438619?mt=8) and made some minor adjustments. 
 
-{% img /images/bli/2013/09/louise-1.JPG %}
+{{< figure src="/images/bli/2013/09/louise-1.JPG" caption="" >}}
 
 Anyway, I'm all in. Stay tuned for some images that I'll post during my second trip to Iceland. On this jaunt, my trusty and capable assistant (spelled w-i-f-e) and I will circumnavigate the island on the Circle Road, scouting out sites for future photo opps and perhaps teaching a workshop or two. 
 

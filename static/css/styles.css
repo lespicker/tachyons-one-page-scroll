@@ -180,15 +180,15 @@
 
 .content a{
   text-decoration: none;
-  color: gray;
-}
-
-.content a:hover{
-  color: black;
+  color: #e7040f;
 }
 
 .content a:visited{
   text-decoration: none;
+  color: #e7040f;
+}
+
+.content a:hover{
   color: gray;
 }
 
@@ -216,6 +216,16 @@
 
 .content cite:before{
   content: "\2014 \2009";
+}
+
+.content figure{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.content figcaption{
+  font-style: italic;
+  color: rgba(0,0,0,0.3);
 }
 
 @media screen and (min-width: 48em){

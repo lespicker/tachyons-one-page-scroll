@@ -27,7 +27,7 @@ I shot this on my D810, with my brand-spanking new 80-400 Nikkor lens that I am 
 
 With this next image, I knew from the get-go that this would be a B&W image. The day gradually darkened as I drive to the interior. When I came across this copse of trees I liked the leading road, the grasses, the fences and the sky. Color was out of the question in my mind's eye. 
 
-{% img /images/bli/2016/01/copse-sky-road.jpg %}
+{{< figure src="/images/bli/2016/01/copse-sky-road.jpg" caption="" >}}
 
 I know I'll rework this image once I get back to the studio. I find it frustratingly difficult to work on my images on a laptop late at night while I am in a hotel room. 
 

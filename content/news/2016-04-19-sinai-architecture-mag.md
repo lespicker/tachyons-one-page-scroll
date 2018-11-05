@@ -21,7 +21,7 @@ Please allow us to brag a bit. [Architect Magazine](http://www.architectmagazine
 
 More than 60 of our images, from traditional framed prints to Face-mounted Plexiglas, and specialty wallpapers, were carefully chosen to help Sinai patients in their recovery. In addition, we did custom on-location photo shoots to help patients in their rehabilitation, including this grocery-0store mock-up that gives traumatic brain injured patients an opportunity to re-learn and practice daily life tasks. 
 
-{% img /images/bli/2016/04/sinai-grocery.jpg For grocery store practice %}
+{{< figure src="/images/bli/2016/04/sinai-grocery.jpg" caption="For grocery store practice " >}}
 
 It's hard to describe the satisfaction we got from this work, knowing that it has helped and will continue to help patients on their road to recovery. This video explains just how much the professional staff appreciate our artistic endeavors. The video inlcudes another installation we did at the world-renowned Johns Hopkins Medical Institutions. 
 

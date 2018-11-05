@@ -23,14 +23,14 @@ On the second morning we woke up at 4:00 AM to be at White Sands in plenty of ti
 
 Once the sun rose, we hiked over the dunes back to the car and retrieved my Nikon gear and off we went again, hiking up and down to capture some early morning images. By then the sun had risen enough to eliminate the shadows that I wanted to bring some contrast into the images. But, things like that happen sometimes with nature photography. There is always next time. 
 
-{% img /images/bli/2014/04/DSC_3390.jpg %}
+{{< figure src="/images/bli/2014/04/DSC_3390.jpg" caption="" >}}
 
 A few observations, though: one can only marvel at life's abundance on our precious planet, spinning in this dark, cold universe. Plants take hold wherever they can, bugs and lizards somehow find the food they need to survive. Thousands of oryks, introduced decades ago into the environment, somehow eke out an existence.
 
-{% img /images/bli/2014/04/DSC_3372.jpg %}
+{{< figure src="/images/bli/2014/04/DSC_3372.jpg" caption="" >}}
 
 Here is an image of a tree sending roots into the sands to hold it and provide the plant with support amidst the ever-shifting dunes. 
 
-{% img /images/bli/2014/04/DSC_3420.jpg %}
+{{< figure src="/images/bli/2014/04/DSC_3420.jpg" caption="" >}}
 
 One thing to note is that the White Sands are not really sand at all. They are actually made up entirely of gypsum, a much finer substance than sand. I can't wait to get back and photograph it both at sunrise and sunset. 

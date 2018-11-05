@@ -26,7 +26,7 @@ The opening scenic was shot on a tripod with a Nikon D800 with a 24-70 f2.8 lens
 
 This next image I captured jut before left. I liked the way the sun was highlighting these dormant trees against the red rocks of the park.
 
-{% img /images/bli/2015/04/DSC_7045.jpg %} 
+{{< figure src="/images/bli/2015/04/DSC_7045.jpg" caption="" >}}
 
 This was shot with the same setup, but at 1/6 @ f16 with the lens at 36mm. 
 

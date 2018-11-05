@@ -25,13 +25,13 @@ There is an unusual weather phenomenon that happens in the far north of Yukon Te
 
 What happens is that the cold winds coming off the nearby Arctic Ocean travel over the vast McKenzie Delta, pushing enormous amounts of moisture before them. These moist winds then hit the mountain range that borders the Yukon and they pile up on the northern side. When there is enough wind force, those clouds begin to spill over the mountain ridges, spreading across the Yukon tundra like theatrical smoke. And this is not a minor phenomenon. The mountain range stretches for miles and miles, and all along its length the continuous roll of thick clouds are spilling over like a blinding desert khamsin wind. 
 
-{% img /images/bli/2017/05/DSC_5623.jpg %}
+{{< figure src="/images/bli/2017/05/DSC_5623.jpg" caption="" >}}
 
 I have to admit that the very first time I was caught up in it, more than a decade ago, I was frightened. Depending on the wind, the clouds can descend in a matter of minutes, enveloping you and cutting off all vision. You are forced to stop your car, pull over and hope you are well enough off the road to not be hit by another blinded vehicle driver. It can also be entirely disorienting. 
 
 However, once you get accustomed to it, the experience is awe-inspiring. One year, as the cloud began to dissipate slightly, the setting sun shone brightly through it, creating the most intense sky fire I have ever witnessed. This image has not been retouched at all. 
 
-{% img /images/bli/2017/05/LAP_5430.jpg %}
+{{< figure src="/images/bli/2017/05/LAP_5430.jpg" caption="" >}}
 
 My clients last year got to experience it, albeit not as a full-fledged blanket. Still, they were pretty impressed. Another one of the many reasons for you to experience the incomparable Yukon Territory. 
 

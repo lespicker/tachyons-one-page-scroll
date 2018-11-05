@@ -23,13 +23,13 @@ On a recent trip to Peru, I happened to look up as we drove down a rural road. I
 
 <!--more-->
 
-{% img /images/bli/2017/10/Picker-Peru-3.jpg %}
+{{< figure src="/images/bli/2017/10/Picker-Peru-3.jpg" caption="" >}}
 
 Can you imagine staying in this "hotel"? Does one ever sleep there? I'd be up all night tethered to the sheer rock face for dear life, a blabbering idiot praying to gods that haven't been invented yet! 
 
 Notice the man under the hotel pod in the next picture. I can only imagine the conversation...
 
-{% img /images/bli/2017/10/DSC_0346.jpg %}
+{{< figure src="/images/bli/2017/10/DSC_0346.jpg" caption="" >}}
 
 "I feel like a breath of fresh air, honey. I'll be back in a minute."
 

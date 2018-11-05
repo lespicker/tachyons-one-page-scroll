@@ -27,19 +27,19 @@ But on the mountain, or mauka, side of the road lies one of the most visited tra
 
 ### A Varied Trail Experience, but...
 
-{% img img-left /images/bli/2014/02/Pipiwai-welcome-sign.JPG iPhone image %}
+{{< figure src="img-left" caption="/images/bli/2014/02/Pipiwai-welcome-sign.JPG iPhone image " >}}
 
 The trail itself is a marvelous, varied and potentially dangerous experience, as this mixed-message welcome signs attests. But, it's better to be prepared and safe, so you can thoroughly enjoy what is ahead. 
 
 As you begin you walk through a shrubby path, until you enter the [tree root-lined section](http://youtu.be/f9CpmXJIeFQ) that climbs fairly quickly through rises and steps. Twice along the path you will [cross a small waterfall](http://youtu.be/3MyyAIH-y_o) and the rushing Pipiwai Stream. 
 
-{% img img-right /images/bli/2014/02/pipiwai-danger-2.JPG iPhone image %}
+{{< figure src="img-right" caption="/images/bli/2014/02/pipiwai-danger-2.JPG iPhone image " >}}
 
 Along the way you will encounter signs like these. Please do not tempt the fates. Several fatalities have occurred over the years. I would also keep any children close at hand because the drop-offs happen suddenly. One second you might be hiking an inviting spur trail and the next instant you are on the edge of a 200-foot precipice. 
 
 Finally, more than half-way through your climb, you enter what could rightfully be called a fantasy land, a spiritual section known as The Bamboo Forest. This magical part of the trail winds through and up a thick stand of trees that seems to go on and on. If you can hike this in the early morning, when almost no one is around, you will be stunned by its Zen-like, calming influence. 
 
-{% img /images/bli/2014/02/DSC_9052.jpg %}
+{{< figure src="/images/bli/2014/02/DSC_9052.jpg" caption="" >}}
 
 Once beyond the Bamboo Forest, the end of the trail is within reach... so long as it has not rained too much recently. If it has rained, be careful and be glad you brought along your water shoes. You may have a [strong stream to ford](http://youtu.be/q4nRc3Zz_0E) before you cross to Waimoku. 
 

@@ -31,12 +31,12 @@ The image was shot with a Nikon D810, 24-70mm lens at 40mm, ISO 200, 1/13 sec @ 
 
 The next image was shot in the same way, but at 70mm. Gotta love sunrise. 
 
-{% img /images/bli/2015/08/DSC_1039.jpg %}
+{{< figure src="/images/bli/2015/08/DSC_1039.jpg" caption="" >}}
 
 Once we were done with the overlook, we meandered down the park road and found a nice place to hike. It was still early, so the temps were not yet risen to the bowels of Hades. Two days ago we hiked in 105F degree temps (40.6 C) and, believe me, that was no treat, lugging a heavy backpack and tripod. At 8:00 AM this morning it was a cool 90F!
 
 My wife spotted this composition at the crest of a hill. One of the joys of wildlife and landscape photography is the daily reminder of just how tenacious life on Earth is. 
 
-{% img /images/bli/2015/08/DSC_1077.jpg %}
+{{< figure src="/images/bli/2015/08/DSC_1077.jpg" caption="" >}}
 
 If you are ever in Las Vegas, be sure to bring your camera with you and visit Valley of Fire state park and Red Rock Canyon National Conservation Area. You will not be disappointed. 

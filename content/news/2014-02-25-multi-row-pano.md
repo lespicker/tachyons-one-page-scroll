@@ -27,6 +27,6 @@ The lead blog image is a simple, two-row, 18-image pano that I took that day. I'
 
 Using the same technique, here is a 3-row, 27-image pano I took of a Banyan tree in Haleakala National Park, which I detailed in [this recent blog post](http://www.lesterpickerphoto.com/2014/02/21/banyan-tree-pano/).
 
-{% img /images/bli/2014/02/banyan-tree.jpg 3-row and 27-image pano %}
+{{< figure src="/images/bli/2014/02/banyan-tree.jpg" caption="3-row and 27-image pano " >}}
 
 As always, comments and suggestions are welcome. Please let me know if this is helpful and if you'd like others. 

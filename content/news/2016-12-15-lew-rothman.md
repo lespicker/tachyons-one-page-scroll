@@ -23,7 +23,7 @@ One of the pleasures of being a photography workshop leader is seeing your clien
 
 One of the many things that impressed me about Lew's work was its elegant simplicity. He is able to wrest the most evocative images from complex scenes. When I heard about Lew's exhibit, I immediately contacted him. As an advanced amateur, I though it would be helpful to tap his brain to learn some lessons from this wonderful photographer. 
 
-{% img /images/bli/2016/12/rothman-2.jpg %}
+{{< figure src="/images/bli/2016/12/rothman-2.jpg" caption="" >}}
 
 How long have you been doing photography? 
 Since I was 10 or 11.
@@ -37,7 +37,7 @@ Cartier-Bresson, Eisenstadt, Erwitt, Bill Brandt, Salgado,  Kertesz
 How would you describe your approach to photography? 
 Minimalist, graphic and somewhat formal. I don’t like clutter.
 
-{% img /images/bli/2016/12/rothman-3.jpg %}
+{{< figure src="/images/bli/2016/12/rothman-3.jpg" caption="" >}}
 
 Have photo workshops helped you develop as a photographer? If so, in what ways? 
 Yes. I am always interested in how others see and express themselves. I have learned much from both the instructor and the attendees. There are many esthetic and technical issues to master in digital imaging and workshops are a great way to enhance your skill. I have been fortunate to participate in location workshops with several outstanding photographers learning enhanced camera technique as well as honing processing and printing skills during several workshops.
@@ -54,7 +54,7 @@ I've been a Canon user for many years but have recently been using a Sony a7rII 
 What is your favorite lens?
 Hard to pick one. I like to travel as light as possible. For general purpose and travel it’s been the Canon 24-105 F 4 L, for the animal work it’s the Canon 70-300 F 4-5.6 L.
 
-{% img /images/bli/2016/12/rothman-4.jpg %}
+{{< figure src="/images/bli/2016/12/rothman-4.jpg" caption="" >}}
 
 Any suggestions for fellow photographers? 
 I am an amateur at heart. I love photography, so have fun, look at a variety of images from other photographers. Use the work you admire as templates and shoot a lot and connect with other photographers.

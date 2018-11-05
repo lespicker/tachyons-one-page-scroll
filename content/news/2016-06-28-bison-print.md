@@ -29,7 +29,7 @@ The issue was what to do with the image to get it to print well. My client did n
 
 She ran the final print on Museo Fine Art Silver Rag paper, which brought out every speck of color and rendered the snow perfectly. The consensus of the group was that the print even exceeded the original on-screen image. I agree. Here is how it printed, along with the other prints from the group. 
 
-{% img /images/bli/2016/06/print-clients.jpg %}
+{{< figure src="/images/bli/2016/06/print-clients.jpg" caption="" >}}
 
 I can't wait to see all our clients' images framed and adorning walls for all to admire. 
 

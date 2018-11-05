@@ -28,7 +28,7 @@ Of course there are the obvious ethical issues related to keeping wild animals i
 
 I take this position reluctantly. There are experienced, famous and successful photographers, like Joe McDonald, who actually condone this type of photography. McDonald represented the other side of the argument [in an article](https://www.naturescapes.net/articles/conservation/point-of-view-can-photographing-wildlife-models-make-conservation-sense/?utm_source=constantcontact&utm_medium=email&utm_campaign=june_2017). While I respect his "true" wildlife photography, I found his article to be logically flawed, contradictory and transparently defensive of a practice that most wildlife photographers find abhorrent. And while I understand the points he makes - about people not having time nowadays and the need for conservation images - that does not make the practice of game farm photography ethical. I find it dishonest to peddle game farm images as wildlife. 
 
-{% img /images/bli/2017/06/LAP_5261-Edit.jpg Wild grizzly in Alaska %}
+{{< figure src="/images/bli/2017/06/LAP_5261-Edit.jpg" caption="Wild grizzly in Alaska " >}}
 
 Knowing that I am a grizzly photographer myself, I have had photographers show me their shots of "wild" grizzlies they photographed. I look at the first few images, knowing that that same animal they brag about "stalking" for days, is so well known and heavily photographed on a game farm, editors (and I) are no longer fooled. Their entire time with these animals is a few hours, mostly watching the trainers lead the animals to an outcropping to perform and telling these "wildlife photographers" when and what to photograph. 
 

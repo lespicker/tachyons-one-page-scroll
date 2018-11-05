@@ -38,7 +38,7 @@ Still, where the rubber meets the road in fine art printing lies in the paper ch
 
 Moab actively seeks feedback as they develop new papers. The perfect example of that is their newly released Entrada Textured Rag, which Bob and I are gaga over. Moab asked us, and several other of their Moab Masters, to beta test it last year. Frankly, some papers don't make the grade and we credit Moab with abandoning those papers even after significant investment of time and money. But Entrada Textured Rag is definitely a winner. I'll blog more on it soon. 
 
-{% img /images/bli/2017/07/portfolio-workshop.jpg Hard at work as Bob instructs %}
+{{< figure src="/images/bli/2017/07/portfolio-workshop.jpg" caption="Hard at work as Bob instructs " >}}
 
 Anyway, our portfolio clients chose to print on Moab's Entrada Rag Bright, a matte paper, and on Moab's Juniper Baryta, a semi-gloss. In all cases we chose the heavier weight options for the papers so they would stand up to frequent handling, since the intent of any portfolio is to showcase a photographer's work to a wide audience. 
 
@@ -50,7 +50,7 @@ Portfolios are a wonderful way to group images together. For example, many photo
 
 Portfolios are a Zen experience as much for your audience as they are for yourself. People who look at smartphone images swipe through them at blazing speed, rarely spending more than a few seconds on each. But hand a person a fine art print and you'll see them examining it for details, admiring the way the scene is rendered, and even enjoying the tactile sensation of the luscious papers. There is nothing quite like handling a fine art print, one that WOWS! your audience. 
 
-{% img /images/bli/2017/07/portfolio-prints.jpg Samples of client portfolio prints %}
+{{< figure src="/images/bli/2017/07/portfolio-prints.jpg" caption="Samples of client portfolio prints " >}}
 
 But, perhaps the major reason for committing to doing a portfolio is the self-discipline it teaches you about editing, post-processing and finally, printing. When real estate is precious, one tends to take a great amount of time and great care in the selection process. A decent portfolio does not seek to drown the viewer in images. Instead, that critical self-discipline results in a highly select group of perhaps 10-15 of the best images the photographer can put together at that time. It is not a quantity contest, but rather a quality presentation that says to the world, this is who I am as a photographer at this moment. And the beauty of the portfolio is that prints can be swapped out at any time as taste and experience dictate. 
 

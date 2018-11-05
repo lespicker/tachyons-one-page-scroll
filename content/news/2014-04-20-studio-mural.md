@@ -29,11 +29,11 @@ We started by ordering more wall covering from our supplier, Coveris (formerly I
 
 Over a couple of sessions we printed out the ten 36" panels (9-feet tall) that comprise the pano (for info on how to shoot a pano [see my instructional blog](http://www.lesterpickerphoto.com/2014/02/25/multi-row-pano/)). I then hung them up on studio backdrop rods overnight to dry thoroughly or, as the labs call it, "outgas". 
 
-{% img /images/bli/2014/04/photo-4.JPG %}
+{{< figure src="/images/bli/2014/04/photo-4.JPG" caption="" >}}
 
 The next day I coated each panel with Museo's Enhance, a durable, easy-to-apply coating that resists water, fingerprints, etc. I let the panels dry for a day before applying a second coat. In the background you can see them hanging on my backdrop supports. Also in the background is our Epson 9900 printer that the panels were printed on. 
 
-{% img /images/bli/2014/04/photo-3.JPG %}
+{{< figure src="/images/bli/2014/04/photo-3.JPG" caption="" >}}
 
 I typically apply the first coat side-to-side and the second coat up-and-down. Once they were all dry I waited anxiously for the wall-covering pros that we use to arrive. 
 
@@ -45,6 +45,6 @@ They had asked me to pre-coat the wall with a wallpaper primer. Unfortunately, t
 
 On Day 2 the process went smoothly and they were done in a couple of hours. Here is Robin smoothing out some of the air bubbles that form during application.  
 
-{% img /images/bli/2014/04/photo-2.JPG %}
+{{< figure src="/images/bli/2014/04/photo-2.JPG" caption="" >}}
 
 In an upcoming blog I'll do a video walk-through of my studio, with better images. I'll report on an interesting display concept; using a wall-covering mural in a master bathroom. 

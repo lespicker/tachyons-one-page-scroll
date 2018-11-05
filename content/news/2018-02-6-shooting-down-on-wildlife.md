@@ -25,12 +25,12 @@ The problem is that shooting downward minimizes the raw power of a wild animal. 
 
 Nonetheless, I advise my adventure clients to save some of their camera firepower until the animal moves away. That way your angle of incidence is shallower. After all, that's what a telephoto is for. The animal may be further away, but your lens will more than make up the difference. Plus, with today's mega-pixel sensors, you can safely crop and bring the animal even closer. 
 
-{% img /images/bli/2018/02/DSC_1749.jpg %}
+{{< figure src="/images/bli/2018/02/DSC_1749.jpg" caption="" >}}
 
 Well, the same thing holds true for whale photography. Of course, your choice of camera and lens is critical, but just as important is your choice of boat. Here in Maui you have many choices of whale watching boats. The key is to pick a boat that gives you opportunities to shoot from as close to the water line as possible. You want that breach to show the animal with sky behind it, not just water. Jetting a 40-ton body clear out of the water is a feat that should be afforded its proper due. 
 
 There are some photographers that fall prey to shooting from rubberized crafts, like Zodiaks. That does get you to the waterline itself, but beware of its limitations, too. Those rafts do not provide a stable platform, especially in even slightly rough seas. I see a lot of great shots of breaching whales taken from these boats; if only they were in focus!
 
-{% img /images/bli/2018/02/DSC_0694.jpg %}
+{{< figure src="/images/bli/2018/02/DSC_0694.jpg" caption="" >}}
 
 One final tip for those of you who plan an African safari: when that cheetah (or other wildlife) does come close to your vehicle, that's the time to switch to video, which is far better suited to that sort of storytelling. 

@@ -29,11 +29,11 @@ I thought I'd try to accomplish two things with this blog. First, show what a pa
 
 First some data. The pano consists of 78 images taken in 3 rows of 26 images each. They were taken with a D800 at 36MP per image. You can imagine how long it took to assemble the image, even though I have a screaming fast pro desktop! Second, I am in the midst of several deadlines, so I did not devote a whole lot of time to post-processing, as you'll see. The majority of the time was spent waiting for files to process and to stitch them together. Third, I would never have been able to do this without the help of my assistant, Bob, who graciously agreed that we needed to get this done since people have been requesting this for a year!!
 
-{% img /images/bli/2015/03/hawaii-pano-2.jpg %}
+{{< figure src="/images/bli/2015/03/hawaii-pano-2.jpg" caption="" >}}
 
 This is image as soon as it was done being processed and stitched together. It is right out of the camera and saved as a jpg. You will notice several things wrong about it right off the bat. The software (PTGUI) did not do a perfect job stitching the horizon on the right. Next, as I took the series, the clouds shifted, so that there is a dark patch in the stitched image about 1/4 of the way onto the scene from the left. One can't always compensate for that when shooting a big pano. You have to pray you can fix it in post. 
 
-{% img /images/bli/2015/03/hawaii-pano-3.jpg %}
+{{< figure src="/images/bli/2015/03/hawaii-pano-3.jpg" caption="" >}}
 
 In this second iteration, I fixed the horizon in Lightroom by cloning three sections to smooth it out. I did not obsess over it for this demo, but it is fairly good. If this were a client image, I would obsess... a lot. 
 

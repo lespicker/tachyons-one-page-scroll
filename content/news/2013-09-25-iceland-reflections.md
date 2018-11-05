@@ -28,7 +28,7 @@ TIP: Bring lots of equipment. You'll need wide angles, a mid-range zoom and a me
 
 TIP: Learn how to take panoramic images and practice before you arrive. Iceland is a country of grand scenics that no wide angle can adequately represent. 
 
-{% img /images/bli/2013/09/A8398396-Panorama.jpg %}
+{{< figure src="/images/bli/2013/09/A8398396-Panorama.jpg" caption="" >}}
 
 ### Weather
 
@@ -55,7 +55,7 @@ TIP: Drive off-road. There are myriad gravel roads in Iceland that offer fun dri
 
 TIP: Buy a few 10,000Kr ($82USD) gas fill-up cards from N1 stations. The stations are ubiquitous throughout the island. The cards are good for food, too, and most N1s serve sandwiches and many have grills. The gas pumps are all automated and an attendant will be happy to explain to you how they are used. Oh, gas is expensive in Iceland (approximately $9.00USD/gallon). On our most recent trip we put on 2,400 miles and we only covered half the island. Here is my DeLorme GPS Emergency system map of my journey. 
 
-{% img /images/bli/2013/09/Screen-Shot.png %}
+{{< figure src="/images/bli/2013/09/Screen-Shot.png" caption="" >}}
 
 ### People
 

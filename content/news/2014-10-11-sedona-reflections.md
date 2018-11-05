@@ -41,7 +41,7 @@ So, I decided to do a 3 shot pano. Enter the shift function. All I needed to do 
 
 Here’s a shot of me setting up (photo courtesy Leslie Picker). 
 
-{% img /images/bli/2014/10/photo-2-4.JPG %}
+{{< figure src="/images/bli/2014/10/photo-2-4.JPG" caption="" >}}
 
 I do wish there were clouds in the sky. As the sun bathed the mountain in a more golden light a few minutes later, the wind kicked up and the reflection disappeared. Frustrating, but you learn to smile and still feel grateful for just being out there. 
 

@@ -24,7 +24,7 @@ I have to admit to being stunned by the painting, ostensibly a simple scene of a
 
 Never mind the joyous expression on the face of the child, a moment in time that we can only hope to catch with our cameras. For me this painting is all about light and shadow. I grabbed somme images of it on my iPhone and pasted them on my desktop as a continuous reminder of how those two elements can make or break an image.
 
-{% img /images/bli/2013/12/van-gogh-2.JPG %}
+{{< figure src="/images/bli/2013/12/van-gogh-2.JPG" caption="" >}}
 
 In this close-up, notice the light and shadow on the girl's face. Look at the light spilling along the floor of the foyer and onto the bedroom tiles. Note the brilliance of the tablecloth and the rim-lighting on the vase. Can it get any better than that?
 
