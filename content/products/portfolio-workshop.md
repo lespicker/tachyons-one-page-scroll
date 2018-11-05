@@ -2,7 +2,7 @@
 title: 'Portfolio Development Workshop'
 date: "2018-06-27"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
-event_link: "https://www.horizonworkshops.com/"
+location: "Havre de Grace, MD"
 featured: "feature"
 sideline: 'Fashion | Editorial | Dualities'
 sidecolor: 'white'
@@ -77,6 +77,9 @@ Yet, in our experience we have found that the majority of photographers either d
 If you are a serious photographer, here is a chance for you to walk home with a beautifully hand-crafted, hand-printed, and carefully curated fine art portfolio that will show off your work to the highest standard in the industry today.
 
 {{< figure src="/images/DSCF7227.jpg" >}}
+
+> As a relatively new photographer I tend to focus on invoking an emotion or feeling in a specific image.  However, I am finding the true story can only be expressed in a carefully curated and edited portfolio of images.  So if you are interested in learning a very thoughtful process for objectively assessing your images and finding the “true story” — Les and Bob’s workshop is definitely for you!  They are both masters in their professions and are passionate in conveying their experience.  They have definitely have been big contributors to the development of my photographic skills.
+<cite>Jim Harris, TX</cite>
 
 ## Image Curation
 

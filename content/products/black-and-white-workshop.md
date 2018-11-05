@@ -2,9 +2,7 @@
 title: 'Black & White Workshop'
 date: "2018-06-27"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
-event_link: "https://www.horizonworkshops.com/"
-location: "University of Delaware, Newark"
-featured: "feature"
+location: "Havre de Grace, MD"
 sideline: 'Fashion | Editorial | Dualities'
 sidecolor: 'white'
 textcolor: white

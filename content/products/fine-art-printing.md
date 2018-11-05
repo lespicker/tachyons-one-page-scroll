@@ -2,6 +2,7 @@
 title: 'Fine Art Printing Workshop'
 date: "2018-06-27"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
+location: "Havre de Grace, MD"
 sideline: 'Fashion | Editorial | Dualities'
 sidecolor: 'white'
 textcolor: white
