@@ -23,7 +23,7 @@ product:
     data_item_categories: "workshop"
     data_item_shippable: "false"
     event_date: 2019-01-19T08:30:00Z
-    notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom. January 19th, 2019."
+    notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom. No refunds after December 19th 2018."
     bcolor: black
 slides:
   - "/images/099A8236.jpg"

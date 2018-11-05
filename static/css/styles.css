@@ -199,6 +199,7 @@
   border-left: 1px solid ;
   padding-left: 1rem;
   margin: 0;
+  color: black;
 }
 
 .content cite{
@@ -232,7 +233,6 @@
   .content blockquote{
     font-size: 1.5rem;
     padding-left: 2rem;
-    font-weight: 100;
   }
 }
 
