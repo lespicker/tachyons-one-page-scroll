@@ -18,15 +18,18 @@
     </div>
   </article>
   <aside class="w-100 w-30-ns mb4 mb0-ns lh-solid tr">
-    <time class="f-subheadline fw3 tr"><span class="f2">{{ dateFormat "2006" .Date }}</span><br>{{ dateFormat "01" .Date }}<span class="fw7">{{ dateFormat "02" .Date }}</span></time>
-    {{ with .Params.stats }}
-      {{ partial "slab-stat" . }}
+    {{ with .Params.product }}
+    <time class="f-subheadline fw3 tr"><span class="f2">{{ dateFormat "2006" .event_date }}</span><br>{{ dateFormat "01" .event_date }}<span class="fw7">{{ dateFormat "02" .event_date }}</span></time>
     {{ end }}
-    <div class="db mt4">
+    {{ with .Params.product }}
+      {{ partial "slab-stat-product" . }}
+    {{ end }}
+    <div class="db">
     {{ partial "product-buy-button.html" . }}
     </div>
   </aside>
   </div>
 </section>
 
+{{ partial "cart" . }}
 {{ end }}

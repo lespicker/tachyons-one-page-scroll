@@ -1,0 +1,37 @@
+<article class="pv3 pv5-ns" data-name="slab-stat-small">
+  <h3 class="f6 ttu tracked">{{ .name }}</h3>
+  <div class="cf">
+    {{ if isset . "event_date" }}
+    <dl class="fr w-100 dib lh-title ml0">
+      <dd class="f6 fw4 ml0">Date</dd>
+      <dd class="f4 f7-m fw6 ml0">{{ dateFormat "Monday, Jan 2, 2006 15:04" .event_date }}</dd>
+    </dl>
+    {{ end }}
+    {{ if isset . "event_end" }}
+    <dl class="fr w-100 dib lh-title ml0">
+      <dd class="f6 fw4 ml0">Thru</dd>
+      <dd class="f4 f7-m fw6 ml0">{{ dateFormat "Monday, Jan 2, 2006 15:04" .event_end }}</dd>
+    </dl>
+    {{ end }}
+    {{ if isset . "deposit" }}
+    <dl class="fr w-50 dib lh-title">
+      <dd class="f6 fw4 ml0">Deposit</dd>
+      <dd class="f3 f7-m fw6 ml0">{{ .data_item_price }}</dd>
+    {{ else }}
+    <dl class="fr w-100 dib lh-title">
+      <dd class="f6 fw4 ml0">Price</dd>
+      <dd class="f3 f7-m fw6 ml0">{{ .data_item_price }}</dd>
+    {{ end }}
+    </dl>
+    {{ if isset . "deposit" }}
+    <dl class="fr w-50 dib lh-title">
+      <dd class="f6 fw4 ml0">Total Price</dd>
+      <dd class="f3 f7-m fw6 ml0">{{ .deposit }}</dd>
+    </dl>
+    {{ end }}
+    <dl class="fr w-80 dib lh-title">
+      <dd class="f6 fw4 ml0">Notes</dd>
+      <dd class="f6 f7-m fw3 ml0">{{ .notes }}</dd>
+    </dl>
+  </div>
+</article>          

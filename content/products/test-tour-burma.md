@@ -2,8 +2,6 @@
 title: 'Horizon Photography Summit'
 date: "2018-06-27"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
-event_date: 2018-11-02T17:15:00Z
-event_end: 2018-11-04T17:15:00Z
 event_link: "https://www.horizonworkshops.com/"
 location: "University of Delaware, Newark"
 featured: "no"
@@ -24,16 +22,9 @@ product:
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
+    event_date: 2018-11-02T17:15:00Z
+    event_end: 2018-11-04T17:15:00Z
     bcolor: black
-studio:
-  client: "Personal Project"
-  model: "Lauren"
-  photographer: "R W Boyer"
-  stylist: "R W Boyer"
-  studio: "Cattail"
-  lighting: "Profoto"
-  heads: "1"
-  notes: 'Profoto D2 with an RFi 4ft Octabank with 50 grid and one white reflector on white seamless.'
 slides:
   - "/images/099A8236.jpg"
   - "/images/099A8224.jpg"
