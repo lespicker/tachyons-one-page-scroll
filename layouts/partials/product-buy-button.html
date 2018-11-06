@@ -4,9 +4,9 @@
     data-item-name="{{.Params.product.data_item_name}}"
     data-item-price="{{.Params.product.data_item_price}}"
     data-item-url="{{.Permalink}}"
-    data-item-description="{{.Params.product.data_item_description}}">
+    data-item-description="{{.Params.product.data_item_description}}"
     {{ if isset .Params.product "data_item_file_guid" }}
-    data-item-description="{{.Params.product.data_item_file_guid}}">
-    {{ end }}
+    data-item-file-guid="{{.Params.product.data_item_file_guid}}"
+    {{ end }}>
         Add To Cart
 </button>
