@@ -10,7 +10,7 @@
       <img class="" src="{{.Params.image}}" alt="{{.Title | plainify}}">
       <h1 class="mt2 mb2 f1 fw3">{{ .Title | plainify }}</h1>
       {{ if isset .Params "subtitle" }}
-      <h2 class="mt0 mb4 f3 fw1">{{ .Params.subtitle | safeHTML }}</h2>
+      <h2 class="mt0 mb4 f3 fw3">{{ .Params.subtitle | safeHTML }}</h2>
       {{ end }}
     </header>
     <div class="content mb5">
