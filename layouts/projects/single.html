@@ -18,8 +18,10 @@
 
 <section id="holder" class="relative">
   <div id="maximage" class="flex relative w-50 overflow-hidden items-center justify-center vh-100 center">
-    {{ range .Params.slides }}
-    <img src="{{.}}" class="bg-top">
+    {{ with (.Resources.Match "images/*.jpg") }}
+    {{ range . }}
+      <img src="{{.RelPermalink}}" class="bg-top">
+    {{ end }}
     {{ end }}
   </div>
 </section>
@@ -51,11 +53,13 @@
 </section>
 <section class="relative bg-black-50">
   <div class="cf mw8 pv4 ph2 ph0-ns center">
-    {{ range .Params.slides }}
-    <a href="{{.}}" class="fl gallery w-33 w-10-ns dib pa2" >
-        <div class="aspect-ratio--1x1 cover" style="background:url({{.}}) center;">
+    {{ with (.Resources.Match "images/*.jpg") }}
+    {{ range . }}
+      <a href="{{.RelPermalink}}" class="fl gallery w-33 w-10-ns dib pa2" >
+        <div class="aspect-ratio--1x1 cover" style="background:url({{.RelPermalink}}) center;">
         </div>
-    </a>
+      </a>
+    {{ end }}
     {{ end }}
   </div>  
   <script>

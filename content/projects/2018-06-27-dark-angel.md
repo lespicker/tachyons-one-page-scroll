@@ -5,7 +5,7 @@ subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half ni
 sideline: 'Fashion | Editorial | Dualities'
 sidecolor: 'white'
 textcolor: white
-image: "/images/099A8187.jpg"
+image: "/images/099A9375.jpg"
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
@@ -19,15 +19,15 @@ studio:
   heads: "1"
   notes: 'Profoto D2 with an RFi 4ft Octabank with 50 grid and one white reflector on white seamless.'
 slides:
-  - "/images/099A8236.jpg"
-  - "/images/099A8224.jpg"
-  - "/images/099A8222.jpg"
-  - "/images/099A8223.jpg"
-  - "/images/099A8187.jpg"
-  - "/images/099A8185.jpg"
-  - "/images/099A8234.jpg"
-  - "/images/099A8182.jpg"
-  - "/images/099A8181.jpg"
+  - "/images/099A9375.jpg"
+  - "/images/099A9377.jpg"
+  - "/images/099A9378.jpg"
+  - "/images/099A9380.jpg"
+  - "/images/099A9382.jpg"
+  - "/images/099A9383.jpg"
+  - "/images/099A9387.jpg"
+  - "/images/099A9389.jpg"
+  - "/images/099A9391.jpg"
 aliases:
 ---
 Sometimes contrasting elements that are a bit out of place &mdash; discordant are more satisfying than those that are harmonious. Both have their place and variety is the spice of life as the saying goes. It's not an all or nothing proposal in most cases. When I got together with Lauren for a bit of wardrobe play and experimentation. The first ensemble seemed to inspire experimentation with varying degrees of discordance between costume, mood, and over all feel. Over all I decided to go with more somber tones in the lighting department.
