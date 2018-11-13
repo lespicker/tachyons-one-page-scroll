@@ -9,7 +9,7 @@
         <h2 class="dib mt0 mb2 ph4 pv2 black f2 fw7 ttu tc">Workshops &amp; Tours</h2>
       </div>
     </div>
-    <div class="flex flex-wrap flex-nowrap-l items-stretch mw9 ph2 ph0-l">
+    <div class="flex flex-wrap flex-nowrap-l items-stretch mw9 ph2 ph0-l min-vh-50">
       {{ range first 1 (where (where .Data.Pages "Section" "products") "Params.featured" "feature") }}
       <div class="w-100 w-60-l mb2 cover bg-center mv4" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ .Params.image }}'); background-position:
       center center; background-size: cover;">
@@ -25,30 +25,14 @@
       {{ end }}
 
       <div class="ml0 ml2-l w-100 w-40-l mt5 mt0-l">
-        <article class="mw5 center pv4">
-          <div class="aspect-ratio aspect-ratio--6x4">
-            <div class="aspect-ratio--object cover flex items-center justify-center" style="background:url(/images/bli/2017/12/lakelouise-banff.jpg) center;">
-              <a href="/types/tour" class="db f6 link  br2 ba ph3 pv2 mb2 dib white hover-black hover-bg-white b--white ttu">More Tours</a>
-            </div>
-          </div>
-        </article>
-        <article class="mw5 center pv4">
-          <div class="aspect-ratio aspect-ratio--6x4">
-            <div class="aspect-ratio--object cover flex items-center justify-center" style="background:url(/images/bli/2017/07/portfolio-prints.jpg) center;">
-              <a href="/types/workshop" class="db f6 link  br2 ba ph3 pv2 mb2 dib white hover-black hover-bg-white b--white ttu">More Workshops</a>
-            </div>
-          </div>
-        </article>
-      </div>
-
-      {{/*
-      <div class="ml0 ml2-l w-100 w-40-l mt5 mt0-l">
         <div class="">
-          {{ range first 3 (where (where (.Data.Pages.ByParam "event_date") "Section" "products") "Params.featured" "ne" "feature") }}
+          {{ $all_products := (where (where .Data.Pages "Section" "products") "Params.featured" "ne" "feature") }}
+          {{ $date_products := (where $all_products ".Params.types" "intersect" (slice "workshop" "tour"))}}
+          {{ range first 3 (sort $date_products ".Params.product.event_date") }}
           <article class="flex justify-end items-stretch mb4">
             <aside class="w-40 f1 fw9 tc">
               <div class="relative vcenter">
-                <span class="db f3 fw5">{{ dateFormat "January" .Params.event_date }}</span>{{ dateFormat "02" .Params.event_date }}
+                <span class="db f3 fw5">{{ dateFormat "January" .Params.product.event_date }}</span>{{ dateFormat "02" .Params.product.event_date }}
               </div>
             </aside>
             <header class="ma3 w-60">
@@ -60,7 +44,33 @@
           {{ end }}
         </div>
       </div>
-      */}}
+
     </div>
+
+    {{/* 
+    <div class="flex">
+      <article class="dib w-30 center pv4">
+        <div class="aspect-ratio aspect-ratio--6x4">
+          <div class="aspect-ratio--object cover flex items-center justify-center" style="background:url(/images/bli/2017/12/lakelouise-banff.jpg) center;">
+            <a href="/types/tour" class="db f6 link  br2 ba ph3 pv2 mb2 dib white hover-black hover-bg-white b--white ttu">More Tours</a>
+          </div>
+        </div>
+      </article>
+      <article class="dib w-30 center pv4">
+        <div class="aspect-ratio aspect-ratio--6x4">
+          <div class="aspect-ratio--object cover flex items-center justify-center" style="background:url(/images/bli/2017/07/portfolio-prints.jpg) center;">
+            <a href="/types/workshop" class="db f6 link  br2 ba ph3 pv2 mb2 dib white hover-black hover-bg-white b--white ttu">More Workshops</a>
+          </div>
+        </div>
+      </article>
+    </div>
+    */}}
+
+    <div class="tc mt5">
+      <a href="/types/tour" class="w5 f6 link mh2 br2 ba ph3 pv2  dib dark-red hover-white hover-bg-dark-red b--dark-red ttu">More Tours</a>
+
+      <a href="/types/workshop" class="w5 f6 link mh2 br2 ba ph3 pv2  dib dark-red hover-white hover-bg-dark-red b--dark-red ttu">More Workshops</a>
+    </div>
+
     </div>
   </section>

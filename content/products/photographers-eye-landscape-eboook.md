@@ -3,7 +3,6 @@ title: "The Photographer's Eye Wildlife 1"
 date: "2018-11-06"
 subtitle: '<span class="white">Canadian <span class="fw7">grandeur</span> and wildlife.</span>'
 location: "Havre de Grace, MD"
-featured: "feature"
 textcolor: white
 image: "/images/people-1-preview.jpg"
 bcolor: "white"

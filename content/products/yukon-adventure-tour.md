@@ -2,8 +2,8 @@
 title: 'Yukon Photography Adventure'
 date: "2018-11-06"
 subtitle: '<span class="white">Canadian <span class="fw7">grandeur</span> and wildlife.</span>'
-location: "Havre de Grace, MD"
-featured: "feature"
+location: "Yukon Territory, Canada"
+featured: feature
 sideline: 'Yukon | Photography | Adventure'
 sidecolor: 'dark-red'
 textcolor: white
