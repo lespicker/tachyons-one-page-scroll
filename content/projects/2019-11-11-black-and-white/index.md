@@ -8,15 +8,9 @@ image: "DSC_4511-Edit.jpg"
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-white-80
-studio:
-  client: "Oh Polly UK"
-  model: "Jehanne"
-  photographer: "R W Boyer"
-  stylist: "R W Boyer"
-  studio: "Cattail"
-  lighting: "Profoto"
-  heads: "1"
-  notes: 'Profoto D2 with an RFi 4ft Octabank and one white reflector on white seamless.'
+quote:
+  text: "After more than forty years shooting primarily in color for publications, I have steadily gravitated to black and white photography. Here is a small slice of that tonal work."
+  cite: "Les Picker"
 aliases:
 ---
 After more than forty years shooting primarily in color for publications, I have steadily gravitated to black and white photography. Here is a small slice of that tonal work. 

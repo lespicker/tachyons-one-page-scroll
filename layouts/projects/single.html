@@ -32,10 +32,14 @@
   {{ if isset .Params "sideline" }}
     {{ partial "sideline" (dict "sideline" .Params.sideline (cond (isset .Params "sidecolor") "sidecolor" "") .Params.sidecolor) }}
   {{ end }}
-  <div class="flex flex-wrap-reverse justify-between {{with .Params.textcolor}}{{.}}{{end}}">
-  <article class="mv0 w-100 w-70-ns">
+  <div class="flex flex-wrap justify-between {{with .Params.textcolor}}{{.}}{{end}}">
+  <div class="flex justify-center items-center vh-100 w-100 white">
+      {{ with .Params.quote }}
+      <blockquote class="measure f2-ns">{{ .text }}<cite class="db f3 mt3">&mdash; {{ .cite }}</cite></blockquote>
+      {{ end }}
+  </div>
+  <article class="mv0 w-100">
     <header class="lh-title">
-      <div class="vh-100 w-100"></div>
       <h1 class="mt2 mb2 f1 fw3">{{ .Title | plainify }}</h1>
       <h2 class="mt0 mb4 f3 fw1">{{ .Params.subtitle | safeHTML }}</h2>
     </header>
@@ -43,12 +47,14 @@
       {{ .Content }}
     </div>
   </article>
+  {{/* 
   <aside class="w-100 w-30-ns mb4 mb0-ns lh-solid tr">
     <time class="f-subheadline fw3 tr"><span class="f2">{{ dateFormat "2006" .Date }}</span><br>{{ dateFormat "01" .Date }}<span class="fw7">{{ dateFormat "02" .Date }}</span></time>
     {{ with .Params.studio }}
     {{ partial "slab-stat-studio" . }}
     {{ end }}
   </aside>
+  */}}
   </div>
 </section>
 <section class="relative bg-black-50">
