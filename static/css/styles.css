@@ -50,6 +50,10 @@
   font-size: 14rem;
 }
 
+.f-10vw{
+  font-size: 10vw;
+}
+
 @media screen and (min-width: 48em){
   .f-super-ns{
     font-size: 14rem;
