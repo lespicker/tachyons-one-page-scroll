@@ -28,10 +28,11 @@
 
 <div id="reader" class="o-0 fixed w-100 vh-100 top-0 left-0 bottom-0 right-0 {{ .Params.readerbg }}"></div>
 
+{{ if isset .Params "sideline" }}
+{{ partial "sideline" (dict "sideline" .Params.sideline (cond (isset .Params "sidecolor") "sidecolor" "") .Params.sidecolor) }}
+{{ end }}
+
 <div class="flex justify-center items-center vh-100 w-100 bg-black">
-  {{ if isset .Params "sideline" }}
-    {{ partial "sideline" (dict "sideline" .Params.sideline (cond (isset .Params "sidecolor") "sidecolor" "") .Params.sidecolor) }}
-  {{ end }}
   {{ $path := .Params.image | printf "%s/%s" .RelPermalink }}
   <article class="z-0 ph4 ph5-ns center overflow-x-hidden">
     <div id="" class="relative f3 f1-ns z-999 bg-clip-text cover bg-top bg-fixed" style="background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url('{{$path}}')">

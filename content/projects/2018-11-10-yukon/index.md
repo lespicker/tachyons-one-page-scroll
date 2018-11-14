@@ -1,7 +1,7 @@
 ---
 subtitle: '<span class="white-70">The Yukon</span>'
-date: "2018-11-10"
-title: '<span class="dark-red"><span class="fw7">The Yukon</span></span>'
+date: "2018-10-10"
+title: '<span class="dark-red">A <span class="fw7">magical</span> land</span>'
 sideline: 'Landscape | Yukon | Color'
 sidecolor: 'white'
 image: "images/_LAP1124-Edit.jpg"
