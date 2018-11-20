@@ -10,7 +10,7 @@ featured: "feature"
 sideline: 'Landscape | Wildlife | Adventure'
 sidecolor: 'dark-red'
 textcolor: white
-image: "/images/bli/2018/09/Lester-Picker_07.jpg"
+image: "/images/DSCF0649.jpg"
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
