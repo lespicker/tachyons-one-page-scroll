@@ -5,7 +5,7 @@ comments: true
 categories:
 - reviews
 
-image: /images/bli/2018/05/1479872466.jpg
+image: /images/DSCF9814.jpg
 ---
 
 **NOTE:** This comprehensive review of the Ben Q monitor was written by my assistant Robert Boyer, who has a great deal of expertise on monitor performance and color management. 
@@ -15,6 +15,8 @@ image: /images/bli/2018/05/1479872466.jpg
 The BenQ SW320 is big, really big. At 31.5" the monitor is substantially bigger than a 27" unit. I'm sure there are applications where someone might need two or more of these monitors but I found myself ultimately satisfied with the real estate provided by one. It's so wide that when I was testing a dual monitor setup with another 27" on my desktop I found it counter-productive for typical computer and even photographic work. The only scenario I see using two displays for my use is possibly if I was using a tethered capture session with clients where I might use a smaller screen to control the camera, organize, and orchestrate what shows up on the BenQ SW320 that the client(s) were watching.
 
 <!--more-->
+
+{{< figure src="/images/bli/2018/05/1479872466.jpg" caption="" >}}
 
 As many of you, I've become quite accustomed to using *retina* displays, especially on my smaller screens such as my MacBook Pro computers. Photographs look almost print-like on retina displays and disappointing on traditional lower pixel density monitors. You may understand my initial skepticism given the huge size with the resolution of the unit *only being 4K UHD*. I was wrong. Doing some math the pixel density comes in at almost 140 DPI which is quite a different viewing experience than your typical 27in HD monitor, which is somewhere closer to 100 DPI. Of course this will vary based on individual units, but I was quite satisfied with how smooth and detailed both photos as well as fonts and U/I looked on this monitor.
 
