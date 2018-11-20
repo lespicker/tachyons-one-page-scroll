@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hasselblad H4D Status Update"
+image: /images/news_060928_h3d.jpg
 comments: true
 categories:
 - Reviews

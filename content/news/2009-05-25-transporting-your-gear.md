@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Transporting Your Gear"
+image: /images/DSCF0665.jpg
 comments: true
 categories:
 - Reviews

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Take the Next Right (Angle Viewer, that is!)"
+image: /wp-content/uploads/2010/09/A74D0850.jpg
 comments: true
 categories:
 - Reviews

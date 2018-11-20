@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Three Cheers for Knee Pads!"
+image: /wp-content/uploads/2010/09/knee-pads-1-of-31.jpg
 comments: true
 categories:
 - Reviews

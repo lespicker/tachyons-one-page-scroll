@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Gloves vs. Mittens for Photography"
+image: /wp-content/uploads/2011/03/swany-mitten-1-of-1.jpg
 comments: true
 categories:
 - Reviews

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nikon D800: A Field Test Report"
+image: /images/articles_nikon_d800_04.jpg
 comments: true
 categories:
 - Reviews

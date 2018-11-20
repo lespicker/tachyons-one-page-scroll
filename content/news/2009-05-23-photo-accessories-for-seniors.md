@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Photo Accessories for Seniors"
+image: /wp-content/uploads/2009/05/hravthumb1.gif
 comments: true
 categories:
 - Reviews
@@ -17,9 +18,6 @@ tags:
 I’ll admit it. I’m a senior photographer. Maybe even ancient.
 
 For us photo geezers, I offer the following: my favorite accessories that I employ in the field, whether I’m shooting landscapes in Ecuador or wildlife in Africa. I'm a professional photographer, so use or modify these suggestions to suit your photographic needs. And, send in your own suggestions which I will post on my site and credit to your experience and wisdom.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/hravthumb1.gif" >}}
-
 
 </a>Right Angle Viewer (RAV)</strong>. As far as I’m concerned this is a must for the over-fifty photographer. You attach the RAV to your viewfinder and voila!, you don’t have to lay on your stomach to get a shot of that rare flower. RAVs rotate so that you can use them in landscape or portrait mode. They’re great to use with a tripod when photographing wildflowers or insects. Tip: since the RAV optics do not factor into the actual photo (that’s what the lens mounted on the front of the camera is for), you don’t need to buy the one made by your camera manufacturer. You can get one for half the price from secondary manufacturers. My favorite is <a href="http://www.hoodman.com">www.hoodman.com</a>.
 

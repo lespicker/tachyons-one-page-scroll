@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The LowePro Trekker AW400… A Backpack on Steroids!"
+image: /wp-content/uploads/2011/12/LAP4224.jpg
 comments: true
 categories:
 - Reviews

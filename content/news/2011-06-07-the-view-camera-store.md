@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The View Camera Store"
+image: /images/Chamonix_Jobo_02.jpg
 comments: true
 categories:
 - Reviews

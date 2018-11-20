@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "TripIt: A Nifty App"
+image: /images/DSCF0865.jpg
 comments: true
 categories:
 - Reviews

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Stuck on UPStrap "
+title: "Stuck on UPStrap"
+image: /images/099A0724.jpg
 comments: true
 categories:
 - Reviews

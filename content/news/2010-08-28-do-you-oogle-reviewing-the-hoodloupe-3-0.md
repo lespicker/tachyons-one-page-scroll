@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Do You Oogle? The HoodLoupe"
+image: /wp-content/uploads/2010/08/H-LPP30.gif
 comments: true
 categories:
 - Reviews
@@ -18,8 +19,6 @@ tags:
 To “ogle” means to look at someone flirtatiously or lasciviously, according to Webster’s. So, I invented the term “oogle” (a takeoff on Google, no doubt) to describe a behavior that many of us landscape photographers do.
 
 Perhaps you’ve seen this in action. A pro photographer takes an image and as soon as it pops up on the LCD, he (or she) whips out a little black device from a belt holster or from around his neck, hunches over perilously close to his LCD screen and just… well… oogles.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/H-LPP30.gif" >}}
 
 The device in question is Hoodman’s HoodLoupe, an $80 contraption that I’d absolutely never be without. It’s basically a glorified magnifying lens. It fits perfectly over an LCD screen. For a man like me who has to take off his glasses every time he snaps the shutter and then put them back on to see the camera screen, the HoodLoupe is a lifesaver. Plus, I can see the screen with no glare whatsoever, even in the brightest light. And a +/- 3  diopter focus adjustment allows me to adjust the HoodLoupe perfectly for my eyes.
 

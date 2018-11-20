@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Echoes of Earth"
+image: /images/moraine-color.jpg
 comments: true
 categories:
 - Reviews

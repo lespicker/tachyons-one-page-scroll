@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wimberley Sidekick"
+image: /wp-content/uploads/2011/05/LAP_4167.jpg
 comments: true
 categories:
 - reviews
