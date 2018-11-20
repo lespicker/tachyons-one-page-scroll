@@ -16,16 +16,24 @@
     <div class="content mb5">
       {{ .Content }}
     </div>
+    <div class="w-100 w-50-ns">
+    {{ with .Params.product }}
+      {{ partial "slab-stat-product" . }}
+    {{ end }}
+    {{ partial "product-buy-button.html" . }}
+    </div>
   </article>
   <aside class="w-100 w-30-ns mb4 mb0-ns lh-solid tr">
     {{ with .Params.product }}
     <time class="f-subheadline fw3 tr"><span class="f2">{{ dateFormat "2006" .event_date }}</span><br>{{ dateFormat "01" .event_date }}<span class="fw7">{{ dateFormat "02" .event_date }}</span></time>
     {{ end }}
-    {{ with .Params.product }}
-      {{ partial "slab-stat-product" . }}
-    {{ end }}
-    <div class="db">
-    {{ partial "product-buy-button.html" . }}
+    <div class="ml0 ml4-l">
+      {{ with .Params.product }}
+        {{ partial "slab-stat-product" . }}
+      {{ end }}
+      <div class="db">
+      {{ partial "product-buy-button.html" . }}
+      </div>
     </div>
   </aside>
   </div>
