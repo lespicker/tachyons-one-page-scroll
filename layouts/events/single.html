@@ -10,7 +10,7 @@
       <img class="" src="{{.Params.image}}" alt="{{.Title | plainify}}">
       <h1 class="mt2 mb2 f1 fw3">{{ .Title | plainify }}</h1>
       {{ if isset .Params "subtitle" }}
-      <h2 class="mt0 mb4 f3 fw1">{{ .Params.subtitle | safeHTML }}</h2>
+      <h2 class="mt0 mb4 f3 fw3">{{ .Params.subtitle | safeHTML }}</h2>
       {{ end }}
     </header>
     <div class="content mb5">
@@ -18,7 +18,7 @@
     </div>
   </article>
   <aside class="w-100 w-30-ns mb4 mb0-ns lh-solid tr">
-    <time class="f-subheadline fw3 tr"><span class="f2">{{ dateFormat "2006" .Date }}</span><br>{{ dateFormat "01" .Date }}<span class="fw7">{{ dateFormat "02" .Date }}</span></time>
+    <time class="f-subheadline fw3 tr"><span class="f2">{{ dateFormat "2006" .Params.event_date }}</span><br>{{ dateFormat "01" .Params.event_date }}<span class="fw7">{{ dateFormat "02" .Params.event_date }}</span></time>
     {{ with .Params.stats }}
     {{ partial "slab-stat" . }}
     {{ end }}
