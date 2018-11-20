@@ -133,11 +133,9 @@ I emphasize that this is truly an adventure. Yukon is huge (20% larger land mass
 
 Please do not book your air flights until we advise you to do so. **You must also have traveler’s health and accident insurance.**
 
-Yukon Photo Adventure Fee: $8,650. Strictly limited to three photographers.
+**Strictly limited to three photographers.**
 
 Once you register, you will receive an email with detailed information on what gear to bring, what to wear, and other information.
-
-Your $3,000 deposit is fully refundable until February 28, 2018 (50% until 120 days from start date; no refunds thereafter). On June 30 the balance of the workshop fee is due; you will receive a notice to that effect.
 
 Thank you in advance for signing up. Adventure awaits!
 

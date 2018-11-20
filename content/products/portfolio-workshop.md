@@ -23,7 +23,7 @@ product:
     event_date: 2019-07-12T15:00:00Z
     event_end: 2019-07-14T15:00:00Z
     deposit: 1500.00
-    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after June 12th, 2019.
+    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after June 1st, 2019.
     bcolor: black
 slides:
   - "/images/099A8236.jpg"
