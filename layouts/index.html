@@ -31,7 +31,7 @@
     </div>
     <div class="flex flex-wrap flex-nowrap-l items-stretch mw9 ph2 ph0-l">
       {{ range first 1 (where (where .Data.Pages "Section" "events") "Params.featured" "feature") }}
-      <div class="w-100 w-60-l mb2 cover bg-center" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ .Params.image }}'); background-position:
+      <div class="w-100 w-60-l min-vh-50 mb2 cover bg-center" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ .Params.image }}'); background-position:
       center center; background-size: cover;">
         <article class="flex flex-wrap flex-nowrap-l ph4 pv4">
         <header class="mt4 mt0-l">
