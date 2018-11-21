@@ -25,11 +25,11 @@ product:
     bcolor: black
 aliases:
 ---
-In The Photographer’s Eye: People, you will go behind the scenes and learn inside secrets from master photographer Les Picker. You will gain insights into the photographic process as Les explains how each of these ten, specially chosen stunning images was made, what he had to overcome to get the shot and how he tackled familiar and unique lighting challenges to bring home these highly praised photos of people.
+In The Photographer’s Eye: People, you will go behind the scenes and learn inside secrets from master photographer Les Picker. You will gain insights into the photographic process as Les explains how each of these ten, specially chosen images was made, what he had to overcome to get the shot and how he tackled familiar and unique lighting challenges to bring home these highly praised photos of people.
 
-Chock full of incredibly helpful insights and recommendations, the e-Book also includes an interactive section where Les gives readers ten useful tips for creating dynamic people images, whether at home or when you travel. Called “Photographing People: Ten Tips for Images With Impact,” Les offers suggestions gained from more than 40 years of successful photography.
+Chock full of helpful insights and recommendations, the e-Book also includes an interactive section where Les gives readers ten useful tips for creating dynamic people images, whether at home or when you travel. In “Photographing People: Ten Tips for Images With Impact,” Les offers suggestions gained from more than 40 years of successful photography.
 
-As part of his commitment to bring photography and an appreciation of our natural world to as many people as possible, Les has priced this eBook at only $4.99. Whether you are a travel photographer, official family photographer - or both- Les’ eBook will be something you’ll want to carry with you on your iPod, iPad, or similar electronic device so you can come back to it again and again. Convenient, informative, insightful. Try out this exciting new approach to photography today!
+Whether you are a travel photographer, official family photographer - or both- Les’ eBook will be something you’ll want to carry with you on your electronic device so you can come back to it again and again. Convenient, informative, insightful. Try out this exciting new approach to photography today!
 
 Upon purchase you will receive an email with a link for immediate download.
 

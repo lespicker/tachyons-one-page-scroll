@@ -25,11 +25,11 @@ product:
     bcolor: black
 aliases:
 ---
-In The Photographer’s Eye: Landscapes 1, you will go behind the scenes and learn inside secrets from master photographer Les Picker. You will gain insights into the photographic process as Les explains how each of these ten, specially chosen stunning images was made, what he had to overcome to get the shot and how he tackled familiar and unique lighting challenges to bring home these highly praised photos.
+In The Photographer’s Eye: Landscapes 1, you will go behind the scenes and learn inside secrets from master photographer Les Picker. You will gain insights into the photographic process as Les explains how each of these ten, specially chosen images was made, what he had to overcome to get the shot and how he tackled familiar and unique lighting challenges to bring home these highly praised photos.
 
-Chock full of incredibly helpful insights and recommendations, the e-Book also includes an interactive section where Les gives readers ten useful tips for creating evocative landscape images. Called “Ten Tips For More Dramatic Landscapes,” Les shares tips and suggestions gained from more than 40 years of successful photography.
+Chock full of helpful insights and recommendations, the e-Book also includes an interactive section where Les gives readers ten useful tips for creating evocative landscape images. In “Ten Tips For More Dramatic Landscapes,” Les shares tips and suggestions gained from more than 40 years of successful photography.
 
-As part of his commitment to bring photography and an appreciation of our natural world to as many people as possible, Les has priced this eBook at only $4.99. Whether you are a photographer or a nature lover- or both!- Les’ eBook will be something you’ll want to carry with you on your iPod, iPad, or similar electronic device so you can come back to it again and again. Convenient, informative, insightful. Try out this exciting new approach to photography today!
+Whether you are a photographer or a nature lover- or both!- Les’ eBook will be something you’ll want to carry with you on your electronic devices so you can come back to it again and again. Convenient, informative, insightful. Try out this exciting new approach to photography today!
 
 Upon purchase you will receive an email with a link for immediate download.
 
