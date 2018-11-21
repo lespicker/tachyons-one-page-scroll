@@ -3,13 +3,12 @@ title: 'Fine Art Printing Workshop'
 date: "2018-06-27"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 location: "Havre de Grace, MD"
-sideline: 'Fashion | Editorial | Dualities'
+sideline: 'Workshop | Printing | Fine Art'
 sidecolor: 'white'
 textcolor: white
 image: "/images/Lester-Picker_07.jpg"
-bcolor: "white"
+bcolor: black
 background: 'bg-top'
-readerbg: bg-black-20
 types:
   - workshop
 product:
@@ -22,20 +21,10 @@ product:
     data_item_shippable: "false"
     event_date: 2019-06-01T08:30:00Z
     notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make. No refunds after May 1, 2019"
-    bcolor: black
-slides:
-  - "/images/099A8236.jpg"
-  - "/images/099A8224.jpg"
-  - "/images/099A8222.jpg"
-  - "/images/099A8223.jpg"
-  - "/images/099A8187.jpg"
-  - "/images/099A8185.jpg"
-  - "/images/099A8234.jpg"
-  - "/images/099A8182.jpg"
-  - "/images/099A8181.jpg"
+		bcolor: "black"
 aliases:
 ---
-> What a wonderful time we had! Thank you and Bob for the special attention to even the ones that are not so technical! I learned more that day then I did with a Lightroom class!<cite>Lisa Barkey, M.D., Maryland</cite>
+> This was the perfect workshop for me. It allowed me to separate the theory from the practice and understand the practice of fine art printing with one-on-one guidance from the master artist, Les Picker, and master printer Bob Boyer.<cite>Gary Schubert, Pennsylvania</cite>
 
 Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop.
 
@@ -53,7 +42,7 @@ Les Picker is an award-winning freelance photographer with credits in National G
 
 Robert Boyer is the Master Printmaker for Lester Picker Fine Art Photography. Bob’s meticulous work and dynamic prints of Les’ work can be seen in permanent exhibits, exhibitions, offices, and private homes.
 
-> This was the perfect workshop for me as an aspiring fine art photographer. It allowed me to separate the theory from the practice and understand the practice of fine art photo printing with one-on-one guidance from the master artist, Les Picker, and master printer Bob Boyer, printing my own images.<cite>Gary Schubert, Pennsylvania</cite>
+> I have been wanting to thank you again for your wonderful printing workshop.  You have no idea how frustrated I was, trying to prepare my prints for my first art show. I was literally at a stand-still. I had done everything except **PRINT my images!!!** I can’t thank you enough for getting me over that hurdle and helping me to move forward with what I love to do.<br><br>My booth came together just how I envisioned it would, and I had so many wonderful comments about my prints.  I actually sold way more than I expected!<br><br>Thanks to your expertise and help, my fine art photography business is moving forward and I’m loving printing my own work.<cite> Pam Phillips, Pennsylvania</cite>
 
 ### Our Learning Environment
 Our studio in Havre de Grace, Maryland has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable.
