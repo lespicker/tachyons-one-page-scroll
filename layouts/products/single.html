@@ -24,8 +24,10 @@
     </div>
   </article>
   <aside class="w-100 w-30-ns mb4 mb0-ns lh-solid tr">
-    {{ with .Params.product }}
-    <time class="f-subheadline fw3 tr"><span class="f2">{{ dateFormat "2006" .event_date }}</span><br>{{ dateFormat "01" .event_date }}<span class="fw7">{{ dateFormat "02" .event_date }}</span></time>
+    {{ with .Params.product.event_date }}
+    <time class="f-subheadline fw3 tr"><span class="f2">{{ dateFormat "2006" . }}</span><br>{{ dateFormat "01" . }}<span class="fw7">{{ dateFormat "02" . }}</span></time>
+    {{ else }}
+    <time class="f-subheadline fw3 tr"><span class="f2">{{ dateFormat "2006" .Date }}</span><br>{{ dateFormat "01" .Date }}<span class="fw7">{{ dateFormat "02" .Date }}</span></time>
     {{ end }}
     <div class="ml0 ml4-l">
       {{ with .Params.product }}

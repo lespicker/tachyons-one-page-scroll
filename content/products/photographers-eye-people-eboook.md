@@ -1,6 +1,7 @@
 ---
-title: "The Photographer's Eye People 1"
-date: "2018-11-06"
+title: "The Photographer's Eye<br>People 1"
+date: "2018-11-20"
+weight: 1
 subtitle: '<span class="white">Canadian <span class="fw7">grandeur</span> and wildlife.</span>'
 location: "Havre de Grace, MD"
 textcolor: white
@@ -30,6 +31,6 @@ Chock full of incredibly helpful insights and recommendations, the e-Book also i
 
 As part of his commitment to bring photography and an appreciation of our natural world to as many people as possible, Les has priced this eBook at only $4.99. Whether you are a travel photographer, official family photographer - or both- Les’ eBook will be something you’ll want to carry with you on your iPod, iPad, or similar electronic device so you can come back to it again and again. Convenient, informative, insightful. Try out this exciting new approach to photography today!
 
-Upon purchase you will recieve an email with a link for immediate download.
+Upon purchase you will receive an email with a link for immediate download.
 
 Warning: Les’ eBooks can be highly addictive. When you need another ‘fix,’ check out his new titles. You have been warned!
