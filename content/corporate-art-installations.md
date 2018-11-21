@@ -1,7 +1,7 @@
 ---
 title: '<span class="black-50">Coporate Art Installations</span>'
 date: "2018-06-13"
-subtitle: '<span class="dark-red">Custom commisioned art &amp design; <span class="fw7">for any company.</span></span>'
+subtitle: '<span class="dark-red">Custom art &amp design <span class="fw7">for any company.</span></span>'
 sideline: 'Art Installations | Custom | Commercial'
 sidecolor: "dark-red"
 image: "/images/Sinai0080.jpg"
@@ -28,7 +28,7 @@ We print each of our images individually in our studio, using the finest printer
 
 ### Limited Edition Prints
 
-For those special office areas we offer the opportunity to incorporate Les' [Limited Edition Prints](/limited-edition-prints-d1.html) as part of the visual solution. 
+For those special office areas we offer the opportunity to incorporate Les' Limited Edition Prints as part of the visual solution. 
 
 ### Front-Mounted Plexiglass
 
