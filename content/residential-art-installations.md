@@ -28,7 +28,7 @@ We print each of our images individually in our studio, using the finest printer
 
 ### Limited Edition Prints
 
-{{< figure src="/images/image57-wall.jpg" >}}
+{{< figure src="/images/099A3669.jpg" >}}
 
 For those special areas of your home, we offer the opportunity to incorporate Les' Limited Edition Prints as part of the visual solution. 
 
@@ -52,7 +52,11 @@ We print our images on the highest quality backlit fabrics and synthetic materia
 
 {{< figure src="/images/image57-wall.jpg" >}}
 
-Are you looking for exceptional visual pizzazz for large wall coverage? Then our specialized wall coverings are perfect. We print in our studio on the best quality wall covering vinyl from Intelicoat Technologies, the finest manufacturer in the United States. We then double coat each strip to achieve utmost durability and protection from spills and bumps. We can install images as long as your wall runs. Check this video to see a recent thirty-foot wall that we covered with one of Les' purpose-shot images of Baltimore Harbor.
+Are you looking for exceptional visual pizzazz for large wall coverage? Then our specialized wall coverings are perfect. We print in our studio on the best quality wall covering. We then double coat each strip to achieve utmost durability and protection from spills and bumps. We can install images as long as your wall runs. The video below depicts a thirty-foot wall that we covered with one of Les' purpose-shot panoramas of Baltimore Harbor.
+
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/133679502" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/133679502">Wall Coverings</a> from <a href="https://vimeo.com/user4796650">Lester Picker</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
 
 ### Custom Designed Art Pieces
 
