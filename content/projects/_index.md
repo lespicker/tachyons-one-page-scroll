@@ -1,6 +1,6 @@
 ---
-title: "News"
-image: "/images/099A3609.jpg"
+title: "Portfolios"
+image: "/images/V2Print.jpg"
 menu:
   main:
     name: 'Portfolio'

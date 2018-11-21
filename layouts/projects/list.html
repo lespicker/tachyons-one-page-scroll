@@ -1,17 +1,33 @@
 {{ define "main" }}
+  <section class="vh-25 flex items-center justify-center bg-center cover bg-black white" style="background-image:url({{.Params.image}}) ;">
+    <h1 class="f2 f-headline-ns fw9 lh-solid mv0 tc">{{.Title}}</h1>
+  </section>
 
-  {{ $paginator := .Paginate .Pages }}
-  {{ range $paginator.Pages}}
+  {{/* $paginator := .Paginate .Pages */}}
+  <div class="cf mv4 mv6-ns mh2 mh4-ns">
+
+  {{ range .Pages }}
 
   {{ $path := .Params.image | printf "%s/%s" .RelPermalink }}
 
-  {{ partial "big-block" (dict "img" ($path | default "/wtf") "title" .Title ( cond (isset .Params "subtitle") "subtitle" "") .Params.subtitle (cond (isset .Params "sideline") "sideline" "") .Params.sideline ( cond (isset .Params "sidecolor") "sidecolor" "" ) .Params.sidecolor "button" "Read More" "bnlink" .Permalink (cond (isset .Params "bcolor") "bcolor" "") .Params.bcolor "bg" .Params.background) }}
+  {{/* partial "big-block" (dict "img" ($path | default "/wtf") "title" .Title ( cond (isset .Params "subtitle") "subtitle" "") .Params.subtitle (cond (isset .Params "sideline") "sideline" "") .Params.sideline ( cond (isset .Params "sidecolor") "sidecolor" "" ) .Params.sidecolor "button" "Read More" "bnlink" .Permalink (cond (isset .Params "bcolor") "bcolor" "") .Params.bcolor "bg" .Params.background) */}}
+
+    <article class="fl w-100 w-third-ns center pa2 pa4-ns">
+      <div class="aspect-ratio aspect-ratio--6x4">
+        <div class="aspect-ratio--object cover bg-center flex flex-wrap items-center justify-center bg-black" style="background-image:url({{($path | default "/wtf")}}) ;">
+          <h2 class="white tc mt0 mb3 mh3 db w-100 f3 fw9 lh-solid">{{ .Title | plainify }}</h2>
+          <a href="{{.Permalink}}" class="db f6 link  br2 ba ph3 pv2 mb2 dib white hover-black hover-bg-white b--white ttu">More Info</a>
+        </div>
+      </div>
+    </article>
 
   {{ end }}
 
+  </div> 
+
   <ul class="flex justify-between items-center pv4 ph4 list f3 fw7 ttu">
 
-  {{ if $paginator.HasPrev }}
+  {{/* if $paginator.HasPrev }}
   <li class="dib">
     <a href="{{ $paginator.Prev.URL }}" class="link black-70 dim">
       « Newer
@@ -25,7 +41,7 @@
       Older »
     </a>
   </li>
-  {{ end }}
+  {{ end */}}
 
 </ul>
 
