@@ -3,7 +3,7 @@ layout: post
 title: "Finding the Essence"
 comments: true
 categories:
-- news
+
 tags:
 - Bass Harbor
 - crop

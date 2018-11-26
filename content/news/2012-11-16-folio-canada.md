@@ -2,7 +2,7 @@
 layout: post
 title: Canada Collection
 categories:
-- news
+
 folio:
 - 2012/11/canada-pfolio/canada-1.jpg
 - 2012/11/canada-pfolio/canada-2.jpg

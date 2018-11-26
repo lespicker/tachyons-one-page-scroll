@@ -4,7 +4,7 @@ title: "Panoramas? Part 1: Nail Your Nodal Points!"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/harbor-flat-small.jpg
 comments: true
 categories:
-- news
+
 tags:
 - nodal point
 - panorama

@@ -3,7 +3,7 @@ layout: post
 title: Love Can be Cruel, Indeed
 comments: true
 categories:
-- news
+
 tags:
 - photography
 - insect

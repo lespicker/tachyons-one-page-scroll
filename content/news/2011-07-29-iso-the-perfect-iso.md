@@ -3,7 +3,7 @@ layout: post
 title: "ISO the Perfect ISO"
 comments: true
 categories:
-- News
+
 tags:
 - ASA
 - camera

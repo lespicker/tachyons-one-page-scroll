@@ -3,7 +3,7 @@ layout: post
 title: "Fine Art Printing Fun"
 comments: true
 categories:
-- news
+
 tags:
 - fine art
 - print

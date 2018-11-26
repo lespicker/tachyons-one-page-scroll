@@ -3,7 +3,7 @@ layout: post
 title: Troubleshooting Printer Issues
 comments: true
 categories:
-- news
+
 tags:
 - fine art printing
 - Canon

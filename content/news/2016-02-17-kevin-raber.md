@@ -3,7 +3,7 @@ layout: post
 title: A Luminous Encounter
 comments: true
 categories:
-- news
+
 tags:
 - test
 - photography

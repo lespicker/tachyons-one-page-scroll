@@ -3,7 +3,7 @@ layout: post
 title: My Newest e-Book
 comments: true
 categories:
-- news
+
 tags:
 - photography
 - ebook

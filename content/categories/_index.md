@@ -1,5 +1,5 @@
 ---
-title: "Topics"
+title: "Reviews & More"
 image: "/images/bli/2017/10/DSCF6355.jpg"
 cta: "/contact"
 menu:

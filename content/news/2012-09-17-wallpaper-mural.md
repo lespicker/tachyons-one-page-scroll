@@ -3,7 +3,7 @@ layout: post
 title: "Wallpaper Mural"
 comments: true
 categories:
-- News
+
 tags:
 - Baltimore Harbor
 - images

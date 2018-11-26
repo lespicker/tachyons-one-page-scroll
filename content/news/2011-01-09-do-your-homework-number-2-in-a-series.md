@@ -3,7 +3,7 @@ layout: post
 title: "Do Your Homework!!"
 comments: true
 categories:
-- news
+
 tags:
 - camera
 - cold

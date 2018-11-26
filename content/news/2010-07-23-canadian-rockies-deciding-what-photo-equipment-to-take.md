@@ -4,7 +4,7 @@ title: "Canadian Rockies - What Photo Equipment to Take?"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/packing_2010-07-22_1822%C2%A9LesterPicker.jpg
 comments: true
 categories:
-- News
+
 tags:
 - accessories
 - camera bags

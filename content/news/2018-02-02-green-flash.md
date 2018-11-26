@@ -3,7 +3,7 @@ layout: post
 title: The Mythical Green Flash
 comments: true
 categories:
-- news
+
 tags:
 - photography
 - Lester Picker

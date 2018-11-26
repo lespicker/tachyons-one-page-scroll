@@ -3,7 +3,7 @@ layout: post
 title: Travel Ebook Now Available!
 comments: true
 categories:
-- news
+
 tags:
 - photography
 

@@ -3,7 +3,7 @@ layout: post
 title: "Look What the Wind Did!"
 comments: true
 categories:
-- news
+
 tags:
 - bracing
 - camera

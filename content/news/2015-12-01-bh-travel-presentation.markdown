@@ -3,7 +3,6 @@ layout: post
 title: "Free Presentation at B&H"
 comments: true
 categories:
-- news
 tags:
 - fine art
 - print

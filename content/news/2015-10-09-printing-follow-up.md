@@ -3,7 +3,7 @@ layout: post
 title: Print-A-Thon
 comments: true
 categories:
-- news
+
 tags:
 - printing
 - print making

@@ -4,7 +4,7 @@ title: Fine Art Printing Workshop
 subtitle: Printing
 comments: true
 categories:
-- news
+
 tags: 
 - photography
 - Les Picker

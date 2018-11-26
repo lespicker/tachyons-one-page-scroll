@@ -3,7 +3,7 @@ layout: post
 title: Leaving for PhotoPlus in The Big Apple
 comments: true
 categories:
-- news
+
 tags:
 - printing
 - print making

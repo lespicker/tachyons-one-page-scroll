@@ -3,7 +3,7 @@ layout: post
 title: "Xwu'p'a'lich"
 comments: true
 categories:
-- News
+
 tags:
 ---
 This blog has nothing to do with photography. It has much to do with life. As we travel our individual path, we are sometimes- rarely- fortunate enough to meet up with a person whose very presence can change you in deep and meaningful ways. Such a person in my life is Barbara Higgins, known as Xwu'p'a'lich to her fellow tribal members.

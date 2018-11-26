@@ -3,7 +3,7 @@ layout: post
 title: "Really Used Cars"
 comments: true
 categories:
-- news
+
 tags:
 - automobiles
 - cars

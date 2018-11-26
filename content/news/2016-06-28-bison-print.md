@@ -3,7 +3,7 @@ layout: post
 title: A Winning Print
 comments: true
 categories:
-- news
+
 tags:
 - photography
 - printing

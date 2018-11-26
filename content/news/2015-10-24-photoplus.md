@@ -3,7 +3,7 @@ layout: post
 title: Some Photography Observations
 comments: true
 categories:
-- news
+
 tags:
 - New York City
 - photography

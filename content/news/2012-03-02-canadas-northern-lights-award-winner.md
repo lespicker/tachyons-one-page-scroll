@@ -3,7 +3,7 @@ layout: post
 title: "Canada's Northern Lights Award Winner"
 comments: true
 categories:
-- News
+
 tags:
 - award
 - Canada Northern Lights Award

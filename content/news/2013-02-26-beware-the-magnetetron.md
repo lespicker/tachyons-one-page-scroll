@@ -3,7 +3,7 @@ layout: post
 title: "Beware the Magnetetron!"
 comments: true
 categories:
-- news
+
 tags:
 ---
 I don't mean to be alarmist, but if you are anywhere in the vicinity of where I am taking pictures, please take note. Both Nikon and Fuji have installed a TOP SECRET <em>MAGNETETRON</em> in their respective cameras that they sold to me. I have been aware of it for several years now, but my wife finally confirmed it with the picture below. Allow me to explain.

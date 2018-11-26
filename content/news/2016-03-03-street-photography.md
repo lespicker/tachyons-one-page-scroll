@@ -3,7 +3,7 @@ layout: post
 title: A Master Street Photographer
 comments: true
 categories:
-- news
+
 tags:
 - photography
 - street photography

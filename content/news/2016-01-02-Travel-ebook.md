@@ -3,7 +3,7 @@ layout: post
 title: Travel Photography e-Book
 comments: true
 categories:
-- news
+
 tags:
 - photography
 

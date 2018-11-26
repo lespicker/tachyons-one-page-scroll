@@ -3,7 +3,7 @@ layout: post
 title: "'Tis the Gift to Be Simple"
 comments: true
 categories:
-- news
+
 tags:
 - B&amp;W photography
 - essence

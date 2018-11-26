@@ -4,7 +4,7 @@ title: "Tony's Suite"
 image: http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/Tony_DVDEdisto40891-198x300.jpg
 comments: true
 categories:
-- news
+
 tags:
 - jazz
 - musician

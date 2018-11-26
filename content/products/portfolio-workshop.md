@@ -36,6 +36,7 @@ slides:
   - "/images/099A8182.jpg"
   - "/images/099A8181.jpg"
 aliases:
+  - "page/810"
 ---
 One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
 

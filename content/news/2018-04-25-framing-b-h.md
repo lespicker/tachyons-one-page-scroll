@@ -3,7 +3,7 @@ layout: post
 title: Framing Your Fine Art Prints
 comments: true
 categories:
-- news
+
 tags:
 - prints
 - photography

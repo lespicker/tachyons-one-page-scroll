@@ -3,7 +3,7 @@ layout: post
 title: The Joys of Printing
 comments: true
 categories:
-- news
+
 tags:
 - Canon
 - Printers

@@ -3,7 +3,7 @@ layout: post
 title: "Allow Us to Brag"
 comments: true
 categories:
-- news
+
 tags:
 - photography
 - installation

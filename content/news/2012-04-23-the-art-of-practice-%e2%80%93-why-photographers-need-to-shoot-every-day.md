@@ -3,7 +3,7 @@ layout: post
 title: "Practice Makes Perfect"
 comments: true
 categories:
-- news
+
 tags:
 - blog
 - Darwin Wiggett

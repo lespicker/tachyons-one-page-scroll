@@ -2,7 +2,7 @@
 layout: post
 title: Portfolio Edition for Collectors
 categories: 
-- news
+
 comments: false
 ---
 

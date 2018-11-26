@@ -3,7 +3,7 @@ layout: post
 title: Another Successful Print Workshop
 comments: true
 categories:
-- news
+
 tags:
 - photography
 

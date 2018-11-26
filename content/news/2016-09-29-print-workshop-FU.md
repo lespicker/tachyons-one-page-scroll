@@ -3,7 +3,7 @@ layout: post
 title: The Joys of Fine Art Printing
 comments: true
 categories:
-- news
+
 tags:
 - photography
 

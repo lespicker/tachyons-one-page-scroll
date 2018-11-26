@@ -3,7 +3,7 @@ layout: post
 title: An Interview With Dr. Lew Rothman
 comments: true
 categories:
-- news
+
 tags:
 - Lew Rothman
 - photography

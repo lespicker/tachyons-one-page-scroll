@@ -3,7 +3,7 @@ layout: post
 title: Travel Photography Presentation at B&H
 comments: true
 categories:
-- news
+
 tags:
 
 - B and H

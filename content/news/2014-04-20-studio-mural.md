@@ -3,7 +3,7 @@ layout: post
 title: "A 28-Foot Wall Mural"
 comments: true
 categories:
-- news
+
 tags:
 - Iceland
 - panorama

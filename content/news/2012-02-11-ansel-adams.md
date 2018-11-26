@@ -3,7 +3,7 @@ layout: post
 title: "Ansel Adams???"
 comments: true
 categories:
-- news
+
 tags:
 - Ansel Adams
 - Bob Stowe
