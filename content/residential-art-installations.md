@@ -7,6 +7,10 @@ sidecolor: "dark-red"
 image: "/images/image34-canvas.jpg"
 bcolor: "dark-red"
 background: 'bg-center'
+menu:
+  main:
+    name: 'Residential Art'
+    weight: 4
 ---
 ## Residential Art Installations
 

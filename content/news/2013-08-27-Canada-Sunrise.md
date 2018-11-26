@@ -26,7 +26,3 @@ Look, I hate getting up that early as much as anyone. But to this day I get a ch
 The image was taken with a Hasselblad H4D-50, 28mm lens, polarizing filter: ISO 100, 1.0 sec at f22, tripod mounted.  
 
 I'm heading out now to case out a shot I want to take for sunset. Stay tuned.
-
-If you'd like to follow my travels at any point during the next two weeks, [here is a link](https://share.delorme.com/2f58e8e2aee4429697d785cf1d11b9c3) to a mapping program that will track my position every so often by satellite. 
-
-	

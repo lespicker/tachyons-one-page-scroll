@@ -28,7 +28,7 @@ My assistant, Bob, and I were cleaning up some old files when I found this blog 
 
 <!--more-->
 
-First, for any of you who are thinking of getting up there anytime soon. Second, if any of you would like to photograph in one of the most pristine areas on Earth, I just happen to have one opening in my very limited [Yukon Photo Adventure](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon) slated for August 27-September 5. I only take three passionate photographers for this intense, action-packed adventure. 
+First, for any of you who are thinking of getting up there anytime soon. Second, if any of you would like to photograph in one of the most pristine areas on Earth, I just happen to have one opening in my very limited [Yukon Photo Adventure](/products/yukon-adventure-tour/) slated for August 27-September 5. I only take three passionate photographers for this intense, action-packed adventure. 
 
 ### A Matter of Flexibility
 
@@ -60,5 +60,5 @@ That night I looked at the sky, as I always do in Dawson, and saw the beginnings
 
 A group of tourists from Japan stood near me, oohing and aahing with every pulse of the lights. Streaks, curtains and flares lit up the night. Then, as suddenly as it started, it was over. I left at 3:00 AM, tired, but feeling very full, like I had eaten a gourmet meal. 
 
-If you are a landscape or wildlife photographer the Yukon should be high on your bucket list. Yukon is 20% larger than California, but has only 34,000 people compared with California's 35 million. Now add to that stat the fact that there are more than 20,000 bear, 50,000 moose, 350,000 caribou and landscapes that can bring you to tears, and you understand why [Yukon Territory](http://www.lesterpickerphoto.com/workshops/upcoming-workshops.html#yukon) is a place like no other for photographers. 
+If you are a landscape or wildlife photographer the Yukon should be high on your bucket list. Yukon is 20% larger than California, but has only 34,000 people compared with California's 35 million. Now add to that stat the fact that there are more than 20,000 bear, 50,000 moose, 350,000 caribou and landscapes that can bring you to tears, and you understand why [Yukon Territory](/products/yukon-adventure-tour/) is a place like no other for photographers. 
 

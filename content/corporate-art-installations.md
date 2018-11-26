@@ -7,6 +7,10 @@ sidecolor: "dark-red"
 image: "/images/Sinai0080.jpg"
 bcolor: "dark-red"
 background: 'bg-center'
+menu:
+  main:
+    name: 'Art For Business'
+    weight: 4
 ---
 ## Corporate Art Installations
 

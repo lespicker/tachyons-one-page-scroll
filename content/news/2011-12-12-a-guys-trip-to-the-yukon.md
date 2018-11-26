@@ -9,10 +9,8 @@ categories:
 tags:
 - Yukon
 ---
-If you are interested, here is a link to a feature travel article I wrote and photographed for <em>The Baltimore Sun</em>. It recaps a trip I took this summer with 5 of my closest friends. Be sure to check out the images that accompany the story.
+If you are interested, [here is a link to a feature travel article](http://www.baltimoresun.com/travel/bs-tr-yukon-trip-20111201,0,410319.story) I wrote and photographed for <em>The Baltimore Sun</em>. It recaps a trip I took this summer with 5 of my closest friends. Be sure to check out the images that accompany the story.
 
 I hope you enjoy the article. 
 
 Les
-
-<a href="http://www.baltimoresun.com/travel/bs-tr-yukon-trip-20111201,0,410319.story">http://www.baltimoresun.com/travel/bs-tr-yukon-trip-20111201,0,410319.story</a>
