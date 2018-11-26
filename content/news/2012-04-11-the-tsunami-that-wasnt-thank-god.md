@@ -9,7 +9,7 @@ tags:
 - Sri Lanka
 - tsunami
 ---
-I'm sitting here in my nearly empty hotel, after being one of only two people in the restaurant. At 2:49 this afternoon, as I was on safari in Yala National Park in Sri Lanka, the government ordered all tourists evacuated from the area. An 8.8 magnitude earthquake of the Sumatran coast triggered fears of a tsunami. In 2004, Sri Lanka lost 30,000 people, including many tourists, as a result of a similar earthquake near Sumatra. In that tsunami, most of the damage occurred along the southern and south-western coastal areas.
+I'm sitting here in my nearly empty hotel, after being one of only two people in the restaurant. At 2:49 this afternoon, as I was on safari in Yala National Park in Sri Lanka, the government ordered all tourists evacuated from the area. An 8.8 magnitude earthquake off the Sumatran coast triggered fears of a tsunami. In 2004, Sri Lanka lost 30,000 people, including many tourists, as a result of a similar earthquake near Sumatra. In that tsunami, most of the damage occurred along the southern and south-western coastal areas.
 
 <a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/map_of_sri-lanka.jpg"><img class="alignnone size-medium wp-image-2077" title="map_of_sri-lanka" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/map_of_sri-lanka-300x225.jpg" alt="" width="300" height="225"></a>
 
