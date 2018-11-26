@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sri Lanka: Going to the Dogs"
+image: "/wp-content/uploads/2012/04/A0018816.jpg"
 destination: asia
 comments: true
 categories:
@@ -12,8 +13,6 @@ tags:
 - Sri Lanka
 ---
 By my second day in Sri Lanka, I began to notice the considerable number of dogs lying around next to roads or scavenging for scraps of foods. In most cases these dogs are not a pretty sight. Most are thin, many are mangy and flea-ridden. While the more fortunate animals have caring owners, by far the majority of the dogs I saw were feral.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018816.jpg" >}}
 
 The feral dog problem is interesting. In past years the government has tried dog control programs, none of them very successful. More successful are its rabies control efforts. The reasons for these failures and successes are complex, but are rooted in the country’s Buddhist majority.
 

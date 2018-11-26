@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ten Things I Love About Sri Lanka (and some things I don’t!)"
+image: /wp-content/uploads/2012/04/DSC_2126.jpg
 destination: asia
 comments: true
 categories:
@@ -30,8 +31,6 @@ I’m preparing to leave the lovely country of Sri Lanka after three weeks spent
 Here, then, are some of my favorite and not so favorite aspects of Sri Lanka for those of you fortunate enough to consider coming here.
 
 <strong><em>The People</em></strong>. You will absolutely never find friendlier people anywhere you travel on this planet. As a primarily Buddhist nation, when you greet a person, hands together, you will receive a warm smile. Service in restaurants is fabulous. For photographers, the country is ideal, as nearly everyone agrees to have their photo taken.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_2126.jpg" >}}
 
 <strong><em>Food</em></strong>. Sri Lanka offers a widely diverse menu. I would definitely recommend taking advantage of local foods, such as curries with various rices, all grown in-country. Since many Buddhists are primarily vegetarians, there is an abundance of fresh, colorful, delicious veggies.
 

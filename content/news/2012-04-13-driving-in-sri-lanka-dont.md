@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Driving in Sri Lanka... Don't"
+image: "/wp-content/uploads/2012/04/photo.jpg"
 destination: asia
 comments: true
 categories:
@@ -20,8 +21,6 @@ Road markings carry little meaning here on the mostly narrow and <a href="http:/
 Buses will lurch into opposing traffic and then swerve at the last possible millisecond to avoid a head-on collision. The group I was with got to rating these near misses as one might at an Olympic event. The closest to a near-death experience was a 9.9 with an oncoming bus, where both drivers swerved at impossibly sharp angles in a nanosecond.  Neither hesitated and rove on as if nothing had happened. Breakfast definitely did not taste as good the second time around.
 
 There is also a horn etiquette, where drivers announce their intention to pass and then give two short honks either to thank the driver they just passed, or as an offering to Buddha that they lived to scare their passengers yet again… and again. There are even traffic jams on safaris!
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/photo.jpg" >}}
 
 One final driving warning. Sri Lankans share the road very contentedly with cows and <a href="http://youtu.be/j_lj4RsQHgQ">water buffalo</a>. Since Sri Lanka is primarily rural and depends heavily on its own agricultural production to feed its people, and since the majority of Sri Lankans are Buddhist and venerate their animals, peaceful coexistence reigns supreme, even if it takes ten minutes to wait for <a href="http://youtu.be/s5KKgGSvzZ8">a herd of cows</a> to relinquish the road to their human caretakers.
 

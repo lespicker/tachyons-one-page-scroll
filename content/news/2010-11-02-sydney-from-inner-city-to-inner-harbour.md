@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sydney: From Inner City to Inner Harbour"
+image: "/wp-content/uploads/2010/11/Sydney-3092010-10-26.jpg"
 destination: ausnz
 comments: true
 categories:
@@ -14,8 +15,6 @@ tags:
 
 ---
 Sydney is a walker’s city, so I’m hard pressed make a recommendation for where to stay. Anyplace you choose, within your budget, of course, would be fine as far as location goes. I highly recommend the Four Points Sheraton, located smack-dab on the shore of Darling Harbour, and linked to it by walkway. The Ibis Hotel is another great facility, located a few blocks further within the city, next to the theater district.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Sydney-3092010-10-26.jpg" >}}
 
 The centerpiece on this end of the city⎯ and there are centerpieces throughout Sydney⎯ is Darling Harbour. It’s hard to describe this venue, except to say that it is the epitome of mixed-use waterfront development. Darling Harbour is a beehive of activity. Here you’ll see people walking, biking, eating, smooching, and just plain touring. A monorail system seamlessly winds its way through the waterfront. In short, it is a photographer’s paradise.
 

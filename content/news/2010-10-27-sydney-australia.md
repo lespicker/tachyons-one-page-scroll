@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sydney, Australia"
+image: "/wp-content/uploads/2010/10/Sydney-42010-10-26.jpg"
 destination: ausnz
 comments: true
 categories:
@@ -23,8 +24,6 @@ tags:
 The past three days have been wonderful, as we toured Sydney about as hard as any travel photojournalist could. My tendency is to try out-of-the-way venues to add value to my readers’ experience, and this visit was no exception.   First, some impressions. Sydney is as high energy as Manhattan, and I don’t say that idly, since I am a native New Yawkah. Sydney is every bit as frenetic and cosmopolitan, but in a wholly different way. We’re here in late October (spring) and it is sunny and bright, with the expected periodic rain showers.
 
 The city revolves around the water. Sydney is blessed with numerous harbors and the Aussies have developed them to a fine art. Take Baltimore’s Inner Harbor, New York’s South Street Seaport, San Francisco’s Fisherman’s Wharf and crank them up a notch or two and you have an idea of what a happening place an attraction like Darling Harbour, for example, is. People are busily shopping, leisurely strolling, savoring the diverse eateries, or else kayaking and biking along this massive urban playground.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Sydney-42010-10-26.jpg" >}}
 
 Oh, did I mention biking? Sydney is a biker’s dream. Bicyclists are everywhere, probably due, at least in part, to the ridiculously high parking fees in the city. We parked overnight, from 10:00 PM to 10:00 AM and it cost $72.00. While we walked around town, construction was going on in several places to increase the number of bike paths and also make the city more walker friendly, something that 97% of Sydneyites requested in a recent survey.
 

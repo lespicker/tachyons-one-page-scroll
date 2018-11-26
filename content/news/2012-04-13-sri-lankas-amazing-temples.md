@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sri Lanka's Amazing Temples"
+image: "/wp-content/uploads/2012/04/A0018543.jpg"
 destination: asia
 comments: true
 categories:
@@ -16,8 +17,6 @@ I thoroughly enjoy my stays in Sri Lanka, an island off the southern coast of In
 Seventy-five percent of its people are Buddhist, with Hindus making up 15% and Muslims and Christians together representing 7.5%. I have been struck by how incredibly seamlessly the religions coexist and respect each other, knowing each others‘ holidays, beliefs and practices.
 
 Both Buddhists and Hindus have, over the centuries, built exquisite temples and monasteries, worthy of extensive photography.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018543.jpg" >}}
 
 This is one example, a monastery built into a cliff overhang and known as the Dambulla Cave Temple. In many temple enclaves, you will find both Buddhist and Hindu places of worship, although not in Dambulla. Over the centuries the two religions have intertwined so that they share a few of the same deities.
 

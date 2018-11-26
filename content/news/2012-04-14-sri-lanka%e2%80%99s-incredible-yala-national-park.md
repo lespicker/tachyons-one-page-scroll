@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sri Lanka’s Incredible Yala National Park"
+image: "http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_1547.jpg"
 destination: asia
 comments: true
 categories:
@@ -19,8 +20,6 @@ I personally had misgivings about visiting the park, having been on safari in Af
 
 <h3>Not Your Typical Park</h3>
 Yala is huge, with narrow, rutty roads criss-crossing the park. You must enter in an approved jeep. I suggest you make sure you hire a guide that speaks your language better than passably, as you’re bound to have many questions (one precious question I heard from a young girl in a nearby jeep at a watering hole was why that massive bull elephant had two trunks; one dangling from its head and the other between its legs. Mom and Dad had a good time explaining that one!).
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_1547.jpg" >}}
 
 What the narrow roads and forested topography mean is that animal spotting is an active pursuit. It doesn’t just happen. You drive all morning or afternoon to earn your sightings. Most people make two safaris in a day, one in the early morning and the other starting at 3:00 PM until the park closes at six. If you can only do one, do the afternoon where leopard sightings are more common. Do not make the mistake of taking a late morning jeep ride. The animals hide and sleep most of the afternoon due to the heat. However, don’t promise the kids a leopard sighting. One couple I met did eight safaris without spotting one. Leopards are very elusive animals, so count your blessings even if you get a distant sighting.
 

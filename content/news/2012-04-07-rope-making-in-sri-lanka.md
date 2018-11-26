@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rope Making in Sri Lanka"
+image: "/wp-content/uploads/2012/04/images.jpeg"
 destination: asia
 comments: true
 categories:
@@ -15,8 +16,6 @@ Rope making has a long and storied history in Sri Lanka. Known formerly as the B
 I had the opportunity to visit with a family business that still makes coconut ropes the old fashioned way. I thought I'd share this fascinating peek into a rural business with you. I have two videos to go along with it.
 
 It all starts with the coconut, from which all manner of products are made, including shampoos, cooking oils, liquor, soap... the list goes on. Once the fruit and meat are removed, what is left is the husk.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/images.jpeg" >}}
 
 Now the women (yes, it is primarily a women's occupation), take these husk sections and put it through a machine that combs the fibers and orients them in the same direction. <a href="http://youtu.be/i16SnuxFpNs">Here is what that process looks like.</a>
 

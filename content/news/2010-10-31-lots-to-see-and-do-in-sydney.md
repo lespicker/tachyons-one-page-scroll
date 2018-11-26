@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lots to See and Do in Sydney"
+image: "/wp-content/uploads/2010/10/Sydney-2302010-10-26.jpg"
 destination: ausnz
 comments: true
 categories:
@@ -18,8 +19,6 @@ Sydney is an amazing city, as much for its vitality and friendly residents as it
 Sydney is a city of iconic locations, the most famous of which is undoubtedly the Sydney Opera House, an immense complex of theaters and exhibition halls nestled under what is arguably the most famous roof- actually series of roofs- in the world. No matter from what part of the harbor you view them, the gleaming white shells are impressive, indeed.
 
 The Opera House is fun to walk through and around, each walkway offering a different and intimate view of the famed architecture. But the secret to a fun day in Sydney is in <em>getting</em> to the Opera House. Most tourists take a taxi or bus there. Let me suggest a better way.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Sydney-2302010-10-26.jpg" >}}
 
 Start out in the morning at the north end of Hyde Park, where you’ll take in the view of the immense St. Mary’s Cathedral. Sit at the impressive Archibald Memorial Fountain in the midst of the park and you will hear high-caliber street musicians serenading passersby. On our visit a young flamenco guitarist mesmerized tourists and residents with his fingering dexterity and wide range of musical selections. Enjoy the well-groomed gardens and take in the pleasing architecture of the cathedral itself. When you’re ready, start your walk down Art Gallery Road, which takes off from the northeast end of the park. In a few hundred yards you enter The Domain, a huge public park enjoyed by Sydneyites year round.
 
