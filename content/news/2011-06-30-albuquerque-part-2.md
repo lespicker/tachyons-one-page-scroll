@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Albuquerque: Part 2"
+image: "/wp-content/uploads/2011/06/LAP9634.jpg"
 destination: usa
 comments: true
 categories:
@@ -33,8 +34,6 @@ In Part 1 I discussed events and things to do outdoors while in ABQ. Today it is
 One statistic has it that Albuquerque has more museums per capita than any other city its size. You could spend two weeks just touring its wonderful cultural treasures. Here’s a sampling from my recent trip:
 
 <strong>Anderson-Abruzzo Albuquerque International Balloon Museum</strong>: What a terrific little museum! Whether or not you’re into ballooning, this quirky museum has it all. From the history of ballooning to flight demonstrations, this is a fun venue for the entire family. It’s located next to the Balloon Fiesta Park, which is the epicenter of the annual Albuquerque balloon festival, held in October. <a href="http://www.balloonmuseum.com">www.balloonmuseum.com</a>
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9634.jpg" >}}
 
 <strong>Indian Pueblo Cultural Center</strong>: A nicely designed building with lots of information about NM’s 19 pueblos. Every weekend highlights a dance troupe from one of the pueblos. These dances are not performances. They represent the pueblos actually sharing their spiritual dances and blessings with visitors. They are wonderful entertainment, as well as moving testimonies to Native American culture. You might see the Eagle Dance, Buffalo Dance, Butterfly Dance or others, each one explained, with opportunities to interact with the dancers. The Cultural Center includes a complex of buildings and exhibits. <a href="http://www.indianpueblo.org">www.indianpueblo.org</a>
 

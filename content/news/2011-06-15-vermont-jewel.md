@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vermont Jewel"
+image: "/wp-content/uploads/2011/06/LAP1063-Panorama.jpg"
 destination: usa
 comments: true
 categories:
@@ -24,8 +25,6 @@ Speaking of Vermont’s roads, the Northern Kingdom (what locals call the far no
 
 <h3>Barr Hill Natural Area</h3>
 So a few days ago I came across a tiny jewel of a park in northern Vermont, tucked away in a remote area, that is absolutely perfect for photography. It’s called Barr Hill Natural Area. Covering a tad more than 250 acres, the 7/10-mile nature trail loops through the property with a few side spurs and is smartly laid out for a small park. Barr Hill is run by The Nature Conservancy (thank you!). Despite very little change in elevation this highlands trail weaves in and out of beautiful scenics as you hike into and out of the woods.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1063-Panorama.jpg" >}}
 
 At the entrance to the trail, there is a sign-in book and free brochures that include a map of the loop. Along the way you encounter numbered posts that correspond to interpretive information in the brochure about what you are seeing. The guide is informative without being overwhelming especially if, like me, you’ll be putting down your tripod and camera each time you read the information.
 

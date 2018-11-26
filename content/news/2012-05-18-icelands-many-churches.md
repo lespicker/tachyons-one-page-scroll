@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland's Many Churches"
+image: "/wp-content/uploads/2012/05/A0019323.jpg"
 destination: europe
 comments: true
 categories:
@@ -14,8 +15,6 @@ tags:
 I have come to find out that religion is a funny sort of thing in Iceland. While most Icelanders identify themselves as Christian, a 2011 Gallup poll found that 60% of them do not feel religion is important in their lives. That's one of the highest percentage of irreverent believers in the world.
 
 Most Icelanders are of the Lutheran denomination, although few actually attend church any more on a regular basis. Paganism, or more accurately naturism, is still practiced by many. Still, Iceland is dotted with almost as many churches as waterfalls (an exaggeration, of course, since Iceland has far, far more waterfalls than churches).
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0019323.jpg" >}}
 
 Most of the churches are tiny affairs, built for yesterday's agrarian population, where  family gathered to celebrate their faith. Today, these churches sit empty and may return to use a few times each year when family gathers again for holidays.
 

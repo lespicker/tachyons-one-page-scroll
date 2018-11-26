@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tent Rocks Rocks!"
+image: "/wp-content/uploads/2011/05/LAP0646-Panorama.jpg"
 destination: usa
 comments: true
 categories:
@@ -31,8 +32,6 @@ tags:
 There are many things wonderful about Albuquerque, from its central New Mexico location to its fine restaurants, museums and outdoor activities. As a landscape photographer, I’d say that I most enjoy the myriad stunning vistas that are in or within an hour or two of Albuquerque’s center. Since one of my photographic goals this year is to expand my panorama skills, what better place to test out new techniques than the southwest?
 <h3>Kasha-Katuwe Tent Rocks National Monument</h3>
 I visited one of these sites last week, the incredible Kasha-Katuwe Tent Rocks National Monument, about an hour northwest of Albuquerque. Kasha-Katuwe means ‘white cliffs,’ which is immediately noticeable as you enter the Monument from the parking area (please click on photos to enlarge).
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0646-Panorama.jpg" >}}
 
 The hike is along a very sandy and dusty trail and before every shot sequence I had to brush my lens off with a lens brush. Even so I found dust on my sensor on many images. Still, the hike was so incredible (and the weather so miserable the first day), I came back a second day.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bar Harbor, Maine"
+image: "/wp-content/uploads/2010/07/Maine-2009-Longpond-hdr.jpg"
 destination: usa
 comments: true
 categories:
@@ -33,8 +34,6 @@ tags:
 <strong>Bar Harbor </strong>by Lester Picker
 
 Bar Harbor, the hub of Mount Desert Island, is a sleepy island community in Frenchman’s Bay for 8 months of the year, with a population of just 2,600.  But, from June through September, the island is host to some 4 million visitors, who come to take in the sights, sounds, tastes and ocean smells of Acadia National Park, which occupies the majority of the island.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maine-2009-Longpond-hdr.jpg" >}}
 
 Amazingly, only a tiny percentage of visitors ventures off the well-worn roads to take advantage of the eco-tourism this island paradise offers, according to National Park officials.  The spectacular beauty and ecological abundance of the Maine coast makes Bar Harbor the ideal base for the kind of hiking, biking, canoeing and kayaking, that enables the entire family to learn first-hand about our natural world.
 

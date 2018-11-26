@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Back in Paradise"
+image: "/wp-content/uploads/2013/01/A0023737.jpg"
 destination: south america
 comments: true
 categories:
@@ -19,8 +20,6 @@ But, make no mistake about it. The Galapagos islands are hardly tropical paradis
 It took only a day for Kauai's magic to work its way into our soul. It's a magical stew, here. First there is the eye candy of verdant valleys and soaring cliffs and banks of the most luscious clouds imaginable. Then there are the sounds of the ocean ebbing and flowing and pounding at the island that was ironically formed from the sea.
 
 There is also the island lifestyle; speed limits mostly are 25-35mph, with occasional reckless 50 mph stretches. There is the Aloha spirit and everyone still says mahalo (thank you). We talked with an employee at Costco here who acknowledged that, yes, costs are high and sadly wages are low but, hey, that's the price of living in paradise. You don't eat out much, but the trade-off is worth it.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/A0023737.jpg" >}}
 
 On our first full day in Kauai I drove to the base of the Na Pali coast. It had rained heavily the previous two days so I decided to stay through sunset and was treated to a magnificent scene looking down the silhouetted Na Pali coastline. The waves were thunderous, cresting at 20-30 feet, another demonstration of nature's awesome power.
 

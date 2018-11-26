@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dogsledding in Lapland, Finland"
+image: "/wp-content/uploads/2012/02/A0017831.jpg"
 destination: europe
 comments: true
 categories:
@@ -58,7 +59,5 @@ The women bedded down in one room, while the men went upstairs to the loft to sl
 <strong>The Final Clicks</strong>
 
 After a hearty breakfast, and dog care, we were off again.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/A0017831.jpg" >}}
 
 The route back covered 35 km (22 miles). Given that the group had gained experience, we made better time coming back. But, confidence sometimes breeds carelessness. On a steep downhill run, a slightly built, 61-year old woman in our group lost control of her sled and it crashed into a tree. She had the wind knocked out of her, but after 30 minutes she was back on her sled, a real trooper in our collective opinion. Our sledding ended back at Harriniva just as the sun was setting. 

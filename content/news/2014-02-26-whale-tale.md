@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Another Whale Tale"
+title: "A Whale Tale"
 destination: hawaii
 comments: true
 categories:
@@ -22,15 +22,15 @@ Okay, so I'm a bit obsessed with whales. Get over it! In this case I honestly wa
 
 Now I did not have the proper equipment with me, but I figured what the heck! I grabbed my 70-200 zoom tele lens, stuck on a 1.4 teleconverter and shot away with my D800. I set the crop at DX format, so as to gain some additional throw. Still not stellar, but the point is that it was great fun to watch this cavorting family. 
 
-{{< figure src="img-left" caption="/images/bli/2014/02/DSC_1692.jpg " >}}
+{{< figure src="/images/bli/2014/02/DSC_1692.jpg" >}}
 
 First the babies starting out with fin slaps and tail slaps. Not to be anthropomorphic about it, but we couldn't help thinking they were trying to get their mom's attention. Then they tried their hand at breaching. As you can see the attempts were not all that successful... at first. 
 
-{{< figure src="img-right" caption="/images/bli/2014/02/DSC_1594.jpg " >}}
+{{< figure src="/images/bli/2014/02/DSC_1594.jpg" >}}
 
 Mom kept a close eye on the youngsters, as they were fairly close to shore and dangerous rocks. We noted that she kept her body between the calves and the shoreline, at one point bumping them back out to sea. 
 
-{{< figure src="img-left" caption="/images/bli/2014/02/DSC_1612.jpg " >}}
+{{< figure src="/images/bli/2014/02/DSC_1612.jpg" >}}
 
 As the calves climbed the learning curve, one finally made it into a full-scale breach. Yeah! We had to laugh.
 

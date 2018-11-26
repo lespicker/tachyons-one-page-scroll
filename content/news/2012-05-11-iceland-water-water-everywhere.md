@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland: Water, Water Everywhere"
+image: "/wp-content/uploads/2012/05/A0019866.jpg"
 destination: europe
 comments: true
 categories:
@@ -13,8 +14,6 @@ tags:
 - waterfalls
 ---
 One of the joys of driving around Iceland is that you won’t drive far without seeing a waterfall ('foss' in Icelandic). I don’t mean piddly little falls. In Iceland, nearly every falls is a major gusher, whether in height or volume (hydropower supplies 70% of the electricity in Iceland, with geothermal the remaining 30%).
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0019866.jpg" >}}
 
 Instead of ranting on about the incredible waterfalls, I’ll give you some quick examples. The short video clips were taken with my iPhone 4S.
 

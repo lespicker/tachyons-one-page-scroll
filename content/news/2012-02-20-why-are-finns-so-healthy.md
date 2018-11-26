@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why are Finns So Healthy?"
+image: "/wp-content/uploads/2012/02/photo.jpg"
 destination: europe
 comments: true
 categories:
@@ -23,8 +24,6 @@ Visit Finland in winter and you'll get an idea of why Finns are rated amongst th
 <strong>Sauna</strong>. Finns will sauna at the drop of a hat... or clothes. Trust me on this one.
 
 <strong>Fish</strong>. Finns eat fish. Lots of fish. I had steamed salmon, grilled salmon, smoked salmon, broiled salmon, salmon salad, even poached salmon. Having gills must take a load off one's lungs.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/photo.jpg" >}}
 
 <strong>Reindeer</strong>. Finns also eat a lot of reindeer, so there must be something healthy about it, too. I wonder if they abstain around Christmas time?
 

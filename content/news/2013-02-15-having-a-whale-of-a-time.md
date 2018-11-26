@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Having a Whale of a Time"
+image: "/wp-content/uploads/2013/02/DSC_5993.jpg"
 destination: hawaii
 comments: true
 categories:
@@ -16,8 +17,6 @@ tags:
 - whales
 ---
 Maui, Hawaii in February can mean only one thing- the whales are in town. Specifically, this is the time that thousands of humpbacks are in full force in Maui, frolicking in the protected area between Maui and the nearby islands of Lanai and Molokai (as well as others). And what a sight they are to behold.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/DSC_5993.jpg" >}}
 
 Stand on any beach from Kapalua to Wailea for more than five minutes and if you don't see at least a dozen blows, fin slaps, and breeches you are facing away from the ocean. This federally protected area is where humpbacks come to birth calves or to breed for next year's arrival. These whales, the size of a school bus (up to fifty feet in length) do not eat while they are here for up to five months. Instead they live on their body fat and can lose up to a third of their weight while they are here.
 

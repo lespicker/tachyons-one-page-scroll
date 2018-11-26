@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Albuquerque (Part 3 of 3): Eats and Retreats"
+image: "/wp-content/uploads/2011/07/LAP9912.jpg"
 destination: usa
 comments: true
 categories:
@@ -25,8 +26,6 @@ tags:
 ABQ is a great city, blessed with a wide variety of ethnic foods and a nice share of quality restaurants.
 
 <strong>El Pinto</strong>. El Pinto is a 1,000 seat restaurant that roasts its own chile peppers and makes its own popular brand of salsa. The menu is quite broad and the food good. El Pinto serves upscale Margaritas using artisanal tequilas. These drinks are outstanding. If you think all magaritas are the same, tell me that after you sample their wares. Try to arrive at a time when you can tour their salsa factory, which is behind the restaurant. <a href="http://www.elpinto.com">www.elpinto.com</a>
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/LAP9912.jpg" >}}
 
 <strong>Scalo</strong> Northern Italian Grill. Located in the downtown area in Nob Hill section of the city this comfortable eatery won the coveted Wine Spectator Award of Excellence. Moderately priced, nice ambience and delicious food. <a href="http://www.scalonobhill.com">www.scalonobhill.com</a>
 

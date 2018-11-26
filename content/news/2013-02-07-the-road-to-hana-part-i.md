@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Road to Hana: Part I"
+image: "/wp-content/uploads/2013/02/A0024099.jpg"
 destination: hawaii
 comments: true
 categories:
@@ -12,8 +13,6 @@ tags:
 - waterfalls
 ---
 My guess is that few Hawaii travelers have not heard of The Road to Hana. It is consistently rated one of the most wondrous drives in the world, and with good reason. This 40 mile, curvy, narrow road snakes along Maui, Hawaii's northeast shore, blessing motorists with one eye-candy scene after another. Look toward the Pacific and you see craggy coastlines being pounded by 30-foot waves. Look inland and you see spectacular waterfalls every few miles.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024099.jpg" >}}
 
 The bamboo forests afford tons of opportunities for macro photography.
 

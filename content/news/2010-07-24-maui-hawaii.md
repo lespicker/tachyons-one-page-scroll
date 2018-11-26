@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Maui, Hawaii"
+image: "/wp-content/uploads/2010/07/Maui_2009-02-17_1%C2%A9LesterPicker.jpg"
 destination: hawaii
 comments: true
 categories:
@@ -26,8 +27,6 @@ tags:
 by Lester Picker
 
 I love Hawaii. Few destinations in the world offer as much variety, as much depth and breadth of experience, as much visual pleasure, as do the Hawaiian islands. Born of cataclysm in the middle of the Pacific Ocean a million or so years ago, the islands today offer so many options, I always threaten to stay. When my vacations there wind down, I find my To-Do list already growing for the next visit. There are the hikes near the volcano that I still want to take on the Big Island of Hawaii, the shops I want to visit on Oahu, the breathtaking walks along Kauai’s Napali coast. But, of all the Hawaiian islands, I find myself most irresistibly drawn back to Maui.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-17_1%C2%A9LesterPicker.jpg" >}}
 
 <strong>An Island of Contrasts</strong>
 

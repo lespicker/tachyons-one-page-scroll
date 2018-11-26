@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Road From Hana: Part II"
+image: "/wp-content/uploads/2013/02/A0024292-Edit.jpg"
 destination: hawaii
 comments: true
 categories:
@@ -23,8 +24,6 @@ tags:
 Most people know the route as the Road to Hana. But what about the return trip, what I call the Road From Hana? Sure, many people simply turn around at Hana and drive back as they came, and there's nothing wrong with that. The views are magnificent as I described in <a href="http://blog.lesterpickerphoto.com/2013/02/07/the-road-to-hana-part-i/">yesterday's blog</a>.
 
 But there is another way to return from a visit to glorious Hana. Just keep driving clockwise, following the shore road. At first your journey is familiar, passing through deep foliage and waterfalls. But then the vistas open up as you pass farmland and eventually open terrain that give you unobstructed views of mighty, cloud shrouded Haleakala.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024292-Edit.jpg" >}}
 
 Make no mistake about it, the road is rough, with a 5-mile stretch that is mostly gravel. The road immediately after Hana narrows to 1-1/2 lanes and if a car is coming from the opposite direction, one of you will have to pull over into a turnout to allow the other to get by. The road is twisty, too, but the views are utterly jaw-dropping.
 \

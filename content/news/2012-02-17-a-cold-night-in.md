@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Cold Night in ... Finland"
+image: "/wp-content/uploads/2012/02/LAP45252.jpg"
 destination: europe
 comments: true
 categories:
@@ -21,8 +22,6 @@ Last night I slept in The Snow Village Hotel located in Lainio, Finland (<a href
 The scoop is that every November, here in Finalnd’s north which is known as Lapland, a group of local workers cut blocks of crystal clear ice from the local river situated about 150 meters from the Snow Village. With these blocks, each of which weighs anywhere from 200 to 500 pounds, they lay a foundation and begin to build using some ingenious techniques.
 
 For example, they build a large, domed “chapel” with a ceiling that is at least 25 feet high. They do this by blowing up a huge balloon, then spraying a chemical-free, secret mixture of snow and water over the balloon. It’s so cold in Lapland in November, the structure freezes solid in three hours. They deflate the balloon and continue adding ice until the walls are 18-32 inches thick.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45252.jpg" >}}
 
 Using prefabbed molds they then build the arched walkways of the hotel, from which radiate the 25 individual guest rooms. When the walls are thickened and hardened, they bring in the folks who work long days and nights to carve the various ice statues and wall carvings that are unique to each room.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On the Road in Italy"
+image: "/wp-content/uploads/2013/05/photo-copy.jpg"
 destination: europe
 comments: true
 categories:
@@ -18,8 +19,6 @@ Well, we arrived in Rome in the rain, got in a rental car and hightailed it out 
 <!--more-->
 
 Our hosts at Le Tre Querce B&amp;B, Louisa and Riccardo, were simply awesome. One look at us and Louisa insisted on making us dinner.In 30 minutes she put on the table a dinner better than many an Italian restaurant in the States. Firm spaghetti with a delicate sauce (homemade, of course), fresh salad, hearty bread, black olives from their property, and the absolute best Romano-Parmesan cheese my wife and I have ever tasted. It was creamy, not crumbly, and oh so flavorful. The meal was topped with a bowl of fresh cut strawberries. And red wine, naturally. Bellisimo!!
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/photo-copy.jpg" >}}
 
 After a relaxing night in an immaculately clean room, and a hot shower, we were ready to tackle our drive to Siena for my first photo shoot. But first, a hearty breakfast, courtesy of Louisa's kitchen. Now I was ready for a nap, but instead we headed for the road, saying arrivederci to Louisa and Riccardo. We could not have hoped to stay in a warmer, more home-like, friendly place.
 

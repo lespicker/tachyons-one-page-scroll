@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Amazing Albuquerque: Part 1"
+image: "/wp-content/uploads/2011/06/LAP9810.jpg"
 destination: usa
 comments: true
 categories:
@@ -39,9 +40,6 @@ I find that a point-and-shoot or a DSLR with a general purpose lens works best f
 
 <h2>HIGH ADVENTURE</h2>
 <strong>The ABQ Trolley</strong>: This is one delightful, sit-back-and-enjoy experience as the two friends (and former tourism officials) who started it continue to run it. The running narration is very funny, as well as informative. By time you disembark, you’ll have a real sense of the city. The tour includes travel along historic Route 66, Old Town, Nob Hill and Downtown. <a href="http://www.abqtrolley.com">http://www.abqtrolley.com</a>
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9810.jpg" >}}
-
 
 <a href="http://www.abqtrolley.com"></a>
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Havre de Grace: Pride of the Chesapeake"
+image: "/wp-content/uploads/2010/07/hdg-lighthouse-1-of-11.jpg"
 destination: usa
 comments: true
 categories:
@@ -15,8 +16,6 @@ Historic Town Offers Much More Than Its Annual Decoy Festival
 By Lester Picker
 
 [This article originally appeared in <em>The Baltimore Sun</em>. Confirm latest information.]
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/hdg-lighthouse-1-of-11.jpg" >}}
 
 Walking the tree-lined streets of historic Havre de Grace, Maryland is like stepping back in time. Leave the hustle and bustle of the city behind, skip the mad rush of suburban shopping malls, and spend an enjoyable weekend in this quaint town, tucked into the northeastern-most corner of Harford County.
 

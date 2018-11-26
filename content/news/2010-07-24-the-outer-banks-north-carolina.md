@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Outer Banks, North Carolina"
+image: "/wp-content/uploads/2010/07/outerbanks_2007-10-06_2%C2%A9LesterPicker.jpg"
 destination: usa
 comments: true
 categories:
@@ -30,8 +31,6 @@ By Lester Picker
 With more than 300 miles of coastline, the Outer Banks has stretches of sand that are consistently rated among the top beaches in the world. Whether you crave an active water vacation or a spiritually recharging barefoot walk along empty beaches, the Outer Banks has it all.
 
 The Outer Banks is just a 6- or 7-hour drive from Baltimore. The sense of place can change markedly from one milepost to another. For a family with school-age children, the beaches from Duck to Nag’s Head pulse with activity. The hubbub comes with choices of restaurants, amusement rides, museums, events and water activities galore.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2007-10-06_2%C2%A9LesterPicker.jpg" >}}
 
 Those who crave a quieter time could hardly do better than to spend time along Cape Hatteras National Seashore, where contemplative walks are measured in miles of undeveloped seashore. Nature lovers, especially birders, have much to indulge their passion. The National Seashore offers shelter to millions of migratory and endemic birds. Shell collectors can spend days sifting through the treasures that the oceans deposit at their feet.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Concord, Massachussetts"
+image: "/wp-content/uploads/2011/08/photo.jpg"
 destination: usa
 comments: true
 categories:
@@ -18,8 +19,6 @@ tags:
 Allow me to digress a bit here, away from photography and into the not too distant past. I just spent the weekend with family in the Boston area and had an opportunity to visit Concord, Massachusetts, a picturesque New England town. It is here that the "shots heard 'round the world" were fired and here that the great liberal thinkers of America gathered to debate the great themes and to write the works that defined the American literary scene.
 <h3>The Shot Heard Round the World</h3>
 So, moving chronologically, I visited The Manse, the home of Ralph Waldo Emerson, and at one point rented out to his friend Nathaniel Hawthorne and his new wife.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/photo.jpg" >}}
 
 From the upstairs bedroom, Emerson's father and grandfather looked out their back field and saw a group of farmers on the far bank of the stream, facing off against a contingent of British Redcoats on the near side. The day was April 19, 1775. To their horror, they were witness to the first battle of the Revolutionary War, the Battle of Concord and Lexington, immortalized in Emerson's poem, <a href="http://www.nationalcenter.org/ConcordHymn.html">Concord Hymn</a>.
 

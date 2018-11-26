@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland's Glaciers"
+image: "/wp-content/uploads/2012/05/A0020105.jpg"
 destination: europe
 comments: true
 categories:
@@ -17,8 +18,6 @@ I'm constantly in awe as I travel the Ring Road around Iceland. For one thing, I
 Iceland has to be a geologist's or a vulcanologist's Valhalla. And if not seeing waterfalls, one is nearly always in sight of a glacier. Some sit atop Iceland's many mountains. Others have accumulated enough mass to advance down valleys in their unstoppable flow to the sea.
 
 Iceland's glaciers are both magnificent and frightening. As the glaciers advance, they scour the land before them, toppling trees, grinding boulders to gravel, and pushing millions of tons of earth before them like a bulldozer. Here is a scene at the Svinafellsjokull glacier along the south coast of the island, showing the advancing edge of the glacier with some of the earth it has scoured in its path.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020105.jpg" >}}
 
 <a href="http://www.hartmier.com">Richard Hartmier</a>, my photo buddy from Yukon, Canada, and I stopped at the glacier for a photo shoot. The wind was blowing mightily and we had been warned that a storm was approaching. Richard went off on his own to photograph the icebergs that slough off the glacier and accumulate in a deep meltwater pond in front of it. I chose to climb the ledges on the left side of the glacier that you see in this picture.
 

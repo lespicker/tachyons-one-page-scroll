@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sky City, New Mexico: A Photo Essay"
+image: "/wp-content/uploads/2011/05/LAP0424.jpg"
 destination: usa
 comments: true
 categories:
@@ -21,8 +22,6 @@ tags:
 This week I visited Sky City, an ancient pueblo atop a 370-foot tall mesa in the high desert outside Albuquerque. The day was windy, overcast and cold, dust blowing everywhere. Yet, despite the weather, I was struck by the very special, even spiritual feelings this tiny village exudes. Built in the 12th century, archaeologists believe the community chose the mesa for defensive purposes. It’s sheer walls are pretty impressive, to be sure. Still, the tiny pueblo was decimated by the Spaniards, who killed 90% of the men, women and children in what is known as the Battle of Acoma. Years later, in a coordinated rebellion with other Pueblo people, the Acoma people drove the Spanish out of the region and regained their culture, albeit forever changed by the Spanish.
 
 From the beautiful Sky City Cultural Center, a tourist bus crunches its way up the gravel road to the top, where 30 Acoma families rotate living for a year, to hold fast to their traditional ways and to ensure that Sky City remains the oldest continuously inhabited community in the United States. I still have much to learn about the Acoma, but on this day, for the brief time I had atop the mesa, I’ll let my camera be your guide (please click on each image to enlarge).
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0424.jpg" >}}
 
 The views from atop the mesa are stunning, with vast expanses of high desert interspersed with nearby mesas.
 

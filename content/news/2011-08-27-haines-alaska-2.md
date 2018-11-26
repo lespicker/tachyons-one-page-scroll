@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Haines Alaska"
+image: "/wp-content/uploads/2011/08/LAP1817.jpg"
 destination: usa
 comments: true
 categories:
@@ -30,8 +31,6 @@ tags:
 - wildlife
 ---
 I’m in Haines, Alaska now to photograph grizzly bears feeding on salmon in the Chilkoot River, just outside town. In the three days I’ve been here, I’ve talked to a number of town folk, park rangers and others. My comments are based on those conversations as well as my own impressions and experiences.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1817.jpg" >}}
 
 <h3>An Overview</h3>
 Haines is located on the coast, just a ferry ride from Skagway. Both towns cater to cruise ship tourists, but while Skagway has blossomed economically from that trade, Haines has been left in the dust. Not that Skagway is good and Haines a bad place to visit. If you have ever been to Skagway by ship you know that to some it can look at times like a honky tonk town, full of trinket and tee shirt shops.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland Lodging"
+image: "/wp-content/uploads/2012/05/DSC_2381.jpg"
 destination: europe
 comments: true
 categories:
@@ -38,8 +39,6 @@ A few cautionary notes. Bring your own shampoo. Most accommodations include a so
 Finally, touring in Iceland is easy. The main roads are paved and well maintained. However, if you plan to take gravel roads (there are many of them) or go into mountainous areas, you must have  4-wheel vehicle. If you are caught driving non-4-wheel drive on these restricted roads you pay a hefty fine. Having said that, I did rent a 4-wheel drive and found exploring these side roads a heck of a lot of fun. They also offered tons of photographic opportunities.
 
 <strong>Hotel Keflavik</strong>. After a long flight from abroad, I suggest at least one night in Keflavik, where the international airport is located. Hotel Keflavik (<a href="http://www.hotelkeflavik.is/en">http://www.hotelkeflavik.is/en</a>) offers very comfortable rooms, an excellent, expansive  breakfast, and a gym with sauna and massage service. The staff is helpful and knowledgeable (thanks, Ella and Anna). It’s the perfect way to recover. I suggest you spend an extra night and tour the peninsula on which the hotel is located, especially the ancient fishing site of Selatangar. There are some great photographic locations there and all along the loop. You could easily spend 2 days exploring (I did!).
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/DSC_2381.jpg" >}}
 
 <strong>Bogarnes Bed and Breakfast</strong>. I did a separate review of this precious little B&amp;B here. En route to the Snaefellsness peninsula you may want to overnight <a href="http://blog.lesterpickerphoto.com/2012/05/09/iceland-a-jewel-in-borgarnes/">here</a>.
 

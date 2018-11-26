@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Iceland or Geyserland?"
+image: "/wp-content/uploads/2012/05/CameraAwesomePhoto3.jpg"
 destination: europe
 comments: true
 categories:
@@ -19,8 +20,6 @@ Iceland is a geologically active island, as we all know from one of the more rec
 The Icelanders have ingeniously tapped into its proliferation of geysers and uses volcanic steam and heat to provide nearly all the island's electricity needs.
 
 In Seltun, there is a wonderful self-guided tourist park that winds through an active geyser field.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/CameraAwesomePhoto3.jpg" >}}
 
 Here is an example of <a href="http://youtu.be/VcMdq4XrkxY">a typical geyser field</a> (taken with my iPhone).
 

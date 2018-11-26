@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Israel: A Nation of Stark Contrasts"
+image: "/wp-content/uploads/2012/03/A0018222.jpg"
 destination: middle east
 comments: true
 categories:
@@ -24,8 +25,6 @@ My point is that Israel is much smaller than I ever imagined, a view shared by m
 
 <h3>Be Prepared to be Amazed</h3>
 Israel is at the crossroads of cultures. and civilizations. The Jewish people, who have been here for thousands of years, have seen Greeks and Romans, Babylonians and Turks, Macedonians and British conquer and then lose their hold on this land. As each new master came and went, they left their mark in the form of buildings, ideas, culture and people. You’re constantly sampling from a historical smorgasbord as you visit sites here.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018222.jpg" >}}
 
 <h3>Contrast Central</h3>
 If there is any nation on earth that has more contrasts than Israel, I dare you to show it to me. Nowhere else that I have been has such massive amounts of antiquity been situated next door to such modernity. Doubt it? Just visit Caesarea where the ancient Roman fortress sits next door to a power plant, or Safed, where modern shops are seamlessly woven through ancient Roman aqueducts and restored architecture. Or Jerusalem, where it’s hard to take a decent picture in the Old City without including a satellite dish, electrical wires or a sign.

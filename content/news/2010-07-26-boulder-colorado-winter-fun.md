@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Boulder, Colorado-Winter Fun"
+image: /images/DSC_8429-Pano.jpg
 destination: usa
 comments: true
 categories:

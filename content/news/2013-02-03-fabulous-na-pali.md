@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fabulous Na Pali"
+image: "/wp-content/uploads/2013/02/A0023953.jpg"
 destination: hawaii
 comments: true
 categories:
@@ -29,8 +30,6 @@ Boats are typically a seasonal thing, with summer weather yielding calmer seas. 
 So, for me at least, hiking offers some attractive options. First, it costs next to nothing. You can take a tripod with you and you have a stable platform. The views are restricted, however. And, like any other way to get there, this one is weather dependent. There is also another <em><strong>major</strong></em> drawback. The hike is not an easy one., so be forewarned.
 
 I climbed to a viewpoint at the 7/10 mile mark today. It was a beautiful day, having been dry for the past couple of days. The trail was still slippery in spots. I lugged my LowePro backpack stuffed with my Hasselblad H4D-50, 50-110mm lens, 28mm with HTS 1.5 tilt-shift, Gitzo 3541 tripod with Really Right Stuff BH-55 ballhead and leveling base, and assorted (all too heavy) paraphernalia... and water. That's not chump change, at least not for me!
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0023953.jpg" >}}
 
 The shot here was taken with the 50-110 @ 80mm, ISO 50, 1/5 second, f16. I used a polarizing filter to cut as much of the haze as possible and a 2-stop neutral density filter for part of the sky and to try to accentuate the moon on the far right side. I did take several images at 110mm so the moon was larger in the scene.
 
