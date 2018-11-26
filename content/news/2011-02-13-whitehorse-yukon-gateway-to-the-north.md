@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Whitehorse, Yukon: Gateway to the North"
+image: "/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-9.jpg"
 destination: canada
 comments: true
 categories:
@@ -62,8 +63,6 @@ tags:
 If you’re headed for a Yukon adventure, you’ll almost definitely stay in Whitehorse at some point in your travels. With a population of 25,000, Whitehorse is by far the largest city in the Yukon. In fact, if you subtract Whitehorse’s population, there are only about 8,000 additional Yukon residents occupying a territory nearly 20% larger than California (and that state has around 35 million people)!
 
 Whitehorse, capital city of the Yukon, is really a lovely small city, the kind you can easily wrap your brain around. One of the things I love most about it is that, unlike so many American cities, there is actually a walkable downtown where residents do much of their shopping. There are clothing stores, restaurants, two real, live bookstores, small hotels and lots of coffee shops. There are huge, colorful murals covering many of the downtown buildings, celebrating aspects of life Up North. So, for those of you contemplating a trip “Up North,” here is my modest guide to Whitehorse.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-around-downtown-Whitehorse-9.jpg" >}}
 
 I’ll periodically update this section each time I visit and discover new treats, so check again before you take off for the North. Also, make sure to visit my blogs on Dawson City (<a href="http://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/">http://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/</a>).
 

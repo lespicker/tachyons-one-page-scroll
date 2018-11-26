@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Close Encounters of the Bear Kind"
+image: "/wp-content/uploads/2011/09/LAP2882.jpg"
 destination: canada
 comments: true
 categories:
@@ -19,8 +20,6 @@ tags:
 There are good days and there are bad days. And then there are days like today.
 
 The day started out poorly, as inclement weather kept us grounded until just before lunch. The skies began to clear and we sailed north along the Dempster Highway, tracking reports of grizzly bear sightings near the border with North West Territory. Along the way we stopped for some landscape images right at the Arctic Circle (click on the images to enlarge).
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2882.jpg" >}}
 
 Proceeding north from there, we didn’t have to wait long before we sighted a gorgeous grizzly specimen. This was one well-fed brute, but his markings were also particularly beautiful, with a striking black stripe down his spine, light fur and a pronounced hump. We stopped and began to photograph him, even though he was quite a distance away. Our hope was that he would continue to graze on berries and dig up roots and work his way closer to us. It took two hours before he came close enough to us for some great images.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Back Down the Dempster"
+image: "/wp-content/uploads/2011/09/LAP3121.jpg"
 destination: canada
 comments: true
 categories:
@@ -12,11 +13,7 @@ tags:
 ---
 Today Richard Hartmier and I left Eagle Plains for the drive back to Dawson City. It was another long day of driving and photographing, but it seems like every turn in the road brings another spectacular vista... even the road itself.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3121.jpg" >}}
-
 At the northern part of our drive the Fall red colors have begun to develop.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2935.jpg" >}}
 
 We stopped along the Ogilvie River for a quick photo session.
 

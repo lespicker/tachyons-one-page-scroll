@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Yukon Gold Miners: A Photoessay"
+image: "/wp-content/uploads/2011/09/LAP3233.jpg"
 destination: canada
 comments: true
 categories:
@@ -31,8 +32,6 @@ Even today, anyone can stake a claim to mine gold in this incredibly beautiful c
 
 <h3>One Miner’s Story</h3>
 I visited the claim of Ralph Troberg, who has been mining his patch of ground near Bonanza Creek for the past 40 years.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3233.jpg" >}}
 
 Ralph mined full time until 1991, when the price of gold dipped so low it was not economical to mine anymore. For 15 years he depended on his training as a heating mechanic in his own business. With the rise of gold to new historic highs in recent years, Ralph is back to full time mining, a calling that he loves dearly. Mining nowadays is often a family operation.
 

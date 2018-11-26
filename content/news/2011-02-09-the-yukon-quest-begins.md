@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Yukon Quest"
+image: "/wp-content/uploads/2011/02/Yukon-Quest2011-Mushing-Sky-High-Wilderness-Adventures-6.jpg"
 destination: canada
 comments: true
 categories:
@@ -19,8 +20,6 @@ tags:
 To call the Yukon Quest merely a dogsled race is akin to calling the Superbowl just another football game. The Quest is the penultimate showdown, a grueling match of dogs and man (or woman) against whatever nature can conjure up on its worst day. It is a 1,000 mile long endurance test of man and beast.
 
 Make no mistake about it; every musher and every dog is a finely tuned athlete, melded into a team that, if all goes well, functions seamlessly. These are working dogs in every sense of the word. They live to run and the love and devotion between musher and dog is evident before each racer takes off. Hugs, words of encouragement, last minute snacks for the dogs are proof of that caring.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Mushing-Sky-High-Wilderness-Adventures-6.jpg" >}}
 
 The city of Whitehorse, Yukon takes on the air of a carnival during Quest on alternate years. Since the race takes mushers from Whitehorse to Fairbanks, Alaska, the starting venue alternates between the two cities. There is the kickoff banquet, a lively affair which anyone can attend. In Yukon, leave your formal wear at home. Typical dress at the banquet consisted of mukluk boots, wool sweaters and beaver fur hats.
 

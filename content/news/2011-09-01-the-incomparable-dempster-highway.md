@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Incomparable Dempster Highway"
+image: "/wp-content/uploads/2011/09/LAP2748.jpg"
 destination: canada
 comments: true
 categories:
@@ -37,8 +38,6 @@ We continued to the Tombstone valley overlook, which I had eagerly anticipated b
 
 <h3>Landscapes</h3>
 With two strikes against us, we were eager to hit some home runs… and we did. As we drove due north, we managed some interesting landscape images.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2748.jpg" >}}
 
 We also stopped at Two Moose Pond, not expecting to find any moose, since a few weeks ago a group of First Nations hunters had shot two moose at the pond, in front of shocked tourists.
 

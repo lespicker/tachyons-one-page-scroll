@@ -6,7 +6,7 @@ categories:
 
 comments: false
 
-image: /images/LAP3652.jpg
+image: /images/_LAP3652.jpg
 ---
 I am constantly struck by the moments of pure grace that present themselves to us if we are fortunate enough to be tuned in at that moment. Such was the case with the following image. I was with a group of fellow photographers and we had been out since 4:30 AM photographing a mountainscape sunrise (see Rampart Pond Sunrise Limited Edition print) in the spectacular Canadian Rockies. 
 
