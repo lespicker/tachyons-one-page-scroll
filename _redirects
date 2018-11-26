@@ -1,2 +1,8 @@
+# Redirect domain aliases to primary domain
 https://tour.lesterpickerphoto.com/* https://workshops.lesterpickerphoto.com/:splat 301!
+https://ebooks.lesterpickerphoto.com/* https://workshops.lesterpickerphoto.com/:splat 301!
+https://shop.lesterpickerphoto.com/* https://workshops.lesterpickerphoto.com/:splat 301!
+https://prints.lesterpickerphoto.com/* https://workshops.lesterpickerphoto.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
 https://lpfa.netlify.com/* https://workshops.lesterpickerphoto.com/:splat 301!
