@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Breaking News! Announcing Our New Website!!"
-subtitle: 
+subtitle: "More visual. More mobile."
 destination: 
 comments: true
 categories:
