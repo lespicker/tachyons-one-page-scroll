@@ -23,6 +23,7 @@ product:
     notes: "Composition is critical for great images. In this heavily illustrated ebook Les covers some of the most important elements of composition so you can create winning images."
     bcolor: black
 aliases:
+    - "page/111"
 ---
 Once you master the technical aspects of photography, undoubtedly the most critical aspect to creating winning images is composition.
 
