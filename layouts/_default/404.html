@@ -1,11 +1,12 @@
 {{ define "main" }}
 
-{{ partial "big-block" (dict "img" .Params.image "title" .Title "subtitle" (.Params.subtitle | safeHTML) "sideline" .Params.sideline ( cond (isset .Params "sidecolor") "sidecolor" "" ) .Params.sidecolor "bg" .Params.background) }}
+{{ partial "big-block" (dict "img" .Params.image "title" .Title "subtitle" (.Params.subtitle | safeHTML) "sideline" .Params.sideline ( cond (isset .Params "sidecolor") "sidecolor" "" ) .Params.sidecolor "bg" .Params.background "bnlink" "/" "button" "Try This" "bcolor" .Params.bcolor) }}
 
+{{ if isset .Params "sideline" }}
+{{ partial "sideline" (dict "sideline" .Params.sideline (cond (isset .Params "sidecolor") "sidecolor" "") .Params.sidecolor) }}
+{{ end }}
+{{/* 
 <section class="relative mw9 ph4 ph5-ns pv4-ns mb5 mt6 center">
-  {{ if isset .Params "sideline" }}
-    {{ partial "sideline" (dict "sideline" .Params.sideline (cond (isset .Params "sidecolor") "sidecolor" "") .Params.sidecolor) }}
-  {{ end }}
   <div class="flex flex-wrap-reverse justify-between">
   <article class="mv0 w-100 w-70-ns">
     <header class="lh-title">
@@ -25,5 +26,6 @@
   </aside>
   </div>
 </section>
+*/}}
 
 {{ end }}
