@@ -2,7 +2,7 @@
 title: '<span class="black-30">Gallery Show</span>'
 subtitle: '<span class="blue">Maryland Photography Alliance <span class="fw7">gallery opening</span></span>'
 event_date: 2019-01-09T09:00:00Z
-event_end: 2018-04-08T10:00:00Z
+event_end: 2019-04-08T10:00:00Z
 event_link: "https://www.eventbrite.com/e/photographing-bonsai-a-class-with-stephen-voss-tickets-50406628583?aff=ebdssbdestsearch"
 location: "Maryland State House of Delegates"
 sideline: 'Photography | Workshop | Art'

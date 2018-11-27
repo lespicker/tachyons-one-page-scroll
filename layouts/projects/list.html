@@ -1,6 +1,9 @@
 {{ define "main" }}
-  <section class="vh-25 flex items-center justify-center bg-center cover bg-black white" style="background-image:url({{.Params.image}}) ;">
-    <h1 class="f2 f-headline-ns fw9 lh-solid mv0 tc">{{.Title}}</h1>
+  <section class="vh-25 flex flex-wrap items-center justify-center bg-center cover bg-black white" style="background-image:url({{.Params.image}}) ;">
+    <header class="">
+      <h1 class="w-100 f2 f-headline-ns fw9 lh-solid mv0 tc">{{.Title}}</h1>
+      <h3 class="w-100 f3 fw3 lh-solid mt3 mb0 tc">{{.Params.subtitle}}</h3>
+    </header>
   </section>
 
   {{/* $paginator := .Paginate .Pages */}}

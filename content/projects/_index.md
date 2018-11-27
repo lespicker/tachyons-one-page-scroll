@@ -1,5 +1,6 @@
 ---
 title: "Portfolios"
+subtitle: "A Selection Of Les's Work Presented As Brief Portfolios"
 image: "/images/V2Print.jpg"
 menu:
   main:
