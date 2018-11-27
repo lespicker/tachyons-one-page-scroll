@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Do Your Homework!!"
+image: /wp-content/uploads/2011/01/falling-branch-winter-1-of-11.jpg
 comments: true
 categories:
 
@@ -33,8 +34,6 @@ There are several ways to deal with this problem. If you are a pro or advanced a
 Here’s a trick you can use. Simply increase the exposure anywhere from ⅓ stop to 2 whole stops! Sounds counterintuitive, right? But increasing the exposure brightens the scene and brings the snow back to its original hue. Unfortunately, there is no hard and fast rule for how much exposure increase you’ll need. Every camera meter, sensor and scene is different, so you’ll just have to experiment with it. Remember to look at your images in your LCD screen. If you are an advanced photographer, it’s critical that you look at your histogram to see if the graph is off the right side of the screen. If it is, you have blown out highlights and you need to back off the exposure bit by bit.
 
 Also, experiment with your white balance (even many point-and-shoots nowadays allow you to do this). Did you know that simply switching your white balance from Automatic to Cloudy will warm up the snow?
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/falling-branch-winter-1-of-11.jpg" >}}
 
 <h3>Now For the Homework</h3>
 So, in the midst of winter now, our assignment is to dress warmly, go outdoors and take our time making various exposures until we get the effect we want. 
