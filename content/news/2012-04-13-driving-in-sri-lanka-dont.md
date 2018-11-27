@@ -16,7 +16,7 @@ One thing you should know if you’re thinking of driving in Sri Lanka… don’
 
 First, as a former British colony, Sri Lankan’s drive on the left side of the road, which is disconcerting for those of us that come from right-sided countries. But the basic issue with driving in this interesting country is… well… the drivers.
 
-Road markings carry little meaning here on the mostly narrow and <a href="http://youtu.be/UF8bYW7SbX8">heavily congested roads</a>. Cars cross into opposing lanes constantly. Motorcyclists weave in and out of traffic, ignoring any rules of the road (if there are any here). Tuk-tuks, tiny three wheel vehicles that carry passengers, will drive on pedestrian walkways, narrowly avoiding collisions with people.
+Road markings carry little meaning here on the mostly narrow and [heavily congested roads](https://www.youtube.com/watch?v=RtKz9Ni59Q0). Cars cross into opposing lanes constantly. Motorcyclists weave in and out of traffic, ignoring any rules of the road (if there are any here). Tuk-tuks, tiny three wheel vehicles that carry passengers, will drive on pedestrian walkways, narrowly avoiding collisions with people.
 
 Buses will lurch into opposing traffic and then swerve at the last possible millisecond to avoid a head-on collision. The group I was with got to rating these near misses as one might at an Olympic event. The closest to a near-death experience was a 9.9 with an oncoming bus, where both drivers swerved at impossibly sharp angles in a nanosecond.  Neither hesitated and rove on as if nothing had happened. Breakfast definitely did not taste as good the second time around.
 

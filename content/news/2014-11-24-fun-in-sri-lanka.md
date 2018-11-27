@@ -31,12 +31,5 @@ The fact is that photo tours are wonderful opportunities to advance one’s skil
 
 But photo tours are also full of laughter, teasing, fun times and, yes, even quiet reflection. Here is a quick sampling of images taken by participants in our September Sri Lanka photo tour, an 11-day adventure packed with as many photo opps as one’s memory cards can capture. 
 
----
-
-{% include themes/lpfa/gallery.html %}
-
----
-
-
 
 

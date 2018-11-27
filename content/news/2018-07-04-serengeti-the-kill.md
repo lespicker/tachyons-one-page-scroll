@@ -66,5 +66,4 @@ Two of the senior lionesses formed a barrier to make sure that the mother zebra 
 
 These are but a few of the images we all shot that day. My clients, the six of us in two Rovers, would look at each other every so often as this unfolded, each of us reflecting without words the amazement and wonder of the moment. It was truly a gift. By time we left the scene, there was nothing but skin and bones left for the hyenas and vultures. 
 
-If you are a wildlife photographer, or would like to do more wildlife photography, please do not miss an opportunity to visit the Serengeti. Whether [with me](http://tour.lesterpickerphoto.com/page/821) or another photo tour leader, you are in for a real treat. Our 2019 Africa safari will be posted in August. 
-
+If you are a wildlife photographer, or would like to do more wildlife photography, please do not miss an opportunity to visit the Serengeti. Whether [with me](/types/tour) or another photo tour leader, you are in for a real treat. 

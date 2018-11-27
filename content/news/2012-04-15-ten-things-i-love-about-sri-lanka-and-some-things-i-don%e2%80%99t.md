@@ -46,7 +46,7 @@ Here, then, are some of my favorite and not so favorite aspects of Sri Lanka for
 
 {{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018845.jpg" >}}
 
-<strong><em>The Animals</em></strong>. Sri Lanka is a gold mine for animal lovers and photographers. There are several national parks that are home to Sri Lanka’s 6,000 elephants. <a href="http://blog.lesterpickerphoto.com/2012/04/14/sri-lanka%E2%80%99s-incredible-yala-national-park/">Yala National Park</a> is considered one of the top leopard environments on Earth. Bring a telephoto lens with you and a sturdy tripod or beanbag.
+<strong><em>The Animals</em></strong>. Sri Lanka is a gold mine for animal lovers and photographers. There are several national parks that are home to Sri Lanka’s 6,000 elephants. <a href="/2012/04/14/sri-lanka-incredible-yala-national-park/">Yala National Park</a> is considered one of the top leopard environments on Earth. Bring a telephoto lens with you and a sturdy tripod or beanbag.
 
 {{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_0307.jpg" >}}
 
