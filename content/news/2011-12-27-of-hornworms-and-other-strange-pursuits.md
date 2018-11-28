@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Of Hornworms and Other Strange Pursuits"
+image: /wp-content/uploads/2011/12/LAP3274.jpg
 comments: true
 categories:
 - How-to
@@ -24,8 +24,6 @@ Now, carefully fill it with earth, clumps of grass, dried weeds, for whatever sc
 <strong><em>[Warning</em></strong><em>: bringing cold or frozen soil from outside into your warm house will probably cause lots of little critters to hatch and emerge. Hey, that’s good. You’ll never know what new photographic subjects will suddenly be crawling in your aquarium.]</em>
 
 Case in point: last year my wife’s tomato plants were bugged by bugs. Not your garden variety (pardon the puns). These bugs were huge. They are called Tomato Hornworms and, while colorful… in fact gorgeous… I hate competition for my wife’s prized tomatoes. These “worms” metamorphose into the spectacular caterpillars you see here.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/12/LAP3274.jpg" caption="" >}}
 
 So, I picked off a few and plunked them into my terrarium. I started to photograph them. Lots of fun. Then, to my amazement, something extraordinary began to happen right before my eyes. While photographing one afternoon, I saw something live emerging from the skin of the worm! Soon, other wiggly things began to emerge. Within hours the poor Hornworm was covered with these translucent worms.
 
