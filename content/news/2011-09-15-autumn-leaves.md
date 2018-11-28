@@ -1,6 +1,6 @@
 ---
 title: "Tips for Autumn Leaves"
-image: /wp-content/uploads/2011/09/dawsoncity1-1-of-1.jpg"
+image: /wp-content/uploads/2011/09/dawsoncity1-1-of-1.jpg
 comments: true
 categories:
 - How-to

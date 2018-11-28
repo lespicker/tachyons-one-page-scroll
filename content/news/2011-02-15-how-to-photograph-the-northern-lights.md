@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "How To Photograph The Northern Lights"
+image: /wp-content/uploads/2011/02/Auroragate.jpeg
 comments: true
 categories:
 - how-to
@@ -67,9 +67,6 @@ There are tons of articles and technical publications related to photographing t
 
 Rather than get into a technical discourse, here is some basic information and some personal tips if you are thinking of capturing the Northern (or Southern) lights with your camera. Please note that most of this information is based on personal experience. I’m sure I left some things out, so feel free to suggest your own tips so our readers may benefit from your experience.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Auroragate.jpeg" >}}
-
-</div>
 <h2 style="text-align: center;">Preparation</h2>
 <h3>Time of Year</h3>
 The far North doesn’t get dark enough for Northern Lights until mid-August. Fall is a great time for Northern Lights because you can take advantage of reflections in lakes and rivers. Winter also works, with the best times being late February, March and April.

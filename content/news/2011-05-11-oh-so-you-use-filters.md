@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Oh, So You Use Filters!"
+image: /wp-content/uploads/2011/05/Unknown.jpeg
 comments: true
 categories:
 - how-to
@@ -28,9 +28,7 @@ The human eye is multiple times more sensitive than the finest digital sensors, 
 
 Conversely, if I meter on the brighter portions, the sensor screams ‘Hey, it’s too bright out there, close down the lens opening!’ As a result, the shadows in the scene are rendered so dark there is no detail within them. Trees, for example, will come out as black, featureless silhouettes, which might actually look nice in certain scenes. But frankly, my editors, or those who purchase my images for their homes and offices, would not be pleased if there are massive black areas with no discernible detail.
 
-So, in those cases when I have huge expanses of sky and mountains and forest below, I use a special glass or resin filter known as a Graduated Neutral Density. Here is a photo of what it looks like.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Unknown.jpeg" >}}
+So, in those cases when I have huge expanses of sky and mountains and forest below, I use a special glass or resin filter known as a Graduated Neutral Density. Above is a photo of what it looks like.
 
 The filter has a coating that reduces the light reaching certain areas of the sensor, while allowing full light to come through the rest, all without affecting the color of the scene. Pretty nifty, eh?
 
