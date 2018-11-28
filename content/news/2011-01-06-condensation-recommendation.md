@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Condensation Recommendation"
+image: /wp-content/uploads/2011/01/Camera-in-Bag.jpg
 comments: true
 categories:
 - How-to
@@ -25,8 +26,6 @@ I have seen people frantically wiping off their lenses to remove the condensatio
 But, there is a bigger problem involved with condensation. Don’t make the mistake of thinking that the condensation is showing up only on the lens surface. It is also occurring <strong><em>inside</em></strong> the camera! It may not wreak havoc the first time it happens, but it can ruin the internal electronics as that moisture corrodes the circuitry.
 
 Now back to winter. The same exact phenomenon occurs in reverse; going from outside to inside. The solution to the problem is simple. Whenever you are out photographing snow scenes or family ski trips, always bring along a zip-top or otherwise totally sealable plastic bag (in other words, not a twist-tie). Just before coming indoors, place your camera in the plastic bag and seal the bag. Bring the camera in and let it sit. You will notice condensation forming on the <strong><em>outside</em></strong> of the bag. That is good! Wait until the camera achieves room temperature and then you can remove it safely.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Camera-in-Bag.jpg" >}}
 
 Alternately, if you are an advanced amateur or professional photographer, just leave your camera in your zippered, weatherproof backpack for several hours after you go from cold to warm before removing your cameras.
 

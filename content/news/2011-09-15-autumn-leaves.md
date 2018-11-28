@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Tips for Autumn Leaves"
+image: /wp-content/uploads/2011/09/dawsoncity1-1-of-1.jpg
 comments: true
 categories:
 - How-to
@@ -33,8 +33,6 @@ Here is a small sampling of my favorite tips for capturing fall colors, borrowed
 
 <h3>Look for Yucky Days</h3>
 Contrary to popular opinion, you can capture some of the best fall images on overcast days, particularly after a rainy spell. You just have to leave out the gray sky and instead focus on the forest canopy itself or on a tight shot of the forest floor.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/dawsoncity1-1-of-1.jpg" >}}
 
 <h3>Use a Polarizing Filter</h3>
 Polarizing filters cut glare, haziness and accentuate colors, making them pop off the printed page (or your smartphone or iPad screen).

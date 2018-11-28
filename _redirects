@@ -4,6 +4,7 @@ https://ebooks.lesterpickerphoto.com/* https://lesterpickerphoto.com/:splat 301!
 https://shop.lesterpickerphoto.com/* https://lesterpickerphoto.com/:splat 301!
 https://prints.lesterpickerphoto.com/* https://lesterpickerphoto.com/:splat 301!
 https://workshops.lesterpickerphoto.com/* https://lesterpickerphoto.com/:splat 301!
+https://blog.lesterpickerphoto.com/* https://lesterpickerphoto.com/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://lpfa.netlify.com/* https://lesterpickerphoto.com/:splat 301!

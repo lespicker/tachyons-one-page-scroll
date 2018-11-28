@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Windy Iceland: Tips for the Photographer"
+image: /images/A0020185-Edit.jpg
 comments: true
 categories:
 - how-to
@@ -17,8 +18,6 @@ tags:
 For the past few days, I've been battling severe windy conditions here in Iceland. By severe I'm talking gale force to hurricane force winds. If there is anything that a photographer hates most it is wind. The skies can be blue, the clouds picturesque, the scene illuminated with golden light. But if the wind is blowing, it's hard to stay steady enough to capture a good image. How, then, do the pros do it.
 
 The following image was taken, believe it or not, on a freezing cold beach on Iceland's south coast, with the winds blowing at hurricane force (that's 70+ miles per hour)! Click on the image to enlarge it.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A00201851.jpg" >}}
 
 My colleague and I sat in our vehicle for ten minutes, looking over the spectacular black sand beach, the icebergs in the water being buffeted by giant waves, and nature's fury lashing at the waves head on. Should we chance it or not. We discussed the pros and cons and for a second or two I had the 4-wheel in reverse, ready to leave. But the failing light of day convinced us to at least give it a try.
 

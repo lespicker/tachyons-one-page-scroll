@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Foreground is Forewarned"
-image: 
+image: /wp-content/uploads/2011/03/Great-Ocean-Road-Victoria-Australia-1102010-11-09.jpg
 comments: true
 categories:
 - How-to
@@ -53,9 +52,7 @@ Don’t say I didn’t warn you!  If you’re shooting landscapes, one of the m
 
 I believe it was George Lepp who said that there is no such thing as a bad day for a nature photographer. After all, even if conditions are miserable, we are out there enjoying beautiful, natural environments. Many is the time I’ve hiked down from a mountain with nary a shot, humbled, and glowing with the feeling of divine grace. So, it’s easy to lose sight of what makes a good image great when faced with that scenic beauty on a lovely day. It’s tempting to just slap on a wide angle lens, screw on a polarizer and snap away. Yes, chances are it will be a lovely shot, but is it the very best image we can create for ourselves or for those who will view our work?
 
-As you study my images that I use as examples in this blog, try to analyze how the foreground elements help (or not) the overall presentation. Most of the time I’m guilty of not shooting comparison images for instructional purposes and I’m guilty of that here. But I hope you’ll still understand the basic principles shown by the images in this blog. <strong><em>Remember to click on each image to enlarge it.</em></strong>
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/Great-Ocean-Road-Victoria-Australia-1102010-11-09.jpg" >}}
+As you study my images that I use as examples in this blog, try to analyze how the foreground elements help (or not) the overall presentation. Most of the time I’m guilty of not shooting comparison images for instructional purposes and I’m guilty of that here. But I hope you’ll still understand the basic principles shown by the images in this blog. 
 
 <h3>How Foreground Helps</h3>
 Foreground helps bring scale and perspective to a scene. It can functionally help by drawing the viewer’s eye into a scene. It can create visual interest by adding texture, an interesting form, or a looming presence. It can even add cognitive dissonance by forcing the viewer to confront paradoxes in perception; viewers may not like the image, but they sure as heck will remember it! In the above scene, I lowered my reference point in an attempt to use the foreground to draw the viewer's eyes to the ocean and sky. Similarly with the image below. I stood in the stream and lowered my vantage point to make the rock loom large and point the viewer's eyes to the waterfall.

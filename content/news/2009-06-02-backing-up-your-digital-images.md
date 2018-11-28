@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Backing Up Your Digital Images"
+image: /wp-content/uploads/2009/06/pixelpocketrocket.jpg
 comments: true
 categories:
 - how-to
@@ -22,8 +22,6 @@ Of course what I’m talking about is the pro photographer’s need to back up h
 Here are the methods I use to back up in the field and at home.
 
 <strong><em> In the Field</em></strong>
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/06/pixelpocketrocket.jpg" >}}
 
 First, I carry 12-20 storage cards for my Nikon DSLR and Fuji medium format cameras, ranging from 32 GB to 128GB each. Rarely do I shoot through all the cards on an assignment, even if I’m gone for two or three weeks (and I shoot RAW only). As I use each card I put it in a nifty case called a Pixel Pocket Rocket (<a href="http://www.thinktankphoto.com">www.thinktankphoto.com</a>), facing backward, so I know it has been used. From that point on, my used cards are either on my person or nestled comfortable in a hotel safe.
 

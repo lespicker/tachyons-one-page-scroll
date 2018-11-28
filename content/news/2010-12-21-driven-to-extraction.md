@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Driven to Extraction"
+image: /wp-content/uploads/2010/12/Mt.-Cook-Lilly-Doubtful-Sound-New-Zealand-32010-11-17.jpg
 comments: true
 categories:
 - How-to 
@@ -30,9 +30,6 @@ Of course, every photographer loves sunny days with lots of blue sky and clouds.
 So, what we do in that case is extract images from the background and simply exclude that dull sky, the equivalent of making lemonade from lemons. In fact, plant and flower images often are best under gray skies, since the lighting is even and you don’t get harsh shadows or hotspots on the bright areas of flowers.
 
 If you have a flower or tree with great colors- especially after a rain when raindrops are still visible on the petals- you can work with the scene and get acceptable images. In this shot, we were in the mountains of Doubtful Sound, on the South Island of New Zealand. It was a drizzly, gray day so I couldn't shoot the mountain against the sky. Instead I shot this Mt. Cook lily. I wouldn’t call this a prize-winner, but I think it illustrates the point.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Mt.-Cook-Lilly-Doubtful-Sound-New-Zealand-32010-11-17.jpg" >}}
-
 
 <h3>Extracting Urban Scenes</h3>
 Ditto with urban scenes on yucky days, where you need to discipline yourself to take tight shots that give you a sense of place without including the sky. I had only two days in Christchurch, New Zealand and again the weather was terrible. I knew I couldn’t get the images I had planned, such as the cathedral against a blue sky with clouds. Nor could I get some of the Botanical Garden images I had planned. So, I changed my focus to extract shots of subject against a contextual background without including the sky. These two images give you an idea of what I’m talking about, both taken in Christchurch, at the cathedral of the same name.

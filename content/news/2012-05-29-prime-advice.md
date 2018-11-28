@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Homework: Prime Advice"
+image: /wp-content/uploads/2012/05/A0020163-as-Smart-Object-1.jpg
 comments: true
 categories:
 - How-to
@@ -25,8 +26,6 @@ The back story is that I was in Iceland recently and found myself at the famous 
 
 <h3>Your Assignment Beckons</h3>
 This assignment runs the risk of driving even the most able photographer crazy. Pick only one lens, preferably a wide-angle prime lens (meaning a lens with only one focal length). Now go out and shoot with it. There are many lessons to learn with this exercise, probably the most important of all how to crop your scene in the camera. Instead of zooming in and out you’ll have to haul your butt back and forth to capture the scene you envision. Some of my best shots have been taken when I’ve left a needed lens home and am forced to shoot with the “wrong” lens. In the case of my Iceland iceberg experience, I chose a prime (my 28mm Hasselblad lens, fitted with a tilt-shift mechanism, making it effectively a 42mm lens... in 35mm format that would be equivalent to a 33mm lens) and came away with some images I liked. If I had the luxury of choices that evening, I most probably would have chosen my 50-110mm Hasselblad zoom, focused on the icebergs themselves and missed the wider beach shots that gave my images context, texture and mood.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020163-as-Smart-Object-1.jpg" >}}
 
 <strong>Variation</strong>. If you do not own a prime lens, restrict yourself to one zoom lens, BUT keep it on ONE zoom setting.
 

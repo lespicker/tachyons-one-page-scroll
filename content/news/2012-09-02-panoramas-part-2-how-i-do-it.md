@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Panoramas: Part 2… How I Do It"
+image: /wp-content/uploads/2012/09/nodalcard.jpg
 comments: true
 categories:
 - How-to
@@ -17,8 +18,6 @@ In a [previous post](http://blog.lesterpickerphoto.com/2012/08/21/panoramas-nail
 
 So, with my nodal points now set and printed on a card that I laminate and take with me, I'm off to the races.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/nodalcard.jpg" >}}
- 
 <h3>The Setup</h3>
 When I'm on site I get out all my gear and set up. If I'm shooting a horizontal scene, I put my camera in vertical orientation. Vice versa if I plan to shoot a tall waterfall or vertical cityscape.
 

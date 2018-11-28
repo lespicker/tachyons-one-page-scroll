@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Homework Assignment: Depth of Field"
+image: /wp-content/uploads/2011/11/grand-canyon-tree.jpg
 comments: true
 categories:
 - How-to
@@ -24,7 +24,4 @@ Set up your camera-tripod at eye level to the cards. Switch to Aperture-Priority
 
 This is also the perfect time of year to conduct this experiment outdoors, since trees are bare of leaves. In a forested area, set up near a tree that has lots of other trees in the background. Shoot as explained above and note the results. This will give you a good idea of how DOF affects an image's mood and presentation. Do you want to blur the background to achieve your desired effect of isolating your subject? Or, do you want a rich, detailed image that shows clear focus from front to back. The more you experiment with DOF, the better you will become at pre-visualizing its effects on your photography.
 
-In the following image, I was attracted to this tree that somehow managed to flourish in such a precarious environment, growing from cracks in the rock poised near the edge of the Grand Canyon. I pre-visualized the image I wanted and knew that if I shot wide open, meaning at f/2.8, 4 or 5.6, the background would render blurry and unrecognizable. So I shot at f/11 and 16, as shown here. I like the effect of placing the gnarled tree in the context of its magnificent setting.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/11/grand-canyon-tree.jpg" >}}
-
+In the above image, I was attracted to this tree that somehow managed to flourish in such a precarious environment, growing from cracks in the rock poised near the edge of the Grand Canyon. I pre-visualized the image I wanted and knew that if I shot wide open, meaning at f/2.8, 4 or 5.6, the background would render blurry and unrecognizable. So I shot at f/11 and 16, as shown here. I like the effect of placing the gnarled tree in the context of its magnificent setting.

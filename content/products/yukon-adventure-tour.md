@@ -65,7 +65,7 @@ Watch a few highlights and hear what participants say about previous Yukon adven
 ### General Itinerary
 
 **Day 1**<br>
-All participants will be greeted at the airport and transported to the hotel (included in trip fee).
+All participants will be greeted at the airport and transported to the lodging (included in trip fee).
 
 **Day 2**<br>
 After an early breakfast, we load up and take off for Dawson City, site of the Klondike Gold Rush. Dawson City is a gold mine (excuse the pun) for photography. The town itself has many national historic buildings and vestiges of the gold rush are everywhere. The Tr’ondëk Hwëch’in aboriginal culture is evident both in exhibits within their cultural center and in their living culture in Dawson City and the surrounding countryside. Later that night, conditions permitting, we will awaken you for our first opportunity to photograph the incomparable Northern Lights.
@@ -105,7 +105,7 @@ Depending on flight schedules, we meet for breakfast and say farewells… for no
 
 ### Cost
 
-The cost of the Yukon workshop is $8,650 USD per person, single occupancy. This bespoke adventure is limited to only 3 photographers. A $3,000 deposit is due at sign up. Please register below.
+The cost of the Yukon workshop is $8,750 USD per person, single occupancy. This bespoke adventure is limited to only 3 photographers. A $3,000 deposit is due at sign up ($500 through this website and $2,500 due by check after Les contacts you). Please register below.
 
 Deposits are refundable until 180 days prior to the start date, minus a $250 fee. From 180 days to 120 days prior to the start date, 50% of the deposit is refundable. After 120 days the entire deposit is non-refundable. 120 days prior to the start date all remaining fees are due. A reminder will be sent to participants. If three people do not sign up, the trip will be cancelled and 100% of all funds returned.
 
@@ -133,7 +133,7 @@ I emphasize that this is truly an adventure. Yukon is huge (20% larger land mass
 
 Please do not book your air flights until we advise you to do so. **You must also have traveler’s health and accident insurance.**
 
-**Strictly limited to three photographers.**
+**Strictly limited to three clients.**
 
 Once you register, you will receive an email with detailed information on what gear to bring, what to wear, and other information.
 

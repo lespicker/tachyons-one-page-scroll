@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Winter Highlights"
+image: /wp-content/uploads/2013/01/A0023497.jpg
 comments: true
 categories:
 - how-to
@@ -16,8 +17,6 @@ tags:
 - yellowstone
 ---
 I just returned from a rejuvenating trip to Yellowstone, a winter paradise if there ever was one. The temps ranged from -13F to +25F, far warmer than I had hoped, since I wanted to get the frosty breath of bison as they grazed. Still, just being out in our glorious natural world was reward enough. I did manage to see bison, coyotes, eagles (bald and golden), elk, mule deer, pronghorn antelope and three wolf packs, although the latter were too far away to photograph.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/A0023497.jpg" >}}
 
 One of the most frequently asked questions I get about winter photography is how to photograph snow. Moose Peterson, a terrific wildlife photographer, recently had a blog on the topic where he recommends pushing your exposure a stop or two over your meter reading to get snow white. I agree with his advice, with a caveat.
 
@@ -37,8 +36,7 @@ What is notable is that in both cases the foreground is blown out. In Bob's imag
 
 The lesson here is that we should understand the limits of our cameras. We need to respect the abilities of these amazing machines, but be willing to outsmart them for creative purposes.
 
-NOTE: To read more about Bob's take on highlights, click <a href="http://photo.rwboyer.com/2013/01/21/highlight-rambling/">here</a>.
-
+[NOTE: Read more about Bob's take on things](https://cdox.ltd/).
  
 
  

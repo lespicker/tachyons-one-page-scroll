@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Watch Your Histogram!"
+image: /wp-content/uploads/2011/07/CanadianRockies2009-3032009-10-05.jpg
 comments: true
 categories:
 - How-to
@@ -44,8 +44,6 @@ There is really no such thing as a good or bad histogram, as I’ve read online 
 
 <h3>A Balanced Example</h3>
 In the following image I took, you’ll notice that the distribution of the light is pretty even. Yes, there are some bright spots and deep shadows, but nothing glaringly bad about the image’s appearance. Just looking at the light in the image, it appears pretty well balanced.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/CanadianRockies2009-3032009-10-05.jpg" >}}
 
 Now look at the histogram for this image.
 
