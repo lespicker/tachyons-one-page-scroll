@@ -133,7 +133,7 @@ I emphasize that this is truly an adventure. Yukon is huge (20% larger land mass
 
 Please do not book your air flights until we advise you to do so. **You must also have traveler’s health and accident insurance.**
 
-**Strictly limited to three photographers.**
+**Strictly limited to three clients.**
 
 Once you register, you will receive an email with detailed information on what gear to bring, what to wear, and other information.
 
