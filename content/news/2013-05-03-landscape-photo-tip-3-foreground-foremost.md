@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Foreground is Foremost"
+image: /wp-content/uploads/2013/05/CanadianRockies2009-driftwood-in-lake-1-2.jpg
 comments: true
 categories:
 - how-to
@@ -17,8 +17,6 @@ In celebration of spring, I'm sharing with my blog readers some tips from my e-b
 <!--more-->
 
 If you’re shooting landscapes, one of the most effective means of adding interest and impact is to include a foreground element. A strong foreground helps bring scale and perspective to a scene. It can functionally help by drawing the viewer’s eye into a scene. It can create visual interest by adding texture, an interesting form, or a looming presence. It can even add cognitive dissonance by forcing the viewer to confront paradoxes in perception.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/CanadianRockies2009-driftwood-in-lake-1-2.jpg" >}}
 
 How do you use foreground elements judiciously? First try putting them off center for visual interest, perhaps at the very edge of the frame. Next decide how much of the foreground-to-background you want in focus. I often use a special lens, called a tilt-shift lens, to give my images more depth-of-field, but if you have a tripod you can just move your aperture to f16 or even f22 to get maximum depth of field without hand shake. I nearly always use a tripod to keep foreground and background in sharp focus.
 

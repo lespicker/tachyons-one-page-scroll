@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Question About Panoramas"
 comments: true
 categories:
