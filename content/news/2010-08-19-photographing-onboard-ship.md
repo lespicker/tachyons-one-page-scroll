@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Photographing Onboard Ship"
+image: /wp-content/uploads/2010/08/BC-Ferries-12009-08-18.jpg
 comments: true
 categories:
 - how-to
@@ -18,8 +18,6 @@ tags:
 - vibrations
 ---
 Right now it’s the mid-afternoon lull, the time when any decent photographer is bone tired, having arisen before dawn to snag those incredible sunrise images. I’m onboard the Northern Expedition, a British Columbia ferry traveling between Prince Rupert and Port Hardy, a 15-hour journey through the spectacular Queen Charlotte Islands of the Canadian Pacific coast. God, they’re beautiful! Dense evergreen forest covers the mountains from summit to sea as we weave through narrow channels along our 500km route.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/BC-Ferries-12009-08-18.jpg" >}}
 
 Ferries are noisy ships, since they depend on significant horsepower to power hundreds of cars, passengers, crew and supplies. You can feel the vibration of the engines clear into your bones no matter where on deck you stand. But, the human body is an amazing organism and our very bulk and loose connections between bones absorb some of that vibration. And so my first lesson, if you will. Don’t lean against a wall or, worse yet, put your elbows on the railings to stabilize your shots. You’ll simply serve as a vibration transmission machine (VTM, in scientific parlance) and wonder why your shots are fuzzy or blurry.
 

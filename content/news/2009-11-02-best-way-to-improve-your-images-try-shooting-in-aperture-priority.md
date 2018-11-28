@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Try Shooting in Aperture Priority"
+image: /wp-content/uploads/2010/01/picker-moo-image-42-of-51.jpg
 comments: true
 categories:
 - how-to
@@ -19,8 +19,6 @@ If we eliminate the totally automatic setting, then, we are left with three choi
 If you shoot landscape and nature scenes I suggest that you consider shooting in aperture priority. Let’s see why.
 
 When shooting landscapes, you usually want everything possible to be in focus, from nearby objects to distant mountains. That means you should use smaller apertures, say f11 or f16. Remember that the larger the number, the smaller the aperture. By aperture we refer to the opening in the camera lens that allows light in when you press the shutter release button. As aperture decreases (in other words as it goes from f2.8 to f16, for example, the more individual parts of your scene will be in focus.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/01/picker-moo-image-42-of-51.jpg" >}}
 
 If you were to measure how much of the foreground and background is in focus you would be referring to the depth of field of the image. And that’s where knowing how to shoot in aperture priority comes in handy. The rule is this; as the aperture decreases in size, the depth of field increases. Think of squinting. When we squint, we reduce the opening in the diaphragm of our eyes so that the scene appears to be more in focus.
 

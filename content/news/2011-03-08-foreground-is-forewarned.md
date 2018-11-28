@@ -1,7 +1,6 @@
 ---
 title: "Foreground is Forewarned"
 image: /wp-content/uploads/2011/03/Great-Ocean-Road-Victoria-Australia-1102010-11-09.jpg
-image: 
 comments: true
 categories:
 - How-to
