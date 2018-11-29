@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Never Say “Never”"
+image: /wp-content/uploads/2011/05/CanadianRockies2009-1482009-09-29-1.jpg
 comments: true
 categories:
 - Opinion
@@ -22,8 +22,6 @@ tags:
 - Tutorial
 ---
 I was reviewing some images this week in preparation for a presentation on my photography, when I came across this image. It sparked a memory that I’d like to share with you.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/CanadianRockies2009-1482009-09-29-1.jpg" >}}
 
 <div class="mceTemp mceIEcenter"><dl id="attachment_1108" class="wp-caption aligncenter" style="width: 310px;">
 <dd class="wp-caption-dd">Banff National Park</dd> </dl></div>
