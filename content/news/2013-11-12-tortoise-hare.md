@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Mr. Tortoise and Ms. Hare: A Fantabulous Fotographer Fable"
+image: /images/moraine-color.jpg
 comments: true
 categories:
 - opinion
@@ -8,8 +8,6 @@ tags:
 - review
 - methods
 - fable
-
-image: img-left
 ---
 
 This is the story of Tortoise and Hare, both of them avid photographers (bet you didn't know that). Naturally, the names have been changed to protect the innocent.
