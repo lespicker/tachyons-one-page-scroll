@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "As Ye Judge..."
+image: /images/DSCF0649.jpg
 comments: true
 categories:
 - Opinion
