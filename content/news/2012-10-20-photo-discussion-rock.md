@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Photo Discussions Rock!"
+image: wp-content/uploads/2012/10/image.jpeg
 comments: true
 categories:
 - opinion
@@ -11,8 +11,6 @@ tags:
 - critique
 ---
 This morning my Maine photo workshop group that I teach for Nikonians woke up to torrential rains. So our morning field trip was cancelled and instead we had a wonderful 3-hour discussion session, covering lots of photographic concepts.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/image.jpeg" >}}
 
 Personally, I love these jam sessions, with no preconceived agenda. Instead, having lived with each other for 36 hours already, shooting all around spectacular Mt. Desert Island, questions have arisen, new types of equipment seen, new techniques observed. So the morning was spent sharing with each other terrific photo tips and suggestions.
 
