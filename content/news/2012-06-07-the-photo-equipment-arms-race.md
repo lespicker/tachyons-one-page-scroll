@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "The Photo Equipment Arms Race"
+image: /wp-content/uploads/2012/06/HLPP3_11full.gif
 comments: true
 categories:
 - Opinion
@@ -24,8 +24,6 @@ Thanks, Harry. In truth, I do get asked this often, and so I thought I’d respo
 First, I can’t agree with you more. After a while it can get to be more of a game than a true necessity. The obvious beneficiary are the camera and accessory companies. The question that one must face, whether amateur or pro, is whether or not the latest, greatest is really necessary to get quality images.
 
 I’ll be the first to say that some of the products really represent major advances and should be thoughtfully considered. Others represent small conveniences that make picture-taking far easier and more enjoyable. Take my Hoodman loupe, for example (<a href="http://www.hoodmanusa.com/products.asp?dept=1017">www.hoodmanusa.com</a>). That’s one small, inexpensive device that I could not live without. It has truly changed my picture taking for the better.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/06/HLPP3_11full.gif" >}}
 
 When it comes to major items, such as cameras and lenses, I have serious doubts about the latest, greatest. Some improvements are incremental. Let me give you an example. I owned and enjoyed my Nikon D300 camera. Then Nikon came out with the D300S. It allowed one to take videos. I don’t take videos, so it had no appeal to me.
 

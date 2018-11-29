@@ -1,6 +1,6 @@
 ---
 title: "Photo Discussions Rock!"
-image: wp-content/uploads/2012/10/image.jpeg
+image: /wp-content/uploads/2012/10/image.jpeg
 comments: true
 categories:
 - opinion
