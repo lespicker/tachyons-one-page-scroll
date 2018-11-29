@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "What Did You Say?"
+image: /wp-content/uploads/2011/06/CaRockies2009-Route-742-Peter-Lougheed-Park-Kananaskis-country-117-of-166.jpg
 comments: true
 categories:
 - Opinion
@@ -22,6 +22,7 @@ tags:
 <!--StartFragment-->If I had to distill what I teach in a photo workshop to one lesson, it would be this: What exactly are you trying to say through that image? If you can tell me in 10 or 25 words exactly what the point of the image is, then we’re most probably looking at a good, maybe even a great image.
 
 I know that sounds simplistic- any one ‘magic’ rule is- but the lack of a clear concept is what keeps a so-so image from being a wow! image. I see this in every type of photography, but most especially in landscapes and wildlife, where weather, land forms, flora and fauna, light and shadow all interact to add complexity that can obscure the meaning of the image.
+
 <h3>Is It Just For Identification?</h3>
 Here’s an example. Someone goes to a pristine habitat and comes back with an image of, say, a bear or moose or wolf. It might be a technically good shot; crisply focused, well lit, saturated colors. But the image just isn’t dynamic. Most of the time it is a full body shot of the animal and I think to myself, “Hmmm, that’s a nice bear identification photo for an ecology textbook.” But, was that the photographer’s intent? What did s/he want to say to us? What s/he mean for us to <strong><em>feel</em></strong>?
 
@@ -30,6 +31,7 @@ If you’re a taxonomist, then the story you are trying to tell is relatively si
 So, I always go back to the question: What is the story you are trying to tell through this image? What are you trying to say? What do you want to transmit to the viewer?
 
 In many of the images I am asked to critique, the problem is too much information crowding the scene. In an awestruck moment, facing an incredibly beautiful scene, the photographer is often tempted to get everything possible into the image. The result is usually an inscrutable mess. Believe me, every time I go to the Grand Canyon I’m sorely tempted to capture it’s indescribable beauty in a single image, so I know the conundrum. But, after many visits, and perhaps the wisdom of years, I realize it’s plain impossible for me to do this. Now I capture what I call landscape vignettes of the Canyon and hope that together they tell the story.
+
 <h3>Lesson Relearned</h3>
 I was reminded of all this once again, as I prepared some images for exhibition and came across a sequence of images I had taken on a beautiful Fall day in the Canadian Rockies. I’ll give you some background and then let the images themselves speak to you.
 

@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Write Your Way to Better Photography"
+image: /wp-content/uploads/2012/01/luxorwestbank1-21.jpg
 comments: true
 categories:
 - opinion
@@ -27,8 +27,6 @@ Admittedly, I’m schizophrenic. I’m frequently forced to witness disturbing b
 <em>Oooh, that sunset from that ledge would be so gorgeous</em>… you get my point.
 
 From an early age the two things that have always lighted my passions have been writing and photography. As a 5<sup>th</sup>-grader I won a writing competition and at age 11, my father, an accomplished amateur photographer, gave me my first 35mm camera. Since then, my two passions have caused me endless grief, but also too many sublime moments to count. I have written and photographed for some of the top magazines in the country and in each case I believe that the one creative outlet has helped the other.
-
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/luxorwestbank1-21.jpg" >}}
 
 So, here is my proposed solution to improve your photography. Write a story, and then tell it through your lens. No, I mean it. Cultivate the written side of your creative brain and it might just do wonders for your photography. Let’s see how.
 
