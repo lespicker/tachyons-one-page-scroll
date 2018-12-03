@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Please, Listen Up!
+image: /images/_LAP6601-20x30.jpg
 comments: true
 categories:
 - opinion
@@ -15,7 +16,7 @@ tags:
 - amateurs
 ---
 
-If you plan on reading on, you'll have to excuse what will probably be a picture-less rant. I'm here to say that one of the very best ways to improve your photography, to move it from good to WOW!, is not with your eyes, but with your ears!
+I know I'm being crabby. If you plan on reading on, you'll have to excuse what will probably be a picture-less rant. I'm here to say that one of the very best ways to improve your photography, to move it from good to WOW!, is not with your eyes, but with your ears!
 
 <!--more-->
 
