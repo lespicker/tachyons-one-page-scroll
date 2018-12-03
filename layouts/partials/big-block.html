@@ -7,7 +7,7 @@
     <h2 class="mv0 mh2 mh4-ns f1 f-subheadline-ns fw3 lh-title white tc">{{ .title | safeHTML }}</h2>
     {{ end }}
     {{ if isset . "bnlink" }}
-    <a href="{{ cond (isset . "bnlink") .bnlink "mailto:info@cdox.cc" }}" class="dib mt4 link w-auto-ns bg-transparent {{ cond (isset . "bcolor") .bcolor "white" }} f5 pv2 pv3-ns ph4 ba {{ cond (isset . "bcolor")   (printf "b--%s" .bcolor) "b--white"}} dim ttu">{{ .button }}</a>
+    <a href="{{ cond (isset . "bnlink") .bnlink "mailto:les@lesterpickerphoto.com" }}" class="dib mt4 link w-auto-ns bg-transparent {{ cond (isset . "bcolor") .bcolor "white" }} f5 pv2 pv3-ns ph4 ba {{ cond (isset . "bcolor")   (printf "b--%s" .bcolor) "b--white"}} dim ttu">{{ .button }}</a>
     {{ end }}
   </div>
   {{ if isset . "sideline" }}
