@@ -1,6 +1,8 @@
 ---
 title: About Les Picker Fine Art Photography
-draft: true
+image: /images/lpfa-boat-yukon.jpg
+draft: false
+layout: single-no-date
 ---
 ## About Les Picker Fine Art Photography (LPFA)
 
@@ -11,8 +13,6 @@ We thank you for taking the time to peruse our site and we look forward to servi
 ---
 
 ### Les Picker
-
-{% img /images/les.jpg %}
 
 Les has photographed for National Geographic Society publications and many other consumer and corporate magazines and newspapers. He has had more than 600 published articles in major national publications. He was a monthly columnist and features contributor to Oceans Magazine and a weekly columnist, Op-Ed contributor and features travel writer and photographer for The Baltimore Sun. Les shoots Fuji medium format and Nikon systems and is a member of Nikon Professional Services and the American Society of Journalists and Authors. 
 
@@ -30,7 +30,7 @@ Les is a Moab Fine Art Master Photographer. His print workshops are sponsored by
 
 ### Robert Boyer
 
-{% img /images/bli/2015/05/DSC_7099.jpg %}
+{{< figure src="/images/bli/2015/05/DSC_7099.jpg" >}}
 
 Bob is our in-house Master Printer and tech guru, as well as an accomplished studio photographer and master of lighting. Bob handles all  our fine art printing and technical matters. He crafts our museum-quality prints, as well as wall coverings and other display options for clients. He is the interface between Les' artwork and commercial or specialty displays. 
 
