@@ -3,16 +3,18 @@ title: About Les Picker Fine Art Photography
 image: /images/lpfa-boat-yukon.jpg
 draft: false
 layout: single-no-date
+menu:
+  main:
+    name: 'About LPFA'
+    weight: 20
 ---
 ## About Les Picker Fine Art Photography (LPFA)
 
 At LPFA we are passionate about photography. Our mission is to:
 
-bring the beauty of nature to discriminating fine art collectors, corporations, institutions and private homes;  
-
-improve the skills of photographers through our workshops so that they can achieve their photographic goals;
-
-bring photographers to amazing locations through our photo tours and guide them in capturing world-class images.
+- bring the beauty of nature to discriminating fine art collectors, corporations, institutions and private homes;  
+- improve the skills of photographers through our workshops so that they can achieve their photographic goals;
+- bring photographers to amazing locations through our photo tours and guide them in capturing world-class images.
 
 We are committed to excellence in everything we do. We are equally committed to excellence in customer relations. 
 
