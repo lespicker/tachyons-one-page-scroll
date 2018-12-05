@@ -10,8 +10,6 @@ At LPFA our mission is to bring the beauty of nature to discriminating fine art 
 
 We thank you for taking the time to peruse our site and we look forward to serving you as a client. 
 
----
-
 ### Les Picker
 
 Les has photographed for National Geographic Society publications and many other consumer and corporate magazines and newspapers. He has had more than 600 published articles in major national publications. He was a monthly columnist and features contributor to Oceans Magazine and a weekly columnist, Op-Ed contributor and features travel writer and photographer for The Baltimore Sun. Les shoots Fuji medium format and Nikon systems and is a member of Nikon Professional Services and the American Society of Journalists and Authors. 
