@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About Les Picker Fine Art Photography
+draft: true
 ---
 ## About Les Picker Fine Art Photography (LPFA)
 
