@@ -16,7 +16,7 @@ product:
     data_item_name: "Zoo Photography Workshop"
     data_item_price: 400.00
     data_item_description: "Hands-on photography workshop at the Baltimore Zoo"
-    data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
+    data_item_image: "/images/zoo-workshop/sean-1.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
     event_date: 2019-05-11T09:00:00Z
@@ -27,13 +27,13 @@ aliases:
 
 This workshop will begin with a classroom session at the Les Picker Fine Art Photography studio in Havre de Grace, Maryland. The afternoon will be spent at the Baltimore Zoo putting our earlier discussions into action with the assistance of Sean. Detailed information and directions to the studio will be sent upon registration.
 
-> Before beginning my  career as a full time professional wildlife photographer, I spent a great deal of time training by photographing animals which were most accessible to me. My local zoos became places of photographic learning, research, and inspiration for "real" wildlife photography. But evewn my training period was not wasted. My Snow Leopard photo taken at a zoo was published on National Geographic.<cite>Sean Lo</cite>
+> Before beginning my career as a full time professional wildlife photographer, I spent a great deal of time training by photographing animals which were most accessible to me. My local zoos became places of photographic learning, research, and inspiration for "real" wildlife photography. But even my training period was not wasted. My Snow Leopard photo taken at a zoo was published on National Geographic.<cite>Sean Lo</cite>
 
 {{< figure src="/images/zoo-workshop/sean-4.jpg" caption="By Sean Lo" >}}
 
 Fast forward years ahead and Sean worked as the exclusive wildlife photographer at the National Aquarium in Baltimore, MD photographing both off site in the wild and also on site. 
 
-In this workshop, Sean will address the challenges of photographing in zoos, animal parks and aquaria, how to overcome them, and how to develop pictures that mimic natural environments.   
+In this workshop, [Sean (www.seanlophotography.com)](http://www.seanlophotography.com) will address the challenges of photographing in zoos, animal parks and aquaria, how to overcome them, and how to develop pictures that mimic natural environments.   
 
 {{< figure src="/images/zoo-workshop/sean-3.jpg" caption="By Sean Lo" >}}
 
