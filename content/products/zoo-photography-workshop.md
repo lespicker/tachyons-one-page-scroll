@@ -48,7 +48,7 @@ In this workshop, [Sean (www.seanlophotography.com)](http://www.seanlophotograph
 
 ## What to bring
 
-- Camera - SLR, DSLR, & Mirrorless
+- Camera - SLR, DSLR, or Mirrorless
 - Lens
 - Memory cards
 - Batteries
@@ -57,4 +57,4 @@ In this workshop, [Sean (www.seanlophotography.com)](http://www.seanlophotograph
 
 This workshop is an exclusive collaboration between Les Picker Fine Art studio and Sean Lo, with a maximum capacity of six spots. We believe that the best education is one that has an excellent teacher to student ratio, so rest assured that an adequate amount of time and attention will be provided to you and your photographic needs. 
 
-Zoos have incredible photographic potential. Our Goal is to pass that skill and excitement onto you.  
+Zoos have incredible photographic potential. Our goal is to pass that skill and excitement onto you.  
