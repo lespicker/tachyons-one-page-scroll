@@ -29,7 +29,7 @@ Discover the wild side of photography through the stories and images of wildlife
 
 {{< figure src="/images/wildlife-workshop/1DX29939.jpg" caption="By Sean Lo" >}}
 
-> Before beginning my career as a full time professional wildlife photographer, I spent a great deal of time training by photographing animals which were most accessible to me. My local zoos became places of photographic learning, research, and inspiration for "real" wildlife photography. But even my training period was not wasted. My Snow Leopard photo taken at a zoo was published on National Geographic.<cite>Sean Lo</cite>
+> There is so much to discover about ourselves through wildlife. Once I learned the power of photography, I realized that my intent was not just to translate my overwhelmed senses, but to create stories of wildlife that have impact. Knowing this gives me purpose.<cite>Sean Lo</cite>
 
 {{< figure src="/images/wildlife-workshop/sean.jpg" caption="By Sean Lo" >}}
 
