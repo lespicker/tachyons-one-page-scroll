@@ -1,6 +1,7 @@
 ---
 title: "Photographing in China"
-image: /images/bli/2018/11/DSCF4584.jpg
+date: "2018-11-28"
+image: images/DSCF4584.jpg
 subtitle: '<span class="black-70">More visual.</span>'
 destination: Asia
 comments: true
@@ -34,7 +35,7 @@ I'm no historian of China, but our guide told us that much of this behavior is a
 
 **Friendly People**. The Chinese people that our group met were uniformly friendly except, of course, for police and government types.  Most people were happy to be photographed and we had some wonderful photo sessions with folks we happened to come across in wandering around villages. A good portrait lens or 24-105 zoom would be great as a walk-around lens. 
 
-{{< figure src="/images/bli/2018/11/DSCF1002.jpg" caption="" >}}
+{{< figure src="images/DSCF1002.jpg" caption="" >}}
 
 **Be Prepared to Be Awed**. Make no mistake about it; China is ascendant. Bridges are new and gorgeous. Tunnels are engineering marvels. Skyscrapers are going up everywhere. Roads are mostly well paved. Bullet trains run on time (take heed, Amtrak!). Soak it in, folks. It may just prompt you to start learning Mandarin. 
 
@@ -42,7 +43,7 @@ I'm no historian of China, but our guide told us that much of this behavior is a
 
 **Hire a Photography Guide**. When traveling to any new location for an extended stay, I always recommend hiring a guide. In China such guides are very reasonably priced. Just make sure the guide you hire is experienced in guiding photographers in particular. [See my previous blog](https://lesterpickerphoto.com/2012/12/16/a-good-guide-is-heaven-sent/) on this topic for detailed tips. 
 
-{{< figure src="/images/bli/2018/11/DSCF0602.jpg" caption="" >}}
+{{< figure src="images/DSCF0602.jpg" caption="" >}}
 
 **Enjoy the Food**. Look, life is not only about photography. If you are in China, you would be a fool not to indulge in some of the best food options this planet has to offer. If you plan on taking a large bus tour, you will unfortunately probably be offered substandard buffets. Figure out a way to skip at least some of them and go with a Chinese speaking guide to a smaller restaurant. 
 

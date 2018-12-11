@@ -9,7 +9,14 @@
 
   {{ range .Pages }}
 
-  {{/* partial "big-block" (dict "img" .Params.image "title" .Title ( cond (isset .Params "subtitle") "subtitle" "") .Params.subtitle (cond (isset .Params "sideline") "sideline" "") .Params.sideline ( cond (isset .Params "sidecolor") "sidecolor" "" ) .Params.sidecolor "button" "Read More" "bnlink" .Permalink (cond (isset .Params "bcolor") "bcolor" "") .Params.bcolor "bg" .Params.background) */}}
+  {{ $img := .Resources.GetMatch (.Params.image | default "/wtf") }}
+  {{ if $img }}
+    {{ $.Scratch.Set "img" $img.RelPermalink }}
+  {{ else }}
+    {{ $.Scratch.Set "img" .Params.image }}
+  {{ end }}
+
+  {{/* partial "big-block" (dict "img" ($.Scratch.Get "img") "title" .Title ( cond (isset .Params "subtitle") "subtitle" "") .Params.subtitle (cond (isset .Params "sideline") "sideline" "") .Params.sideline ( cond (isset .Params "sidecolor") "sidecolor" "" ) .Params.sidecolor "button" "Read More" "bnlink" .Permalink (cond (isset .Params "bcolor") "bcolor" "") .Params.bcolor "bg" .Params.background) */}}
 
     <article class="fl w-100 w-third-ns center pa4">
       <div class="aspect-ratio aspect-ratio--6x4">
