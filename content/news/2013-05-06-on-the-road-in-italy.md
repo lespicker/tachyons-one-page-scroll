@@ -22,12 +22,12 @@ Our hosts at Le Tre Querce B&amp;B, Louisa and Riccardo, were simply awesome. On
 
 After a relaxing night in an immaculately clean room, and a hot shower, we were ready to tackle our drive to Siena for my first photo shoot. But first, a hearty breakfast, courtesy of Louisa's kitchen. Now I was ready for a nap, but instead we headed for the road, saying arrivederci to Louisa and Riccardo. We could not have hoped to stay in a warmer, more home-like, friendly place.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/louisa-riccardo-le-querce-.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/louisa-riccardo-le-querce-.jpg" >}}
 
 Just a quick aside about Italian drivers. They are not near so crazy as a lot of people say. Yes, they do ride your tail when you're doing 120 kph. But they don't beep or act rude. They sit there patiently, literally 12 inches from your rear bumper, giving you fits, until you pull over, which in my case took about 1.3 seconds every time it happened. They also drive down one lane cobblestone streets that amazingly have two-way traffic at insane speeds. Okay, 'nuf said (for now).
 
 Here's a quick shot of the Duomo in Siena, in one of the rare non-rainy moments we had on our first few days. The architecture, of course mostly church related, is breathtaking.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/duopmo-siena-2013.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/duopmo-siena-2013.jpg" >}}
 
 More on Siena and Florence later in the week. Still trying to catch up with the sleep deprivation.

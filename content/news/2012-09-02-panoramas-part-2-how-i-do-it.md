@@ -14,7 +14,7 @@ tags:
 - tips
 - tripod
 ---
-In a [previous post](http://blog.lesterpickerphoto.com/2012/08/21/panoramas-nail-your-nodal-points/) I discussed the role of nodal points in nailing top-notch panoramas. For a long time I didn't bother with nodal points and that caused distortions and a lot of extra post-processing time. In fact, on several occasions it meant that I had to throw out a pano that I had painstakingly tried to capture. That can easily happen if you do a pano with a looming foreground object and have not set your nodal point.
+In a [previous post](https://blog.lesterpickerphoto.com/2012/08/21/panoramas-nail-your-nodal-points/) I discussed the role of nodal points in nailing top-notch panoramas. For a long time I didn't bother with nodal points and that caused distortions and a lot of extra post-processing time. In fact, on several occasions it meant that I had to throw out a pano that I had painstakingly tried to capture. That can easily happen if you do a pano with a looming foreground object and have not set your nodal point.
 
 So, with my nodal points now set and printed on a card that I laminate and take with me, I'm off to the races.
 
@@ -34,7 +34,7 @@ Next I figure out how much overlap I want in the images. Typically I like a 30% 
 <h3>Shooting Panos At Night</h3>
 There is one thing I want to mention about that panning process. If you are panning a night scene, you would do better to use the gradations etched into your ballhead mount, since eyeballing it in the dark may not be accurate.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/BH55LR.png" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/BH55LR.png" >}}
 
 Of course using tiny gradation marks presents its own problem, since you don't want to be accidentally shining a light from your headlamp into your lens at a critical moment. I use a headlamp with a red light just for security sake. At night I have a routine that goes something like this: focus and fiddle until right, close the back eyepiece window, flip up the mirror (to minimize camera shake), and I'm ready for the pano sequence. Press the cable release, switch on red headlamp, unlock ballhead rotation clamp, rotate ballhead x notches, turn off light, screw down ballhead rotation clamp, press cable release and repeat until the pano sequence is complete.
 
@@ -46,10 +46,10 @@ I always shoot the pano again, maybe varying the exposure by 1/3 or 1/2 stop. Th
 <h3>What is a Pano Anyway?</h3>
 There is also the issue of what constitutes a pano. I'm not one to shoot huge panos, although the one of the Baltimore Harbor shown here is a collection of three rows of 14 vertical images.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/harbor-flat-small.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/harbor-flat-small.jpg" >}}
 
 In that case I needed it for a wall covering installation that spans 29 feet! I needed every pixel I was able to lasso to get a printed image that looks good. 
 
 Sometimes I will take 3 images to build a pano. But, I'm also thinking of how I will use them. Sometimes, as with the Baltimore Harbor wall covering, I need something long and narrow. Other times I will need something nearly square for a client's wall space (a 2-shot pano?). So, while I'm in a particular location, I'll try various combos to afford me some flexibility.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/LAP0869-Panorama.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/09/LAP0869-Panorama.jpg" >}}

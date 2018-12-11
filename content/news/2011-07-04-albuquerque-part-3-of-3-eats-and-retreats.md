@@ -37,7 +37,7 @@ ABQ is a great city, blessed with a wide variety of ethnic foods and a nice shar
 
 <strong>St. James Tea Room</strong>: Incredible dining and creative imagination combine in an intimate series of dining spaces, each discreetly separated from its neighbor. You can delight in a 3-course Afternoon Tea experience seated outside in a private garden or inside in Victorian-decorated rooms. Dinners are by reservation only. The desserts are exquisite, but served in small portions so that you may indulge in as many or few as you wish. The selection of tea is not only broad, but deep in quality and individually pot-brewed. <a href="http://www.stjamestearoom.com">www.stjamestearoom.com</a>.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/LAP9972.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/LAP9972.jpg" >}}
 
 <h2>LODGING</h2>
 <strong>Hotel Albuquerque at Old Town</strong>: Located just a few blocks from the Old Town Plaza tourist district, this is a comfortable, mainstream hotel with a full complement of amenities. The lobby and rooms are nicely decorated with a Hispanic influence. Breakfasts are excellent. Staff is very helpful. <a href="http://www.hotelabq.com/">http://www.hotelabq.com/</a>

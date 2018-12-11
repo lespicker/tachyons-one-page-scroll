@@ -22,6 +22,6 @@ On the way out of the park towards dusk, my colleague spotted a bighorn sheep ra
 
 I watched as he foraged his way down the cliffside, all the while looking up to the other side of a creek, where a female stood right at the top of the ridge line. Finally, he came down to the road, ran across and down the embankment to the stream. He walked back and forth, as if deciding whether or not to cross.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/DSC_4979.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/DSC_4979.jpg" >}}
 
 Truth be told, he did turn around and run back up the cliff where we first spotted him. His libido was just no match for the frigid river.

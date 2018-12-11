@@ -29,4 +29,4 @@ People still fish the Nile River using round, weighted nets that are tossed by h
 
 I recall vividly a bright, February day in 2001 as I sat alone on a shoreline bluff, eating my lunch of cheese and peasant bread a few yards above the fishing fleet, watching the men and boys repairing nets and boats. Suddenly a woman appeared behind me, looking for her son. “Mohammed!,” she yelled down. Immediately at least half a dozen men looked up. I smiled at this natural by-product of Muslim life, where names are traditionally derived from one of the 99 names for Allah in the Koran.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/il-Fontina-feluccas-1-of-1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/il-Fontina-feluccas-1-of-1.jpg" >}}

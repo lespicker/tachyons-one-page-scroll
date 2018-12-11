@@ -72,7 +72,7 @@ There are more family-friendly attractions on the Outer Banks than one would exp
 
 <strong>
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2009-08-13_3%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2009-08-13_3%C2%A9LesterPicker.jpg" >}}
 
 </strong>
 
@@ -92,4 +92,4 @@ There are more family-friendly attractions on the Outer Banks than one would exp
 
 <strong>Hit the Beach</strong>. Anywhere along the Outer Banks. Swim, duck waves, look for seashells, walk, jog, sunbath (slather on the sunscreen!), surf, kiteboard, bellyboard, skimboard, watch dolphins and whales, read, photograph, nap.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2006-10-05_1%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/outerbanks_2006-10-05_1%C2%A9LesterPicker.jpg" >}}

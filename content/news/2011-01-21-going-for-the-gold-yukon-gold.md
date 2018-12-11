@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Going for the Gold... Yukon Gold!"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-Dempster-Highway-1782009-09-05.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Yukon2009-Dempster-Highway-1782009-09-05.jpg
 destination: canada
 comments: true
 categories:
@@ -23,7 +23,7 @@ It’s showtime again. In ten days I leave for a photo assignment in Yukon, Cana
 
 First some perspective. Yukon is in the northwestern corner of Canada, bordered by Alaska to its west and the Arctic Ocean to its north, British Columbia to the south and Northwest Territory to the east. It has approximately 34,000 residents, 28,000 of whom live in its capital city, Whitehorse. That leaves about 6,000 people spread over an area 20% larger than California! [BTW, California has 35 million residents. Even if you remove Los Angeles, that leaves 33 million. Hmmm!]
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Grizzly.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/01/Grizzly.jpg" >}}
 
 There are two moose for every person in the Yukon, and nearly one bear. That’s aside from caribou herds, wolves, fox, mountain goats, mountain sheep and wood bison.
 
@@ -39,7 +39,7 @@ Photographing in extreme cold is a love-hate affair for me. Having lived in Main
 
 In such extreme cold I also worry about my equipment. In the pre-digital days, film would literally snap when being advanced in the camera. Nowadays, I know that my LCD screen in the back of my camera will slow and probably stop working at around minus 10. I’ll have to constantly remind myself to not breathe when looking through the viewfinder, else I’ll fog up the view. The mental list is long, but I force myself to go through it as I wait in order to keep my mind as sharp as possible.
 
-Then there is the condensation issue,a real threat to our equipment (see my previous blog on condensation: <a href="http://blog.lesterpickerphoto.com/2011/01/06/condensation-recommendation/">http://blog.lesterpickerphoto.com/2011/01/06/condensation-recommendation/</a>). This provides me with a good outlet for my recycled Zip-Lock bags.
+Then there is the condensation issue,a real threat to our equipment (see my previous blog on condensation: <a href="https://blog.lesterpickerphoto.com/2011/01/06/condensation-recommendation/">https://blog.lesterpickerphoto.com/2011/01/06/condensation-recommendation/</a>). This provides me with a good outlet for my recycled Zip-Lock bags.
 
 I’ll also be testing out some equipment that manufacturers have sent me to see how well they work in the field. Tests in the lab are fine, as far as they go. But being out in the field is the only way to see if working photographers can benefit from newer materials and designs.
 

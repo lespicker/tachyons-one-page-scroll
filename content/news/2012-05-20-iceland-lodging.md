@@ -40,28 +40,28 @@ Finally, touring in Iceland is easy. The main roads are paved and well maintaine
 
 <strong>Hotel Keflavik</strong>. After a long flight from abroad, I suggest at least one night in Keflavik, where the international airport is located. Hotel Keflavik (<a href="http://www.hotelkeflavik.is/en">http://www.hotelkeflavik.is/en</a>) offers very comfortable rooms, an excellent, expansive  breakfast, and a gym with sauna and massage service. The staff is helpful and knowledgeable (thanks, Ella and Anna). It’s the perfect way to recover. I suggest you spend an extra night and tour the peninsula on which the hotel is located, especially the ancient fishing site of Selatangar. There are some great photographic locations there and all along the loop. You could easily spend 2 days exploring (I did!).
 
-<strong>Bogarnes Bed and Breakfast</strong>. I did a separate review of this precious little B&amp;B here. En route to the Snaefellsness peninsula you may want to overnight <a href="http://blog.lesterpickerphoto.com/2012/05/09/iceland-a-jewel-in-borgarnes/">here</a>.
+<strong>Bogarnes Bed and Breakfast</strong>. I did a separate review of this precious little B&amp;B here. En route to the Snaefellsness peninsula you may want to overnight <a href="https://blog.lesterpickerphoto.com/2012/05/09/iceland-a-jewel-in-borgarnes/">here</a>.
 
 <strong>Langaholt</strong>. If you visit the Snaefellsnes Peninsula north of Reykjavik, it would be hard for me to imagine anyone who would not love the ambience and comforts of Langaholt <a href="http://www.langaholt.is/Langaholt/EN/Index.aspx">http://www.langaholt.is/Langaholt/EN/Index.aspx</a>). Proprietor Thorkell (“Keli”) Simonarson and his girlfriend Rúna Björg Magnúsdóttir have created a warm, welcoming, funky and completely absorbing guesthouse on a converted farm. Every day during season Keli’s father brings in fresh trout and char from a nearby lake and his mother fillets them and serves them immediately for breakfast or dinner (<a href="http://youtu.be/1bSYaSZHzu4">this video is a must watch</a>!). Their artist friend Thordis Claessen has adorned their walls with some very unusual images reflecting local mythology. Langaholt also features a small golf course located right on their oceanfront property.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020455.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020455.jpg" >}}
 
 <strong>Hotel Hellnar</strong>. For a more upscale experience, try Hotel Hellnar (<a href="http://www.hellnar.is">http://www.hellnar.is</a>/), at the foot of the Snaefellsjokull glacier and right on the ocean. One of four family owned and managed hotels on the peninsula, you’ll find fine dining and immaculate rooms. The Hotel is near to many photographic sites, including a lighthouse with attendant rocky shore, and a magnificent geological formation. Old, abandoned farmhouses can also be photographed.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020568.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020568.jpg" >}}
 
 <strong>Guesthouse Steig</strong>. If you drive east along the spectacularly gorgeous south coast, then you’ll want to stay at Guesthouse Steig ( <a href="http://guesthousesteig.is/Home/Rooms/">http://guesthousesteig.is/Home/Rooms/</a>), a real working sheep farm. Here Ausrun Guthmundsdottir and her husband Olafur Stigsson have built a separate guesthouse with spotlessly clean and comfortable rooms. Ausrun’s marvelous Icelandic sheep dog and two house dogs are a definite plus, but I’ll always remember Asrun’s friendliness and her wonderful hugs. While you are there, remember to ask her to show you the jar of volcanic ash she has saved from the latest eruption.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0019880.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0019880.jpg" >}}
 
 <strong>Hali Farm</strong>. This guesthouse/farm is the hardest accommodation for me to describe. First, Hali (<a href="http://hali.is">http://hali.is</a>/) is a working farm, with more than 150 sheep and 30 milking cows. Plus, it raises more than 250,000 char in its aquaculture operation (talk about fresh fish for dinner!).  Hali is also a community of people dedicated to the ideals of its relative Thorbergur Thordarson, one of Iceland’s most famous writers, philosophers and naturalists.
 
 The farm includes a wonderful museum that houses a collection of Thordarson’s writing, but also interesting educational and interactive exhibits of life in Iceland several generations ago.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/photo2.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/photo2.jpg" >}}
 
 The guesthouse itself is a collection of separate buildings, with clean, comfortable rooms and views of the ocean and mountains. The dining room is open for breakfast and dinner. I recommend the fresh char dinner.
 
 The farmhouse is close to the iceberg lagoon dear to the heart of photographers. Just make sure that you visit across the road to the ocean side, where stranded bergs are a delight to capture on sensor or film. Be sure to dress warmly.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020686.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020686.jpg" >}}

@@ -47,18 +47,18 @@ In the following image I took, you’ll notice that the distribution of the ligh
 
 Now look at the histogram for this image.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/wedgepondhisto.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/wedgepondhisto.jpg" >}}
 
 The graph represents the distribution of pixels from dark on the left side of the histogram to lighter pixels as we head to the right. You will note that none of the pixels are knocking into the “wall” at the far left or right. That indicates that the image is not overexposed or underexposed. Overexposed pixels would be stacked high up against the far right wall. That means that one could not discern any details in those highlights. They would appear white and featureless. On the other hand, underexposed pixels would crowd up against the far left wall. No details would be discernible in those black areas.
 
 <h3>Underexposed</h3>
 Take this next image, for example.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/West-Maui-Mountains-575.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/West-Maui-Mountains-575.jpg" >}}
 
 You can see that the image has many dark black, featureless areas where you cannot see any details in the darkest shadows. Actually, that was intentional on my part. I wanted to silhouette that rock on the right and put the emphasis on the sunset, the water and the mid-range rocks. Note the histogram:
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/hawaii-histo.tiff" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/hawaii-histo.tiff" >}}
 
 Pixels are bumped up against the far left wall. In this case I didn’t mind at all. But, if I had wanted to get some details in the shadows on the right, I would have opened up my aperture perhaps 2/3 or one full f-stop. Alternately, I could have just left the shutter open a bit longer to allow in more light. My point here is that the histogram only gives you data. It’s up to you to make decisions based on it.
 
@@ -67,11 +67,11 @@ One of the most dreaded results in photography is when you have horribly overexp
 
 Look at the following image. Notice that it is waaay overexposed. No doubt about it, a very bad shot. The highlights are "blown," meaning that you cannot discern any details in the lightest areas, even though there were some nice clouds above the mountain. The whole area is featureless.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Costa-Rica2010_2010-05-21_2257%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Costa-Rica2010_2010-05-21_2257%C2%A9LesterPicker.jpg" >}}
 
 Let’s look at its histogram:
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/costaricahisto1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/costaricahisto1.jpg" >}}
 
 Ouch!! Even pros make mistakes. Here you can see that the pixels are piled up on the right wall, indicating overexposure. No choice here but to re-shoot. I’d have to close down my aperture two or three stops or increase the shutter speed a good deal to let in far less light. But in other cases I might have some blown pixels in the image and be happy with the results. Like I said, histograms just are.
 

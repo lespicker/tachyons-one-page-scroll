@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Australia's Great Ocean Drive: Photo Valhalla"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-Road-Victoria-Australia-3432010-11-11.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-Road-Victoria-Australia-3432010-11-11.jpg
 destination: ausnz
 comments: true
 categories:
@@ -22,7 +22,7 @@ There are just a handful of iconic scenic drives in this world. One, of course, 
 
 As part of my current photo adventure, I got to spend several days along Australia’s Great Ocean Road. It’s a marvel of engineering, with backdrop courtesy of Mother Nature.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-Road-Victoria-Australia-2402010-11-11.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-Road-Victoria-Australia-2402010-11-11.jpg" >}}
 
 The Great Ocean Road is easy to access from Melbourne. It’s a smooth highway jaunt (except for rush hours) along the west side of Melbourne with possibilities of joining the road at its far eastern section or at the more popular slightly more western start. Remember that everything is marked in kilometers, one of which is 6/10 of a mile, so the distance is not as far as it first appears. BTW, the Aussies drive on the left, so if you drive please do so leisurely until you’re acclimated.   Actually, you’d have to drive leisurely.
 
@@ -33,12 +33,12 @@ Oh, God, what a view! The every twist and turn reveals towering cliffs beaten by
 
 Along the road are photographic side trips, images of fields, sheep grazing, even rain forests with huge, tree-like primitive ferns that give you the eerie feeling of walking the earth of 300,000,000 years ago. There are also several waterfalls that offer great photo opps.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-Road-Victoria-Australia-1562010-11-10.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-Road-Victoria-Australia-1562010-11-10.jpg" >}}
 
 <h3>Critiques &amp; Comments Welcome</h3>
 On my agenda were certain iconic shots- the 12 Apostles, various arches and the like- but also some less frequented sites where I could play with light and water motion. I’ve included a few of those shots here, but I haven’t been able to do any post-processing since I’m on the road. But, I think you’ll get the idea. 
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-Road-Victoria-Australia-3412010-11-11.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Great-Ocean-Road-Victoria-Australia-3412010-11-11.jpg" >}}
 
 <h3>And Your Favorite Scenic Drives?</h3>
 Also, I’m curious to know what are your favorite scenic drives? Please share them with us here. Until my next blog, happy shooting!

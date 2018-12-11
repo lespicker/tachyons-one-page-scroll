@@ -21,7 +21,7 @@ One of the hassles of travel for me is toting around an entire file folder of fl
 
 Enter the niftiest app I use. It’s called TripIt and I’ve fallen in love with it. Here’s what it does and how it works.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/images1.jpeg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/images1.jpeg" >}}
 
 TripIt creates a complete itinerary of your trip and makes it available on your smart phone, laptop and desktop. I do mean complete, from flight info to hotels, rental cars, events, whatever. It automatically syncs across all platforms as soon as I make a change on any device and stores the information in the Cloud for instant retrieval.
 
@@ -29,7 +29,7 @@ Once you register, all you need to do is forward your confirmation emails to Tri
 
 The itinerary includes your confirmation number, reservation number, addresses of hotels. Amazingly, TripIt simultaneously downloads a Google map of the area, with a pin showing the location of your hotel or car rental agency! Plus, it adds a constantly updated weather report for each stop in your itinerary.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/images-1.jpeg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/images-1.jpeg" >}}
 
 I love TripIt and shudder to think of doing without it. No more carrying around reams of paper. Everything in one place, available in a tap and swipe.
 

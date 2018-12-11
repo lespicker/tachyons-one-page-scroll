@@ -21,10 +21,10 @@ Iceland's glaciers are both magnificent and frightening. As the glaciers advanc
 
 <a href="http://www.hartmier.com">Richard Hartmier</a>, my photo buddy from Yukon, Canada, and I stopped at the glacier for a photo shoot. The wind was blowing mightily and we had been warned that a storm was approaching. Richard went off on his own to photograph the icebergs that slough off the glacier and accumulate in a deep meltwater pond in front of it. I chose to climb the ledges on the left side of the glacier that you see in this picture.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020125.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020125.jpg" >}}
 
 I managed to get a semblance of the shot I was looking for, but not without some drama. The winds were gale force, so I opened my tripod as wide as the narrow ledge permitted me to in order to stabilize my setup. I took off my backpack, which weighs about 30 pounds, and hooked it to the underpart of the tripod to add mass and further stabilize it. I began to shoot, but the winds suddenly picked up to hurricane force (75+ mph), nearly toppling my tripod and ripping my neutral density filters from my hand. At that time it was quits for me and I struggled to get my gear packed without being blown over the precipice. I would have liked to stay longer, even climbing higher to get rid of the rock on the left side of the image and getting a view of the entire snow-capped mountain, but I also wanted to live to tell about it, so prudence won out. In this image you can see the winds blasting snow from the glacial pack and barreling them down the valley.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020117.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0020117.jpg" >}}
 
 To give you all an idea of how strong the wind was, I did <a href="http://youtu.be/WQ8WKOsLjsA">a tiny video clip</a> of Richard when we stopped at another part of the glacier. Now Richard is not a little guy and he was almost toppled by the gusts at various points during the day.

@@ -33,12 +33,12 @@ At the start of the race I’m in the chute, positioned with probably 25 other p
 
 Each musher leads a team into the chute and gives final hugs to his or her 14 team members. The noise of the dogs barking and howling, wanting desperately to start pulling, is overpowering. The mushers check the dogs’ booties, designed to protect the animals from ice cuts. They pull at the rigging to make sure they are secure. They whisper words of encouragement to their charges.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Mushing-Sky-High-Wilderness-Adventures-5.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Mushing-Sky-High-Wilderness-Adventures-5.jpg" >}}
 
 Thousands of spectators line the starting chute cheering each competitor. Every three minutes the race officials send off another team. In a little over an hour the din of the dogs is replaced by an eerie quiet, as the crowds saunter off to the many other events around town.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Mushing-Sky-High-Wilderness-Adventures-2.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Mushing-Sky-High-Wilderness-Adventures-2.jpg" >}}
 
 The Yukon Quest is a family event, a true celebration of man and dog pitted against whatever nature throws at them. What makes it all the more wonderful to me is that it takes place in the glorious Yukon.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Mushing-Sky-High-Wilderness-Adventures-7.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Mushing-Sky-High-Wilderness-Adventures-7.jpg" >}}

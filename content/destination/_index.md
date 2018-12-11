@@ -1,6 +1,6 @@
 ---
 title: "Travel Destinations"
-image: "http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg"
+image: "https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg"
 menu:
   main:
     name: 'Travel'

@@ -12,7 +12,7 @@ tags:
 ---
 As promised, this is another in a continuing series of reviews on my experience as a pro photographer and owner of a Hasselblad H4D-50 system. For those of you wondering what the heck that is, allow me to explain.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/images.jpeg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/images.jpeg" >}}
 
 Hasselblad is a medium format camera system. That means that the sensor is significantly larger than a standard 35mm camera and of a slightly different shape (4:3 ratio vs. 3:2 for a DSLR). Instead of the typical 12-16 megapixels (MP) per image you’ll find on most 35mm cameras, the Hasselblad (‘Hassy’) registers images at a mind-blowing 50MP. Other digital Hassy cameras record at 40, 60 and 200MP. The more pixels, the better detail there is when enlarging images. Since I often have to enlarge images to 30 or 40 inches on the short side, more pixels are a good thing. Just last week we printed wallpaper images that were 29-feet  and 19-feet wide!! That is how I justified my H4D purchase.
 
@@ -24,7 +24,7 @@ Most of all, my assistant, Bob Boyer, and I love the smooth, rich tonality evide
 
 To be honest, my Hassy does have its drawbacks, as I’ve mentioned in other blogs. Chief among them is that it is not weatherproofed. For landscape shooters that is a serious drawback. However, to be fair I did shoot with it in 70MPH hurricane force winds in Iceland and got results that I just fell in love with. Of course, I protected the camera and lens as best as I could and did not take the chance of swapping lenses in mid-shoot.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/A0020169-as-Smart-Object-1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/A0020169-as-Smart-Object-1.jpg" >}}
  
 Another drawback is its size and weight, topping the scales at 7.5 pounds for the body and a 28mm lens with the tilt-shift attachment. At my age I simply cannot use it for any length of time unless it is tripod mounted, which is fine for landscape. The camera and lenses are also bulky, forcing me to painfully agonize over my equipment choices when I travel.
 

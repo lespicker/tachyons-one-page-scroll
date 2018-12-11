@@ -19,15 +19,15 @@ Okay, let’s start again. I spend a good amount of time in the woods and fields
 
 Here’s a bunch that I’ve taken over the years. Maybe you can explain to me what the attraction is.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/CaRockies2009-Castle-Mountain-Banff-NP-21-of-49-Version-2.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/CaRockies2009-Castle-Mountain-Banff-NP-21-of-49-Version-2.jpg" >}}
 
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Yukon2009-5172009-08-25-Version-2-Version-2.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Yukon2009-5172009-08-25-Version-2-Version-2.jpg" >}}
 
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Yukon2009-3262009-08-24.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Yukon2009-3262009-08-24.jpg" >}}
 
 This last one really gets me. It's an old joke to the natives of Maui, Hawaii. No one has ever been able to explain how this car got to the edge of this cliff. It would have had to drive over impossibly rough terrain and across small ravines to get there. Go figure!
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP7400.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP7400.jpg" >}}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In the Glow of Te Anau, New Zealand"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Lake-Te-Anau-South-Island-New-Zealand-282010-11-16.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Lake-Te-Anau-South-Island-New-Zealand-282010-11-16.jpg
 destination: ausnz
 comments: true
 categories:
@@ -13,14 +13,14 @@ tags:
 - Lake Manapouri
 - milford sound
 ---
-As I mentioned in a previous blog (<a href="http://blog.lesterpickerphoto.com/2010/11/28/te-anau-new-zealand/">http://blog.lesterpickerphoto.com/2010/11/28/te-anau-new-zealand/</a>), Te Anau is a wonderful small town situated on the shores of Lake Te Anau. It is blessed to sit on the eastern side of the mountain chain that affords it protection from the winds and storms that blow in from the Tasmanian Sea.
+As I mentioned in a previous blog (<a href="https://blog.lesterpickerphoto.com/2010/11/28/te-anau-new-zealand/">https://blog.lesterpickerphoto.com/2010/11/28/te-anau-new-zealand/</a>), Te Anau is a wonderful small town situated on the shores of Lake Te Anau. It is blessed to sit on the eastern side of the mountain chain that affords it protection from the winds and storms that blow in from the Tasmanian Sea.
 
 It’s hard for me to absorb the following statistics: rainfall in the foothills on the southeast side of Lake Manapouri, just east of the mountain range averages about 1 meter (39 inches) a year. That’s a reasonable amount of rain, comparable to the 40 inches of rain that falls in my home state of Maryland. But on the northwest shore of Lake Manapouri, where our boat just dropped us off, rainfall averages three meters a year (117 inches)!
 
 <h3>A Beautiful Sound</h3>
 Now our rickety bus is taking us along a narrow, winding gravel road that climbs those mountains- the only road available- and after 30 minutes our small group find itself on the shores of Doubtful Sound, so named by Captain Cook in 1770 because of its forbidding navigation. Without exaggeration, it is one of the most spectacular places I have ever been, with its deep fiords and towering peaks. It looks every bit like the rain forest that it is, but it takes an average of seven to nine meters of rain a year to maintain that botanical diversity! That’s meters, as in 39 inches to a meter, or 275-350 inches of rain falling on average for 225 days a year. That is a whole lot of rain! And, man, are we in the midst of it!
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Milford-Sound-South-Island-New-Zealand-442010-11-15.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Milford-Sound-South-Island-New-Zealand-442010-11-15.jpg" >}}
 
 Te Anau is the launching point for trips to nearby Milford and Doubtful Sounds. These trips can be one-day affairs or multi-day excursions. The Doubtful Sound excursion involves taking a bus from Te Anau to Manapouri, then a 45-minute boat ride across the lake and then another bus up and over the mountains, before dropping steeply to Doubtful Sound and the boat you will call home for a few hours, or possibly two or more days. Companies like Real Journeys (<a href="http://www.realjourneys.co.nz">www.realjourneys.co.nz</a>) and Fiordland Cruises (<a href="http://www.doubtfulsound.com">http://www.doubtfulsound.com</a>/) offer these not-to-be-missed packages (there are other outfitters, too). In Te Anau, Real Journeys is the heavyweight adventure outfitter, with a wider selection of activities and larger boats, while Fiordland and its cousins offer smaller boats and more intimate experiences.
 

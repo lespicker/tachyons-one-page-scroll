@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alive and Well in Christchurch"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-652010-11-20.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-652010-11-20.jpg
 destination: ausnz
 comments: true
 categories:
@@ -20,7 +20,7 @@ tags:
 <h3>What Earthquake?</h3>
 New Zealand is subject to earthquakes... lots of them. But after the recent earthquake tragedy in Christchurch, New Zealand, I’m convinced that the media whipped it into a distorted frenzy. Yes, one person died several days later of a heart attack. But the devastation I witnessed while here is nowhere near as bad as I had imagined.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-852010-11-20.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-852010-11-20.jpg" >}}
 
 To be sure, there are buildings down and repair work going on in the downtown business areas. There are regular aftershocks, and we felt a slight tremor at 10:30 at night on our second night in the city (only a 3.5 on the Richter scale, thankfully). But on the whole Christchurch is alive and vibrant, with a marvelous restaurant scene and arts venues citywide.
 
@@ -31,28 +31,28 @@ If you are staying anywhere near the city center, do consider a walk to the Addi
 
 For lunches and dinners, there is a wide variety of options in Christchurch, encompassing every ethnic food imaginable. We tried a very plain looking Chinese restaurant called Sampan, on the corner of Columbo and Tuam Roads. This family-run restaurant surprised us with generous plates of seafood and fresh vegetables, rice and mini spring rolls. Total tab was $20 NZ dollars, although we actually split the dish because the portions were so large.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-902010-11-20.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-902010-11-20.jpg" >}}
 
 <h3>The Christchurch Arts Scene</h3>
 The arts scene appears quite vibrant all over NZ, but especially in Oamaru ( a small town south of Christchurch) and in Christchurch itself. We had a lovely time in Christchurch at The Arts Centre, a repurposed church building that houses dozens of arts and crafts shops, including several that offer original Maori art. There is a fine cafe located on the second floor with nice views of the tree-lined area.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-992010-11-20.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-992010-11-20.jpg" >}}
 
 Diagonally across the street from The Arts Centre is the Christchurch Art Gallery, a light-filled art museum offering an eclectic mix of artists and styles. We felt very fortunate to have Ron Mueck’s art on display as a major exhibit. His work has drawn major attention and kudos in the art world. Perhaps you’ve seen his larger than life size sculptures that look so real you’d swear the sculpture will get up to shift positions in just a moment. While admission to the museum is free, the Mueck exhibit was $15.00 per adult extra, and worth every penny.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-1182010-11-20.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-1182010-11-20.jpg" >}}
 
 The center city is also packed with excellent shopping that includes a nice outdoor walking mall, as well as boutique clothing stores. At the west end of the walking mall is the Botanic Garden with the Avon River, and many young lovers, gently flowing through it.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-252010-11-20.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-252010-11-20.jpg" >}}
 
 <h3>An Important Photography Lesson</h3>
 Now for the photo lesson. The weather in Christchurch when we were there was drizzly, with gray, featureless skies, in short a photographer’s nightmare. Rain is okay. Dark, angry clouds are even better. But gray skies are yucky and can turn a good image into pablum faster than you can squeeze the shutter. So what’s a photographer to do?
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-502010-11-20.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-502010-11-20.jpg" >}}
 
 I am already working on a blog that will explain this in depth, but for now suffice it to say that you need to instead focus on tight scenes which do not include the sky. We call these extraction shots, because you are extracting one element to emphasize from a more detailed scene. It limits your photography in some ways, but opens infinite creative possibilities in other ways. Look for my upcoming blog on the topic and then try it out yourself.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-782010-11-20.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Christchurch-South-Island-New-Zealand-782010-11-20.jpg" >}}
 
 NZ is far, far more than just the city of Christchurch, as we found out on my photo tour. Look for my next NZ adventures in future blogs. Until then, happy shooting!

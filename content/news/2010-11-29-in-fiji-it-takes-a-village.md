@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In Vanuatu, It Takes a Village"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-232010-11-04.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-232010-11-04.jpg
 destination: ausnz
 comments: true
 categories:
@@ -19,7 +19,7 @@ There is a village in this small corner of Vanuatu, where several years ago a gr
 
 They talked, they debated and they listened as a community, and in the end they made a daring decision. They would abandon the trappings of modern society and embrace the ways of old. They formed Ekasup Village, just outside of Port Vila.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-1002010-11-04.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-1002010-11-04.jpg" >}}
 
 <h3><strong><em>Ekasup Village As a Tourist Venue</em></strong></h3>
 It’s hard to describe Ekasup Village. On its face, it is an educational facility designed to give tourists a real taste of traditional island life, prior to Western influences. To that end they do a marvelous job.
@@ -32,21 +32,21 @@ But Ekasup Village is far more than its face. Behind the very effective attempt 
 
 The village has its own school and the villagers own the land which traverses Erakor rain forest and winds down a hillside to the shore.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-712010-11-04.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-712010-11-04.jpg" >}}
 
 Sifo, the adult son of the tribal chief, served as my guide and admirably tolerated my incessant questions. At one point he introduced us to his youngest son, who is learning the traditional ways from his father and the village elders.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-972010-11-04.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-972010-11-04.jpg" >}}
 
 The village includes a magnificent ficus tree, used by the ancient villagers as a shelter from monsoons.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-332010-11-04.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-332010-11-04.jpg" >}}
 
 When they are not educating tourists about their culture, the residents are free to do as they like. Some fish, others tend gardens, and just about everyone naps during rainy weather in the off-season. The spiritual practices of residents runs the gamut from plain vanilla Christianity to traditional animist practices.
 
 <h3><strong><em>A Special Gift</em></strong></h3>
 An interesting side note is that my wife and I were abandoned by our taxi driver, who dropped us off at the village and then disappeared. As a result we had to spend extra time at the village, one of those true gifts that happens when you are flexible enough to go with the flow. The extra time we had allowed us to learn more about this tribal culture and to enjoy the company of our the village residents. One of the more interesting cultural practices involves the use of chicken feathers in the headdress of the men. The feathers represent the colors of their pigs and the more ornate the feathering, the more impressive their pig holdings. This serves to advertise the status of the single males during tribal gatherings, when eligible women will be present.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-522010-11-04.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Ekasup-Village-Port-Vila-Fiji-522010-11-04.jpg" >}}
 
 If your travel plans include Vanuatu, be sure to carve out time for this excellent educational experience.

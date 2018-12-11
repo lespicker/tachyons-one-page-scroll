@@ -30,11 +30,11 @@ I set up my tripod before twilight, leveled it carefully, mounted my D800 with a
 
 In post-processing my assistant, Bob Boyer, merged the entire shoot in PhotoShop CS6, producing this image (click on it to enlarge):
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/07/harbor-flat-small.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/07/harbor-flat-small.jpg" >}}
  
 What I am struck with, what we were both struck with, is the level of detail in the image. Even blown up 100% or more and printed on vinyl wallpaper, the results are, to quote Bob, “freakin’ fantastic.” In the image below, note the tiny red frame within the full image in the upper right. That is the blow-up that you are looking at below. Consider this: the images were taken about a mile away, and in a stiff, gusty wind no less! Not only can you make out the lettering on the ship clearly, but you can see the couple sitting on nearby deck.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/07/harbor-screen.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/07/harbor-screen.jpg" >}}
 
 So, in this test anyway, the D800 passes with flying colors! More field tests upcoming.
 

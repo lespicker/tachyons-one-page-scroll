@@ -22,7 +22,7 @@ There was knock on the door and my mail carrier delivered a photography book tha
 
 With a blanket wrapped around me for warmth, I settled down for a pleasant tour of some of the oldest rocks on our planet, which is the raison d'etre of writer-photographer L. Sue Baugh and her traveling companion, Lynn Martinelli. Over a period of ten years these two amazing women logged in 54,000 miles to visit and photograph these rock formations. The result is <em>Echoes of Earth</em> published by <a href="http://www.wildstonearts.com">Wild Stone arts</a> . Their incredible journey taught them some fascinating lessons about life itself.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/eoe_coverb.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/eoe_coverb.jpg" >}}
 
 The narrative is compelling, although at times too New Wave for my scientific training. For example, in a section on lichens, the author states: "As we move closer to each one, there's a strange feeling of recognition, as if in some child-like way we know each other. Maybe the spirits are trying once again to give us knowledge." Maybe. Yet one has to respect the awe these women experience when wandering these ancient rocky outcroppings.
 

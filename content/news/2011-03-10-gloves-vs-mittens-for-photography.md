@@ -42,7 +42,7 @@ It’s the age-old debate among photographers: gloves vs. mittens. Which are bes
 
 For most photographers, the choice is a matter of preference, since the overwhelming majority of enthusiasts shoot in warm or mildly cold temperatures. In those cases you can get away with a light glove, like the excellent wool gloves made by Lowepro that sport rubberized palms and fingers that give the photographer a good grip. I own a pair that I use through the Fall shooting season.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/31948.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/31948.jpg" >}}
 
 Many photographers I know prefer mittens, simply slipping them off when it comes time to shoot. But, what about seriously cold weather? What does a photographer do in sustained conditions of -25F? I had an opportunity to test this out on my recent photo expedition to Canada’s striking Yukon Territory, where cold is… well, very, very cold.
 
@@ -54,11 +54,11 @@ This was my setup on my latest trip: a layer of very thin Seirus Hyperlite All-W
 
 The Swany mittens are another matter entirely in terms of durability. They offer a line of mittens known as the Toaster collection, available in both men and women models. What makes the Toaster mittens unique is they have a water-sealed zipper along the side of the mitten, allowing you to unzip, poke your hand through, take care of your camera controls and make the shot, then withdraw into the comfort and warmth of the mitten.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/9b2cf93bfff2569b7ac52c48448a73611.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/9b2cf93bfff2569b7ac52c48448a73611.jpg" >}}
 
 The Swany mittens are ruggedly constructed. I used the Seirus-Swany pairing throughout my Yukon assignment, including dog mushing. On two nights I was out for up to five hours at a time photographing the Northern Lights, with  minus 25F temperatures and a slight wind blowing, making it around -30F. The combo worked well for me, although there are some drawbacks that I need to advise you of if you will be facing that kind of cold.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/swany-mitten-1-of-1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/03/swany-mitten-1-of-1.jpg" >}}
 
 First, the good news. The zippers on the Swany mittens allowed me to remove my hand as needed, then slip my fingers back into the mitten to rewarm between shots. The mitten fabrics- there are two varieties available, synthetic and leather- are highly flexible, so they give you a good grip on the camera. Even the synthetic model has a leather palm pad to give you a better grip. Each mitten also sports a fleece snow cuff, which can be drawn tight with their uni-pull mechanism. There is also a customizable quick-release strap on the back of the hand.
 

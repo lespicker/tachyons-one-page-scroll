@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tony's Suite"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/Tony_DVDEdisto40891-198x300.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/Tony_DVDEdisto40891-198x300.jpg
 comments: true
 categories:
 
@@ -16,7 +16,7 @@ tags:
 
 I was in bed last night decompressing from a wonderful family event, but a rough travel photography week in Colorado. I decided to thumb through some Instagram images and catch up with some blogs from fellow photographers. As it turns out, I hit upon images and a blog by one of my favorite photographers, [Tony Sweet](http://www.tonysweet.com). And sweet it was, as I perused and admired Tony’s latest work.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/Tony_DVDEdisto40891-198x300.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/Tony_DVDEdisto40891-198x300.jpg" >}}
 
 However, it was [Tony’s latest blog](http://tonysweet.com/2013/04/11/end-of-charleston-2013/) that put something in perspective for me. At the very least, I think it would benefit every photographer to read it.
 
@@ -30,7 +30,7 @@ Well, listen up, because Tony’s latest blog provides us with the answer; somet
 
 I don't know about you, but I find it somehow comforting that Tony has a jazz suite going  on in his head. He's in his own world when it comes to photography, and that makes our world a whole lot better. Thanks, Tony… and have a well-deserved nap!
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/tony_and_cat.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/tony_and_cat.jpg" >}}
 
  
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wildlife Photo Tip #8: Nail the Eyes"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP_1431.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP_1431.jpg
 comments: true
 categories:
 - how-to

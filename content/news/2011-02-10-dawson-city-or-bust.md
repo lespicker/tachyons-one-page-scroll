@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dawson City or Bust!"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-28.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-28.jpg
 destination: canada
 comments: true
 categories:
@@ -35,7 +35,7 @@ Today, Dawson is the epicenter of wilderness travel, the launch point for canoei
 
 Back to Dawson. Surrounding the city are the scarred remains of the gold rush, when massive mining machines entered the fray and tore through the earth, heaving tons of soil and rock aside in man’s unquenchable thirst for the gold metal. But the tiny town of Dawson itself is a jewel. First, there are fantastic places to eat, from simple breakfasts to fine dinners (specifics in a later blog). The streets are laid out in a neat grid, with museums and historic building left or restored to their former glory. There is even a wonderful Opera House that serves to this day as an entertainment venue.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-13.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-13.jpg" >}}
 
 Dawson was also the first town in Canada to have a gambling hall, and Diamond Tooth Gertie’s Gambling Hall is still operating. Aside from the gambling there is a marvelously entertaining, turn-of-the-century vaudeville show.
 
@@ -43,7 +43,7 @@ Of course, Dawson is a true frontier town and, as such, has its quirky side, mos
 
 Robert Service, the great Canadian poet whose Cremation of Sam McGee is a staple in schools throughout North America, lived here in Dawson and his cabin is still preserved, along with Jack London's cabin, all worthy of tours. You'll see odes to these great literary figures throughout town.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-16.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/Yukon-Quest2011-Dawson-City-16.jpg" >}}
 
 <h2 style="text-align: center;">Dawson City Details</h2>
 
@@ -68,9 +68,9 @@ In addition to the above sites, there are numerous historic building located thr
 <h2>Hotels</h2>
 There are several hotels in Dawson, catering to hostelers and the general market. There are no luxury, 5-star accommodations (or even 4-star). I can personally recommend two of them, having stayed for extended times in both.
 
-<strong>Downtown Hotel</strong> (2nd Avenue and Queen Street: <a href="http://www.downtownhotel.ca">www.downtownhotel.ca</a>), home of the infamous Sourtoe Cocktail, is the accommodation most visitors consider the “must-stay” place. It’s historic structure and old-timey ambience will put you into the right frame of mind for turn-of-the-century Dawson City. However, the hotel is old and a bit on the ragged side. There is no elevator, so you’ll have to drag your bags up and down stairs. There is a nice restaurant, the Jack London Grill, in the hotel, particularly for breakfast. Adjoining the hotel is it’s bar, which serves the Sourtoe Cocktail in the evening (see prior blog: <a href="http://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/">http://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/</a>).
+<strong>Downtown Hotel</strong> (2nd Avenue and Queen Street: <a href="http://www.downtownhotel.ca">www.downtownhotel.ca</a>), home of the infamous Sourtoe Cocktail, is the accommodation most visitors consider the “must-stay” place. It’s historic structure and old-timey ambience will put you into the right frame of mind for turn-of-the-century Dawson City. However, the hotel is old and a bit on the ragged side. There is no elevator, so you’ll have to drag your bags up and down stairs. There is a nice restaurant, the Jack London Grill, in the hotel, particularly for breakfast. Adjoining the hotel is it’s bar, which serves the Sourtoe Cocktail in the evening (see prior blog: <a href="https://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/">https://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/</a>).
 
-<strong>The Eldorado Hotel</strong> (3rd Avenue and Princess Street: <a href="http://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/">http://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/</a>) has more modern accommodations than the Downtown Hotel. Once again, a lack of elevators means you’ll have to either lug your bags up or request help from the front desk. An attached restaurant/bar is perfect for casual food. Their nacho platter is huge, dripping with cheese and, paired with a beer, perfect for watching a hockey game.
+<strong>The Eldorado Hotel</strong> (3rd Avenue and Princess Street: <a href="https://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/">https://blog.lesterpickerphoto.com/2011/02/10/dawson-city-or-bust/</a>) has more modern accommodations than the Downtown Hotel. Once again, a lack of elevators means you’ll have to either lug your bags up or request help from the front desk. An attached restaurant/bar is perfect for casual food. Their nacho platter is huge, dripping with cheese and, paired with a beer, perfect for watching a hockey game.
 <h2>Restaurants</h2>
 <strong>Klondike Kate’s</strong> (3rd Avenue and King Street: <a href="http://www.klondikekates.ca">http://www.klondikekates.ca</a>) has a good reputation for hearty Yukon foods and their popular Tin Roof pie. It can be crowded at peak times.
 

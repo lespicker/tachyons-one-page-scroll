@@ -23,15 +23,15 @@ First some background. RAVs screw or clip into the eyepiece of a camera and allo
 
 I use Nikon RAVs, despite the fact that they cost considerably more. The thing about RAVs is that they do not enter into the optical path of the image and therefore you really don’t have to be too concerned about their optical quality.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/ASSET_60417.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/ASSET_60417.jpg" >}}
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/NKDR5.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/NKDR5.jpg" >}}
 
 RAVs also have a built-in diopter adjustment so that you can tweak it to your vision. Most also have a switch that flips between 1x magnification and 2x or 2.5x. That’s great for those times when you need critical focus. Just remember when you flip the switch to 2x. More than once I’ve looked at the scene through my RAV and forgot that I was viewing it enlarged two times what the image actually is.
 
 I always carry my RAV in the side pouches of my backpack, ready to quickly pull out and use. Here’s a photo that an amateur Swiss photographer, Bruno Stadelmann, took of me using the RAV at Lake Louise, Alberta, Canada. It’s painful enough that I had to contort my body into that position, but imagine if I had to lie on my stomach to get that shot. There’s just no way I could do that nowadays, at least not for a prolonged period of time.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/A74D0850.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/A74D0850.jpg" >}}
 
 As you can imagine, a RAV is ideal for shooting flowers, insects or any low-to-the-ground subject. I also find it absolutely critical for water or stream work, when you cant bend over enough without getting your clothes or equipment soaked. I sometimes use waders to get into a stream with camera and tripod for a well-composed image and my RAV allows me to do that without having to lie down in the stream.
 

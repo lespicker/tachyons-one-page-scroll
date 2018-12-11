@@ -34,12 +34,12 @@ The filter has a coating that reduces the light reaching certain areas of the se
 
 There are technical explanations for how this happens having to do with reducing the dynamic range of the scene, but it’s the results that matter, so I’ll skip the technical mumbo-jumbo in this blog. What the GND filter means is that my images are usually nicely balanced and I avoid blown out highlights, although sometimes you can’t avoid it no matter what you do. Here are some examples where I’ve used a GND filter, almost always when there is a large expanse of bright sky that I have to tame.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP5080-16x24.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP5080-16x24.jpg" >}}
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/CaRockies2009-Route-742-Spray-Lake-Kananaskis-country-7-of-11.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/CaRockies2009-Route-742-Spray-Lake-Kananaskis-country-7-of-11.jpg" >}}
 
 Another filter I use a lot is a simple polarizing filter. This filter works like your polarizing sunglasses, only better. Once you screw in the filter, you just rotate the two pieces of glass as you look through the viewfinder and- voila!- magic happens. Clouds seem to almost pop out of the scene. The sky becomes crisp and clear. Distracting reflections disappear from water scenes and the reflections you want are emphasized.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Colorado-River-below-Glen-Canyon-Dam-87-of-205.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Colorado-River-below-Glen-Canyon-Dam-87-of-205.jpg" >}}
 
 Those are basically the only filters I use, and they are by no means inexpensive. I always recommend that you get the best filters (and lenses) you can afford, since everything we do in photography is done through glass (or resins). I personally use Singh-Ray (<a href="http://www.singh-ray.com">www.singh-ray.com</a>) and Lee (<a href="http://www.leefilters.com">www.leefilters.com</a>) filters.

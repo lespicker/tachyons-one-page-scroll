@@ -119,7 +119,7 @@ Many cameras have a setting that minimizes noise. However, that usually doubles 
 <h3>Don’t Use Filters</h3>
 Whatever you do, be sure to remove all filters from in front of your lens. Filters can cause interference patterns that will ruin the images (in the sample, below, note the bulls-eye rings in the aurora, just above the  river).
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/2008-Yukon-Dawson-City-332008-09-191.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/02/2008-Yukon-Dawson-City-332008-09-191.jpg" >}}
 
 <h3>Start at 20 Seconds</h3>
 With your camera on manual focus and set on infinity, trip your shutter and time it to stay open for 20 seconds as a starting point. In some cameras, you will need to set your camera to “Bulb” to accomplish this. Other cameras have pre-set long time intervals to make the job easier.
@@ -133,6 +133,6 @@ Just because 25 seconds works at first, doesn’t mean it will work later in the
 
 <h2 style="text-align: center;">After the Shoot</h2>
 <h3>Guard Against Condensation</h3>
-Your cameras will be cold through and through when your shoot is done. Before you come back inside, whether to a warm car or hotel or house, place your cameras and lenses in a sealed plastic bag so condensation forms on the outside of the bag and not on and in your cameras. Condensation inside your camera can ruin the electronic and mechanical components (see my previous blog on condensation: <a href="http://blog.lesterpickerphoto.com/2011/01/06/condensation-recommendation/">http://blog.lesterpickerphoto.com/2011/01/06/condensation-recommendation/</a>).
+Your cameras will be cold through and through when your shoot is done. Before you come back inside, whether to a warm car or hotel or house, place your cameras and lenses in a sealed plastic bag so condensation forms on the outside of the bag and not on and in your cameras. Condensation inside your camera can ruin the electronic and mechanical components (see my previous blog on condensation: <a href="https://blog.lesterpickerphoto.com/2011/01/06/condensation-recommendation/">https://blog.lesterpickerphoto.com/2011/01/06/condensation-recommendation/</a>).
 
 Good luck with your aurora experiments. Remember, a warm photographer is a happy one.

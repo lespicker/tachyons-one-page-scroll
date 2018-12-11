@@ -16,6 +16,6 @@ In winter one has to share the road with bison, as you can see here in my 20-sec
 
 It seems as if wherever one drives there are small herds of bison grazing in fields. They are skitterish and now that packs of wolves hunt in Yellowstone, they are constantly on alert. But humans, too, are well advised to keep their distance as every year people are hurt here when they approach too closely. Despite their size they can charge to 30mph incredibly quickly.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/DSC_5358.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/DSC_5358.jpg" >}}
 
  

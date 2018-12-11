@@ -36,7 +36,7 @@ Next up are the ancient Phoenician, Greek, Roman, Norman and early Christian bui
 
 Then there are the historical structures that are attached to religious causes, but are not in themselves churches. The most famous of these is the Sacra Infermeria, built in 1574 by the Knights of St. John, with a history of treating the wounded in battle, the sick and infirm for centuries. The Order even received dispensation from the Pope to allow them to perform autopsies in order to advance their medical knowledge, ostensibly to aid Christian pilgrims.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_0594-Panorama.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_0594-Panorama.jpg" >}}
 
 Each village in Malta is a photographer’s dream. Unlike in Sicily, the people in Malta are more receptive to being photographed. These tiny villages still live a wholesome way of life and the combination of architecture, people and lifestyle make for a potent photographic stew.
 
@@ -49,7 +49,7 @@ Since Malta is an island, waterscapes abound along its rocky coast and bays. The
 
 The Maltese cities are treasure troves of potential images, each with its unique character. Mdina is a medieval city perched atop a hill that still has 200 residents living there. Cars are prohibited, except for those of residents, making the touring experience free of hassles and full of narrow streets and ancient buildings.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_0629.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_0629.jpg" >}}
 
 Valetta, on the other hand, is a large city (at least in terms of Malta) and a mix of modern and ancient. The government is now executing major renovations of the historic fort walls, dating back to the 15<sup>th</sup> century.
 

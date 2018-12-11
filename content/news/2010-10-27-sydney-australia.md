@@ -31,14 +31,14 @@ And that is needed, because right now the city suffers from too many cars and ex
 
 One thing you will find out as soon as you have your first meal in Sydney is that it is one expensive city. A small bottled water is $3.00, a cup of hot tea is $3.50, and meals… forget trying to get a decent meal for less than $30, not including spirits.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Sydney-32010-10-26.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Sydney-32010-10-26.jpg" >}}
 
 To encourage walking, there are skywalks galore, pedestrian tunnels and bridges. A monorail takes residents and tourists alike all along the downtown. Modern buses provide easy public transportation options. Sydneyites do walk a lot, but they also exercise in other ways. During lunch hours we noticed individuals and organized groups meeting to run together, do aerobics and yoga.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Sydney-52010-10-26.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Sydney-52010-10-26.jpg" >}}
 
 The architecture parallels that of the major North American cities; tall skyscrapers, and showcase buildings by well-known architects. Buildings are full of light and texture, very inviting and pleasing to the eye. For those of us in the U.S., Sydney does present us with a mystery. Where are the homeless people? In three days, I could not find one homeless person on the streets or in the city’s many parks.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Sydney-22010-10-26.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/10/Sydney-22010-10-26.jpg" >}}
 
 Today we spent four hours in the Royal Botanic Gardens. Four hours? Well, for starters the gardens and the public park adjoining it are the size of the entire Sydney city center. The park and gardens wrap around a cove and offer a peaceful oasis from the hustle and bustle of the city. The park is immaculately clean, as is the entire city, by the way. The gardens are interesting not only for those fascinated with flowers and trees, but for one of their most amazing residents. But I’m not revealing what that resident is until my next blog, where I’ll share specifics on restaurants, lodging and tourist attractions that you might want to consider if⎯ no, make that when⎯ you get to Sydney.

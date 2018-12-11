@@ -33,13 +33,13 @@ ISO is equivalent to what we called ASA during film days. ISO is a measure of ho
 
 Take this example here.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/sandhillcranes2.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/sandhillcranes2.jpg" >}}
 
 The image, taken hand-held in the northern Yukon, is of Lesser Sandhill Cranes migrating south from their summer feeding grounds in the Arctic. I took this as the sun was barely rising. That meant that there wasn’t much light, especially near ground level. Plus the birds were moving, so I had to use a fast shutter speed. The only way I could do this was to ratchet up the ISO on my digital camera to 800, some four times the recommended (baseline) ISO of 200.
 
 When you magnify the image, as I’ve done below, you can see just how much grain there is in the shadow areas of the image.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Screen-shot-2011-07-27-at-6.04.58-PM.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/Screen-shot-2011-07-27-at-6.04.58-PM.jpg" >}}
 
 <h3>Manipulating ISO</h3>
 The take-away is to try to keep your ISO at 200 or below when doing landscape photography, where you want everything to be sharp with no noise. Many cameras can handle up to ISO 400 or even 800 with minimal noise, but don’t count on it. Personally, I try to keep my ISO at 100-200. However, to effectively use ISO 200 or below you will almost always have to use a tripod. The lower the ISO, the lower the light sensitivity of the sensor. In other words, all other variables being equal, as you lower the ISO you must keep open the shutter for a longer period of time to allow in enough light or else open the aperture of the lens more. To prevent hand shake during exposures a tripod and cable release are critical.
@@ -53,7 +53,7 @@ You’ve probably already figured out that there are times you’ll want to use 
 
 I did the same in this image taken in Capetown, South Africa. I came across this scene as I walked the waterfront at sunrise. There was dense fog, as there often is in Capetown. From a few hundred yards away I did not even see the ship. Suddenly, it loomed large in the fog. I set up the shot and intentionally cranked up the ISO to give the image a gritty feel.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/untitled-154-of-170.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/untitled-154-of-170.jpg" >}}
 
 <h3>A Final Thought</h3>
 One final thought on high ISO settings. Some newer cameras, like the Nikon D850, can shoot at ISO 800 with far less noise than previous models. That day in the Yukon I shot with an older Nikon camera. Improvements in sensor technology has meant great leaps in image quality, known as IQ. Now if I can only get back to the Yukon at the right time of year and get the sun, clouds and birds to cooperate…

@@ -27,14 +27,14 @@ Using prefabbed molds they then build the arched walkways of the hotel, from whi
 
 Amazingly, they do all this within four weeks. This past year it was slightly above zero well into November. Delayed to the last minute, the owners brought in carvers from China to finish the hotel in record time- 2-1/2 weeks!
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45201.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LAP45201.jpg" >}}
 
 <h3>Settling In</h3>
 Guests are given an orientation to the Village, which is an active tourist’s paradise. The Hotel runs snowmobile tours, dogsledding tours, reindeer tours, snowshoeing and cross-country skiing tours. It does have heated cabins on the property, but I wouldn’t be writing this if that’s all they had.
 
 The hotel offers an ice bar and restaurant. Seriously folks, you can order drinks or an entire meal, served to you by waitresses wearing down jackets, woolen caps and mittens. At least I think they were waitresses. Could’ve been waiters, now that I think of it.
 
-{{< figure src="hhttp://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178871.jpg" >}}
+{{< figure src="hhttps://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178871.jpg" >}}
 
 There is also a normal, heated restaurant on the property.  But, you’re probably wondering what it’s like sleeping in a room naturally at -5 Celsius (that’s about 23F), on a bed made of a solid block of ice. Well, it’s…
 
@@ -49,7 +49,7 @@ Oh, and it might not be a good idea to drink before going to bed - actually anyt
 
 Oh, and your shoes. I forgot about those. Obviously you’ll leave them next to your “bed,” so on the odd chance that you do get up during the night to pee, you’ll find them jus a wee bit cold.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178861.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178861.jpg" >}}
 
 <h3>The Verdict</h3>
 So, how was it, you ask? Before the penultimate answer, I’ll quickly describe the process of going to sleep... in an ice hotel, that is.
@@ -64,7 +64,7 @@ The Snow Hotel is fortunate to have Ella Kurtakko in the kitchen. Each summer sh
 
 The Snow Hotel is not luxurious by any means, but it is up to European expectations. For example, it has but one tiny bathroom serving the entire reception, restaurant and bar area. The entranceway to the hotel is so unadorned, it looks like a Soviet-era clinic. There is no Internet service but, really, why would you want it in such exquisite surroundings?
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178661.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/B00178661.jpg" >}}
 
 So, if you’re in Finland, you might want to try The Snow Village. Once.
 

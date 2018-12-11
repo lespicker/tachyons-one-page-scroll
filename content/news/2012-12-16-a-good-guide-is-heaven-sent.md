@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Good Guide Is Heaven Sent"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/A0019129.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2012/12/A0019129.jpg
 destination: 
 - asia
 - general

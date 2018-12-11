@@ -21,7 +21,7 @@ tags:
 - Waimoku Falls
 - waterfalls
 ---
-Most people know the route as the Road to Hana. But what about the return trip, what I call the Road From Hana? Sure, many people simply turn around at Hana and drive back as they came, and there's nothing wrong with that. The views are magnificent as I described in <a href="http://blog.lesterpickerphoto.com/2013/02/07/the-road-to-hana-part-i/">yesterday's blog</a>.
+Most people know the route as the Road to Hana. But what about the return trip, what I call the Road From Hana? Sure, many people simply turn around at Hana and drive back as they came, and there's nothing wrong with that. The views are magnificent as I described in <a href="https://blog.lesterpickerphoto.com/2013/02/07/the-road-to-hana-part-i/">yesterday's blog</a>.
 
 But there is another way to return from a visit to glorious Hana. Just keep driving clockwise, following the shore road. At first your journey is familiar, passing through deep foliage and waterfalls. But then the vistas open up as you pass farmland and eventually open terrain that give you unobstructed views of mighty, cloud shrouded Haleakala.
 
@@ -34,7 +34,7 @@ The hike to Waimoku Falls is one of the premier hikes on Maui (my favorite is th
 
 Is it worth it? How does a 400-foot tall straight drop waterfall sound? A waterfall so voluminous it creates its own wind!
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024256.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024256.jpg" >}}
 
 On this 2-mile uphill hike you will also encounter a majestic banyan tree (.5 mile mark) that begs to be photographed. Then you enter a magical bamboo forest (1 mile mark) that demands reverential attention. Then you ford two streams and finally you have earned the right to capture Waimoku on film or card.
 
@@ -52,7 +52,7 @@ A couple of hints for this hike:
 
 6. Celebrate every moment of this hike.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024303-Edit.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024303-Edit.jpg" >}}
 
 The final stretch along the Pi'ilani Highway offers radically different views of Maui, from fields of cattle to sweeping views of the coast on one side and Haleakala on the other. Enough eye candy to cause an extreme high!
 

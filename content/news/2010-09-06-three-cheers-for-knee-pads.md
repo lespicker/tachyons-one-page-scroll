@@ -18,7 +18,7 @@ I have found that kneepads can make the difference between a mediocre shot and a
 
 I tend to use the simplest kneepads, only because I find they work best. Here’s what mine look like:
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-1-of-31.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/09/knee-pads-1-of-31.jpg" >}}
 
 The good thing about these pads is that they are very lightweight and flexible. I typically put them on at the beginning of my hike and leave them on all day. If I do take them off, I wrap the Velcro straps around the handle of my backpack and off I go.
 

@@ -32,7 +32,7 @@ Few people come to this remote preserve. On a Friday, I only met one couple hiki
 
 The park is situated at 2,100 feet elevation, so when there are clearings in the woods, you can see for miles. The area around Barr Hill is home to moose, white-tailed deer, and black bear, as well as many small mammals and birds. All forest growth is relatively recent, as the mountain was extensively logged in the 19<sup>th</sup> century.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1068-Panorama.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1068-Panorama.jpg" >}}
 
 <h3>Getting There</h3>
 Getting to the park is part of the charm of the outing. I drove down gravel roads, along small dairy farms with stone fences, and finally up a long, rutted road to the preserve’s tiny entrance. Here are the directions, taken straight from The Nature Conservancy brochure (with a few modifications by me):

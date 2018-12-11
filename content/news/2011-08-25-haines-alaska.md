@@ -24,10 +24,10 @@ No sooner did I hit the bear viewing area than I saw a female grizzly with three
 
 After lunch I went back for a second shooting session, although lugging around my tripod and telephoto howitzer was painful at times. I did manage to see a second female with two cubs as they fished together on a fishing weir. For those of you unfamiliar with the concept, a weir is a series of poles set into a river to trap fish, a definite attraction for hungry bears.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP_4837.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP_4837.jpg" >}}
 
 Minutes later the cubs were successful, having caught a delicious salmon snack, which they shared on the nearby river bank.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP_4853.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP_4853.jpg" >}}
 
 I'm sure looking forward to tomorrow. The weather promises to be better. Today it was cloudy and drizzly, not really ideal for wildlife images. After a good night's rest I hope my rib(s) will improve.

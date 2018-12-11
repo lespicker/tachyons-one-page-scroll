@@ -21,4 +21,4 @@ The grounds are gorgeous, with a natural lake on one end and the Indian Ocean on
 
 However, the park's leopards, elephants, monkeys, wild boars and snakes regularly roam the premises at night, requiring guests to call for an escort when walking from their cottages to the restaurant, pool or reception areas at night. This sign clinches it for me.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/Chaaya-Wild-Yala-Lodge.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/Chaaya-Wild-Yala-Lodge.jpg" >}}

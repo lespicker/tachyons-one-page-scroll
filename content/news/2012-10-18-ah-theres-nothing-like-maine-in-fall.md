@@ -19,6 +19,6 @@ My wife and I were driving past North East Harbor on Mt. Desert Island, doing a 
 
 I also scouted out the iconic Bass Harbor Light last night and here's what I walked away with. There were probably a dozen other photographers scoping out the historic lighthouse and we had lots of laughs as the cameras whirred into motion.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/A0022773.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/10/A0022773.jpg" >}}
 
 My workshop participants arrived just before dinner and we scurried over to Jordan Pond for a quick shoot Tomorrow is a big day, starting with sunrise at Sand Beach in Acadia National Park.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Galapagos"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/galapagos_2007-12-12_10%C2%A9LesterPicker.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/galapagos_2007-12-12_10%C2%A9LesterPicker.jpg
 destination: "south america"
 comments: true
 categories:
@@ -22,7 +22,7 @@ What does make them so special is that they are situated directly on the Pacific
 
 This influx of tourists has been responsible for a corresponding spike in residents, both legal and illegal, that cater to the tourist trade.  The environmental stresses associated with that level of human activity – think housing, roads, pollution - has brought this fragile ecosystem to imminent crisis, with UNESCO recently adding the archipelago to its danger list. When locally owned and run boats handled all tourism, there were fewer problems. But the advent of mega-ships, each unloading hundreds of tourists at a time has exacerbated the environmental damage. A side effect of the overpopulation is that marine stocks are being over-fished, prompting restrictive government regulations. In February, 2008, 53 sea lions were slaughtered, most likely by local fishermen upset with those new measures.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/galapagos_2006-11-14_11%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/galapagos_2006-11-14_11%C2%A9LesterPicker.jpg" >}}
 
 Concerns over the fate of the Galapagos have prompted the tourism industry to band together with Galapagos National Park administrators and scientists to develop sustainable eco-tourism standards. It is now possible to be an eco-conscious Galapagos tourist.
 
@@ -32,7 +32,7 @@ Probably the oldest company serving the Galapagos is the venerable Metropolitan 
 
 The most eco-conscious tour company is locally-owned-and-operated Ecoventura (www.ecoventura.com), operating a fleet of three boats that each accommodates 20 people. The accommodations are rustic and the food good and plentiful, not gourmet, but the guides are terrific and you will always be in an excursion group of no more than ten, which in itself minimizes the effect on wildlife. Ecoventura has been cited repeatedly for its forward-thinking environmental agenda that includes a ten-point program to reduce its environmental impact. In fact, Ecoventura recently entered into a partnership with the World Wildlife Fund that places it on the forefront of environmental stewardship.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/galapagos_2007-12-14_8%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/galapagos_2007-12-14_8%C2%A9LesterPicker.jpg" >}}
 
 These ecological concerns, coupled with more stringent protective regulations, make it incumbent on the tourist to be sure they get what they expect during their visit. For example, as of 2008 the number of tour boats has been capped at 85. But, certain islands or sites are available ONLY to boats carrying 20 or fewer passengers. In addition, there are regulations pending that may limit each tour boat to a prescribed two-week rotation, so that environmental impact can be closely monitored. The best advice is to read up on the Galapagos and make a wildlife wish list, then correspond with your operator to be sure you will see those animals before putting down a deposit. But act fast, because with the number of boats capped so are the number of visitors and reservations are often made a year or more in advance.
 
@@ -44,7 +44,7 @@ As a result, some are requiring tourists to sign what could only be considered o
 
 Once you visit the Galapagos, you will understand why I say that any hassles you might have getting there fade quickly into background noise. You’ll carry the pungent smell of sea lions in your memory bank for a lifetime. Ditto the sights of a baby albatross spreading its wings, or hundreds of marine iguanas basking in the sun, or the sounds and sites of thousands of frigate birds nesting. Oh, did I say that these islands are just magical?
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/galapagos_2007-12-13_9%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/galapagos_2007-12-13_9%C2%A9LesterPicker.jpg" >}}
 
 <strong>Ten Things to Know Before You Go</strong>
 <ol>

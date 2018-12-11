@@ -37,11 +37,11 @@ One statistic has it that Albuquerque has more museums per capita than any other
 
 <strong>Indian Pueblo Cultural Center</strong>: A nicely designed building with lots of information about NM’s 19 pueblos. Every weekend highlights a dance troupe from one of the pueblos. These dances are not performances. They represent the pueblos actually sharing their spiritual dances and blessings with visitors. They are wonderful entertainment, as well as moving testimonies to Native American culture. You might see the Eagle Dance, Buffalo Dance, Butterfly Dance or others, each one explained, with opportunities to interact with the dancers. The Cultural Center includes a complex of buildings and exhibits. <a href="http://www.indianpueblo.org">www.indianpueblo.org</a>
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9562.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9562.jpg" >}}
 
 <strong>Explora! Museum</strong>: another must see for the entire family. From the moment you enter the doors, you are thrust into a kaleidoscopic whirlwind of activity. Everything is designed to be touched and manipulated (with frequent disinfecting by staff, btw). No instructions are provided, just exciting opportunities to experiment and be creative. Once a month is adult night. <a href="http://www.explora.us/en/">www.explora.us/en/</a>
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0033.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0033.jpg" >}}
 
 <strong>National Institute of Flamenco</strong>: Wow, an absolute must see! The professional troupe is totally amazing, captivating, and energetic. You’ll find yourself holding your breath as the dancers go through their routines, adding colorful, extemporaneous flairs. The singing and chanting is very soulful and passionate.  <a href="http://www.nationalinstituteofflamenco.org">www.nationalinstituteofflamenco.org</a>
 
@@ -53,10 +53,10 @@ For an iPhone video clip of two professional Flamenco dancers at the Institute, 
 
 <strong>New Mexico Museum of Natural History and Science</strong>: This family-friendly museum is a little jewel. One of the things that makes it so understandable is the linear progression of the exhibits, from the origin of the universe, through life on earth, dinosaurs, and present day environments. Lots of hands-on activities for the kids, too. <a href="http://www.nmnaturalhistory.org">www.nmnaturalhistory.org</a>
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9984.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9984.jpg" >}}
 
 <strong>National Hispanic Cultural Center</strong>: Located on a beautiful campus along the banks of the Rio Grande, the Center offers exhibits by nationally and internationally renowned artists and performers. Be sure to take in the Torreon Fresco, painstakingly painted by New Mexico artist Frederico Vigil. The 4,000 square foot work is the largest concave fresco in North America and beautifully depicts more than 3,000 years of Hispanic history.  <a href="http://www.nhccnm.org">www.nhccnm.org</a>/
 
 <strong>Acoma Sky City</strong>: Set on a mesa 360 feet above the high desert, Sky City is the oldest continually inhabited community in the United States. Plan for a solid half-day at the modern visitor's center, art gallery, gift shop and cafe, before boarding a bus that winds its way up the mesa. The 75-minute tour of Sky City, with its commanding views of the high desert, is exclusively led by Acoma guides. <a href="http://sccc.acomaskycity.org">http://sccc.acomaskycity.org</a>/
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/sky-city-pueblo-3.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/sky-city-pueblo-3.jpg" >}}

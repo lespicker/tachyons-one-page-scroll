@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Egypt: Soul of the Desert"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-1-of-5.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-1-of-5.jpg
 destination:	middle east
 comments: true
 categories:
@@ -59,7 +59,7 @@ Ninety minutes into the drive we reach a “Bedouin village” staged for day-tr
 
 The Ma’aza tribe traditionally roamed an area of some 56,000 square miles, roughly the size of the state of Indiana, occupying about 8.5% of Egypt’s land mass. The area is so inhospitable, it has one of the lowest population densities on earth, fewer than one person per sixty square miles. It has not rained in the Eastern Desert for five long years. Yet, even when it does, annual rainfall averages about one-tenth of an inch. During summer, temperatures can reach over 110 degrees Fahrenheit for days and nights at a time. During winter, when I am here, temperatures can reach 90 degrees during the day and plummet to freezing at night.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/egypt-desert-1-of-1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/egypt-desert-1-of-1.jpg" >}}
 
 Driving in the Eastern Desert is an endless series of detours. The mountains are so steep, rising in places to more than 7,000 feet, and so impossibly rugged and devoid of plants, they cannot be traversed easily by foot or at all by vehicle. So, driving from one point to another involves traveling in the dry river and sea beds, known as wadis. You travel from one sand and rock-strewn wadi to another to get around a mountain. Since a wadi might be miles long, the process is a first rate geography lesson in why caravan routes were so important and well defined in ancient cultures. In an environment where temperatures can be so brutal, you had better know intimately where water, game and good shelter can be found.
 
@@ -123,7 +123,7 @@ One night I asked Abdel Zaher if he would come to America to visit me, so I coul
 
 The relationship between the Bedouins and their environment is intertwined with their deep spiritual beliefs. Perhaps it is the time they have to contemplate, but I found the strong personal connections that Bedouins feel to God to be inclusive. Sitting by the fire one evening, Abdel Zaher confided in me his disdain for fundamentalist Muslim clerics who preach intolerance. “What difference is it if you are People of the Book (Jews) or Christians? We all worship Allah. Everyone should be left to do that as they wish.”
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-5-of-5.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-5-of-5.jpg" >}}
 
 Late in the afternoon, I spotted a cave high up on a mountain. I asked Abdel Zaher if he would stop, so I could climb to it. He smiled and stopped, staying behind while I climbed up. The cave was certainly appealing from the ground, but it was absolutely awesome as I approached. A huge, nearly perfectly arched entranceway framed the shallow cave. The path going up and the floor of the cave itself was littered with ibex scat. The cave, some 700 feet up, had bat guano on its walls. A few broken branches littered the floor in one spot. But, it was the view from the cave that took my breath away. I was looking out over a panorama of desert wadi, framed by rugged mountains that had taken us over an hour to drive through, all in one vista.
 
@@ -133,7 +133,7 @@ I sat down and surrendered to the moment, to the silence and penetrating solitud
 
 Despite my eagerness to learn about the desert, if I were to be asked about what made my experience so unique, my answer would have to be the Bedouin people themselves. They are a people governed by daily relationships, by common bonds used to strengthen themselves to better cope with an environment that is one of the most unforgiving on earth.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-3-of-5.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-3-of-5.jpg" >}}
 
 Throughout our trek, we would periodically pass a family of Bedouins living in the desert, usually at the base of a mountain. As a tribal leader, Abdel Zaher would stop each time to check on his people, which on several occasions ended up being one of his fifteen children or many grandchildren. Everyone would kiss and hug and greet Abdel Zaher, share stories and offer us food, usually tea and bread.
 
@@ -143,10 +143,10 @@ The joy on her face on seeing her brother was carved deeply in the wrinkles of h
 
 We feasted on fiteera, a flat bread Saida made from scratch, yogurt, fool, and creamed feta cheese with vegetables. We also had eggplants grilled directly in the coals of a camel dung fire. As we ate, Saida’s two young daughters played with a stack of empty film containers I gave them.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-2-of-5.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-2-of-5.jpg" >}}
 
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-4-of-5.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/egypt-4-of-5.jpg" >}}
 
 Driving back to Hurghada, I asked  Abdel Zaher why he didn’t run day safaris and make lots of money like some of his relatives now do. “I’ve got so many blessings,” he said. “I’m the happiest man. I don’t need more money.” We drove in silence for another hour.
 

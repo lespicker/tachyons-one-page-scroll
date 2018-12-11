@@ -39,34 +39,34 @@ Ralph mined full time until 1991, when the price of gold dipped so low it was no
 
 On a typical day, Ralph will draw water from the creek along a piping system with a series of check valves.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3265.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3265.jpg" >}}
 
 These pipes run water to what is known as a monitor, or a hose setup that blasts high speed water towards the exposed soil.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3257.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3257.jpg" >}}
 
 <h3>A Miner’s Workday</h3>
 Ralph will operate this monitor for 12-16 hours a day during the 100-day period that the Yukon does not experience winter.  The high pressure water Slams against the cliff face, exposing the permafrost to the warmer air. As the soil melts, Ralph will spray it over and over, blasting away the hillside inches a day. The shallow-rooted trees on the top of the hillside will eventually fall into the excavation site, to be bulldozed away later.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3287.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3287.jpg" >}}
 
 The monitor is counterbalanced by a bucket of discarded mining equipment, proof that a miner can run his operation on chewing gum and rubber bands.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3204.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3204.jpg" >}}
 
 Even though he seriously undercuts the hillside, the soil will not collapse in chunks because of its high clay content and frozen state.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3296.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3296.jpg" >}}
 
 A gold mining operation it is a dangerous place to work. As soon as I entered his claim, Ralph warned us: “I don’t have no insurance, so if you get hurt I’ll have to bury you right here.” I think that was a joke.
 
 Throughout the mining camp old discards are used in practical ways, as you can see from the used barrels being used as supports. The monitor itself dates back to the period right after World War I.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3280.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3280.jpg" >}}
 
 The muddy water runs downhill to a series of holding ponds that allow the silt to settle out before being returned to the watershed. Environmental studies conflict on whether and how much this deteriorates water quality, but there is little dispute about its effects on the land. Since the late 1980s, miners have to implement a land reclamation process to ensure that the land is returned to prior use standards. This next image shows an unrestored mining area from the early 20th century that is nonetheless restoring itself. The piles of stone are called tailings, and they were left in giant heaps as immense  dredges scoured the creeks for gold. These tailings snake through the landscape for miles. But the dredging was necessary to remove the top-layer of soil and gravel to get to the layer where gold particles could be found.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3188.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP3188.jpg" >}}
 
 Gold, being some 19 times denser than water, will sink as the water runs downhill and Ralph later dredges it up and brings it to a sluice, where he rinses it again to remove the gold from the silt.
 

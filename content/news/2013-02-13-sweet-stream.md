@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sweet Stream"
-image: "http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024557.jpg"
+image: "https://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024557.jpg"
 comments: true
 categories:
 - how-to
@@ -19,7 +19,7 @@ I promised to give more technical info to you in 2013, so here goes. I used my G
 
 I shot at f11 and ISO 50. Now, it was pretty dark in that stream, since it sits in a valley and it was raining. To slow the water down I left on my polarizer and added a Singh-Ray 5-stop Neutral Density filter. That brought the shutter speed all the way up to 16 seconds. Here is what my setup looked like (just ignore the legs) before I had to wade deeper.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/photo.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/photo.jpg" >}}
 
 The fact is that I planned to do vertical and horizontal panos of the stream, but the rain put a quick end to that plan. As soon as I get the shot nailed in good weather (how's that for positive thinking?!), I'll post it here, so stay tuned. I also plan to comparison shoot with my Nikon D800 and I'll do that as a separate post. In the meantime, I hope the rain gods take a well deserved rest.
 

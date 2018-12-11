@@ -25,32 +25,32 @@ From the beautiful Sky City Cultural Center, a tourist bus crunches its way up t
 
 The views from atop the mesa are stunning, with vast expanses of high desert interspersed with nearby mesas.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/sky-city-pueblo-6.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/sky-city-pueblo-6.jpg" >}}
 
 The Acoma people live in these homes today. Some are simple adobe construction, others have been renovated with stone or brick.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Sky-city-pueblo_1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/Sky-city-pueblo_1.jpg" >}}
 
 The Acoma people still value their traditional ways. The kiva is a place for rituals and meetings. The ladder serves a ceremonial as well as a utilitarian purpose.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/sky-city-pueblo-3.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/sky-city-pueblo-3.jpg" >}}
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/sky-city-pueblo-2_.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/sky-city-pueblo-2_.jpg" >}}
 
 The mission church still stands, although many Acoma people prefer traditional spiritual beliefs. The church is also used as a meeting place.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/sky-city-pueblo-4.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/sky-city-pueblo-4.jpg" >}}
 
 There is no plumbing in Sky City, so outhouses are clustered in various locations within the mesa.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/sky-city-pueblo-5.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/sky-city-pueblo-5.jpg" >}}
 
 Baking bread is an important tradition and every Acoma home has an outdoor cooking oven.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0506.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0506.jpg" >}}
 
 But, like with any culture, it is the people that hold it together. The Acoma people value storytelling, song and dance to impart their culture to future generations. 
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0546.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0546.jpg" >}}
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0531.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0531.jpg" >}}

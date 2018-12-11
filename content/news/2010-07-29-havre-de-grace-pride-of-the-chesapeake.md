@@ -55,7 +55,7 @@ In and around Havre de Grace are myriad activities for a family, ranging from mi
 
 Havre de Grace is bicycle friendly. Spend a pleasant few hours peddling around the many coves and quiet streets of Havre de Grace. If you’re a fishing enthusiast, nothing beats the flats, where the Susquehanna River meets the Bay, for freshwater and striped bass.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/susqstpk-1-of-1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/susqstpk-1-of-1.jpg" >}}
 
 Hikers and bikers would also do well to visit Susquehanna State Park, due west on Route 155, a few miles outside of Havre de Grace. There you can stroll or bicycle along river paths, view historic sites, fish and birdwatch. Bald eagles have staged an incredible comeback in this area, and draw nature enthusiasts all year long, especially in winter, where they congregate just below the Conowingo Dam. A large nature viewing area is open all year.
 

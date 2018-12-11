@@ -44,7 +44,7 @@ Other pluses include the thoughtful little things that Think Tank does. One is t
 
 Here is a photo of the gear I packed in the UD50 to take with me for a one-month photo tour of Italy, Sicily and Malta.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/photo.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/photo.jpg" >}}
 
 For the record, the gear includes a Nikon D800 with attached Nikkor 24-70 f2.8, Nikkor 70-200 f2.8, Nikkor 24mm tilt-shift, Nikkor 1.4 tele-extender, Hoodman loupe, 5 Lee/Singh-Ray 4x6 filters in case, Lee large filter holder, batteries, and paraphernalia.
 
@@ -52,7 +52,7 @@ In addition, I carried my 15” MacBook Air in the purpose-built laptop compartm
 
 In this front pouch I carry lots of travel accessories, including pens, my stash of teas, business cards, earbuds, etc.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/photo-copy.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/06/photo-copy.jpg" >}}
 
 
 I’m not sure whether the bag fools anyone into thinking this is not chock full of camera equipment (as in "Urban Disguise"), but the bag does well with one body and 2-3 lenses, filters and accessories.

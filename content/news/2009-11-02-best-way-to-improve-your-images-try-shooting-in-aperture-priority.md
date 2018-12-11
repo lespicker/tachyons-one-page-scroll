@@ -28,7 +28,7 @@ If you are shooting in aperture-priority, you would simply “open up the lens�
 
 On the other hand, suppose you are standing on the South Rim of the Grand Canyon and want a classic shot of the nearby point that sticks out. But you also want to capture the gorge itself and the North Rim. In this case you would set the aperture on f11, f16 or f22. That would increase the depth-of-field and just about everything in your image would be sharp.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/01/picker-moo-image-22-of-51.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/01/picker-moo-image-22-of-51.jpg" >}}
 
 One final point. You may wonder why the aperture settings are so oddly numbered. The usual complement of f stops in most lenses is: f2.8, f4.0, f5.6, f8.0, f11, f16 and f22. These numbers are actual the product of the formula that calculates the surface area of the camera’s diaphragm opening. Fuggedaboudit. The only important thing to know is that each f-stop successively halves the amount of light entering the lens as you go from f2.8 to f22. Conversely, as you go from f22 to f2.8, the amount of light hitting your camera’s sensor doubles each time you increase one f-stop.
 

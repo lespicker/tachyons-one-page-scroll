@@ -51,7 +51,7 @@ From the Bar Harbor town pier, take the 105 foot <em>Whale Watcher</em>, a moder
 
 <strong><em>Sea Kayaking</em></strong>.  There simply can’t be a better way to explore Maine’s waters than by kayak.  You’re seated low in the water, with a seal’s eye view of the world around you.  Best of all, kayaks are more stable than canoes and easier to maneuver.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/othellomtns1-1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/othellomtns1-1.jpg" >}}
 
 All Bar Harbor companies offer trips for novices, families, and experienced kayakers, including half-day, full-day and multi-day tours, with experienced guides.  In a typical half-day tour for beginners, you’ll start out near the Bar Harbor town pier and receive basic instruction.  In no time, the naturalist-guides are leading your group from island to island, among the dozens of picturesque islands in sight of Bar Harbor.  Be prepared to see eagles, ospreys, seals and, if you’re lucky, a rare puffin or two.
 
@@ -65,7 +65,7 @@ Contact Acadia Bike &amp; Canoe, 48 Cottage Street, Bar Harbor, ME  04609: 207-
 
 <strong><em>Hiking</em></strong>.  Hiking the peaks and valleys of Acadia National Park is an experience every family will cherish.  Very few of the Park’s millions of annual visitors stray beyond the familiar tourist attractions.  In thirty easy minutes a family can hike to the top of Flying Mountain for a picnic and breathtaking views of Somes Sound, the only true fjord in the eastern United States.  Its deep, blue-green water set among towering cliffs is a photographer’s dream.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/othellomtns1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/othellomtns1.jpg" >}}
 
 More adventurous families might try The Beehive, overlooking Sand Beach, with its narrow paths, steep drops and iron ladders hammered into the cliff face to enable you to climb to a secure landing.  Or, for an all-day, strenuous treat of forests, islands, and ocean vistas, hike the Dorr Mountain granite stairs trail to Cadillac’s summit.  There are dozens of mountains and hundreds of trails to choose from in Acadia.  Just bring along plenty of water.
 

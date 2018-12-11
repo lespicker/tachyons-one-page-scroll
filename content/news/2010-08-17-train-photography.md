@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Train Photography"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-22010-08-11.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-22010-08-11.jpg
 comments: true
 categories:
 - How-to
@@ -29,25 +29,25 @@ A train spends a huge chunk of its time traveling in virtual tunnels; trees grow
 
 In any event, the name of the game for train shooting is speed. With today’s sensors on DSLRs, you can shoot at ISO 400 or 800 with few problems. On a point-and-shoot the problems of shooting aboard a train may be thornier. If you have a high-end point-and-shoot, try upping the ISO and see if you can shoot in Aperture-priority mode. If you have the ability to change the aperture, then switch to a wider aperture. You may lose some depth of field, but rescue the shot.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-62010-08-15.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-62010-08-15.jpg" >}}
 
 Another challenge is fellow passengers, who will often vie for choice positions at the railings. My best advice: be nice. Get to your spot early, take your pics, and then offer your spot to another shooter.
 
 Anyway, shooting on a train gives you one commodity that’s usually in short supply… time. You’re stuck on a track, usually with no Internet and sometimes no phone service. My Canadian train adventures lasted 8-10 hours a day for 4 days total. So, I used the time to play around with my camera. Excuse me, I mean I experimented. I tried using the speed and shaking to my advantage. I first started with a slow shutter speed (1/4 to ½ second) as the train whizzed past trees.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-72010-08-15.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-72010-08-15.jpg" >}}
 
 Then I added a polarizer, lowered the ISO as low as my camera permitted, and shot for up to 2 seconds.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-82010-08-15.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-82010-08-15.jpg" >}}
 
 Finally, I used a neutral density filter to stretch my exposures out to 5 seconds.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-92010-08-15.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-92010-08-15.jpg" >}}
 
 I like the next one. As I was taking the image, an old cabin moved into view. 
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-122010-08-15.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/CanadianRockiesLoop2010-ViaRail-Jasper-PrinceRupert-122010-08-15.jpg" >}}
 
 I’d love to hear from you readers about your reactions to my "experiment" and about your train photo experiences.
 

@@ -23,15 +23,15 @@ Nothing will sharpen both your technical skills and your artistic eye faster tha
 
 I know we all have really busy lives, so who has time to shoot every day? You might think it’s easy for me as a professional photographer to shoot daily--after all that is my job isn’t it? But to make it as a pro, you need to do some heavy marketing and selling. I only get to go on photo shoots about 1/3<sup>rd</sup> of the time, the other 2/3<sup>rd</sup> is spent doing the business part of photography (yech!). In the past, I found that between shoots I was not practicing with my camera and that my art was suffering. It often took 2 or 3 days into a trip to get back into ‘seeing’. I was not practiced and ready.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP12726.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP12726.jpg" >}}
 
 For the last two or three years I have begun to carry a small point-n-shoot digital camera with me everywhere I go. I do not have to carve out special time to shoot daily; I just take a snapshot here and there in my day as I see something interesting. I might be walking the dog, or standing in line at the bank, doing dishes or visiting the washroom. But if something catches my eye, I make an image. Now I am doing a little photography almost every day and the differences I have seen in my ability to see and be creative is amazing. I no longer have any ‘photographer’s block’ and I no longer need to ‘warm up’ before going on a serious photo shoot. I see photos everywhere!
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP12081.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP12081.jpg" >}}
 
 Even though I am a nature photographer, anything that catches my eye can become a photo. The great thing about shooting daily is that soon you’ll begin to remove labels from subjects and just learn to see light, pattern, form and design. You’ll see beauty in the mundane, and you’ll be inspired anywhere you go from the park to the parking lot. The better you become at photography in general, the better you’ll be at outdoor photography in particular. So do not restrict yourself to pretty nature scenes.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP10113A.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/NMP10113A.jpg" >}}
 
 Although I have mentioned the wonders of a point-n-shoot camera here before, I really think anyone who is serious about becoming a better photographer should invest in one and carry and use it. You’ll really see the huge benefits of practice. Happy shooting.
 

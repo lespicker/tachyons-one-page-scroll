@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Te Anau, New Zealand"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/South-Island-New-Zealand-112010-11-19.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/South-Island-New-Zealand-112010-11-19.jpg
 destination: ausnz
 comments: true
 categories:
@@ -19,11 +19,11 @@ tags:
 Since I've been a child, I imagined being in New Zealand. When I watched Peter Jackson's Lord of the Rings, spellbound, the child within was awakened. And so, here I am. No book, no documentary, indeed not even The Lord of the Rings, could have prepared me for the reality of New Zealand. It is stunning, the penultimate eye candy, an unending visual spectacle that boggles the mind.
 
 <h3><strong>From Christchurch to Fiordland</strong></h3>
-We left Christchurch (see <a href="http://blog.lesterpickerphoto.com/2010/11/20/alive-and-well-in-christchurch/">http://blog.lesterpickerphoto.com/2010/11/20/alive-and-well-in-christchurch/</a>) heading toward Fiordland National Park, on a mission to scout out the South Island for our long-term return visit in 2012-13. Heading southwest,  we travelled through a rich, green tapestry of agricultural fields. The landscape changes gradually from totally flat to hilly, with tens of thousands of sheep grazing contentedly, forming a picturesque pastoral scene. (Factoid: NZ has 40 million sheep, or ten sheep for every resident.)
+We left Christchurch (see <a href="https://blog.lesterpickerphoto.com/2010/11/20/alive-and-well-in-christchurch/">https://blog.lesterpickerphoto.com/2010/11/20/alive-and-well-in-christchurch/</a>) heading toward Fiordland National Park, on a mission to scout out the South Island for our long-term return visit in 2012-13. Heading southwest,  we travelled through a rich, green tapestry of agricultural fields. The landscape changes gradually from totally flat to hilly, with tens of thousands of sheep grazing contentedly, forming a picturesque pastoral scene. (Factoid: NZ has 40 million sheep, or ten sheep for every resident.)
 
 New Zealanders, surprisingly to me,  also raise enormous numbers of deer for the world venison market.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/New-Zealand-road-to-Te-Anau-342010-11-14.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/New-Zealand-road-to-Te-Anau-342010-11-14.jpg" >}}
 
 <h3><strong>Lake Tekapo</strong></h3>
 We were headed seven hours away, for Lake Tekapo (pronounced tee'-kah-poe) where I intended to become the umpteen millionth photographer to capture the Church of the Good Shepard, which is perched on a small rise along the shore of the Lake, encircled by a chain of snow-capped mountains in the distance.
@@ -32,14 +32,14 @@ As Robert Burns said; "The best laid schemes o' mice and men, gang aft agley." I
 
 I had a mental image of the shots I had wanted to take, but after a couple of hours on site, I came away disappointed, but knowing for sure how I want to shoot the scene in a couple of years, weather permitting. I'll plan to spend a few days in the area to increase my chances of better weather.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Tekapo-New-Zealand-442010-11-13.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Tekapo-New-Zealand-442010-11-13.jpg" >}}
 
 After a rainy night in Lake Tekapo, we left for Te Anau, the staging town for entry into the wild, undeveloped Fiordland National park. Here lie the iconic NZ landscapes: Milford Sound, Doubtful Sound and the dozens of other coastal sounds that have kept maritime explorers and present-day hikers busy investigating their mysterious beauty for hundreds of years.
 
 <h3><strong>A Lovely Inn in a Wonderful Town</strong></h3>
 Te Anau is a lovely small town, situated as it is along the southeast shore of picturesque Lake Te Anau. 	On a whim I had booked us into Dock Bay Lodge, a relatively new property purpose-built as an inn by its owners, Dawn and Mark Dowling. This was only the second instance on our month-long adventure in Australia, New Zealand, Fiji and New Caledonia where the reality of our lodging far surpassed our expectations, a rarity as any travel writer will tell you.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Te-Anau-New-Zealand-Dock-Bay-Lodge-22010-11-14.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Te-Anau-New-Zealand-Dock-Bay-Lodge-22010-11-14.jpg" >}}
 
 Dock Bay Lodge (<a href="http://">www.dockbaylodge.co.nz</a>) overlooks Lake Te Anau on an immaculately landscaped property. The bedrooms are huge, and the ceramic tiled bathrooms modern and roomy. The communal living room sported a digital wide-screen television, a large fireplace and large, comfortable leather couches.
 

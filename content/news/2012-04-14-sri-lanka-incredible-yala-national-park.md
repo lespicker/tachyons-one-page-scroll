@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sri Lanka’s Incredible Yala National Park"
-image: "http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_1547.jpg"
+image: "https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_1547.jpg"
 destination: asia
 comments: true
 categories:
@@ -30,7 +30,7 @@ In fact, if you are photographer I strongly recommend you take a private jeep to
 <h3>Where You Stay Makes a Difference</h3>
 If you plan to visit Yala, make sure to choose a hotel close to the park. The closest one, Chaaya Wild Lodge, is pricey, but the accommodations and food are first rate. If you cannot stay there, I suggest you be within 30 minutes of the park. The reason is that the park opens at 6:00 AM and you want to be right at the entrance with your jeep driver by six.  As is you’ll be getting up at 5:00AM; 4:00 AM is even less fun. And do NOT rely on mileage. The roads leading to Yala are barely that. They are pockmarked, rutted and in terrible repair, so a distance of even 5 km may take 20 minutes or more. Most hotels will pack a hearty box breakfast for you, but be sure to check. Most tours will stop at a safe haven on the Indian Ocean for a 15 minute breakfast and bathroom (spelled b-u-s-h-e-s) break.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_1729.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_1729.jpg" >}}
 
 <h3>Wildlife Galore</h3>
 In Yala you will see an abundance of wildlife, but do not go with the expectations of African safaris. You’ll see no herds of animals here, other than small groups of deer or water buffalo. Also, Yala is a forest park. The roads are exceedingly rutty and narrow, meaning that passing an oncoming jeep is a negotiation that happens dozens of time in your tours. However, if you can get past that, here is a partial list of animals I saw in three days of safari. Since it is primarily a forest park, wildlife will virtually step out of the forest right in front of you, even gigantic bull elephants, but then disappear just as quickly. As in Africa, wildlife tend to congregate at waterholes, so your safari will visit many of these.
@@ -85,12 +85,12 @@ Jackal
 
 I named only a sampling of birds, since I am not a serious birder and there were dozens of birds that true birders were ga-ga over.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_1775.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_1775.jpg" >}}
 
 <h3>Don’t Forget the Landscape</h3>
 Yala is bounded on one side by the Indian Ocean, adding a strikingly beautiful element for photographers. As well there are rocky promontories and tortuous trees waiting for your creative interpretation.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018976.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018976.jpg" >}}
 
 <h3>Photo Recommendations</h3>
 If you plan on photographing in Yalla, here a some tips:
@@ -111,4 +111,4 @@ Absolutely essential is a dust-proof bag to completely cover your camera(s). Yal
 
 Clean your camera after every safari segment. Do not wait. Bring a blower, brush, cleaning fluid and cloth with you and have it ready in your hotel room. On site use a blower and a LensPen brush/lens cleaner.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018981.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018981.jpg" >}}

@@ -34,15 +34,15 @@ If you have a flower or tree with great colors- especially after a rain when rai
 <h3>Extracting Urban Scenes</h3>
 Ditto with urban scenes on yucky days, where you need to discipline yourself to take tight shots that give you a sense of place without including the sky. I had only two days in Christchurch, New Zealand and again the weather was terrible. I knew I couldn’t get the images I had planned, such as the cathedral against a blue sky with clouds. Nor could I get some of the Botanical Garden images I had planned. So, I changed my focus to extract shots of subject against a contextual background without including the sky. These two images give you an idea of what I’m talking about, both taken in Christchurch, at the cathedral of the same name.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Christchurch-South-Island-New-Zealand-502010-11-20.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Christchurch-South-Island-New-Zealand-502010-11-20.jpg" >}}
 
 (For those of you interested in the technical aspects, I rendered the next image in Black and White, but left the umbrella and the man's shirt in color).
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Christchurch-South-Island-New-Zealand-782010-11-20.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Christchurch-South-Island-New-Zealand-782010-11-20.jpg" >}}
 
 <h3>Forest Extraction Images</h3>
 One final example. You can also isolate elements of a forest by using a telephoto and focusing on a specific tree or branch that has great color or an unusual shape. In this next image I was on a boat in Milford Sound, South Island, New Zealand on another miserable day. I would have loved to have landed on a solid shoreline to photograph the scene with my tripod so it would be tack sharp and I could include the foggy, misty sky, but that wasn’t possible. So I went with the flow (and rocking of the boat) and upped the ISO to 800 to extract trees from the background. I liked this shot for the compositional elements of the way the tree filled the frame and seems to flow through it, but it wasn’t tack sharp, usually a fatal flaw that forces me to press the Delete key. However, in this case I decided to have fun with it and I processed the image with a soft glow filter using Nik Software, something I rarely do, but I’m not apologizing for it. For me it kinda works.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Doubtful-Sound-New-Zealand-592010-11-17.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Doubtful-Sound-New-Zealand-592010-11-17.jpg" >}}
 
 Until the next blog, don’t get driven to distraction by featureless skies. Take control and drive yourself to extraction.

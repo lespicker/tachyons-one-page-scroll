@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Landscape Photo Tip #1: Use a Tripod"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP3024.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP3024.jpg
 comments: true
 categories:
 - how-to
@@ -16,7 +16,7 @@ I recently had a regular website visitor write to me asking about tripods. The q
 
 In my case I use a big ole Gitzo 3541 with a Really Right Stuff BH-55 ballhead. It's a monster to carry around, weighing in at 8 pounds, even though the tripod is carbon fiber. Add that to my other gear and I'm packing around 30 pounds when I hike into a pristine location to photograph. At my age that's equivalent to maybe 200 pounds, especially on the way back to the car. So, it better be worth the effort. The plain fact is that it is.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP3024.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/LAP3024.jpg" >}}
 
 On a recent trip to Italy and Malta I did something I never thought I'd do. I bought a lightweight travel tripod. The thing weighs 4 pounds, including ballhead, but it can never fully substitute for a pro-grade tripod. Still, it proved to be helpful in many of the situations I find myself in. 
 

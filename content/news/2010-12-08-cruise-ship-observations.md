@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cruise Ship Observations"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-782010-11-07.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-782010-11-07.jpg
 destination: general
 comments: true
 categories:
@@ -21,7 +21,7 @@ tags:
 ---
 I just completed my 10th cruise, this time aboard Royal Caribbean’s Rhapsody of the Seas, a beautifully designed, if slightly older vessel. I teach photography aboard these floating hotels and have sailed aboard Norwegian Cruise Lines and Princess, too.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-162010-11-07.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-162010-11-07.jpg" >}}
 
 <h3>My Cruise Experience</h3>
 Ten trips does not make me a cruise expert, especially since I regularly meet people with 30, 50 and more cruises under their belts (and we’ll get to what else is under those belts in a moment). But I do figure that my cruise experiences, coupled with the fact that I am a seasoned travel photojournalist, gives me some credibility to make some observations and recommendations (I’d also love to read your observations, and so will my readers, if you’ll kindly comment here on this blog).
@@ -38,7 +38,7 @@ d. all of the above
 
 But, after much cajoling from my wife I finally succumbed and have been really enjoying them over the past five years.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-482010-11-07.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-482010-11-07.jpg" >}}
 
 <h3>Cruise Ship Observations</h3>
 So, here goes with my observations. First, my hat is off to those younger couples that cruise with children. For those of you who have never cruised before, the cabins are efficiently laid out, but laughably small and I simply can’t imagine the challenges presented to families with little ones sharing the same cabin. Judging by the body language and dark circles under the eyes of those very same parents after about day three, cruising with young kids may not exactly make you a winner on “Are You Smarter Than a Fifth Grader?”
@@ -50,11 +50,11 @@ Okay, enough about kids and families. Longer cruises- those over 10 days- tend t
 <h3>Eat Your Heart Out</h3>
 If you think that cruising is nothing but one big, fat eat-fest, you’re… well, actually you’re right. It’s the glutton’s version of The Grand Canyon. Let’s call it The Great Gorge. There are so many eating options, essentially 24/7, one could easily gain 10 pounds on a 7-day cruise. And it’s amazing to see how many serious over-eaters frequent these ships, from basic overweight-and-out-of-shape through obese to morbidly obese. There are the basic three squares a day that the dining service offers, which can be taken in a huge, gloriously extravagant dining room, served by a formal wait staff, or in a pile-it-higher-and-deeper smorgasbord buffet arrangement. In either case you can ask for, or get up and get, your own seconds, thirds or more. Of course, every meal includes multiple dessert options.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-572010-11-07.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-572010-11-07.jpg" >}}
 
 Then there are the multitude of little cafes aboard ship, where one can indulge without incurring extra fees, as well as specialty cafes, like Ben and Jerry’s ice cream shops, for example, where you pay extra. And again, there are the free midnight buffets or “Chocolate Extravaganzas,” where even sniffing the decadent desserts concocted by the pastry chefs can cost you beaucoup calories.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-282010-11-07.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-282010-11-07.jpg" >}}
 
 On our latest cruise, for example, the ship’s kitchen staff served 120,000 meals to 2,000 people and went through 48,000 eggs. I watched grown people pile four and five desserts on their plates, like Mom wasn’t watching. Of course most passengers exhibit restraint… many do… at least some do… but it is tempting, no doubt.
 
@@ -66,7 +66,7 @@ So, what tips and recommendations can I make to those of you contemplating your 
 <h3>Learn Something New</h3>
 First, why not attend some of the informational presentations by the lecturers hired by the cruise ship companies? Their presentations vary, of course, from downright boring to exciting (of course mine fall into the latter category). But I can’t help but think that giving up a Bingo game or the Biggest Stomach contest (for real!) for a chance at learning something new is worth it.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/cruise-lecture_2010-10-28_667%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/cruise-lecture_2010-10-28_667%C2%A9LesterPicker.jpg" >}}
 
 Cruise ships are also great places to learn to dance or to try a new craft, all of which are offered onboard. Want to learn how to fold towels into animal shapes? They actually offer lessons on most cruise ships. So far I’ve managed to resist that one, but it might be cool for a family with young children.
 
@@ -91,7 +91,7 @@ The onboard shows have only improved in recent years, as competition for passeng
 <h3>Get Real!</h3>
 If you are still a working stiff, there may be times during your cruise when you simply have to get some work done. Or maybe not. Maybe you just want to read quietly. I’ll admit I’m one of those who logs in some work time while under sail and I have to say that the view from the office can’t be beat.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-192010-11-07.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-192010-11-07.jpg" >}}
 
 Imagine reading on deck, with a cool (or warm) breeze gently blowing as you sail past tropical islands. Or imagine finding a shady spot on deck to open your laptop and send some emails to family or colleagues.
 
@@ -99,4 +99,4 @@ Every ship has a library, too, so on bad weather days it’s a great retreat. Qu
 
 In any event, I have found the cruise experience to be far different than my pre-cruising biased assumptions. In fact, I find cruises fun, relaxing and rejuvenating. Oh, and did I mention the food?
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-642010-11-07.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/12/Rhapsody-of-the-Seas-Royal-Caribbean-642010-11-07.jpg" >}}

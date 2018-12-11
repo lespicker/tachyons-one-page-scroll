@@ -20,7 +20,7 @@ I just returned from a rejuvenating trip to Yellowstone, a winter paradise if th
 
 One of the most frequently asked questions I get about winter photography is how to photograph snow. Moose Peterson, a terrific wildlife photographer, recently had a blog on the topic where he recommends pushing your exposure a stop or two over your meter reading to get snow white. I agree with his advice, with a caveat.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/A0023499.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/A0023499.jpg" >}}
 
 If one doesn't over-expose snow scenes, they will render a sickening gray color, due to the meter's attempt to "neutralize" the scene and render the scene close to 18% gray. The typical thing to do is to open up a stop or two (or even 3) to get the snow to look white. The trouble is that photographers are afraid of blowing out the snow, meaning that the overexposure is so extreme all detail is lost in the snow. As soon as they see blinkies appear on their camera screens, they dial back. But when they get home they realize that  the snow scenes did not come out as they were hoping.
 
@@ -28,7 +28,7 @@ The reason I'm writing about this now is that something interesting happened aft
 
 While I was in Yellowstone, Bob was busily working on his own photo project back home, helping a young woman develop a modeling portfolio. He showed me a sample shot he took:
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/DSC_2603.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/01/DSC_2603.jpg" >}}
 
 Now, it may not occur to you, but the three shots here have striking similarities, and I do not mean that as an insult to this stunning model. Those similarities hold a valuable lesson for landscape and wildlife photographers. In both cases we have strong lighting on the subject, in my image natural lighting and in Bob's case mixed lighting. There are even similar tones in the bisons' coats and the model's hair. But for the present case, ignore those similarities.
 

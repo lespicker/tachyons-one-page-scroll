@@ -20,20 +20,20 @@ Atop the highest point of the island there is an old fortress, which some locals
 
 <!--more-->
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9395.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9395.jpg" >}}
 
 The fortress sits about 1,000 feet above the historic town (in Europe everything is historic, at least by American standards). We climbed it today and spent a glorious couple of hours exploring the land immediately around it and then poking through the abandoned ruins.
 
 As a landscape, travel and wildlife photographer, the overwhelming majority of my work is in color. But, once inside the fortress, which is a shambles, it was obvious to me that I wanted to interpret the scenes in black &amp; white. To me it had a “feel” of grittiness and abandonment that was best expressed in B&amp;W. I’m sure that another photographer would interpret the scenes beautifully in color, and that is one of the many things I just love about photography.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9452-Edit.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9452-Edit.jpg" >}}
 
 In any case, here are a few images from that visit, quickly done this evening as I recovered from the hike. The technical information is that all the images from today’s shoot were imported into Lightroom 4. I then selected several potentials for export into Nik software’s Silver Efex Pro, a wonderful, easy-to-use program. A few fast adjustments and here you are.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9470-Edit.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9470-Edit.jpg" >}}
 
 Of course, when I get home I’ll post-process the original images first, then do whatever I need in Lightroom and hopefully improve on the results.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9500-Edit.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_9500-Edit.jpg" >}}
 
 As always, I welcome your comments/critiques.

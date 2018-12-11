@@ -8,7 +8,7 @@ tags:
 ---
 This blog has nothing to do with photography. It has much to do with life. As we travel our individual path, we are sometimes- rarely- fortunate enough to meet up with a person whose very presence can change you in deep and meaningful ways. Such a person in my life is Barbara Higgins, known as Xwu'p'a'lich to her fellow tribal members.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/IMG_0388.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/11/IMG_0388.jpg" >}}
 
 Barb is an elder and a revered traditional healer and medicine woman for her Coast Salish First Nation's tribe on Canada's Sunshine Coast. I could sing her praises for this entire blog, but that's not my purpose. Suffice it to say that she is wise beyond her years and, my guess is, she has been that way for her entire life.
 

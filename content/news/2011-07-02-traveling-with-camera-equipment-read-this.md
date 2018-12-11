@@ -1,7 +1,7 @@
 ---
 title: "Traveling With Camera Equipment? Read This!!"
 destination: general
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/packing_2010-07-22_1819%C2%A9LesterPicker.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2011/07/packing_2010-07-22_1819%C2%A9LesterPicker.jpg
 comments: true
 categories:
 

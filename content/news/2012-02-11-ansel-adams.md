@@ -25,6 +25,6 @@ Now, even nice gestures sometimes create conundrums. and this one created a B-I-
 
 The third image Bob processed in sepia tone, conveying the old-timey feel of Ansel Adam's time. This, Bob confided in me, was his wife's favorite rendition. Ah, and now I'm supposed to pick one, eh Bob? So, in the interests of marital harmony and the higher purposes of life, I decided on... the sepia one, naturally (click on the image to enlarge).
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LesterAnselAdamsSepia-2.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/02/LesterAnselAdamsSepia-2.jpg" >}}
 
 Teasing aside, thanks to Bob (and Ruth) for the gift. Have a great week!

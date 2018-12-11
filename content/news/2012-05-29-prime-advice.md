@@ -32,4 +32,4 @@ This assignment runs the risk of driving even the most able photographer crazy. 
 <h3>Telephoto Only</h3>
 Now, on a separate outing, try just the opposite. Go with a telephoto only. In the image below I shot the Grand Canyon with a telephoto lens, rather than the standard wide-angle lens that most everyone else uses there. The back story is that I was exhausted after a day of climbing and frankly did not have the energy to take off my pack, change lenses or camera bodies, reframe and shoot. Still, I was happy with this image, which is fundamentally the opposite of what most people try to capture at the Grand Canyon.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/ABB006.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/ABB006.jpg" >}}

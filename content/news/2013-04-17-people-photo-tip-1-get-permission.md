@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "People Photo Tip #1: Get Permission"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/2006-11-ecuador1746.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/2006-11-ecuador1746.jpg
 comments: true
 categories:
 - how-to
@@ -21,7 +21,7 @@ I firmly believe that it is a matter of civility, pure and simple, to ask someon
 
 Permission does not have to be a signed release form. It can be a gesture- holding up your camera, pointing to it and to the subject and shrugging your shoulders as if to ask the question. Or, if you speak the language, just ask.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/2006-11-ecuador1746.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/2006-11-ecuador1746.jpg" >}}
 
 In some countries, I’m thinking of Muslim countries in particular, photographing women without permission can get you in serious trouble. At the very least you owe it to your subject to give her a chance to cover her face.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Noise, Noise, Noise!"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/2008-Yukon-Top-of-the-World-Highway-22008-09-21-Version-2.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/2008-Yukon-Top-of-the-World-Highway-22008-09-21-Version-2.jpg
 comments: true
 categories:
 - how-to
@@ -30,10 +30,10 @@ But wait. At ISO 800, the shadow areas of the building are showing up on my LCD 
 
 The answer may very well be: do nothing. Go ahead and shoot at ISO 800. Shoot at 1600. Shoot at 3200. The point here is that digital noise, by itself, is not good or bad. It is a tool in your photographic toolbox. In this case you may very well want to emphasize noise, creating a dark, moody, gritty interpretation of the scene.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/untitled-154-of-170.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/untitled-154-of-170.jpg" >}}
 
 I remember when I was training as a cub reporter and purchased my very first Nikon camera. I practiced all the time, since I could use the paper’s darkroom for free on my own time. I would watch some of the veteran photojournalists pull a photo from the soup, almost always a crisp, clean shot. But then one of the men (they were all men in those days) was on assignment for a story on inner city crime. He pulled out a photo that had me spellbound. The image of the darkened street was underexposed. The drug dealer leaning against the corner lamppost was in shadow. The scene was full of grain. Its grittiness perfectly captured the feel of the dangerous street underworld.
 
 Give yourself permission to experiment with noise, even if you are a landscape photographer. Up the ISO, especially on dark, brooding days when you might be prone to pack up and wait for sunnier conditions. You just might like what you see!
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/2008-Yukon-Top-of-the-World-Highway-22008-09-21-Version-2.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/2008-Yukon-Top-of-the-World-Highway-22008-09-21-Version-2.jpg" >}}

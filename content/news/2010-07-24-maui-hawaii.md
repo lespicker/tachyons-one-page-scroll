@@ -44,7 +44,7 @@ Despite commercial developments over the past few decades, Maui’s shoreline is
 
 Notice I say “mostly.” There are trouble spots, like on a recent weekend evening when my wife and I tried to drive to Lahaina to meet a couple of friends for dinner. As they say, fuggedaboudit! Because of congestion on the narrow road, we were 45-minutes late. But thanks to the laid-back island attitude, the maitre de sat us promptly. There are also the typical minor traffic backups in and around popular shopping areas, like Kahului’s malls.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-24_3%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-24_3%C2%A9LesterPicker.jpg" >}}
 
 But for me, there are few drives in the world that can compete with the famous (or infamous) Road to Hana, a mostly elevated, sometimes hair-raising 55-mile drive along the coast with non-stop, stunning views of ocean, lava fields and tropical forest. No matter what the guidebooks estimate the drive should take, I literally double that so I have time to stop frequently, take photos, and hike closer to the many waterfalls and crashing ocean waves I pass. If you’re afraid of heights, be warned. At points along this drive you may have to peel your fingers off the steering wheel. A simple solution I employ is to drive southeast from Kahului. That way I stay on the inside lane and stretch my supply of anti-anxiety meds.
 
@@ -82,7 +82,7 @@ After dinner, we strolled down Front Street, popping into the various galleries 
 
 <strong>On the Beach</strong>
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-18_2%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/Maui_2009-02-18_2%C2%A9LesterPicker.jpg" >}}
 
 Between hiking, whale watching and scenic driving, we sometimes have to schedule beach time when we’re in Maui, which is a little nuts since Maui’s beaches are consistently rated among the Top Ten on world lists. All beaches in Hawaii are accessible by the public, even those in front of upscale beach resorts. Most of Maui’s coastline is still rugged and inaccessible. But, if the beach is sandy and you can get to it, you can use it.
 

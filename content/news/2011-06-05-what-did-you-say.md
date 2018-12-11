@@ -44,8 +44,8 @@ In a few minutes, I felt the hair on my neck crawling. I turned slowly to see th
 <h3>Your Call</h3>
 So here are the images. The first is “coyote,” maybe okay for a textbook. The second is… well… what does the second image say to you or do for <strong><em>you</em></strong>?
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CanadianRockies2009-1462009-10-05.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CanadianRockies2009-1462009-10-05.jpg" >}}
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CaRockies2009-Route-742-Peter-Lougheed-Park-Kananaskis-country-117-of-166.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/CaRockies2009-Route-742-Peter-Lougheed-Park-Kananaskis-country-117-of-166.jpg" >}}
 
 <!--EndFragment-->

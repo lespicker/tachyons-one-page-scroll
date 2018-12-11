@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "South Africa: Sun City"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/sun-city-SA_2006-10-29_7%C2%A9LesterPicker.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/sun-city-SA_2006-10-29_7%C2%A9LesterPicker.jpg
 destination: africa
 comments: true
 categories:
@@ -40,13 +40,13 @@ The dreamchild of the controversial entrepreneur Sol Kerzner, the founder of Sun
 
 Sun City is located two hours northwest of Johannesburg, in South Africa’s North West Province. The resort is partially surrounded by Pilanesberg National Park, a 14,000 acre national preserve accessible by four wheel drive vehicles driven by trained guides and naturalists. Sun City is an idyllic destination for families seeking a once-in-a-lifetime adventure. In fact, short of Disney World, I can’t imagine a place more attuned to the needs of families.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/sun-city-SA_2006-10-29_5%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/sun-city-SA_2006-10-29_5%C2%A9LesterPicker.jpg" >}}
 
 </a>Arriving at The Palace of the Lost City after a 14-hour flight and a two-hour drive from Johannesburg, I expected to have little patience for its pretensions, which include a 61-acre man-made tropical rain forest surrounding the $175 million Palace. Instead, I was stunned by its immaculately manicured grounds, the fine arts sculptures - all by South African artists - which adorn its many nooks and crannies, and the management’s unswerving commitment to environmentally friendly practices. The forest’s 1.6 million plants, and both golf courses, are watered by an automated, recycled water system, bolstered by composted soil from Sun City’s operations. Shades of Jurassic Park, Kerzner even erected an electric fence, to the tune of $3 million, to protect guests from the Pilanesberg wildlife - and vice versa as a park ranger pointedly mentioned, with a wink.
 
 But, it is in the little touches that Sun City excels, from the high quality service throughout the resort, to the hand-carved timber doors and beds that lavishly decorate each of the 338 rooms in The Palace, or the luxurious robes that are meticulously arranged on your bed every night, cuddling a basket of assorted Godiva chocolates. Entering The Palace’s lobby, one is immediately struck by Kerzner’s commitment to excellence. Italian marble floors surround 300,000 hand-painted mosaic tiles in the form of native South African wildlife. The vaulted, domed ceiling in the lobby features a hand-painted fresco of South African natural scenes. Italian crystal chandeliers grace the elegant open-style Crystal Court restaurant, just off the lobby.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/sun-city-SA_2006-10-29_6%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/sun-city-SA_2006-10-29_6%C2%A9LesterPicker.jpg" >}}
 
 At night, The Palace is lit by the glow of hundreds of natural gas torches, which highlight it’s stone and precast cement architecture and lend an absolutely magical and mysterious aura. In the center of one of its outdoor courtyards stands a life-size bronze statue of the legendary Shawu, an enormous bull elephant that is an integral part of South Africa’s wild heritage. Five-star restaurants and elegant bars are sprinkled throughout the cavernous Palace.
 

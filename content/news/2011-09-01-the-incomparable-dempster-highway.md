@@ -44,31 +44,31 @@ We also stopped at Two Moose Pond, not expecting to find any moose, since a few 
 <h3>Of Moose and Bears</h3>
 We hung around taking some landscape images, and suddenly, there was a cow and calf in the distance, the first to repopulate the lush pond environment. Unfortunately we weren’t able to get close, but I did manage a few shots using a Nikkor 500mm lens and 1.4 teleconverter on a Nikon D300 body.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP_5371.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP_5371.jpg" >}}
 
 Later we spotted a black bear with a light coat, which the locals call a cinnamon bear. We followed it for a bit, but noticed that he was stressed and wanted us gone. We quickly complied, as black bears are generally more aggressive than grizzlies.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP_54021.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP_54021.jpg" >}}
 
 The temperatures reached 62F, an absolutely sweltering day in the Yukon at this time of year. We continued up the rutted, gravel-and-dirt road, stopping every so often for more images.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2796.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2796.jpg" >}}
 
 But the time was getting away from us, so we made a pact to not stop unless both of us declared it a strikingly, amazingly, impossible-to-pass-up photo opp. Of course that occurred every kilometer or two. We had no time for lunch. Then again there is only one commercial establishment on the Dempster and we were hours away by mid afternoon.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP27701.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP27701.jpg" >}}
 
 <h3>A Weather Phenom</h3>
 We finally rolled into Eagle Plains, checked into the only motel/restaurant and had dinner around 5. In 30 minutes we headed north again for the Arctic Circle and the North West Territory border, we there had been numerous grizzly sightings during the day. Strike three on that score, but we did encounter one of the most unusual weather phenomenon I’ve ever seen. If any of you readers know anything about this, please add your comment to this blog. Stretched across the open tundra landscape was a wall of cloud like none other in my experience.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2807.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2807.jpg" >}}
 
 It was a dense roll, an immense wall, almost frightening in its beauty. This band did not move, but changed shape as we watched. From below the cloud, dense fog spewed out in regular waves, carrying with it high winds. The winds buffeted our SUV and we finally made it to the North West Territory border where we could hardly see a hundred feet in front of us. The wind at this point was howling. As we turned around, we snapped a few pictures of the Welcome to the Yukon sign.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2823.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP2823.jpg" >}}
 
 Perhaps ten kilometers down the road the sun began to set and we pulled over, still in high winds, to record it. The only way to describe what we witnessed was to use the trite expression that the sky was on fire. You judge for yourself from this next image- straight out of my camera and untouched- how accurate that description was.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP_5430.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/09/LAP_5430.jpg" >}}
 
 This image was from just one portion of the sky. By now it was after 10:00 PM and we doubled back to the Eagle Plains Motel, rolling in around midnight, utterly exhausted, but thrilled by a full day of photographing our natural world in all its glory.

@@ -51,7 +51,7 @@ I find that a point-and-shoot or a DSLR with a general purpose lens works best f
 
 <a href="http://www.rainbowryders.com"></a>
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0152.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0152.jpg" >}}
 
 <strong>Jeep Tours</strong>: Try <em>New Mexico Jeep Tours</em>. Run by former Albuquerque police detective Roch Hart, be prepared for a jeep tour like no other. This is not about high-speed buggy rides. This is a thoughtful exploration of the high desert environment, including its wildlife, geology and native culture, run by a passionate professional. <a href="http://www.nmjeeptours.com">www.nmjeeptours.com </a>
 
@@ -59,7 +59,7 @@ I find that a point-and-shoot or a DSLR with a general purpose lens works best f
 
 <a href="http://www.nmjeeptours.com"></a>
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1017.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP1017.jpg" >}}
 
 <strong> </strong>
 
@@ -67,10 +67,10 @@ I find that a point-and-shoot or a DSLR with a general purpose lens works best f
 
 <a href="http://www.albuquerqueoldtown.com"></a>
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9817.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9817.jpg" >}}
 
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9817.jpg"><img class="size-medium wp-image-1256" title="San Felipe de Neri" src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9817-200x300.jpg" alt="" width="200" height="300"></a>
+<a href="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9817.jpg"><img class="size-medium wp-image-1256" title="San Felipe de Neri" src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9817-200x300.jpg" alt="" width="200" height="300"></a>
 
 <strong>Canoeing/Kayaking</strong>: Although I didn’t personally kayak or canoe on my recent visit, I do know that several tour operators run guided tours in and around Albuquerque. The Albuquerque Convention and Visitors Bureau is a great resource: <a href="http://www.itsatrip.org">www.itsatrip.org</a>
 
@@ -96,15 +96,15 @@ I find that a point-and-shoot or a DSLR with a general purpose lens works best f
 
 <a href="http://www.nps.gov/petr"></a>
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9704.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP9704.jpg" >}}
 
 <strong>Sandia Mountain Trails</strong>: Albuquerque is an outdoor town, with mild year-round temperatures that encourage its residents to stay active. The trail system through and surrounding ABQ is second to none and offers easy to difficult trekking levels. Hike, bike, horseback ride, run, photograph. <a href="http://www.sandiahiking.com">www.sandiahiking.com</a>
 
 For more hiking suggestions near ABQ, see these blogs:
 
-<a href="http://blog.lesterpickerphoto.com/2011/06/01/el-morro-el-malpais-national-monuments/">http://blog.lesterpickerphoto.com/2011/06/01/el-morro-el-malpais-national-monuments/</a>
+<a href="https://blog.lesterpickerphoto.com/2011/06/01/el-morro-el-malpais-national-monuments/">https://blog.lesterpickerphoto.com/2011/06/01/el-morro-el-malpais-national-monuments/</a>
 
-<a href="http:/http://blog.lesterpickerphoto.com/2011/05/25/tent-rocks-rocks/">http://blog.lesterpickerphoto.com/2011/05/25/tent-rocks-rocks/</a>
+<a href="http:/https://blog.lesterpickerphoto.com/2011/05/25/tent-rocks-rocks/">https://blog.lesterpickerphoto.com/2011/05/25/tent-rocks-rocks/</a>
 
 <strong>Some Outdoor Precautions</strong>
 

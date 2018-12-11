@@ -27,6 +27,6 @@ The Pompeii preserve is huge. If you end up going, I strongly suggest you allot 
 
 One exhibit particularly affected me, and that was a display of the casts of several of the victims. The residents of Pompei died so quickly from suffocation in over ten feet of hot ash, they and their animals were literally frozen in place. I noted a German tourist who stood by one of the cases holding a casualty and I was struck by his emotional reaction.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/owls-22.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/owls-22.jpg" >}}
 
 The overwhelming impression one gets is that Pompei was an incredible place to live, at least if you had even moderate wealth. The artwork and artisan craftwork is sublime. The mosaics are awesome. One piece showing Alexander battling Darius is composed of over two million tiny tiles.  The buildings and homes are architectural marvels. If your plans include a visit to Italy, I'd advise you to be sure that you get to Pompei... for at least two days.

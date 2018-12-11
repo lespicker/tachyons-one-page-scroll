@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Boulder Kind of Morning"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg
 destination: usa
 comments: true
 categories:
@@ -27,4 +27,4 @@ These were five vertical images, shot from a level tripod. I did not have time t
 
 I pieced the image together in PTGUI, did a tonal curve sitting here at the airport and here we are. Nothing fancy, but nice use of what might otherwise have been a wasted morning.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/04/DSC_8383-Panorama-flatirons-3.jpg" >}}

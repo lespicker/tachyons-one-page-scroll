@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shoot Tight!"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/galapagos-tortoise-wide.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/galapagos-tortoise-wide.jpg
 comments: true
 categories:
 - How-to
@@ -23,23 +23,23 @@ By shooting tight, I’m referring to zooming in on the subject so that you remo
 
 Now take a look at this next image, shot the same day. See the difference? Notice the emotional impact?
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/galapagos-tortoise-tight.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/galapagos-tortoise-tight.jpg" >}}
 
 The same concept holds true for the following image. 
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/nazca-booby-with-chick-wide.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/nazca-booby-with-chick-wide.jpg" >}}
 
 The Nazca Booby was photographed in the Galapagos and everyone else I was with photographed the mother and bird as a whole, as I initially did. Some even shot the scene wide angle to get in the rocks and water in the background, thereby making it hard to see the mother and chick at all. I managed to squeeze off a few telephoto shots of the baby alone and I like the effect (hopefully my editors will, too).
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/nazca-booby-with-chick-tight.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/nazca-booby-with-chick-tight.jpg" >}}
 
 This next series really show two images with entirely different effects. However, I just wanted to show how shooting tight can result in creative applications that may not be immediately apparent in the wider image. I took this initial shot for a series on amusement parks. This was taken at Salem Willows in Massachusetts.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/amusement-park-wide.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/amusement-park-wide.jpg" >}}
 
 The tight rendition is the stuff of kids’ nightmares, a bas relief of Chucky.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/amusement-park-tight.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2009/05/amusement-park-tight.jpg" >}}
 
 Finally, shooting tight works wonders for people shots, but I’ll leave that topic for another day.
 

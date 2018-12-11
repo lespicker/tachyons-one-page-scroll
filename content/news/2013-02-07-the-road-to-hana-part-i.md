@@ -16,11 +16,11 @@ My guess is that few Hawaii travelers have not heard of The Road to Hana. It is 
 
 The bamboo forests afford tons of opportunities for macro photography.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024246.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024246.jpg" >}}
 
 This is a drive that forces you to slow down, although locals won't even think twice of passing you going twice the speed limit around a curve. Of course the speed limit is mostly 15MPH, but most drivers learn to breath and relax on the drive. Cliff diving in a car doesn't sound very attractive. The drive takes maybe two hours, but for a photographer, better count on at least double that.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A00242091.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A00242091.jpg" >}}
 
 If you plan to do the Hana drive and then get back to Kihei, Kahului or Lahaina the same day,  my advice is- don't do it. You'll just frustrate yourself. Instead, do what I did this past week; take a full day to drive to Hana, spend the night, and then either backtrack the next day, or else complete the loop by driving back along the spectacular Pi'ilani Highway (more on that tomorrow).
 
@@ -30,4 +30,4 @@ For more years than I care to remember, I've wanted to stay at the Hotel Hana, t
 
 Travaasa is located in a drop-dead gorgeous location. All cabins have Pacific Ocean views. There's a world-class spa, wellness center, horseback riding, hikes and more. Do as much or as little as you want. On our evening we hiked the shoreline to snag this beautiful sunset, taken from their property.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024202-Edit.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/02/A0024202-Edit.jpg" >}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lifou, New Caledonia"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-1152010-11-05.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-1152010-11-05.jpg
 destination: ausnz
 comments: true
 categories:
@@ -26,11 +26,11 @@ New Caledonia is currently a French protectorate, but is slated for a vote on in
 
 Disgorging two thousand people onto an island that does not even have a docking facility (passengers had to be tendered in) is no small task. And, to be sure the islanders were overwhelmed. Yet one would be hard pressed to find more friendly people, willing to accommodate tourists in whatever way they can. The indigenous people greeted us with a colorful and melodic singing and dancing troupe, using hand-pads made of coconut hemp to produce percussion sounds.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-122010-11-05.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-122010-11-05.jpg" >}}
 
 First a bit of geography. Lifou is a classic tropical island, with miles and miles of pure white sand beaches. Its reefs are idyllic. Fish are abundant. The tropical huts that its indigenous people live in are picturesque and inviting.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-602010-11-05.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-602010-11-05.jpg" >}}
 
 Lifou also sports caves, picturesque cliffs and gorgeous coves. I spent a lovely few hours prowling the coastline and photographing, although the day was overcast.
 
@@ -39,14 +39,14 @@ My wife and I were about to hike the mile back to the ship, when a battered red 
 
 And what a time we had! For the next hour, Jacob, his wife/partner Leila and their two children, Lorenzo and Maria gave us a tour of their farm, known as The Vanilleraie. Jacob and his family were filled with pride as they showed us how vanilla beans are grown.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-1382010-11-05.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-1382010-11-05.jpg" >}}
 
 The care they take with their plants is evident. Every plant is carefully manicured and cultivated. Each plant is mulched with coconut shells, since the coconut palm grows wild throughout the island and on Jacob’s and Leila’s property. So nothing is wasted, Jacob and his son feed the coconut meat to their pigs.
 
 It was hot and steamy out, but that was the last thing on our minds as we admired the farm they had carved out of the tropical jungle. At the end of the visit Jacob opened a weather-beaten suitcase and showed us the crown jewel of his operation; probably several hundred now dried and brown vanilla beans. My, god, what an intoxicating smell wafted to us when he opened that suitcase! He offered us some as a gift, but we tried to explain to him that we were not allowed to take any plants or foods back to the ship. He looked disappointed- and probably thought we were nuts- but I hope he understood. As soon as I get back to the States, I’ll send photos of the family back to them.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-1912010-11-05.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-1912010-11-05.jpg" >}}
 
 If you ever do get to Lifou, make The Vanilleraie a must-see stop, especially if you speak French.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-1942010-11-05.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/11/Lifou-New-Caledonia-1942010-11-05.jpg" >}}

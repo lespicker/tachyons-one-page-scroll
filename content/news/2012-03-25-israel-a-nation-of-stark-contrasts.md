@@ -42,7 +42,7 @@ I’m amazed at how my biblical references were turned upside down during my vis
 <h3>A Vibrant Economy</h3>
 During my visit you’d hardly know that the world is in recession. Building is going on everywhere, with huge cranes dominating the city skylines. High tech is huge in Israel, with many of the patents for the gadgets we love originating in this tiny country. As a result, Microsoft, Intel, Apple and other high-tech giants maintain research campuses in Israel. Their highly educated workforce propels their economy.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018139-Edit.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/03/A0018139-Edit.jpg" >}}
 
 <h3>Diversity Rules</h3>
 Israel appears to my eyes to be as diverse a democracy as I could imagine. First, of course, is the diversity within the Jewish community. The Ultra-Orthodox live side by side with secular Jews who embrace their culture but do not put a lot of emphasis on their faith. On  the Jewish Sabbath I saw every sect racing past each other on the way to their respective houses of worship.

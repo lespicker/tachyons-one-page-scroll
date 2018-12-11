@@ -20,4 +20,4 @@ If you’re shooting landscapes, one of the most effective means of adding inter
 
 How do you use foreground elements judiciously? First try putting them off center for visual interest, perhaps at the very edge of the frame. Next decide how much of the foreground-to-background you want in focus. I often use a special lens, called a tilt-shift lens, to give my images more depth-of-field, but if you have a tripod you can just move your aperture to f16 or even f22 to get maximum depth of field without hand shake. I nearly always use a tripod to keep foreground and background in sharp focus.
 
-Want more advice on foregrounds? Check out this link to another of my blogs: <a href="http://blog.lesterpickerphoto.com/2011/03/08/foreground-is-forewarned/">http://blog.lesterpickerphoto.com/2011/03/08/foreground-is-forewarned/</a>
+Want more advice on foregrounds? Check out this link to another of my blogs: <a href="https://blog.lesterpickerphoto.com/2011/03/08/foreground-is-forewarned/">https://blog.lesterpickerphoto.com/2011/03/08/foreground-is-forewarned/</a>

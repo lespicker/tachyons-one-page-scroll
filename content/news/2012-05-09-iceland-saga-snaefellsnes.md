@@ -26,4 +26,4 @@ The peninsula juts out into the frigid north Atlantic ocean. Here, in May, the t
 
 Here is a jpeg version of a 3-photo panorama I took of an interesting phenomenon that I’ve not seen anywhere else in my travels. In many places along the southern coast and the Snaefellsnes peninsula (and perhaps elsewhere but I’ve not been there yet), the lava has been colonized by a deep carpet of moss. The moss is luxurious. Wherever I pressed down with my hand it would depress a good four to six inches. These blankets of moss go on for miles.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0019409-Panorama.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0019409-Panorama.jpg" >}}

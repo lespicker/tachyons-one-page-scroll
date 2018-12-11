@@ -42,7 +42,7 @@ But the town has seen better days, for sure. The local timber mill closed down y
 <h3>A Short History</h3>
 Haines is named after a woman who donated money to create a mission here to convert the Tlingits, the native population. The Tlingits referred to the area as “the end of the trail,” because of it being the end of their inland trading route. Once the United States bought Alaska from Russia and subsequent land disputes with Canada were settled, Haines became a major military installation that dominated the region and the economy from the turn of the century to just after WW II. The dismantling of what was known as Fort Seward was a blow to the region.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP2222.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP2222.jpg" >}}
 
 <h3>Haines Today</h3>
 The American Bald Eagle Foundation is headquartered here and sponsors the annual eagle festival in November. During the winter months Haines has the highest concentration of bald eagles in the world and attracts lots of nature lovers. Similarly the annual salmon run attracts thousands of visitors. Haines also attracts thousands of adventurers who love outdoor pursuits including kayaking, mountain biking, fishing, canoeing, hunting, camping hiking and photography. A number of outfitters in town cater to that crowd. If you are into any of these sports, I advise you to keep away from the two terrific outfitting stores in town because you’re bound to spend more there than you anticipated.
@@ -56,21 +56,21 @@ The one thing that came as a surprise to me was the cost of food here. From groc
 <h3>Unique Venues</h3>
 As you might expect, Haines has some solid and some quirky cultural attractions. First the quirky: how about The Hammer Museum. No, it’s named after a person. This is a museum devoted entirely to hammers!
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1834.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1834.jpg" >}}
 
 There is also the Sheldon Museum &amp; Cultural Center which features local history and native culture.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1845.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1845.jpg" >}}
 
 The American Bald Eagle Foundation maintains both a museum and rescue center where you can see live bald eagles.
 
 The waterfront area is strikingly picturesque, with ocean and snow-capped mountains in every view.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1864.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP1864.jpg" >}}
 
 <h3>Around Haines</h3>
 The views and wildlife attractions around Haines are incredible. Drive a few hundred yards from town in any direction and you’ll feast on eye candy.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP2163.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/08/LAP2163.jpg" >}}
 
 Bald eagles are everywhere, bears roam the roads, forest and shoreline at this time of year, and seals swim upriver to feast on the salmon. We saw black mink, many bird species, and dozens of waterfalls. The weather is chilly and often misty or rainy right now, but if you are the outdoors type, I’d easily recommend Haines as a vacation destination.

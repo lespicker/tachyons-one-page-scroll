@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El Morro & El Malpais National Monuments"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0869-Panorama.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0869-Panorama.jpg
 destination: usa
 comments: true
 categories:
@@ -16,19 +16,19 @@ tags:
 ---
 I love cutting out three or four days from my schedule and just rambling, camera in hand, to areas I have always wanted to visit or revisit. No schedule, no major assignment breathing down my neck, just the pure, unadulterated joy of being out in nature soaking it in.
 
-For eight glorious days I was in New Mexico, four days on an assignment of sorts, and four days for myself, wandering through several National Monuments. I’ve already described Kasha-Katuwe Tent Rocks National Monument in a previous blog (<a href="http://blog.lesterpickerphoto.com/2011/05/25/tent-rocks-rocks/">http://blog.lesterpickerphoto.com/2011/05/25/tent-rocks-rocks/</a>), and here I’ll briefly describe El Morro and El Malpais National Monuments, which are near to each other and can be photographed in a day if you plan wisely. Of course, if you had a month and planned wisely, you’d have an even better photo experience!
+For eight glorious days I was in New Mexico, four days on an assignment of sorts, and four days for myself, wandering through several National Monuments. I’ve already described Kasha-Katuwe Tent Rocks National Monument in a previous blog (<a href="https://blog.lesterpickerphoto.com/2011/05/25/tent-rocks-rocks/">https://blog.lesterpickerphoto.com/2011/05/25/tent-rocks-rocks/</a>), and here I’ll briefly describe El Morro and El Malpais National Monuments, which are near to each other and can be photographed in a day if you plan wisely. Of course, if you had a month and planned wisely, you’d have an even better photo experience!
 
 <h3>El Morro</h3>
 El Morro (The Headlands) is a smaller Monument than El Malpais. I love its accessibility, both for photographers and people with disabilities. From the visitors center there is a wonderful paved, circular path that takes one along the spectacular rock formation that is its mainstay scenic and to a small pool of water that was a godsend to the early settlers. The Zuni people built a pueblo atop the El Morro mesa around 1275 that eventually housed as many as 1,500 residents. The hikes around the mesa are populated with lots of interesting petroglyphs.
 
 If you go early in the morning, the sun lights up the rock face and the pool area, so plan your visit to take full advantage of that. Hike around the mesa to get a feel for heavenly silence that the Zuni Indians were blessed with.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0694.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/LAP0694.jpg" >}}
 
 <h3>El Malpais</h3>
 El Malpais is a much larger and more varied park. I’d recommend that, at the very least, you plan to shoot at Sandstone Buffs area for good panoramic images.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/Sandstone-Bluffs-Panorama-1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/06/Sandstone-Bluffs-Panorama-1.jpg" >}}
 
 Ten minutes down the road you can finish your tour at La Ventana natural arch. As the sun finally sets over the high desert, you’ll be treated to an incredible show as the arch lights up. It’s a dazzling way to end a satisfying photographic ramble.
 

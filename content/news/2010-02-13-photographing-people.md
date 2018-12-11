@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photographing People"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-1-of-7.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-1-of-7.jpg
 comments: true
 categories:
 - How-to
@@ -29,7 +29,7 @@ I firmly believe that it is a matter of civility, pure and simple, to ask someon
 
 Now, permission does not have to be a signed release form. It can be a gesture- holding up your camera, pointing to it and to the subject and shrugging your shoulders as if to ask the question. Or, if you speak the language, just ask.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-2-of-7.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-2-of-7.jpg" >}}
 
 In some countries, I’m thinking of Muslim countries in particular, photographing women without permission can get you in serious trouble. At the very least you owe it to your subject to give her a chance to cover her face.
 
@@ -37,7 +37,7 @@ Sometimes I admit to having photographed a subject surreptitiously, to catch a s
 
 2. <strong>Get a Picture, Give a Print</strong>. One thing I like to do is either send a print to the person once I get home or else bring one with me on my next visit to the country. In Ecuador, there is a market in Otavalo where I love to spend time photographing. When I go back, I bring prints of my subjects from my last visit and now the people are excited when I return.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-5-of-7.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-5-of-7.jpg" >}}
 
 3. <strong>Be patient</strong>. One of the tips that I give my students at workshops is to be patient when you photograph people. Often it is only after 10 minutes of shooting that the subject relaxes enough for that unguarded moment.
 
@@ -46,13 +46,13 @@ Sometimes I admit to having photographed a subject surreptitiously, to catch a s
 5. <strong>Shoot Early</strong>. I find that a great time to shoot is early in the morning, even in westernized countries. That is when merchants set up their market stalls, when farmers heave
 their produce from cart to table, when kids scurry to help their parents or scamper away from them. The rising sun casts a warm glow, dust is kicked up highlighting dust motes, and the grittiness of life is front-and-center for your photographic palette.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-6-of-7.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-6-of-7.jpg" >}}
 
 6. <strong>Tell a Story</strong>. I always tell my workshop attendees that when given a choice, shoot a scene tightly. Shooting tight conveys emotion and creates dramatic impact. You do not need the entire person’s body in the image, at times not even the entire face. A child’s face from chin to forehead, lips streaked in chocolate, can be a prize-winner.
 
 However, you need to decide before you shoot what the story is that you want to tell. Is it the expressions of toil on a merchants face, or the warm embrace of a nurturing mother? That will determine whether you shoot a tight face shot or a medium telephoto shot of the mother squatting curbside holding her daughter, or a wide angle of a bustling city square. You decide and then fill the pages of your photo book with that story.
 
-<a href="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-3-of-7.jpg"><img class="size-thumbnail wp-image-123 " src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-3-of-7.jpg?w=100" alt="" width="100" height="150"></a>
+<a href="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-3-of-7.jpg"><img class="size-thumbnail wp-image-123 " src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-3-of-7.jpg?w=100" alt="" width="100" height="150"></a>
 
 7.<strong> Use Flash</strong>. At certain times of the day light is harsh and creates deep shadows that distract from the subject. In many cultures people, especially men, wear wide-brimmed hats that create problems during mid-day hours. The solution in these cases is to use flash to gently fill in the shadows. Yes, pros have elaborate flash systems, but they are often superfluous. You can capture terrific shots using your on-camera, pop-up flash. The secret here is to diffuse the light so it doesn’t appear harsh on the face. There are several after-market products out there that you place over your flash to smooth the light and create pleasing portraits. In a pinch I have used a tissue or a white plastic shopping bag.
 
@@ -60,7 +60,7 @@ However, you need to decide before you shoot what the story is that you want to 
 
 9. <strong>Move</strong>. When shooting people, move around - talk to them as you do so – and shoot from many different angles. Digital is wonderful. Did the person blink? Just keep shooting. Was the background distracting? Move and keep shooting.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-1-of-7.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/02/people-1-of-7.jpg" >}}
 
 10. <strong>Shoot Wide Open</strong>. I say this with a caveat, but if the person is the focus of your image, try opening up the aperture to its maximum (f2.0, 2.8, 3.5 or 4.0). That will blur the background and cause your subject to pop off the frame. That works especially well if the person’s face or dress is able to carry the story. If the story you want to tell includes the context – a dance, the village huts, animals or a spectacular backdrop, then close down the lens (f8, 11 or 16). However, that works best when your subject is close to you, creating a strong foreground element.
 

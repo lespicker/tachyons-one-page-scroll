@@ -36,7 +36,7 @@ Here, then, are some of my favorite and not so favorite aspects of Sri Lanka for
 
 <strong><em>Photo Opps</em></strong>. Sri Lanka has got to be one of the most photogenic countries on earth, no exaggeration. First, the geography varies from lush mountains in the north to dry desert-like conditions in the south. Second, it has some of the most photographable architecture in the way of its temples and shrines. Third, its wildlife is exceptional, from monkeys to leopards and elephants. Fourth, its people are beautiful, both in looks and spirit, and nearly always willing to allow you to take their picture.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018633.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018633.jpg" >}}
 
 <strong><em>The Geography</em></strong>. In a day’s drive you can go from lush, tropical highlands where Sri Lanka’s finest tea plantations are located, to the forest and flat scrub brush country of Yala National Park. Bring a wide and medium length lens with you (a zoom works fine) and use a polarizer.
 
@@ -44,11 +44,11 @@ Here, then, are some of my favorite and not so favorite aspects of Sri Lanka for
 
 <strong><em>The Tea</em></strong>. I am an ardent tea drinker, having given up coffee more than 10 years ago. I love the subtle differences between teas. Sri Lanka makes some of the best teas in the world. I had the joy of visiting a tea plantation, as well as a tea factory. (“The coffee is terrible!” was the most common refrain at breakfasts). The tea growing region is just so gorgeous and you are guaranteed to see women picking every day, as Sri Lanka’s climate is ideal for growing the plants.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018845.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/A0018845.jpg" >}}
 
 <strong><em>The Animals</em></strong>. Sri Lanka is a gold mine for animal lovers and photographers. There are several national parks that are home to Sri Lanka’s 6,000 elephants. <a href="/2012/04/14/sri-lanka-incredible-yala-national-park/">Yala National Park</a> is considered one of the top leopard environments on Earth. Bring a telephoto lens with you and a sturdy tripod or beanbag.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_0307.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_0307.jpg" >}}
 
 <strong><em>Massages</em></strong>. How can you resist a one-hour full body massage for $20-25 USD? Every hotel has Ayurvedic masseuses who will work their magic on those sore muscles.
 
@@ -56,7 +56,7 @@ Here, then, are some of my favorite and not so favorite aspects of Sri Lanka for
 
 <strong><em>The Attitude</em></strong>. Perhaps most important is what we can take away form a visit to Sri Lanka. I like to think that it has taught me the value of peaceful co-existence. Buddhists are live-and-let-live kind of folks and that is contagious after a few weeks spent here, especially after leaving America last month in the midst of election season divisiveness, acrimony and polarization. Buddhists, Hindus, Muslims and Christians seem to live together peacefully, even to the point of celebrating each others’ holidays.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_2124.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/04/DSC_2124.jpg" >}}
 
 … and some things I don’t like so much
 
@@ -64,6 +64,6 @@ Here, then, are some of my favorite and not so favorite aspects of Sri Lanka for
 
 <strong><em>Environment</em></strong>. Sri Lanka is a drop-dead gorgeous country, but it would be a lot more inviting to western tourists if the nascent environmental awareness movement caught hold. Litter is everywhere and there are few organized cleanups. In the south coastal region, hit hard by the 2004 tsunami, that is most noticeable in beaches that are littered with trash.
 
-<strong><em>Driving</em></strong>. Scary. You find yourself gripping your seat belt and praying that when the crash occurs, it won’t be too painful. See my <a href="http://blog.lesterpickerphoto.com/2012/04/13/driving-in-sri-lanka-dont/">previous post</a> on this topic.
+<strong><em>Driving</em></strong>. Scary. You find yourself gripping your seat belt and praying that when the crash occurs, it won’t be too painful. See my <a href="https://blog.lesterpickerphoto.com/2012/04/13/driving-in-sri-lanka-dont/">previous post</a> on this topic.
 
 <strong><em>Changes Are Coming</em></strong>. With their war against terrorism behind them, Sri Lanka is ripe for development. Hotels along the beach and near parks are going up. Asian investors are salivating over Sri Lanka’s potential. My fear is that much of the culture, pace and lifestyle will change. My hope is that the Buddhist ethic will survive to create a tourist haven that dares to be different.

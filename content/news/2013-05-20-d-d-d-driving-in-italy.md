@@ -53,7 +53,7 @@ Here are some suggestions for driving in Italy:
 
 <strong>City driving</strong>. Don’t if you can avoid it. Park outside the city and take a bus, shuttle or train into town. In many cities, like Florence (called Firenze by Italians), you can get a huge fine for driving into the city center. Streets are incredibly narrow, having been built for foot traffic or horse-drawn wagons (we’re talking Roman wagons!) 2,000 years ago.  Cars are parked and double-parked all over the streets making negotiating city traffic a torment. I was only able to do it because I grew up in Brooklyn (ha, ha!).
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_8945.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2013/05/DSC_8945.jpg" >}}
 
 <strong>Cycles</strong>. You have to get used to motorcycles and bicycles in Italy. I mean a lot of them, as in a whole big bunch, bigger than a bizzilion. The trouble is that motorcycles obey no rules of the road that my wife and I could discern. They will pass you on the right or left. They will weave in and out in city traffic. They park in the road, on sidewalks, behind your rear bumper, even in apartment hallways.
 

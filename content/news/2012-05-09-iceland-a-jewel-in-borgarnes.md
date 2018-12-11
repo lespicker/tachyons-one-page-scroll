@@ -23,7 +23,7 @@ Outwardly unassuming, the B&amp;B sits on a ledge overlooking the harbor and the
 
 There is a comfortable sitting room with to-die-for views of the harbor and rocky, bird-filled islets. The house sits at the end of a quiet street, so we each had a blissfully restful sleep.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/photo-copy.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/photo-copy.jpg" >}}
 
 Breakfast included pancakes, cereals, cheese, freshly baked whole grain bread (baked by Inger), vegetables, juice, sliced eggs, and fresh jams. In fact, despite our rigorous shooting schedule, Richard and I decided to linger to enjoy the solitude and the views.
 

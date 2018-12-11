@@ -36,9 +36,9 @@ The more experience you gain with this process, in other words the more you writ
 
 Suddenly, your images will achieve greater depth. Your color palette will expand or, perhaps even better, shrink to capture the subtle monochromatic tones of a dreary London alleyway. You will selectively blur that animal’s movement to tell your story of its grace. You will wait that extra second for that smudge-faced little girl on a Calcutta street to smile so that you reveal your vision of a more hopeful future.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/LAP0531-1-Edit2.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/LAP0531-1-Edit2.jpg" >}}
 
 Writing and photography are like two parts of the whole. The best images I have ever seen somehow speak their truth to me. A picture, after all, if we are lucky, really can be worth a thousand words. The key here is to always ask yourself this question: What is the story you are trying to tell with your image?
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/LAP_5276-Edit-Edit2.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/01/LAP_5276-Edit-Edit2.jpg" >}}
 

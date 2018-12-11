@@ -48,7 +48,7 @@ Our goal of capturing the perfect light means sunrises and sunsets spent behind 
 
 En route, we will also spend time in Dawson City, epicenter of the historic Klondike Gold Rush. This quaint and historic town, with gravel roads, wood sidewalks, aboriginal culture and historic buildings, is tailor made for photography.
 
-Lester Picker [www.lesterpickerphoto.com](www.lesterpickerphoto.com), has more than 650 credits in major publications such as National Geographic books and magazines, Forbes, Better Homes & Gardens, Time, Inc. publications and dozens of others. Les was given Canada’s highest photography honor, the Northern Lights Award for Best Travel Photographer, a peer-juried competition. [Les’ blog](http://blog.lesterpickerphoto.com) is widely followed and often quoted by media.
+Lester Picker [www.lesterpickerphoto.com](www.lesterpickerphoto.com), has more than 650 credits in major publications such as National Geographic books and magazines, Forbes, Better Homes & Gardens, Time, Inc. publications and dozens of others. Les was given Canada’s highest photography honor, the Northern Lights Award for Best Travel Photographer, a peer-juried competition. [Les’ blog](https://blog.lesterpickerphoto.com) is widely followed and often quoted by media.
 
 > My favorite photographic vacation ever, was to the Amazon, Galapagos and Machu Picchu with Les Picker. There were photographic opportunities at every turn as well as expert instruction/advice. Then I went to the Yukon Territory on another adventure with him. The beauty of that area is beyond description! It was a photographic explosion of colors, and with his assistance, many of my images are near professional quality. …
 

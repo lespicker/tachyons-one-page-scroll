@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Canadian Rockies - What Photo Equipment to Take?"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/packing_2010-07-22_1822%C2%A9LesterPicker.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/packing_2010-07-22_1822%C2%A9LesterPicker.jpg
 comments: true
 categories:
 
@@ -23,7 +23,7 @@ As you can see, today I’m packing my wheeled carry-on, made by ThinkTank. I li
 
 I’ll also take a backpack for hiking the trails. Since my wife and granddaughter will be accompanying me, and our baggage will be seriously curtailed by the realities of the Canadian wilderness, I’ll have to sacrifice certain picture-taking opportunities. I’ll leave my macro equipment, since that takes a long time to set up and use and even though I’ll have two very patient women with me, I don’t want to push it. Also, no extra-long lenses, since my space is limited.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/packing_2010-07-22_1819%C2%A9LesterPicker.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/packing_2010-07-22_1819%C2%A9LesterPicker.jpg" >}}
 
 So, after too much agonizing, here’s what made the cut.
 <ul>

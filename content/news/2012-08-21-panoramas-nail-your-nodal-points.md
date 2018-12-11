@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Panoramas? Part 1: Nail Your Nodal Points!"
-image: http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/harbor-flat-small.jpg
+image: https://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/harbor-flat-small.jpg
 comments: true
 categories:
 
@@ -18,7 +18,7 @@ Truth be known, I had already written a lengthy blog about nodal points and how 
 
 Many point-and-shoot (PAS) cameras have a built in panorama feature, sometimes known as "stitching." You simply go to the menu, tell the camera you’re about to shoot a panorama, point the camera at each section and- voila!- the camera processes a panorama for you! Pretty nifty. And the more this feature has advanced over the past few years, the better the results. If you’re happy with the panoramas you’re getting from your PAS, stop here and be very, very grateful. Here is an example of the stitching capability in the Canon G12 PAS, called "Stitch Assist." You'll have to study the manual carefully to uncover this function. However, it's worth the effort.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/photo.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/photo.jpg" >}}
 
 Naturally, there are hints to improve even a PAS in-camera pano; pre-visualize what the pano will incorporate, overlap the images by 20-30%, keep your elbows close to your body, keep the camera tight to your eye and rotate your body at the waist, keeping the camera as even and level to the ground as possible.
 
@@ -26,11 +26,11 @@ The next step, if you want higher quality images is to use a tripod, whether wit
 
 So, what is the problem and how does it relate to nodal points? Hold your thumb out at arm’s length, pointed up. Close one eye. Now , looking at the thumb, turn your head right and left. Notice how the thumb seems to move? That is known as parallax. The same thing happens when you pan your camera right and left. That makes it harder for pano software programs to work their magic.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/pano-arrows.gif" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/08/pano-arrows.gif" >}}
 
 The technical explanation is complicated, but if you want to read about it in more detail, and understand how to correct for this and improve your panoramas, visit the folks at Really Right Stuff <a href="http://reallyrightstuff.com/WebsiteInfo.aspx?fc=108">for an explanation</a> (and some great equipment).
 
-In <a title="Panoramas: Part 2" href="http://blog.lesterpickerphoto.com/2012/09/02/panoramas-part-2-how-i-do-it/">Part 2</a> I'll review how I handle panoramas, using examples from my own work. Stay tuned!
+In <a title="Panoramas: Part 2" href="https://blog.lesterpickerphoto.com/2012/09/02/panoramas-part-2-how-i-do-it/">Part 2</a> I'll review how I handle panoramas, using examples from my own work. Stay tuned!
 
  
 

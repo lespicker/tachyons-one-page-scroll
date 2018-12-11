@@ -40,13 +40,13 @@ The 1.5 mile trail starts at an elevation of 5,570 feet and ends at the summit a
 <h3>Hoodoos</h3>
 The hoodoos you see throughout the hike were formed by the blast from a super-volcano that left deposits over 1,000 feet thick. Due to differences in the composition of the deposits, the soils have eroded differentially, leaving tall, inverted cones (hoodoos). Hoodoos that have rock caps on top are protected from erosion, while those without the caps are in various states of decay, creating the sandy footing throughout the monument.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0559-Panorama.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0559-Panorama.jpg" >}}
 
 The hike wasn’t easy for me. I decided to bring my Arca Swiss 4x5 large format view camera with me. But to use that heavy monstrosity, I needed my 35mm Nikon D700 to act as a spot meter, telling me how to expose the Velvia 50 film I use. So I was slogging uphill through sand that was sometimes ankle deep, carrying a 25-pound backpack and a 10-pound tripod with view camera mounted on it slung over my shoulder. Ouch!! if I keep up working with my 4x5 I’ll invest in a small  light meter, for sure.
 
 The trail winds through a marvelous slot canyon, with some passages so narrow only one person at a time can squeeze through. This next image I took just at the beginning of the canyon. I was struck by the magnificent Ponderosa Pine roots set against the sheer rock walls and the distant trees. As I set up to shoot, it occurred to me that those roots were exposed over the years by torrential rainwater surging down the canyon. Eventually the root tissue becomes barked over for protection. This panorama shot doesn’t come close to its awesome size and commanding presence.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0616-Panorama.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2011/05/LAP0616-Panorama.jpg" >}}
 
 If you visit Albuquerque, and after you read this series of blogs you may well decide to do so, plan on a trip to Kasha-Katuwe Tent Rocks National Monument. You’ll not be disappointed.
 <h3>If You Go</h3>

@@ -27,10 +27,10 @@ The solution? Hand-hold your camera, elbows at sides. Shoot at 1/250 or faster. 
 
 One final observation. Straps. Use them wisely. Here’s what I mean. Probably 95% of the people I saw using their cameras, DSLRs as well as point-and-shoots, didn’t have the strap around their hand or neck. Come on folks! A strap is the cheapest form of camera insurance you’ll ever have!
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/BC-Ferries-22009-08-18.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/BC-Ferries-22009-08-18.jpg" >}}
 
 On the other hand, a strap can be a major liability. Here’s how. I walked through the ferry’s cafeteria and saw half-a-dozen folks put their cameras on the table, the strap dangling down. It seems to me that’s inviting disaster. I was once on the Big Island of Hawaii and saw a man place his high-end Cannon DSLR with a 500mm lens on the tailgate of his SUV. That, by the way, represented a $15,000 investment, minimum. The strap was hanging down. He reached into the SUV to retrieve his camera bag and as he pulled away, the bag caught his camera strap and pulled the entire rig to the ground.
 
 To this day I can’t understand why that guy didn’t get down on his knees, crying, his arms outstretched to the lens, which was scattered into at least 350 pieces on the gravel. But it etched into my mind what my father thankfully drummed into my head when he gave me my first camera. NEVER let your camera strap hang carelessly, even for a second.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/BC-Ferries-32009-08-18.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/08/BC-Ferries-32009-08-18.jpg" >}}

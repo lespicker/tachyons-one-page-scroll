@@ -17,7 +17,7 @@ One of the joys of driving around Iceland is that you won’t drive far without 
 
 Instead of ranting on about the incredible waterfalls, I’ll give you some quick examples. The short video clips were taken with my iPhone 4S.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0019898.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2012/05/A0019898.jpg" >}}
 
 <a href="http://youtu.be/wrxp8M7oSQo">This is a smaller waterfall</a> I came across while visiting a historic site. The falls was mostly hidden by a rocky berm, but as I drove I noticed a flash of light that I thought might be a falls. We ended up hiking a fair distance to reach it, but it was worth it as we photographed it for more than an hour.
 

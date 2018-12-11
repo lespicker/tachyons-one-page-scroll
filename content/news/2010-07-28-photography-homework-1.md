@@ -20,13 +20,13 @@ Here’s what I came up with on a recent trip to the Yukon. I had a couple of da
 
 With this image, I liked the young saplings growing in a formerly clearcut area. In this case a horizontal shot just didn't work for me. I liked the strong vertical lines. I also like the way the closer trees are exposed to the sun and draw your eye from right foreground to left background.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/yukon2-_2009-08-27_2%C2%A9LesterPicker1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/yukon2-_2009-08-27_2%C2%A9LesterPicker1.jpg" >}}
 
 
 Sunset comes late in the Yukon during the summer and early fall months. These shots were taken in September on Lake Labarge. Which one do you prefer? I think each has its merits, but I like the way the pier pulls my eye into the background with the vertical.
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/yukonboat_2008-09-14_4%C2%A9LesterPicker1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/yukonboat_2008-09-14_4%C2%A9LesterPicker1.jpg" >}}
 
-{{< figure src="http://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/yukonboat_2008-09-14_3%C2%A9LesterPicker1.jpg" >}}
+{{< figure src="https://blog.lesterpickerphoto.com/wp-content/uploads/2010/07/yukonboat_2008-09-14_3%C2%A9LesterPicker1.jpg" >}}
 
 Now, go out and try the "flips." Please share your results with us.
