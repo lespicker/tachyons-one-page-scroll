@@ -1,6 +1,6 @@
 ---
 title: "eBooks"
-image: "/images/099A3609.jpg"
+image: "/images/A0020185-Edit.jpg"
 cta: "/contact"
 weight: 10
 ---

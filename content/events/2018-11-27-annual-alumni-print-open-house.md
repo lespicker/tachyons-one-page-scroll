@@ -9,6 +9,7 @@ sideline: 'Printing | Open House | Art'
 sidecolor: 'red'
 image: "/images/DSCF7227.jpg"
 background: 'bg-center'
+draft: true
 ---
 Each year our studio holds a day to honor the alumni of our digital printing workshops. Alumni gather for a "no-holds-barred" use of our large format printers, archival inks and Moab Fine Art Papers, creating works of art for friends and relatives for holiday giving. Large prints, small prints, 6-foot panos... makes no difference. The idea is to have fun and advance ones digital printing skills, creating fine art on the finest art papers made. 
 
