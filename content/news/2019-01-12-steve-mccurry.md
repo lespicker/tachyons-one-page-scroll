@@ -1,7 +1,7 @@
 ---
 title: "Steve McCurry book"
 image: /images/bli/2019/01/IMG_0423.jpg
-subtitle: '<span class="black-70">More visual.</span>'
+subtitle: '<span class="black-70">Book Review</span>'
 destination: Asia
 comments: true
 categories: 
