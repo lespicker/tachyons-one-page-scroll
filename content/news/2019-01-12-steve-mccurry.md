@@ -14,7 +14,7 @@ tags:
 - travel
 ---
 
-If I'm going to recommend a $70 book to my followers, I want to be damned sure it is worth every penny. So I'm going to say this as convincingly as I can: **Steve McCurry: A Life In Pictures** is worth every penny of its $70 cover price, and then some. 
+If I'm going to recommend a $70 book to my followers, I want to be damned sure it is worth every penny. So I'm going to say this as convincingly as I can: [**Steve McCurry: A Life In Pictures**](https://amzn.to/2VUf5oZ) is worth every penny of its $70 cover price, and then some. 
 
 **A Life in Pictures** is far more than a pretty book of Steve's classic images, although a staggering 380 of them are included. Written by his older sister, Bonnie, who is President of the McCurry Foundation, the book is a comprehensive story of Steve's life, from his birth to the present. And, let me tell you, there are lessons galore for every level of photography. 
 
