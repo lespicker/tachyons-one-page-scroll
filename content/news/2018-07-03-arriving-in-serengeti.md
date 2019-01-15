@@ -22,7 +22,7 @@ tags:
 image: /images/bli/2018/07/IMG_2751.jpg
 ---
 
-We were picked up by our guides at the dirt strip airport on the Serengeti in late afternoon, after spending four adrenaline fueled days in Uganda visiting with the mountain gorillas in Bwindi Impenetrable Forest National Park. 
+[We were picked up by our guides at the dirt strip airport on the Serengeti in late afternoon](https://amzn.to/2FsvnAp), after spending four adrenaline fueled days in Uganda visiting with the mountain gorillas in Bwindi Impenetrable Forest National Park. 
 
 The June sun was beating down on us, but this early in the season it was not uncomfortably warm. It was approximately a 90-minute drive from the airstrip to our amazing Thomson Safari tent camp, located deep in the Serengeti, truly a photographer's dream. I asked my assistant (my wife) to keep a record of any wildlife sightings we might see en route to the camp. Ready for that list?
 

@@ -20,7 +20,7 @@ The summer 2018 edition of our fine art printing workshop is coming up quick. I 
 
 <!--more-->
 
-We'll have a selection of archival Moab fine art printing papers for you to use as well as the latest Canon print technology for hands-on use, including:
+We'll have a selection of archival [Moab fine art printing papers](https://amzn.to/2soGfXE) for you to use as well as the latest Canon print technology for hands-on use, including:
 
 - Two Canon Pro-1000 printers for proofing or final art up to 17x22
 - A Canon Pro-2000 available for final art work that prints 24x36 or longer for panoramic images.
