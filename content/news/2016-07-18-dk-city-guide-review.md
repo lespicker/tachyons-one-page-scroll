@@ -17,7 +17,7 @@ tags:
 image: /images/bli/2016/07/dk-review-1.jpg
 ---
 
-For the record, I am a native New Yorker, although up to now I haven't admitted that to too many people (note to my New York relatives: just kidding!). So I was pleased when I was recently approached by [Doris Kindersley](http://www.traveldk.com) publishers to try out the New York City edition of their new Top 10 Eyewitness Travel Guides (List price: $14 USD). 
+For the record, I am a native New Yorker, although up to now I haven't admitted that to too many people (note to my New York relatives: just kidding!). So I was pleased when I was recently approached by [Doris Kindersley](https://amzn.to/2SXiktM) publishers to try out the New York City edition of their new **[Top 10 Eyewitness Travel Guides](https://amzn.to/2SXiktM)** (List price: $14 USD). 
 
 <!--more-->
 
@@ -51,4 +51,4 @@ Another complaint is over what went into judging the Top Ten. Look, New York is 
 
 ### The Verdict
 
-If you are into travel, and especially travel photography, I predict that these useful guides will be a valued part of your tool kit. 
+If you are into travel, and especially travel photography, I predict that [these useful guides](https://amzn.to/2SXiktM) will be a valued part of your tool kit. 
