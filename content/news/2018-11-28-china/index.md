@@ -55,4 +55,8 @@ While in China we enjoyed 10-15 plate meals, each one freshly prepared, for lunc
 
 **Enjoy**. My tongue-in-cheek comments aside, I can't emphasize just how enjoyable China is once you have a few days to adjust. Now that China is on the world stage and a potent rival to the U.S.A. and Europe, few trips could be as valuable as one to China. The country is changing quickly and many scenic areas will be fully built up in coming years. Go soon if you can. 
 
+If you are interested in seeing more images from China, [click here](https://lesterpickerphoto.com/projects/2019-01-21-china/). 
+
+If you are considering a photo trip to China, please sign up for our [no-spam mailing list](https://lesterpickerphoto.com/), which you will find at the bottom of every website page. You'll be informed of future China and other photo adventures, as well as photo tips, country-specific travel recommendations, equipment reviews and more. 
+
 
