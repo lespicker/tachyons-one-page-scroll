@@ -1,7 +1,7 @@
 ---
 subtitle: '<span class="white-70">The Yukon</span>'
 date: "2018-10-10"
-title: '<span class="dark-red">A <span class="fw7">magical</span> land</span>'
+title: '<span class="dark-red">The Yukon: A <span class="fw7">Magical</span> Land</span>'
 sideline: 'Landscape | Yukon | Color'
 sidecolor: 'white'
 image: "images/_LAP1124-Edit.jpg"
@@ -29,4 +29,4 @@ The land breeds a rugged sort of people, fiercely independent, full of the quirk
  
 For the photographer Yukon Territory is the perfect locale. Landscapes range from glaciated mountains and cascading streams, to forests and arctic tundra. Wildlife is everywhere. The weather changes constantly, serving up dynamic scenes at every turn. 
 
-In my more than fifteen years of journeying alone through the Yukon, and bringing intimate groups of only three photographers with me, I am sharing some images with you in this gallery. If  you enjoy them, you might want to think of joining me on a Yukon Adventure.
+In my more than fifteen years of journeying alone through the Yukon, and bringing intimate groups of only three photographers with me, I am sharing some images with you in this gallery. If  you enjoy them, you might want to think of joining me on a [Yukon Photo Adventure](https://lesterpickerphoto.com/types/tour/).
