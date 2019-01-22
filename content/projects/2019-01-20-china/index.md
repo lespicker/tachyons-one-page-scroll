@@ -1,7 +1,7 @@
 ---
 subtitle: 'China'
 date: "2019-01-20"
-title: 'A Changing Land'
+title: 'China: A Changing Land'
 sideline: 'Travel | Landscapes | Wildlife'
 sidecolor: 'light-blue'
 image: "images/DSCF3713.jpg"
