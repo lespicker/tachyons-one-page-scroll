@@ -1,7 +1,7 @@
 ---
 subtitle: '<span class="white-30">People</span>'
 date: "2018-10-11"
-title: '<span class="gold">Cultures & <span class="fw7">personalities</span> from around the world</span>'
+title: '<span class="gold">Cultures & <span class="fw7">Personalities</span> From Around The World</span>'
 sideline: 'People | Culture | Personality'
 sidecolor: 'white'
 image: "/images/_LAP7134.jpg"
