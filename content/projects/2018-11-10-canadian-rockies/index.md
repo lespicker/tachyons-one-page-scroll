@@ -1,7 +1,7 @@
 ---
 subtitle: '<span class="white-70">The Canadian Rockies</span>'
 date: "2018-11-10"
-title: "<span class=\"dark-red\"><span class=\"fw7\">A photographer's dream</span></span>"
+title: "<span class=\"dark-red\"><span class=\"fw7\">Canadian Rockies: A photographer's dream</span></span>"
 sideline: 'Landscape | Canada | Color'
 sidecolor: 'white'
 image: "images/_LAP3080.jpg"
