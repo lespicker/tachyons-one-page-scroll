@@ -1,7 +1,7 @@
 ---
 subtitle: 'Antarctica'
 date: "2019-01-16"
-title: 'Frozen Landscapes & Wildlife'
+title: 'Antarctica: Frozen Landscapes & Abundant Wildlife'
 sideline: 'Travel | Landscapes | Wildlife'
 sidecolor: 'light-blue'
 image: "images/DSCF7988-Edit.jpg"
