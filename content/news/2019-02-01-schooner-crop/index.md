@@ -13,7 +13,6 @@ tags:
 - Fujinon
 - Fuji
 ---
-
 I recently returned from a month-long trip to Antarctica, with brief side trips to Buenos Aires and Tierra del Fuego. While the location of what I'm about to discuss here really doesn't much matter, it may help to inform the concept a bit. 
 
 As a photography adventure tour leader, instructor and lecturer, I'm often asked about whether lens quality really matters. I mean, why pay through the nose for a pro quality lens, when for 1/3 the price you can get a perfectly functional consumer lens from your camera manufacturer or from a third-party equivalent? Well, dear readers, I'm here to explain why you might want to shell out the extra dough. 
