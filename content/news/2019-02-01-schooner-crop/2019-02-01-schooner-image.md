@@ -2,7 +2,7 @@
 title: "Quality Lenses Don't Matter?
 date: "2019-02-01"
 image: images/DSCF8250.jpg
-subtitle: '<span class="white-50">Free<br>e-Book!</span>'
+subtitle:
 destination:
 comments: true
 categories: 
