@@ -1,13 +1,11 @@
 ---
 title: "Quality Lenses Don't Matter?
-date: "2019-01-21"
+date: "2019-02-01"
 image: images/DSCF8250.jpg
 subtitle: '<span class="white-50">Free<br>e-Book!</span>'
 destination:
-- Antarctic
 comments: true
 categories: 
-- opinion
 tags:
 - cropping
 - post-processing
