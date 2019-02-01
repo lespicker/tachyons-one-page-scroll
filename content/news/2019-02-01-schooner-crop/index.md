@@ -1,5 +1,5 @@
 ---
-title: "Quality Lenses Don't Matter?"
+title: "Do Quality Lenses Really Matter?"
 date: "2019-02-01"
 image: images/DSCF8250.jpg
 subtitle:
