@@ -74,11 +74,17 @@
 <section class="relative bg-black-50">
   <div class="flex flex-wrap justify-center mw8 pv4 ph2 ph0-ns center">
     {{ with (.Resources.Match "images/*.jpg") }}
+    {{ $.Scratch.Set "count" 0 }}
     {{ range . }}
-      <a href="{{.RelPermalink}}" class="gallery w-33 w-10-ns dib pa2" >
+    {{ $.Scratch.Add "count" 1 }}
+    <a href="#" data-featherlight="#light-box-{{($.Scratch.Get "count")}}" class="gallery w-33 w-10-ns dib pa2" >
         <div class="aspect-ratio--1x1 cover" style="background:url({{.RelPermalink}}) center;">
         </div>
       </a>
+      <figure id="light-box-{{($.Scratch.Get "count")}}" class="">
+        <img src="{{.RelPermalink}}" class="">
+        <figcaption class=""></figcaption>
+      </figure>
     {{ end }}
     {{ end }}
   </div>  
