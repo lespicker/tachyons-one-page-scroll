@@ -1,6 +1,6 @@
 ---
 title: "Do Quality Lenses Really Matter?"
-subtitle: '<span class="white-50">Gear</span>'
+subtitle: ''
 date: "2019-02-01"
 image: images/DSCF8250.jpg
 destination:
