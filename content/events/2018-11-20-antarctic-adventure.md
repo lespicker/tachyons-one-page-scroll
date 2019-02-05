@@ -1,27 +1,24 @@
 ---
 title: '<span class="white-30">Antarctic Adventure</span>'
 date: "2018-06-27"
-subtitle: '<span class="dark-red">Recon for a new <span class="fw7">adventure tour</span></span>'
+subtitle: '<span class="dark-red">Antarctic <span class="fw7">new portfolio</span></span>'
 event_date: 2018-12-19T17:15:00Z
 event_end: 2019–01-10T17:15:00Z
-event_link: "https://www.horizonworkshops.com/"
+event_link: "https://lesterpickerphoto.com/projects/"
 location: "Antarctica"
 featured: "feature"
 sideline: 'Landscape | Wildlife | Adventure'
 sidecolor: 'dark-red'
 textcolor: white
-image: "/images/DSCF0649.jpg"
+image: "/projects/2019-01-16-antarctica/images/DSCF9230-HDR-Edit.jpg"
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
 aliases:
 ---
-Beginning in mid-December I will be on a 23-day cruise to Antarctica, scouting out prime locations for future workshops we plan to offer. I'm truly excited about this trip for several reasons. First, with a doctorate in winter ecology, I have always wanted to experience the white continent. In fact, my major advisor during my graduate work was Dr. John Dearborn, who was in the first group of Americans to overwinter in the Antarctic and who has a mountain there named after him.
 
-Second, the Antarctic will be the final continent I have yet to travel on, so that trip closes the loop for me. I have been across the Arctic Circle more than two dozen times, so when I cross the Antarctic Circle it will carry special meaning for me. 
+For those interested in the unparalleled landscapes and wildlife that the Antarctic offers, I have created a [portfolio of images](https://lesterpickerphoto.com/projects/) from my recent trip to the Falkland Islands, South Georgia Island and the Antarctic Peninsula itself.  
 
-But the number one reason for my excitement lies in the unparalleled landscapes and wildlife that the Antarctic region offers. Our trip will stop at the Falklands, South Georgia Island and the Antarctic Peninsula itself. I look forward to attempting to capture interesting images of exotic wildlife and my own interpretations of its unique landscapes. 
+Interested in going to Antarctica?  Stay tuned for information on our 2020 Antarctic Photo Adventure!
 
-I'll be both blogging and Instagram-ing throughout the trip, so please follow me if you are interested in our planet's far south. Perhaps I'll even see you in 2020 for our Antarctic Photo Adventure!
-
-[Follow me on Instagram as I travel thru Antarctica](https://www.instagram.com/lespicker/)
+[Follow me on Instagram](https://www.instagram.com/lespicker/)
