@@ -11,7 +11,7 @@ sidecolor: 'red'
 image: "/2019/01/21/guide-to-fine-art-digital-printing-in-lightroom/images/DSCF9814.jpg"
 background: 'bg-center'
 ---
-After a year of planning, my new ebook, "The Art of Fine Art Digital Printing" is [now available on the iBooks platform]() for $19.95. 
+After a year of planning, my new ebook, "The Art of Fine Art Digital Printing" is now available on the iBooks platform for $19.95. 
 
 Ordinarily that would be exciting enough, but here's the kicker. Due to the good graces of two of our wonderful sponsors - [Moab fine art photographic papers](https://www.moabpaper.com/) and [X-Rite calibration solutions](https://www.xrite.com/categories/calibration-profiling) - you can download our 164-page comprehensive and heavily illustrated guide to digital printing FREE! That's right absolutely FREE!!
 
