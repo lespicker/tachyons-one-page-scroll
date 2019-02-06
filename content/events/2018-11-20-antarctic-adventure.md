@@ -6,7 +6,6 @@ event_date: 2018-12-19T17:15:00Z
 event_end: 2019–01-10T17:15:00Z
 event_link: "https://lesterpickerphoto.com/projects/"
 location: "Antarctica"
-featured: "feature"
 sideline: 'Landscape | Wildlife | Adventure'
 sidecolor: 'dark-red'
 textcolor: white
