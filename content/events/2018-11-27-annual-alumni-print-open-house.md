@@ -17,7 +17,7 @@ Ordinarily that would be exciting enough, but here's the kicker. Due to the good
 
 My assistant for the past 11 years, Master Printer Bob Boyer, is the technical genius behind the book. You will definitely benefit from our experience and knowledge as we dispel myths about digital printing and explain the science behind great prints. We have loaded the book with tips, shortcuts and techniques to help you to create prints that will **WOW!** your audience, whether at home or for your photography business. 
 
-All you need do is go to our [printing ebook website](https://fineartprintebook.com) and sign up. By just typing in your email address you will see the download appear in your download folder on your desktop. Click on it to open it and you'll be on your way to state-of-the-art prints, whether you are a novice to printing or an accomplished fine art printmaker.
+## [Get Your Copy](https://fineartprintebook.com)
 
 And, please don't keep our ebook a secret. Tell your friends and fellow camera club members to take advantage of this limited time FREE offer. Or, better yet, buy the book from the Apple store for $19.95. Your choice. 
 
