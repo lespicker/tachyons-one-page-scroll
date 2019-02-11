@@ -14,6 +14,8 @@ quote:
 resources:
   - src: "images/DSCF0543.jpg"
     title: "China caption"
+  - src: "images/*"
+    title: "China 2018"
 aliases:
 ---
 China is a true wonder, at least to the eyes of Westerners. With 20% of the world's population, 56 ethnic groups, 5 main languages with more than 200 dialects, traveling through it is a vibrant, energizing and exhausting experience. 
