@@ -31,9 +31,7 @@ Are you ready to move your photo images from hiding in the dark recesses of your
 
 If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts.
 
-By the end of our one-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with actual, large-format images, printed on fine art, museum-quality archival papers.
-
-In the workshop you will print an unlimited number of proofs of your best images. You will create large format prints. And, you can use any extra time to print as many other images as you want for simply the cost of materials.
+By the end of our one-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with an unlimited number of large-format prints on fine art, museum-quality archival papers.
 
 And unlike virtually all printing workshops you will see advertised, we never accept more than six people, so you are assured of individual attention in a learning environment second to none.
 
