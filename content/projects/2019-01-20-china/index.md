@@ -11,6 +11,9 @@ readerbg: bg-white-80
 quote:
   text: "The landscapes are what makes a photo trip there so special."
   cite: "Les Picker"
+resources:
+  - src: "images/DSCF0543.jpg"
+    title: "China caption"
 aliases:
 ---
 China is a true wonder, at least to the eyes of Westerners. With 20% of the world's population, 56 ethnic groups, 5 main languages with more than 200 dialects, traveling through it is a vibrant, energizing and exhausting experience. 

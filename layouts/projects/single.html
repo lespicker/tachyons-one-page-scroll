@@ -75,7 +75,7 @@
   <div class="flex flex-wrap justify-center mw8 pv4 ph2 ph0-ns center">
     {{ with (.Resources.Match "images/*.jpg") }}
     {{ range . }}
-      <a href="{{.RelPermalink}}" alt="Testing" class="gallery w-33 w-10-ns dib pa2" >
+      <a href="{{.RelPermalink}}" alt="{{.Title}}" class="gallery w-33 w-10-ns dib pa2" >
         <div class="aspect-ratio--1x1 cover" style="background:url({{.RelPermalink}}) center;">
         </div>
       </a>
@@ -86,7 +86,7 @@
     $(function() {
       $('a.gallery').featherlightGallery({
         afterContent: function() {
-        this.$legend = this.$legend || $('<div class="legend"/>').insertAfter(this.$content);
+        this.$legend = this.$legend || $('<div class="absolute bottom-0 ml2 mb2 white"/>').insertAfter(this.$content);
         this.$legend.text(this.$currentTarget.attr('alt'));},
         previousIcon: '&#9664;',     /* Code that is used as previous icon */
         nextIcon: '&#9654;',         /* Code that is used as next icon */
