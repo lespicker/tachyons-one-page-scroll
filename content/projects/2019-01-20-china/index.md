@@ -14,6 +14,8 @@ quote:
 resources:
   - src: "images/DSCF0543.jpg"
     title: "China caption"
+  - src: "images/DSCF2581.jpg"
+    title: "Fishing Net"
   - src: "images/*"
     title: "China 2018"
 aliases:
