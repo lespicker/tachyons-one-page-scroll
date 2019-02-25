@@ -2,7 +2,7 @@
 subtitle: 'China'
 date: "2019-01-20"
 title: 'China: A Changing Land'
-sideline: 'Travel | Landscapes | Wildlife'
+sideline: 'Travel | Landscapes | WildlFrom The Communityife'
 sidecolor: 'light-blue'
 image: "images/DSCF3713.jpg"
 bcolor: "gold"
@@ -14,8 +14,8 @@ quote:
 resources:
   - src: "images/DSCF0543.jpg"
     title: "China caption"
-  - src: "images/DSCF2581.jpg"
-    title: "Fishing Net"
+  - src: "images/the-place*.jpg"
+    title: "The Place"
   - src: "images/*"
     title: "China 2018"
 aliases:
@@ -30,6 +30,6 @@ The Chinese people are wonderful, and most are still happy to have their picture
 
 China is changing rapidly, so if you are even slightly interested, go soon. Even now, modernity all too often intrudes into one's images. 
 
-If you visit my blogs page, you'll find some features on China, as well as photo tips to improve your odds of great images. Our next photo adventure to China will be in 2020, so make sure you are subscribed to my mailing list )no spam!) to be notified when it becomes available. 
+If you visit my blogs page, you'll find some features on China, as well as photo tips to improve your odds of great images. Our next photo adventure to China will be in 2020, so make sure you are subscribed to my mailing list (no spam!) to be notified when it becomes available. 
 
 Thank you for visiting and I hope you enjoy these scenes of China. 

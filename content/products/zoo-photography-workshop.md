@@ -1,7 +1,7 @@
 ---
-title: 'Zoo Photography Workshop'
+title: 'World Class Wildlife Photography At The Zoo'
 date: "2018-12-10"
-subtitle: '<span class="dark-red">At The <span class="fw7">Baltimore Zoo</span></span>'
+subtitle: '<span class="dark-red">The <span class="fw7">secrets of great wildlife photography</span> at theBaltimore Zoo</span>'
 location: "Havre de Grace, MD"
 sideline: 'Wildlife | Zoo | Workshop'
 sidecolor: 'white'
@@ -25,7 +25,7 @@ product:
 aliases:
 ---
 
-This workshop will begin with a classroom session at the Les Picker Fine Art Photography studio in Havre de Grace, Maryland. The afternoon will be spent at the Baltimore Zoo putting our earlier discussions into action with the assistance of Sean. Detailed information and directions to the studio will be sent upon registration.
+All of these exciting wildlife photographs were made at the zoo.  In this hands-on workshop Sean Lo will share his secrets of making compelling wildlife images in the most unlikely of environments. This workshop includes discussions as well as opportunities to make your own images. The day will kick off with an interactive classroom session at the Les Picker Fine Art Photography studio in Havre de Grace, Maryland. The rest of the day will be spent at the Baltimore Zoo putting earlier discussions into action with the expert one-on-one assistance of Sean. Detailed information and directions to the studio will be sent upon registration.
 
 > Before beginning my career as a full time professional wildlife photographer, I spent a great deal of time training by photographing animals which were most accessible to me. My local zoos became places of photographic learning, research, and inspiration for "real" wildlife photography. But even my training period was not wasted. My Snow Leopard photo taken at a zoo was published on National Geographic.<cite>Sean Lo</cite>
 
@@ -39,12 +39,13 @@ In this workshop, [Sean (www.seanlophotography.com)](http://www.seanlophotograph
 
 ## What you will learn:
 
-- Proper equipment for wildlife photography
-- Best camera settings
-- Environments at zoos and aquaria and how to see them as a photographer
-- Challenging lighting conditions and how to overcome them
-- Composition and the different types of animal photos
-- Culling and efficiency in selecting your top shots  
+- Choosing equipment for wildlife photography
+- How to optimize camera settings
+- How to visualize wildlife scenes at the zoo
+- How to overcome challenging lighting conditions
+- How to make dynamic wildlife compositions
+- How to create variety in your animal photos
+- Work-flow secrets, culling and efficiency in selecting your top shots  
 
 ## What to bring
 
@@ -52,7 +53,7 @@ In this workshop, [Sean (www.seanlophotography.com)](http://www.seanlophotograph
 - Lens
 - Memory cards
 - Batteries
-- Tripod/ Monopod
+- Tripod / Monopod
 - Lunch
 
 This workshop is an exclusive collaboration between Les Picker Fine Art studio and Sean Lo, with a maximum capacity of six spots. We believe that the best education is one that has an excellent teacher to student ratio, so rest assured that an adequate amount of time and attention will be provided to you and your photographic needs. 
