@@ -19,7 +19,7 @@ product:
     data_item_image: "/images/wildlife-workshop/1DX27214.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2019-03-16T09:00:00Z
+    event_date: 2019-07-20T09:00:00Z
     notes: "In this 6-hour workshop (9am til 3pm) Sean Lo will address what makes a compelling wildlife photo, how one goes about making them, gear we use, and much more."
     bcolor: black
 aliases:
