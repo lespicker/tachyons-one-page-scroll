@@ -20,8 +20,8 @@ product:
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2019-03-09T08:30:00Z
-    notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom. No refunds after December 19th 2018."
+    event_date: 2019-06-15T08:30:00Z
+    notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom."
     bcolor: black
 slides:
   - "/images/099A8236.jpg"
