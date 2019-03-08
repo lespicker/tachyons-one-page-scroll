@@ -5,7 +5,7 @@ date: "2019-03-07"
 image: images/_LAP4415 (1)-Edit-2.jpg
 destination:
 comments: true
-categories: 
+categories: how-to
 tags:
 - extraction
 - photography
