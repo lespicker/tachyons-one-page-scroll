@@ -18,9 +18,9 @@ We are getting close to spring photography, which invariably  brings rainy, mise
 
 Extraction photography is when you isolate one tight aspect of a broader scene. I find that for me, and my clients, focusing on extraction photography is a terrific way to enhance ones skills by developing our eye for compositional elements. 
 
-Take the lead image above as an example. I was shooting in a state park near my home on a cold, windy, overcast day. I tried to shoot a small stand of trees, but couldn't get the angle I wanted as recent rains and freezing temps made the area a quagmire. But, when I left my tripod and camera alone for a while and looked down, I found an extraction shot that floored me. 
+Take the lead image above as an example. I was shooting in a state park near my home on a cold, windy, overcast day. I tried to shoot a small stand of trees, but couldn't get the angle I wanted as recent rains and freezing temps made the area a quagmire. But, when I left my tripod and camera alone for a while and looked down, I found an extraction shot that "floored" me. 
 
-The leaves on the forest floor were decomposing and the gases released formed bubbles that were frozen in place. I grabbed  my tripod, put on a 7–200 lens and extracted that scene from the larger one. I like the painterly effect formed by the bubbles, leaves and ice. 
+The leaves on the forest floor were decomposing and the gases released formed bubbles that were frozen in place. I grabbed  my tripod, put on a 70–200 lens and extracted that scene from the larger one. I like the painterly effect formed by the bubbles, leaves and ice. 
 
 
 ### Other Extraction Categories
