@@ -5,7 +5,7 @@ date: "2019-03-12"
 image: images/0036628_noleggio-fujifilm-gfx-50s-body
 destination:
 comments: true
-categories: 
+categories: reviews
 tags:
 - Fuji GFX-S
 - review
@@ -49,7 +49,9 @@ One feature of Fuji cameras in general, and in the GFX-S in particular, is the p
 
 **LENSES:** The Fujinon lenses are nothing short of fantastic, as evidenced by their 20-year collaboration with Hasselblad. Edge-to-edge sharpness on the GFX-S lenses is superb and the variety of lenses is good and always expanding. I own 4 lenses currently; 23mm (equivalent to approximately 17mm in full frame format),  32-64mm (approx. 24-50 in full-frame); 120mm macro (approx. 90mm in full frame) and 250mm (approx. 200 in full frame). I just can't say enough bout these lenses. 
 
-{{< figure src="images/DSCF9230-HDR-Edit.jpg" caption="" >}} 
+{{< figure src="images/DSCF9230-HDR-Edit.jpg" caption="" >}}
+
+If you want to see the full capability of these lenses, take a look at [this recent blog](https://lesterpickerphoto.com/2019/02/01/do-quality-lenses-really-matter/).  
 **FOCUS:**  Acquisition is fast and accurate, but note that I am not talking about shooting wildlife or fast moving objects. For that I switch to my Nikon gear. 
 
 **TILTING SCREEN:** The tilting screen is very flexible, both in landscape and portrait modes. 
