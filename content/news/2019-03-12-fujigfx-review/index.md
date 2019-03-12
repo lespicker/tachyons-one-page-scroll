@@ -84,4 +84,3 @@ The Fuji GFX-S is an exceptionally well built and well thought out camera design
 In a future blog post and YouTube video I’ll compare the Fuji GFX-S with the lower priced Fuji GFX-R, which will leave about $1,500 USD in your pocket. But, be forewarned… there are trade-offs and sacrifices to be made. 
 
 
-{{< figure src="images/IMG_0463.jpeg" caption="" >}}
