@@ -1,6 +1,6 @@
 ---
 title: "Fuji GFX-50S"
-subtitle: 'A Pro's Field Review'
+subtitle: "A Pro's Field Review"
 date: "2019-03-12"
 image: images/0036628_noleggio-fujifilm-gfx-50s-body
 destination:
