@@ -557,6 +557,16 @@ svg {
  * at the top left of the screen
  */
 
+.corner-badge{
+  height: 300px;
+  width: 300px;
+  transform: translate3d(50%, -50%, 0) rotate(45deg);
+}
+
+.corner-text{
+  left: 85px;
+}
+
 /* Spinner */
 
 .spinner {
