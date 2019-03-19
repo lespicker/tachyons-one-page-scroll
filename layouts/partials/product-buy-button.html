@@ -1,5 +1,8 @@
+
 <button
     class="snipcart-add-item dib w-auto-ns bg-transparent {{ cond (isset .Params.product "bcolor") .Params.product.bcolor "white" }} f5 pv2 pv3-ns ph4 ba {{ cond (isset .Params.product "bcolor")   (printf "b--%s" .Params.product.bcolor) "b--white"}} dim ttu"
+    {{ with .Params.product.soldout }}
+    {{ else }}
     data-item-id="{{.Params.product.data_item_id}}"
     data-item-name="{{.Params.product.data_item_name}}"
     data-item-price="{{.Params.product.data_item_price}}"
@@ -7,6 +10,12 @@
     data-item-description="{{.Params.product.data_item_description}}"
     {{ if isset .Params.product "data_item_file_guid" }}
     data-item-file-guid="{{.Params.product.data_item_file_guid}}"
+    {{ end }}
     {{ end }}>
+    {{ with .Params.product.soldout }}
+        Sold Out
+    {{ else }}
         Add To Cart
+    {{ end }}
 </button>
+

@@ -24,6 +24,7 @@ product:
     event_date: 2019-08-24T08:00:00Z
     event_end: 2019-09-04T08:00:00Z
     deposit: 8750.00
+    soldout: true
     notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after May 24th, 2019.
     bcolor: black
 slides:
