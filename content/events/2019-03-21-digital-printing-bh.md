@@ -3,6 +3,7 @@ title: '<span class="black-30">Fine Art Printing</span>'
 subtitle: '<span class="blue">Practical Digital Printing: <span class="fw7">Crash Course</span></span>'
 event_date: 2019-05-10T10:30:00Z
 event_link: "https://www.bhphotovideo.com/find/EventSpace.jsp"
+notes: "Details of this event at the B+H Event Space and registration should be available soon."
 location: "B+H Event Space NYC"
 sideline: 'Photography | Workshop | Printing'
 sidecolor: 'blue'
