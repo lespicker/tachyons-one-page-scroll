@@ -20,8 +20,8 @@ product:
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2019-07-12T15:00:00Z
-    event_end: 2019-07-14T15:00:00Z
+    event_date: 2019-11-01T15:00:00Z
+    event_end: 2019-11-03T16:00:00Z
     deposit: 1500.00
     notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after June 1st, 2019.
     bcolor: black
