@@ -13,6 +13,7 @@ image: "/projects/2019-01-16-antarctica/images/DSCF9230-HDR-Edit.jpg"
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
+draft: true
 aliases:
 ---
 
