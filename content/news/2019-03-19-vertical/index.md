@@ -44,7 +44,7 @@ One suggestion I have is to go out on a self-assignment and make sure you take 5
 
 One rationale for verticals is that it is a handy way to remove distractions that may be present on the edges of your frame. Whenever I run into this problem, and cropping in-camera won't help, then I look for ways to capture the scene vertically. 
 
-{{< figure src="images/DSC_0226" caption="" >}}
+{{< figure src="images/DSC_0226.jpg" caption="" >}}
 
 {{< figure src="images/DSC_0226-2.jpg" caption="" >}}
 
