@@ -52,7 +52,7 @@ One rationale for verticals is that it is a handy way to remove distractions tha
 
 Strong compositional elements are critical for good verticals. Fortunately, verticals work very well when dealing with patterns, texture, leading (or leaving) lines, and foreground elements, to name only some. Dramatic skies can also be a boon to verticals. 
 
-{{< figure src="images/DSCF7732" caption="" >}}
+{{< figure src="images/DSCF7732.jpg" caption="" >}}
 
 ### Photographic Ju Jitsu
 
