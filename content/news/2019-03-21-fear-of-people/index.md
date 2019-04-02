@@ -44,7 +44,7 @@ I often find that with a potentially recalcitrant subject, laying the groundwork
 
 {{< figure src="images/_LAP4286-Edit" caption="" >}}
 
-### Ask
+### Practice Your Ask
 
 If you don't ask for that permission, the answer will always be "No". Write down a few approach words and practice them. Simple and direct works best. If you do not speak the language, use Google Translate or other smartphone app. Or, ask a guide or concierge to write it down in the local language on a card. 
 
