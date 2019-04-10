@@ -1,6 +1,6 @@
 ---
-title: "Taking Travel Portraits"
-subtitle: "Get Over Your Fear!"
+title: "<span class='black'>Taking Travel Portraits</span>"
+subtitle: "<span class='black-30'>Get Over Your Fear!</span>"
 date: "2019-03-25"
 image: images/DSC_1064.jpg
 destination:
@@ -41,7 +41,7 @@ If there is one thing I can say for sure, after traveling to all continents and 
 
 I often find that with a potentially recalcitrant subject, laying the groundwork before you ask works well. I've been successful with subjects that have refused other photographers by first engaging with the person. Talk about their work, ask about their family, show pictures of your grandkids. 
 
-{{< figure src="images/_LAP4286-Edit" caption="" >}}
+{{< figure src="images/_LAP4286-Edit.jpg" caption="" >}}
 
 ### Practice Your Ask
 
