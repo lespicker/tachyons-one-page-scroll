@@ -1,5 +1,5 @@
 ---
-title: 'Yukon Photography Adventure'
+title: 'Yukon Photography Adventure<br> August 2020'
 date: "2018-11-06"
 subtitle: '<span class="white">Canadian <span class="fw7">grandeur</span> and wildlife.</span>'
 location: "Yukon Territory, Canada"

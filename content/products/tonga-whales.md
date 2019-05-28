@@ -1,5 +1,5 @@
 ---
-title: 'Tonga - Photographing Humpback Whales'
+title: 'Tonga - Humpback Whales<br>September 2020'
 date: "2019-05-27"
 subtitle: '<span class="dark-red">A real  <span class="fw7">close-up experience</span> with Les Picker &amp; Andy Biggs.</span>'
 location: "Tonga"

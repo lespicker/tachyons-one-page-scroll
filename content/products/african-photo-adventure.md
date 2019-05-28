@@ -1,5 +1,5 @@
 ---
-title: 'African Photo Adventure 2020'
+title: 'African Photo Adventure<br> June 2020'
 date: "2019-05-27"
 subtitle: '<span class="dark-red">Photograph  <span class="fw7">the Big Five</span>.</span>'
 location: "Kenya + Uganda"
