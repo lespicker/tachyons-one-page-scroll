@@ -29,6 +29,7 @@ product:
     deposit: $19,956
     notes: Antarctica! The ultimate photo trip bucket list. $19,956 or $20,936 per person double occupancy, or $24,456 single occupancy. Payment schedule as follows- after initial $500 deposit on our website, you will immediately be billed $8,500, to be paid by check. Final payment is due on May 15, 2020. Deposits are refundable on a decreasing schedule; 100% by September 30, 2019; 50% by December 31, 2019, and 25% by February 28, 2020. Final payments, due on May 15, 2020, are not refundable. All costs are in U.S. dollars.   
     bcolor: black
+weight: 7
 aliases:
 ---
 Join Les for a photographer's dream adventure! Yes, this journey is a guaranteed sticker shock generator, but the rewards of this bucket list trip are more than worth it. 

@@ -26,6 +26,7 @@ product:
     deposit: $7,500
     notes: Can anything be more exciting than snorkeling with and photographing humpback whales and their calves? $7,500 per person double occupancy. After initial $500 deposit,  you will immediately be billed $2,500, to be paid by check. Final payment of $4,500 is due on March 29, 2020. Deposits are refundable as follows; 100% by August 31, 2019; 50% by November 30, 2019, and 25% by January 31, 2020. Final payments are not refundable. All costs are in U.S. dollars.  
     bcolor: black
+weight: 5
 aliases:
 ---
 This is a trip you really don’t want to miss! Spend 4 solid days of snorkeling in the waters of Vava’u, Tonga amongst southern humpback whales and their offspring. Imagine snorkeling up to a 40-ton gentle giant, in a peaceful setting, and spending time watching and observing with a small underwater camera or GoPro. Come and join Andy  and Les in the calm waters of Tonga and find out for yourself.

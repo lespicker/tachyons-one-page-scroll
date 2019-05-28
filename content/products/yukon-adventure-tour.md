@@ -27,16 +27,7 @@ product:
     soldout: true
     notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after May 24th, 2019.
     bcolor: black
-slides:
-  - "/images/099A8236.jpg"
-  - "/images/099A8224.jpg"
-  - "/images/099A8222.jpg"
-  - "/images/099A8223.jpg"
-  - "/images/099A8187.jpg"
-  - "/images/099A8185.jpg"
-  - "/images/099A8234.jpg"
-  - "/images/099A8182.jpg"
-  - "/images/099A8181.jpg"
+weight: 3
 aliases:
 ---
 ### Photograph Grizzlies, Landscapes, and the Amazing Northern Lights
