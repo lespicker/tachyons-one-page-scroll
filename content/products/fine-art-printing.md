@@ -1,7 +1,7 @@
 ---
 title: 'Fine Art Printing Workshop'
-date: "2018-06-27"
-subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
+date: "2019-05-29"
+subtitle: '<span class="dark-red">Hands-on printing of <span class="fw7">your pictues</span> on our professional large-format printers.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
 sidecolor: 'white'
@@ -14,13 +14,13 @@ types:
 product:
   data_item_id: WRK0002
   data_item_name: "Fine Art Printing"
-  data_item_price: 450.00
+  data_item_price: 395.00
   data_item_description: "Take home your photos as large format prints."
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2019-06-01T08:30:00Z
-  notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make. No refunds after May 1, 2019"
+  event_date: 2019-11-16T08:30:00Z
+  notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make. No refunds after Sept 1, 2019"
   bcolor: "black"
 aliases:
   - "page/803"
