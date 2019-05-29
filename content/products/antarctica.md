@@ -4,7 +4,7 @@ date: "2019-05-27"
 subtitle: '<span class="dark-red">Crossing the <span class="fw7">Antarctic Circle</span> via Falklands & South Georgia.</span>'
 location: "Tonga"
 featured: feature
-sideline: 'Tonga South Pacific | Photography | Adventure'
+sideline: 'Antarctica | Photography | Adventure'
 sidecolor: 'dark-red'
 textcolor: white
 image: "/images/workshop/antarctica/DSCF8250.jpg"
@@ -46,7 +46,7 @@ Whether you’re visiting Antarctic research stations, witnessing a sudden minke
 
 - Learn about Antarctica’s unique geology, history and wildlife from Quark's expert team of lecturers 
 - See the incredible wildlife — more than 30 species of breeding birds, including four species of penguin — of South Georgia, often referred to as the Galapagos of the Poles 
-- Follow in the footsteps of Sir Ernest Shackleton’s perilous voyages to South Georgia and visit his gravesite 
+- Follow in the footsteps of Sir Ernest Shackleton’s perilous voyages to Antarctica and visit his gravesite on South Georgia island
 - Explore the quaint British town of Stanley in the Falkland Islands
 - Cross the Antarctic Circle 
 - Rely on the experience and expertise of Les to guide you photographically through the challenges you may face
