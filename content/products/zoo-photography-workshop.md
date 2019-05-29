@@ -9,6 +9,7 @@ textcolor: white
 image: "/images/zoo-workshop/sean-1.jpg"
 bcolor: "white"
 background: 'bg-top'
+draft: true
 types:
   - workshop
 product:

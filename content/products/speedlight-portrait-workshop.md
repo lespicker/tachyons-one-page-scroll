@@ -22,6 +22,7 @@ product:
     event_date: 2019-07-21T10:00:00Z
     notes: "You will also get a chance to hone your skills when working with portrait subjects one-on-one in a fun environment, picking up some tricks along the way for working with anyone."
     bcolor: black
+weight: 3
 aliases:
 ---
 Like many photographers you probably have a flash laying around that you never use. The reasons might be that it seems too complicated, the results looked "bad" when you've tried, or you've just put off figuring it out. In this workshop we'll help you get over that! You will also get a chance to hone your skills when working with portrait subjects one-on-one in a fun environment, picking up some tricks along the way for photographing anyone.

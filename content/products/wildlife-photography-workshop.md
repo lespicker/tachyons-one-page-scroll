@@ -9,6 +9,7 @@ textcolor: white
 image: "/images/wildlife-workshop/1DX27214.jpg"
 bcolor: "white"
 background: 'bg-top'
+draft: true
 types:
   - workshop
 product:
