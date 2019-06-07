@@ -41,7 +41,7 @@ En route, we will also spend time in Dawson City, epicenter of the historic Klon
 
 Lester Picker [www.lesterpickerphoto.com](www.lesterpickerphoto.com), has more than 650 credits in major publications such as National Geographic books and magazines, Forbes, Better Homes & Gardens, Time, Inc. publications and dozens of others. Les was given Canada’s highest photography honor, the Northern Lights Award for Best Travel Photographer, a peer-juried competition. [Les’ blog](https://blog.lesterpickerphoto.com) is widely followed and often quoted by media.
 
-> My favorite photographic vacation ever, was to the Amazon, Galapagos and Machu Picchu with Les Picker. There were photographic opportunities at every turn as well as expert instruction/advice. Then I went to the Yukon Territory on another adventure with him. The beauty of that area is beyond description! It was a photographic explosion of colors, and with his assistance, many of my images are near professional quality. …
+> I thought my favorite photographic vacation ever, was to the Amazon, Galapagos and Machu Picchu with Les Picker. There were photographic opportunities at every turn as well as expert instruction/advice. Then I went to the Yukon Territory on another adventure with him. The beauty of that area is beyond description! It was a photographic explosion of colors, and with his assistance, many of my images are near professional quality. …
 
 Please Note: medical/evacuation insurance is required for this trip. Les will provide suggestions for vendors upon registration.
 
@@ -63,6 +63,13 @@ After an early breakfast, we load up and take off for Dawson City, site of the K
 
 **Day 3**<br>
 Today we will wander the streets and alleyways of Dawson City, photographing its historic attractions and its people. We will drive to some of the major attractions from the Klondike’s Gold Rush past. At night, once again we will try to photograph the Northern Lights.
+
+> The Yukon was the trip of a lifetime. We went from mountain vistas to the Arctic Circle. There are no words or photos that we took that can adequately describe the view at the Arctic Circle. It is a vast open area with incredible landscapes. You have never heard silence like you will there.
+
+> During our travels we saw mule deer, grizzly bear with cub, moose, an arctic fox hunting for its lunch, coyotes, red fox and brown bears fishing for salmon with their cubs and eagles.  We even visited Ft. Selkirk, a historic sight and only accessible by boat.
+
+> We traveled from Whitehorse to Dawson to Eagle Plains with several side trips. They were all incredible. This is a trip I could do all over again. <cite>Jim Leary, Massachusetts</cite>
+
 
 **Day 4**<br>
 We leave Dawson City and cross the mighty Yukon River to explore the views along the spectacular Top of the World Highway… and our first opportunity to see caribou. Tonight is also our first portfolio review, where you will have an opportunity to share your best images, ask for critiques or just participate in helping the others improve their photographic skills. If Mother Nature cooperates, we have another chance to photograph the Northern Lights.
