@@ -2,12 +2,13 @@
 title: "<span class='black'>Spider!</span>"
 subtitle: "<span class='black-30'>The Back Story</span>"
 date: "2019-06-17"
-image: images/_LAP3081.jpg
+image: images/2006-11-ecuador-amazon-tarantula1_edited-1.jpg
 destination:
 comments: true
 categories: opinion
 tags:
 - photography
+- composition
 ---
 
 Every so often I like to give my readers a story-behind-the-image blog, so they can get a more realistic idea of the trials and tribulations of a pro field photographer. The lead image is from a past assignment that I just came across while viewing some potential images for an editorial client. 
