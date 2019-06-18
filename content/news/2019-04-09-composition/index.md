@@ -12,7 +12,7 @@ tags:
 ---
 
 
-This week I listened to a "The Candid Frame" video podcast with host Ibarionex Perello. Before I go further, I want to put in a plug for The Candid Frame. Perello is an egaging host, lending his discerning eye and pleasing voice to his eclectic range of photographic subject matter, although in my opinion he sometimes does go overboard in his analyses.  
+This week I listened to a "The Candid Frame" video podcast with host Ibarionex Perello. Before I go further, I want to put in a plug for The Candid Frame. Perello is an engaging host, lending his discerning eye and pleasing voice to his eclectic range of photographic subject matter, although in my opinion he sometimes does go overboard in his analyses.  
 
 In any event, in the episode titled "[Street Photography: Color as an Element vs Subject](https://www.youtube.com/watch?v=otrm4vJgJIQ&feature=em-uploademail)", Perello casually throws out the term "building composition" and I immediately glommed onto it. In so many ways that term distilled exactly what I have been teaching for decades, yet lacked a concise term to encapsulate its essence. So, let me elaborate here. 
 
