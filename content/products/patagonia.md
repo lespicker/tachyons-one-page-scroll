@@ -7,11 +7,11 @@ featured: feature
 sideline: 'Patagonia | Photography | Adventure'
 sidecolor: 'dark-red'
 textcolor: white
-image: "/images/workshop/antarctica/DSCF8250.jpg"
+image: "/images/workshop/patagonia/DSC_5104.jpg"
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
-draft: true
+draft: false
 types:
  - tour
 product:
@@ -38,6 +38,8 @@ The trip cost is $9,980 USD per person based on double occupancy. Single occupan
 
 **We suggest you book your flights as soon as you register for the photo adventure, especially the flight from Santiago, Chile to Balmaceda/Coyhaique.**
 
+{{< figure src="/images/workshop/patagonia/DSC_4625 (1).jpg" caption="" >}}
+
 ## SAMPLE ITINERARY
 
 ### Day 1
@@ -51,6 +53,8 @@ Today we will make a predawn departure to one of the two main Condor areas to ca
 ### Day 3
 
 AM departure driving south traveling through Cerro Castillo Reserve. Highlights will be the day's drive over the Cuesta del Diablo pass. The drive through the Cerro Castillo Reserve brings us close to timberline (1100 m.) with opportunities to capture the twisted magic of the Krumholst Lengas at altitude, especially beautiful during the autumn peak in April. We will travel slowly through the reserve and keep a close look out for the highly endangered Huemul Deer (Hippocamelus Bisulcus) that are prevalent in this area. Commanding views of the jagged spires of Cerro Castillo. We continue on to Villa Rio Tranquilo on Lago General Carrera, South America's 2nd largest lake. Overnight at El Puesto Lodge.
+
+{{< figure src="/images/workshop/patagonia/DSC_3244.jpg" caption="" >}}
 
 ### Day 4
 
@@ -68,6 +72,8 @@ Morning photography and hike at the nearby Tamango Reserve, soon to also be a pa
 
 Early morning departure driving east through the remote Estancia Valle Chacabuco. Numerous opportunities to photograph native Guanacos (Patagonian Cameloids), Fox, Condors, Swans, Flamingos and other birdlife which abounds in this Patagonian Steppe region. We will ascend a new road that brings us to an unsurpassed view of Cerro San Lorenzo, Patagonia's 2nd highest summit. Continue east to the remote border post at the Paso Roballos, Checking out of Chile and entering into Argentina. (be sure to have your passport tourist visa paper handy!) After passing through the Argentine customs post, we find ourselves in the Santa Cruz province, one of Patagonia's most remote areas. If time allows, we will make a visit to the Estancia Correntoso, a beautiful historic stone construction owned by the Cvjetanovic family, 3rd generation descendants of the original Yugoslavian pioneers. Meeting the lovely owner Elvira Cvjetanovic and her mother and father is certain to be among the trip's most memorable experiences. Leaving El Correntoso we visit a small flamingo lagoon and then descend towards Lago Puyerredon (the Argentine side of Lago Cochrane). This area also provides wonderful views of Cerro San Lorenzo on clear days which starkly contrast with the arid, almost moon-like topography of this remote area. Possible visit to a 7,000 y.o. Tehuelche Indian pictograph site near the town of Lago Posadas. Overnight Posada del Posadas.
 
+{{< figure src="/images/workshop/patagonia/DSC_3319_HDR.jpg" caption="" >}}
+
 ### Day 8
 
 Today begins with a predawn departure to try and catch the alpenglow on Cerro San Lorenzo, Patagonia's 2nd highest peak. Later we venture out into the wide open Pampas of the Santa Cruz province where the sky explodes with interminable size and scope, a long day in the vehicles with 7-hours driving through the vast emptiness of the Patagonian pampa. We will typically see herds of Guanacos, Nandus (Lesser Rhea Ostrich), Armadillos and wild horses that populate the pampas. We end up in the most photogenic mountain landscape in the western hemisphere. Cerros Fitzroy, Torre, Egger, Standhart, and Saint Exupery. Famous among climbers as among the World's most challenging mountains. We stay in the town of El Chalten, situated at the base of the Fitzroy mountain range. Breakfast, Lunch, Dinner, Hosteria Stay.
@@ -79,6 +85,8 @@ Early morning outing to drive up the road in hopes of catching images of the spe
 ### Day 10
 
 Today we have another full day to explore the Fitzroy area and we will choose the days activities depending on the weather conditions. The autumn foliage will be at its peak and the old growth native Lenga (Southern Beech) forest will be ablaze with color. A very nice waterfall is nearby where we may spend several hours playing with time exposures, etc. I this environment we are always on the look out for the large and impressive Magellanic Woodpecker. Overnight at Hosteria in El Chalten.
+
+{{< figure src="/images/workshop/patagonia/DSC_5333 (1).jpg" caption="" >}}
 
 ### Day 11
 
@@ -96,6 +104,8 @@ Today we make a full-day photographic journey into the heart of the Torres del P
 
 We have another full day to explore and photograph this magnificent park. We will seek out spectacular waterfalls, magical mountain landscapes accented by the autumn foliage and, the abundant native Patagonian wildlife such as condors, rheas, foxes. Perhaps, if luck is on our side, we may even be able to spot a puma! Overnight at Hosteria Pehoe.
 
+{{< figure src="/images/workshop/patagonia/DSC_9095.jpg" caption="" >}}
+
 ### Day 15
 
 After our last morning in the park, that can be an early one again to get the sunrise, we will start our full-day journey south to Punta Arenas via the newly completed south road, stopping for lunch in Puerto Natales where we will have ample time to eat, walk the waterfront, and do some shopping for maps, gifts, etc. On the way to Puerto Natales we will stop by the famous Milodon Cave, discovery site for the remains of an ancient Pleistocene ground sloth. In Punta Arenas we will stay in the well appointed Los Navegantes Hotel.
@@ -104,4 +114,4 @@ After our last morning in the park, that can be an early one again to get the su
 
 Today we bid farewell and you will catch your flight back home. If you have an afternoon flight you can take advantage and walk around historic downtown Punta Arenas and look out across the Straits of Magellan. We hope you will be sorry to go. We will be sorry to see you leave. 
 
-{{< figure src="/images/workshop/antarctica/DSCF8678.jpg" caption="" >}}
+{{< figure src="/images/workshop/patagonia/guanacopaine.jpg" caption="" >}}
