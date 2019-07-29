@@ -1,6 +1,6 @@
 ---
-title: "Taking Travel Portraits"
-subtitle: "Get Over Your Fear!"
+title: "<span class='black'>Taking Travel Portraits</span>"
+subtitle: "<span class='black-30'>Get Over Your Fear!</span>"
 date: "2019-03-25"
 image: images/DSC_1064.jpg
 destination:
@@ -13,16 +13,15 @@ tags:
 - travel portraits
 - street photography
 - photographing people
-draft: true
 ---
 
-How many times have you traveled to far off corners of the world and met fascinating people and wanted to photograph them, but didn't? I've written previously about [photographing people](https://lesterpickerphoto.com/2010/02/13/photographing-people/) for this blog, but I would like to update that information for people, perhaps like you, who may have difficulty approaching a stranger and asking for permission to photograph. 
+How many times have you traveled to far off corners of the world and met fascinating people and wanted to photograph them, but didn't? I've written previously about [photographing people](https://lesterpickerphoto.com/2010/02/13/photographing-people/), but I would like to update that information for those of you who may have difficulty approaching a stranger and asking for permission to photograph. 
 
-This information is as pertinent to street photographers as it is to travelers. 
+This information could be as pertinent to street photographers as it is to travelers, although I have found street photographers to be a bit more aggressive in their approach to their craft. 
 
 ### Ask Permission
 
-Speaking of permission, yes, please ask! One of my pet peeves is that unethical photographer who sneakily takes photographs of people, especially in cultures where that is not acceptable. So, if you have a very understandable fear of asking directly, how do you come away with the goods?  
+Speaking of permission, yes, please do ask! One of my pet peeves is that of unethical photographer who sneakily takes photographs of people, especially in cultures where that is not acceptable. So, if you have a very understandable fear of asking directly, how do you come away with the goods?  
 
 ### Recognize The Fear
 
@@ -36,17 +35,17 @@ Prepare yourself in advance by developing and maintaining a positive attitude. E
 
 ### Smile
 
-If there is one thing I can say for sure, after traveling to all continents and photographing hundreds of people, it's that a friendly attitude and ready smile will accomplish a lot and seriously up your success factor. 
+If there is one thing I can say for sure, after traveling to all continents and photographing many people, it's that a friendly attitude and ready smile will accomplish a lot and seriously up your success factor. 
 
 ### It's About Connecting
 
 I often find that with a potentially recalcitrant subject, laying the groundwork before you ask works well. I've been successful with subjects that have refused other photographers by first engaging with the person. Talk about their work, ask about their family, show pictures of your grandkids. 
 
-{{< figure src="images/_LAP4286-Edit" caption="" >}}
+{{< figure src="images/_LAP4286-Edit.jpg" caption="" >}}
 
 ### Practice Your Ask
 
-If you don't ask for that permission, the answer will always be "No". Write down a few approach words and practice them. Simple and direct works best. If you do not speak the language, use Google Translate or other smartphone app. Or, ask a guide or concierge to write it down in the local language on a card. 
+If you don't ask for permission, the answer will always be "No". Write down a few approach words and practice them. Simple and direct works best. If you do not speak the language, use Google Translate or other smartphone app. Or, ask a guide or concierge to write it down in the local language on a card. 
 
 ### NO
 
@@ -78,28 +77,18 @@ There is a market in Ecuador that I frequent when I lead tours there. Early on I
 
 Leave your subject with your Instagram or website info if they have Internet access. I have made friends doing so as we communicate by email and messaging over the years. 
 
+Another favorite of mine is to carry with you an Instax by Fujifilm or a Kodak Mini-shot. These small, light cameras have a built in printer that puts out respectable tiny prints that I find my travel subjects treasure. 
+
 ### Practice
 
 You'll never get comfortable with this unless and until you practice. Fortunately, we all live near communities where we can practice before we embark on a trip. The fear will always be there; it still is for me after five decades of photography. But don't let fear win out. Keep practicing and pretty soon your hit rate will increase. 
 
 ### YouTube
 
-If you'd like to hear me discuss this on Youtube, [just click here](). 
+If you'd like to hear me discuss this on Youtube, [just click here](https://youtu.be/WitNpUQ4btw). 
 
 ### A Most Helpful eBook
 
-If you'd like to get more comprehensive information on photographing people, landscapes, cityscapes and events for travel, you might want to try my best-selling ebook. 
+If you'd like to get more comprehensive information on photographing people, landscapes, cityscapes and events for travel, you might want to try one of my best-selling ebooks. 
 
-[Travel Photography](https://lesterpickerphoto.com/products/travel-photography-ebook/). This 234-page eBook is chock full of information, tips, techniques and suggestions for you to bring home WOW! images. 
-
-
-
-
-
-
-
-
-
-
-
-
+[Travel Photography](https://lesterpickerphoto.com/products/travel-photography-ebook/). This 234-page, fully illustrated eBook is chock full of information, tips, techniques and suggestions for you to bring home WOW! travel images. 

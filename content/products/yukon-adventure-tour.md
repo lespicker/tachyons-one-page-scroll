@@ -1,5 +1,5 @@
 ---
-title: 'Yukon Photography Adventure'
+title: 'Yukon Photography Adventure<br> August 2020'
 date: "2018-11-06"
 subtitle: '<span class="white">Canadian <span class="fw7">grandeur</span> and wildlife.</span>'
 location: "Yukon Territory, Canada"
@@ -21,22 +21,12 @@ product:
     data_item_image: "/images/V2Print.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
-    event_date: 2019-08-24T08:00:00Z
-    event_end: 2019-09-04T08:00:00Z
+    event_date: 2020-08-22T08:00:00Z
+    event_end: 2020-09-02T08:00:00Z
     deposit: 8750.00
-    soldout: true
-    notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after May 24th, 2019.
+    notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after March 31, 2020.
     bcolor: black
-slides:
-  - "/images/099A8236.jpg"
-  - "/images/099A8224.jpg"
-  - "/images/099A8222.jpg"
-  - "/images/099A8223.jpg"
-  - "/images/099A8187.jpg"
-  - "/images/099A8185.jpg"
-  - "/images/099A8234.jpg"
-  - "/images/099A8182.jpg"
-  - "/images/099A8181.jpg"
+weight: 3
 aliases:
 ---
 ### Photograph Grizzlies, Landscapes, and the Amazing Northern Lights
@@ -51,7 +41,7 @@ En route, we will also spend time in Dawson City, epicenter of the historic Klon
 
 Lester Picker [www.lesterpickerphoto.com](www.lesterpickerphoto.com), has more than 650 credits in major publications such as National Geographic books and magazines, Forbes, Better Homes & Gardens, Time, Inc. publications and dozens of others. Les was given Canada’s highest photography honor, the Northern Lights Award for Best Travel Photographer, a peer-juried competition. [Les’ blog](https://blog.lesterpickerphoto.com) is widely followed and often quoted by media.
 
-> My favorite photographic vacation ever, was to the Amazon, Galapagos and Machu Picchu with Les Picker. There were photographic opportunities at every turn as well as expert instruction/advice. Then I went to the Yukon Territory on another adventure with him. The beauty of that area is beyond description! It was a photographic explosion of colors, and with his assistance, many of my images are near professional quality. …
+> I thought my favorite photographic vacation ever, was to the Amazon, Galapagos and Machu Picchu with Les Picker. There were photographic opportunities at every turn as well as expert instruction/advice. Then I went to the Yukon Territory on another adventure with him. The beauty of that area is beyond description! It was a photographic explosion of colors, and with his assistance, many of my images are near professional quality.<cite>Norm Arnold, New Mexico</cite>
 
 Please Note: medical/evacuation insurance is required for this trip. Les will provide suggestions for vendors upon registration.
 
@@ -73,6 +63,13 @@ After an early breakfast, we load up and take off for Dawson City, site of the K
 
 **Day 3**<br>
 Today we will wander the streets and alleyways of Dawson City, photographing its historic attractions and its people. We will drive to some of the major attractions from the Klondike’s Gold Rush past. At night, once again we will try to photograph the Northern Lights.
+
+> The Yukon was the trip of a lifetime. We went from mountain vistas to the Arctic Circle. There are no words or photos that we took that can adequately describe the view at the Arctic Circle. It is a vast open area with incredible landscapes. You have never heard silence like you will there.
+
+> During our travels we saw mule deer, grizzly bear with cub, moose, an arctic fox hunting for its lunch, coyotes, red fox and brown bears fishing for salmon with their cubs and eagles.  We even visited Ft. Selkirk, a historic sight and only accessible by boat.
+
+> We traveled from Whitehorse to Dawson to Eagle Plains with several side trips. They were all incredible. This is a trip I could do all over again. <cite>Jim Leary, Massachusetts</cite>
+
 
 **Day 4**<br>
 We leave Dawson City and cross the mighty Yukon River to explore the views along the spectacular Top of the World Highway… and our first opportunity to see caribou. Tonight is also our first portfolio review, where you will have an opportunity to share your best images, ask for critiques or just participate in helping the others improve their photographic skills. If Mother Nature cooperates, we have another chance to photograph the Northern Lights.
@@ -108,7 +105,7 @@ Depending on flight schedules, we meet for breakfast and say farewells… for no
 
 The cost of the Yukon workshop is $8,750 USD per person, single occupancy. This bespoke adventure is limited to only 3 photographers. A $3,000 deposit is due at sign up ($500 through this website and $2,500 due by check after Les contacts you). Please register below.
 
-Deposits are refundable until 180 days prior to the start date, minus a $250 fee. From 180 days to 120 days prior to the start date, 50% of the deposit is refundable. After 120 days the entire deposit is non-refundable. 120 days prior to the start date all remaining fees are due. A reminder will be sent to participants. If three people do not sign up, the trip will be cancelled and 100% of all funds returned.
+Deposits are refundable as follows: 100% by November 30,2019; 50% by January 31, 2020; 25% by March 15, 2020. A reminder will be sent to participants. If three people do not sign up, the trip will be cancelled and 100% of all funds returned.
 
 All trip fees are quoted in US dollars and must be paid in US dollars.
 

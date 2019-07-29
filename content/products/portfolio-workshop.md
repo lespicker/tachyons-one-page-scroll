@@ -25,16 +25,7 @@ product:
     deposit: 1500.00
     notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after June 1st, 2019.
     bcolor: black
-slides:
-  - "/images/099A8236.jpg"
-  - "/images/099A8224.jpg"
-  - "/images/099A8222.jpg"
-  - "/images/099A8223.jpg"
-  - "/images/099A8187.jpg"
-  - "/images/099A8185.jpg"
-  - "/images/099A8234.jpg"
-  - "/images/099A8182.jpg"
-  - "/images/099A8181.jpg"
+weight: 7
 aliases:
   - "page/810"
 ---
@@ -44,7 +35,7 @@ If you are a serious photographer, here is a chance for you to walk home with a 
 
 Selecting images for a portfolio is difficult, but critically important. People naturally judge our work by what they see, so we must invest a lot of time in making selections. Frustratingly, we often spend too much time on images that we never should mess with in the first place! Editing an image to death is not the solution to developing your portfolio. Image selection, what we call curation, is the Number One priority. And in this workshop, you will learn to master that aspect of your art.
 
-> Lester Picker's portfolio workshop was a terrific photographic experience. He and Bob expertly use the two days to teach us editing, sequencing and Lightroom skills that combined with their printing and creative input enabled us to produce beautiful portfolios that reflected our work in the best possible way!= …<cite>Jim Harris</cite>
+> Lester Picker's portfolio workshop was a terrific photographic experience. He and Bob expertly use the two days to teach us editing, sequencing and Lightroom skills that combined with their printing and creative input enabled us to produce beautiful portfolios that reflected our work in the best possible way!<cite>Jim Harris</cite>
 
 **Part of our Master Workshop Series**
 
@@ -66,7 +57,8 @@ Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfol
 - How the editorial process can shape your art
 - Ten archival prints professionally printed on Moab fine art papers, using state-of-the-art Canon - printers.
 - Distinctive, cloth-covered portfolio box, hand crafted in the USA
-- One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
+
+One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
 
 What serious photographer does not realize he or she needs to have a professional portfolio to show friends, potential clients, judges at juried shows, or to peruse for their own enjoyment?
 
@@ -79,7 +71,7 @@ If you are a serious photographer, here is a chance for you to walk home with a 
 {{< figure src="/images/DSCF7227.jpg" >}}
 
 > As a relatively new photographer I tend to focus on invoking an emotion or feeling in a specific image.  However, I am finding the true story can only be expressed in a carefully curated and edited portfolio of images.  So if you are interested in learning a very thoughtful process for objectively assessing your images and finding the “true story” — Les and Bob’s workshop is definitely for you!  They are both masters in their professions and are passionate in conveying their experience.  They have definitely have been big contributors to the development of my photographic skills.
-<cite>Jim Harris, TX</cite>
+<cite>Jeff Wagoner, MI</cite>
 
 ## Image Curation
 
@@ -98,6 +90,7 @@ Another aspect of online critiques that we do not favor is this: a photographer 
 Emotional attachment to one’s own imagery clouds every photographer’s judgment. Our process provides you with the combined judgment of Bob and I, mastered through decades of experience and professional success. Through our process you will gain self-confidence and understand the elements of solid portfolio development using professional critique to ensure you are showcasing your finest work.
 
 > Les Picker and Bob Boyer are experts in different types of photography. Les is a nature, landscape and wildlife artist, while Bob is a studio photographer and master printer. In their ten years of working together, they often differ in their opinions about an image. They respectfully challenge each other, knowing that the passionate effort they put into it results in far higher artistic levels.
+<cite>Norm Arnold, NM</cite>
 
 That commitment to excellence is at the heart of this process. We start with you sharing with us up to 50 of your top images. We will work with you to curate them and select 25 of your best. Those images can be thematic, project oriented, or a “best of” collection. We will provide you with detailed feedback and will discuss the curation with you by email and phone. And all this occurs even before you arrive for your first on-site session.
 
@@ -111,9 +104,7 @@ We intentionally limit this workshop to four dedicated photographers, so that ou
 
 Prior to the workshop, we ask that you select up to 40 of your finest images and share them with us online (we will tell you how to do this). We will help you narrow that group down to 20 images prior to coming to the workshop.
 
-Once you are on site, and after showing you some sample professional portfolios, we spend the rest of the day
-
-Friday with you, helping you curate your images to the best ten images, in a collegial atmosphere where you can also seek input from the other attendees. We structure those discussions so that they are a positive and affirming experience and provide you with a template for utilizing positive professional critique in your future endeavors.
+Once you are on site, and after showing you some sample professional portfolios, we spend the rest of the day Friday with you, helping you curate your images to the best ten images, in a collegial atmosphere where you can also seek input from the other attendees. We structure those discussions so that they are a positive and affirming experience and provide you with a template for utilizing positive professional critique in your future endeavors.
 
 On Saturday we work side-by-side with you sharing insights, techniques, and Lightroom methods to finalize your selections while getting the most out of Lightroom. We’ll also offer one-on-one assistance to post-process your images so that they shine and are ready for our state-of-the-art large format Canon printers. By the end of the day, you will have a selection of images that you can rightfully point to with pride.
 
@@ -129,7 +120,7 @@ You will leave with your professional, hand-made portfolio and with the knowledg
 
 ### Requirements
 
-You must bring with you a laptop, your images under consideration, and a positive attitude. We provide lunches on both days (we try our best to accommodate dietary restrictions). Water, coffee, tea, and snacks are available throughout the day.
+You must bring with you a laptop, your images under consideration, and a positive attitude. We provide lunches on both days (we accommodate dietary restrictions). Water, coffee, tea, and snacks are available throughout the day.
 
 ### Lodging
 
@@ -137,6 +128,6 @@ Once registered we will send you a list of lodging options within minutes of our
 
 ### About Us
 
-Lester Picker (www.lesterpickerphoto.com) has more than 650 writing and photo credits in National Geographic Society publications, Better Homes & Gardens, Forbes, Time, Inc. Publications, Money, Fortune Small Business, Bloomberg Personal Finance, National Parks Magazine, and dozens of newspapers, magazines and other publications. He is a former reporter, photojournalist and editor. Les is a Moab Master photographer, lauded for his fine art printing and his workshops.
+Lester Picker (www.lesterpickerphoto.com) has more than 650 writing and photo credits in National Geographic Society publications, Better Homes & Gardens, Forbes, Time, Inc. Publications, Money, Fortune Small Business, Bloomberg Personal Finance, National Parks Magazine, and dozens of newspapers, magazines and other publications. He is a former reporter, photojournalist and editor. Les is a Moab Master photographer, lauded for his fine art printing and his workshops. Les was awarded the prestigious Canada Northern Lights Award for Best Travel Photographer. 
 
 Robert Boyer is a master printer and oversees all fine art printing for LPFA. Bob is also a computer and software technician. He is an experienced studio photographer and workshop presenter.
