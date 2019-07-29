@@ -1,6 +1,6 @@
 ---
-title: "<span class='black'>Just go out and shoot!</span>"
-subtitle: "<span class='black-30'>The Back Story</span>"
+title: "<span class='white'>Just go out and shoot!</span>"
+subtitle: "<span class='white-70'>The Back Story</span>"
 date: "2019-06-17"
 image: images/DSC_7661.jpg
 destination:
