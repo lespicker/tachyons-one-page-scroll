@@ -1,7 +1,7 @@
 ---
 title: 'Fine Art Printing Workshop'
 date: "2019-05-29"
-subtitle: '<span class="dark-red">Hands-on printing of <span class="fw7">your pictues</span> on our professional large-format printers.</span>'
+subtitle: '<span class="dark-red">Hands-on printing of <span class="fw7">your pictures</span> on our professional large-format printers.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
 sidecolor: 'white'
