@@ -20,9 +20,10 @@ product:
     data_item_categories: "workshop"
     data_item_shippable: "false"
     event_date: 2019-07-27T09:00:00Z
+    soldout: true
     notes: "In this workshop participants will learn how to properly mount their prints on Gatorboard."
     bcolor: black
-weight: 5
+weight: 10
 aliases:
 ---
 **Overview:** In this workshop participants will learn how to properly mount their prints on Gatorboard, an excellent and relatively inexpensive medium for gallery shows, home decor and other uses. It maintains its rigidity and will not warp, offering a flexible and attractive alternative to traditional means of displaying prints. And, Gatorboard Mounted prints can be used for traditionally framed prints behind glass or Plexiglas. 
