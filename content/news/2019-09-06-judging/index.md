@@ -33,11 +33,11 @@ Finally, what prompted me to award this top honor for the color print competitio
 
 The next image struck me so deeply I have to admit I choked up. Anyone who has experienced the loss of a loved one I am certain will share my reaction. In this case photographer Haleh Forouhesh was passing a hospice room when she saw this scene through an open door. She asked if the woman would like company and, when the opportunity arose, asked if she could take a photograph. 
 
-{{< figure src="images/Care & Hope-Haleh Forouhesh.jpg" caption="Haleh Forouhesh photo" >}}
+{{< figure src="images/Care & Hope-Haleh Forouhesh.jpg" caption="" >}}
 
 Why did I choose this one? I can honesty say that there are times when a winning image chooses me and that is the case here. The crop is absolutely perfect, the angle brilliant. Black and white, my preferred medium, is a dramatic genre, able to carry emotions directly to the heart of the viewer. In that this image succeeds. 
 
-I could go on with technical ways this image might be improved, but that would be a case of TMI, all of it irrelevant. I certainly believe that the image could be printed better, but so what? Let's save that for future prints made by this artist with a keen eye for composition and drama. This is an image that moves people, that offers a compelling, heartfelt human story and for that it merits a top award in my mind. 
+I could go on with technical ways this image might be improved, but that would be a case of TMI, all of it irrelevant. I certainly believe that the image could have been printed better, but so what? Let's save that for future prints made by this artist with a keen eye for composition and drama. This is an image that moves people, that offers a compelling, heartfelt human story and for that it merits a top award in my mind. 
 
 Oh, by the way, Haleh took this image with an iPhone!
 
