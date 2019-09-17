@@ -1,5 +1,5 @@
 ---
-title: 'African Photo Adventure<br> June 2020'
+title: 'African Photo Adventure<br> June 2021'
 date: "2019-05-27"
 subtitle: '<span class="dark-red">Photograph  <span class="fw7">the Big Five</span>.</span>'
 location: "Kenya + Uganda"
@@ -24,15 +24,17 @@ product:
     data_item_custom1_name: "Occupancy"
     data_item_custom1_options: "Double|Single"
     data_item_custom1_value: "Double"
-    event_date: 2020-06-17T08:00:00Z
-    event_end: 2020-06-29T08:00:00Z
+    event_date: 2021-06-17T08:00:00Z
+    event_end: 2021-06-29T08:00:00Z
     deposit: 16,500 DBL
     notes: 13 days / 12 nights - The photo adventure of a lifetime, tracking The Big Five and cheetahs hunting, as well as the incredible Mountain Gorillas. $16,500 per/person double occupancy; $18,000 per/person single occupancy. 
     bcolor: black
 weight: 1
 aliases:
 ---
-# Ke in Masai Mara (Kenya) and the Mountain Gorillas (Uganda)
+# Masai Mara (Kenya) and the Mountain Gorillas (Uganda)
+
+## Note Final Trip Begin & End Dates May Vary By A Few Days (Finalized January 2020)
 
 Safari means journey in Kiswahili, the language of East Africa, and Kenya is the home of safari. Its varied ecosystems and landscapes mean that the biodiversity here is higher than any other country in Africa. It has been the natural home of celebrity safaris, big game hunters and royalty since the 18th century and remains the most spectacular safari destination with unparalleled wildlife viewing. A complete safari includes at least three of the main ecosystems: the semiarid dramatic landscapes of the north, the tropical woodlands of the Rift Valley and the lush savannahs of the Masai Mara. 
 
@@ -135,7 +137,7 @@ Once you are registered, I will send you detailed information about our trip; ou
 
 # Pricing &amp; Payment Schedule
 
-After initial $500 deposit on our website, you will immediately be billed $6,000 (for Double Occupancy) or $7,500 (Single Occupancy) to be paid by check. Final payment is due on January 17, 2020. Deposits are refundable on a decreasing schedule; 100% by August 31, 2019; 50% by October 31, 2019, and 25% by December 31, 2019. Final payments, due on January 17, 2020, are not refundable. All costs are in U.S. dollars.
+After initial $500 deposit on our website, you will immediately be billed $6,000 (for Double Occupancy) or $7,500 (Single Occupancy) to be paid by check. Final payment is due on January 17, 2021. Deposits are refundable on a decreasing schedule; 100% by August 31, 2020; 50% by October 31, 2020, and 25% by December 31, 2020. Final payments, due on January 17, 2021, are not refundable. All costs are in U.S. dollars.
 
 {{< figure src="/images/workshop/africa/ABiggs_09202011_Governors007.jpg" caption="" >}}
 

@@ -1,6 +1,7 @@
 ---
 title: 'Master Workshop: Mounting Prints on Gatorboard'
 date: "2019-04-20"
+publish: false
 subtitle: ''
 location: "Havre de Grace, MD"
 sideline: ''
