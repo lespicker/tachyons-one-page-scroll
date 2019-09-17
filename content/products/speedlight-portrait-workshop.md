@@ -1,6 +1,7 @@
 ---
 title: 'Speedlight Portrait Workshop'
 date: "2019-04-20"
+draft: true
 subtitle: ''
 location: "Havre de Grace, MD"
 sideline: ''

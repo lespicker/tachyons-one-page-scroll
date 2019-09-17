@@ -21,12 +21,12 @@ product:
     data_item_image: "/images/V2Print.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
-    event_date: 2020-08-22T08:00:00Z
-    event_end: 2020-09-02T08:00:00Z
+    event_date: 2020-08-29T08:00:00Z
+    event_end: 2020-09-10T08:00:00Z
     deposit: 8750.00
     notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after March 31, 2020.
     bcolor: black
-weight: 3
+weight: 1
 aliases:
 ---
 ### Photograph Grizzlies, Landscapes, and the Amazing Northern Lights
