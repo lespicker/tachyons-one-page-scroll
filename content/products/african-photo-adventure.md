@@ -29,7 +29,7 @@ product:
     deposit: 16,500 DBL
     notes: 13 days / 12 nights - The photo adventure of a lifetime, tracking The Big Five and cheetahs hunting, as well as the incredible Mountain Gorillas. $16,500 per/person double occupancy; $18,000 per/person single occupancy. 
     bcolor: black
-weight: 1
+weight: 9
 aliases:
 ---
 # Masai Mara (Kenya) and the Mountain Gorillas (Uganda)

@@ -30,6 +30,7 @@ product:
     deposit: $9,980
     notes: Patagonia in the Fall is nothing short of photographically amazing. Please come join us for an incredible adventure. $9,980 per person double occupancy; $11,000 single occupancy. Payment schedule as follows- after initial $500 deposit on our website, you will immediately be billed $4,500, to be paid by check. Final payment is due on December 1, 2020. Deposits are refundable on a decreasing schedule; 100% by April 30, 2020; 50% by July 31, 2020, and 25% by October 31, 2020. Final payments, due on December 1, 2020, are not refundable. All costs are in U.S. dollars.   
     bcolor: black
+weight: 7
 aliases:
 ---
 This one of a kind photo safari takes place during the peak of the Patagonian autumn and brings participants to all of Patagonia's most spectacular mountain areas in both Chile and Argentina. We will photograph at top wildlife viewing spots and visit some of the most remote and seldom seen National Parks and Estancias. The Autumn tour begins in Coyhaique, Chile and ends in Punta Arenas, Chile. 
