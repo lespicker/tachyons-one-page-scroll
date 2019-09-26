@@ -3,7 +3,7 @@ title: 'Yukon Photography Adventure<br> August 2020'
 date: "2018-11-06"
 subtitle: '<span class="white">Canadian <span class="fw7">grandeur</span> and wildlife.</span>'
 location: "Yukon Territory, Canada"
-featured: feature
+featured: "false"
 sideline: 'Yukon | Photography | Adventure'
 sidecolor: 'dark-red'
 textcolor: white
@@ -34,6 +34,10 @@ aliases:
 Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back. Along the way we will witness the exotic arctic tundra changing into its dramatic fall colors right before our eyes. Traveling up the famed, graveled Dempster Highway, we will undoubtedly have opportunities to photograph trophy species such as grizzly bears, beaver, fox, and caribou. The luscious reds and yellows of the tundra light up the mountains and valleys during the day, making for incomparable landscape images.
 
 Our goal of capturing the perfect light means sunrises and sunsets spent behind our cameras. But the best light of all may very well be at night, as we mount our cameras on tripods to photograph the exquisite and magical Northern Lights.
+
+
+> I didn’t know what to expect when I signed up to participate in Les’s tour of the Yukon Territories in Canada.  Only by being there can you truly appreciate what you have prepared for.  You can’t appreciate the strength, speed and power of a  grizzly bear until you are close enough to realize you are probably too close.  There is no way you can appreciate the beauty of the tundra changing into its autumn colors or the Northern Lights dancing through the sky.  Les was able to anticipate this and helped put us in the right place at the right time.  His knowledge of plant and animal behavior were invaluable in helping us capture images of a lifetime.  The Yukon remains isolated but, like many other places, it is quickly succumbing to increased tourism, so go now, and go with Les for an experience of a lifetime. <cite>Gary Kohn, Maryland</cite>
+
 
 {{< figure src="/images/_LAP1124-Edit.jpg" >}}
 

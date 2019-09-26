@@ -3,7 +3,7 @@ title: 'Patagonia<br>April 2021'
 date: "2019-05-27"
 subtitle: '<span class="dark-red">Spectacular mountain areas in both <span class="fw7">Chile and Argentina</span>.</span>'
 location: "Tonga"
-featured: feature
+featured: nofeature
 sideline: 'Patagonia | Photography | Adventure'
 sidecolor: 'dark-red'
 textcolor: white
