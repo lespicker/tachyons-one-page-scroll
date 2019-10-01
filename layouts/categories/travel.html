@@ -21,7 +21,7 @@
     <article class="fl w-100 w-third-ns center pa4">
       <div class="aspect-ratio aspect-ratio--6x4">
         <div class="aspect-ratio--object cover flex flex-wrap items-center justify-center bg-black" style="background-image:url({{.Params.image}}) ;">
-          <h2 class="white tc mt0 mb3 db w-100 f3 fw9 lh-solid">{{ .Title }}</h2>
+          <h2 class="white tc mt0 mb3 db w-100 f3 fw9 lh-solid">{{ .Title | plainify }}</h2>
           <a href="{{.Permalink}}" class="db f6 link  br2 ba ph3 pv2 mb2 dib white hover-black hover-bg-white b--white ttu">More Info</a>
         </div>
       </div>

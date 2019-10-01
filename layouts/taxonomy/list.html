@@ -22,7 +22,7 @@
     <article class="fl w-100 w-third-ns center pa2 pa4-ns">
       <div class="aspect-ratio aspect-ratio--6x4">
         <div class="aspect-ratio--object cover bg-center flex flex-wrap items-center justify-center bg-black" style="background-image:url({{($.Scratch.Get "img")}}) ;">
-          <h2 class="white tc mt0 mb3 mh3 db w-100 f3 fw9 lh-solid">{{ .Title | safeHTML }}</h2>
+          <h2 class="white tc mt0 mb3 mh3 db w-100 f3 fw9 lh-solid">{{ .Title | plainify }}</h2>
           <a href="{{.Permalink}}" class="db f6 link  br2 ba ph3 pv2 mb2 dib white hover-black hover-bg-white b--white ttu">More Info</a>
         </div>
       </div>
