@@ -9,6 +9,8 @@ bcolor: "dark-red"
 background: 'bg-top'
 readerbg: bg-white-80
 resources:
+  - src: "images/_LAP2958.jpg"
+    title: "Golden Aspens"
   - src: "images/*"
     title: ""
 aliases:

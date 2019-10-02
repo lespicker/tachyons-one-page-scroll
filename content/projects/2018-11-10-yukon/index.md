@@ -17,7 +17,6 @@ studio:
   lighting: "Profoto"
   heads: "1"
   notes: 'Profoto D2 with an RFi 4ft Octabank and one white reflector on white seamless.'
-resources:
   - src: "images/*"
     title: ""
 aliases:
