@@ -8,6 +8,9 @@ image: "images/_LAP3080.jpg"
 bcolor: "dark-red"
 background: 'bg-top'
 readerbg: bg-white-80
+resources:
+  - src: "images/*"
+    title: ""
 aliases:
 ---
 I have been on every continent on this amazing planet. I have visited and photographed dozens of interesting cultures, spectacular landscapes and abundant wildlife. So I will venture out on a limb and say this... mile for mile, there is no place else on Earth that is as densely rich for photographers as is the Canadian Rockies. 

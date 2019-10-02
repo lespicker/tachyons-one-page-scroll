@@ -11,6 +11,9 @@ readerbg: bg-white-80
 quote:
   text: "Antarctica is shear magnificence. Air purer and crisper than anywhere else on Earth."
   cite: "Les Picker"
+resources:
+  - src: "images/*"
+    title: ""
 aliases:
 ---
 How can one describe the indescribable? I stood in the midst of a colony of one million penguins, photographing their antics, when I found my camera drifting away from my eye. I realized how futile my images would be in capturing the shear abundance of what lay before me. And how about the sounds of one million birds squawking at each other? Or the pungent smell of guano as deep as my ankles?

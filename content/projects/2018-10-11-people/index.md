@@ -11,6 +11,9 @@ readerbg: bg-white-80
 quote:
   text: "If there is one thing I’ve learned it is that we are more alike than different."
   cite: "Les Picker"
+resources:
+  - src: "images/*"
+    title: ""
 aliases:
 ---
 In the end, it all comes down to people, doesn't it? From birth to death, our lives are intertwined with our fellow humans, for good and for bad. Complex, loving, dysfunctional, intimate... whatever. 

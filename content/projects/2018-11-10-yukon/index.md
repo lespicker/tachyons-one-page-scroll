@@ -17,6 +17,9 @@ studio:
   lighting: "Profoto"
   heads: "1"
   notes: 'Profoto D2 with an RFi 4ft Octabank and one white reflector on white seamless.'
+resources:
+  - src: "images/*"
+    title: ""
 aliases:
 ---
 Ever since I’ve been a boy the Yukon has fascinated me, whether it was reading Jack London or flipping through the pages of National Geographic and seeing sled dogs working their way across the tundra.
