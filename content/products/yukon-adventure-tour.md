@@ -97,6 +97,15 @@ After an early breakfast we head back to Whitehorse. Depending on weather, we ei
 **Day 9**<br>
 A day in Kluane National Park or Haines, Alaska, followed by dinner and a workshop wrap-up. This is an opportunity to share images and ask for critique.
 
+> Traveling on a photography-led tour as a non-photographer spouse can be difficult.  On Les Picker’s Yukon Photo Adventure, we were a total of four travelers, and I was the only one with a point-and-shoot.  
+
+> What made this expedition so satisfying was Les’s love for the Yukon territory.  His years of traveling the region have enabled him not only to collect a huge list of off-the-beaten path photo opportunities, but to acquire thorough knowledge of tundra and wildlife, and natural and human history.  Throughout our ten days together, I was comfortable asking questions about it all.  Amidst endless wilderness landscapes, Les added stories about artists, gold miners, and even bears he has gotten to know over the years.  When possible, he introduced us to some of these people (and animals).
+
+> During the photo shoots, I soaked up what mattered to me.  As the rest of the group experienced Yukon through their camera, I was encouraged to see it from my own perspective.  No where was this more true than the night we watched the northern lights for three hours. Laying on a blanket, I lost myself to the sky’s incredible magic, barely aware of the nearby photographers with their tripods, whispering about camera settings.
+
+> I recently read a nature-inspired definition of awe that described it as a response to things we perceive as vast and which transcend the way we understand the world.  I immediately thought of the Yukon and how Les engaged me, as well as the photographers, to see it as a very special and sacred place. <cite>Susan Newell, Pennsylvania</cite>
+
+
 **Day 10-11**<br>
 Trip to Skagway, Alaska.
 
