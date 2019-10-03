@@ -128,7 +128,7 @@ We will spend each day (and nights in the case of Northern Lights) photographing
 
 ### What To Bring
 
-You will be provided with a detailed list of what to bring. Medium format cameras are welcome, as Les is also an experienced Hasselblad digital photographer.
+You will be provided with a detailed list of what to bring. Medium format cameras are welcome, as Les is also an experienced Hasselblad and Fuji Medium Format digital photographer.
 
 ### What is Provided
 
