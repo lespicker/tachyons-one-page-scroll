@@ -47,7 +47,7 @@ Robert Boyer is the Master Printmaker for Lester Picker Fine Art Photography. Bo
 ### Our Learning Environment
 Our studio in Havre de Grace, Maryland has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable.
 
-We use a Canon Pro4000 large format printer for prints up to 44”, as well as three additional large format professional Canon printers for prints up to 24”.
+We use a Canon Pro4000 large format printer for prints up to 44”, as well as three additional large format professional Canon printers for prints up to 24” (Don't worry, the concepts you learn will apply to whatever printers you choose).
 
 Our in-studio kitchenette has fresh coffee, teas and drinks and refreshments always available to keep you energized. We use all-Apple computer equipment, but Bob is well versed in PC technology as well. In our workshops we focus on Lightroom for post-processing and printing.
 
