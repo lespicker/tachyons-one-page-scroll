@@ -7,10 +7,11 @@ comments: true
 categories: opinion
 tags:
 - photography
-- judging
-- contests
-- photography contests
-- awards
+- poetry
+- northern lights
+- aurora
+- aurora borealis
+- Yukon
 ---
 
 If I had to choose only one scene to set before my photography clients, it would have to be the awesome, indescribable Northern Lights. 
