@@ -20,6 +20,7 @@ product:
   data_item_categories: "workshop"
   data_item_shippable: "false"
   event_date: 2019-11-16T08:30:00Z
+  soldout: true
   notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make. No refunds after Sept 1, 2019"
   bcolor: "black"
 weight: 10
