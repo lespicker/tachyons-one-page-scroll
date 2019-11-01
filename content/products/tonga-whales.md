@@ -1,7 +1,7 @@
 ---
 title: 'Tonga - Humpback Whales<br>September 2020'
 date: "2019-05-27"
-subtitle: '<span class="dark-red">A real  <span class="fw7">close-up experience</span> with Les Picker &amp; Andy Biggs.</span>'
+subtitle: '<span class="dark-red">A real  <span class="fw7">close-up experience</span> with Les Picker.</span>'
 location: "Tonga"
 featured: nofeature
 sideline: 'Tonga South Pacific | Photography | Adventure'
@@ -17,14 +17,14 @@ product:
     data_item_id: PAT0020
     data_item_name: "Tonga Whales"
     data_item_price: 500.00
-    data_item_description: "Deposit for Tonga adventure; total price $7,500."
-    data_item_image: "/images/V2Print.jpg"
+    data_item_description: "Deposit for Tonga adventure; total price $7,000."
+    data_item_image: "/images/workshop/tonga/whale-of-a-time-130844.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
     event_date: 2020-09-28T08:00:00Z
     event_end: 2020-10-03T08:00:00Z
-    deposit: $7,500
-    notes: Can anything be more exciting than snorkeling with and photographing humpback whales and their calves? $7,500 per person double occupancy. After initial $500 deposit,  you will immediately be billed $2,500, to be paid by check. Final payment of $4,500 is due on March 29, 2020. Deposits are refundable as follows; 100% by August 31, 2019; 50% by November 30, 2019, and 25% by January 31, 2020. Final payments are not refundable. All costs are in U.S. dollars.  
+    deposit: $7,000
+    notes: Can anything be more exciting than snorkeling with and photographing humpback whales and their calves? $7,000 per person double occupancy. After initial $500 deposit,  you will immediately be billed $2,500, to be paid by check. Final payment of $4,000 is due on March 29, 2020. Deposits are refundable as follows; 50% by December 15, 2019, and 25% by February 15, 2020. Final payments are not refundable. All costs are in U.S. dollars.  
     bcolor: black
 weight: 3
 aliases:
@@ -85,18 +85,17 @@ Our groups are small, so space is limited. If this exciting trip has your name o
  
 ## The Cost
 
-The cost of this workshop is US$7,500 (double occupancy only). This fee includes all in-country ground transportation as well as hotel accommodation (double occupancy) and all meals.
+The cost of this workshop is US$7,000 (double occupancy only). This fee includes all in-country ground transportation as well as hotel accommodation (double occupancy) and all meals.
 
 Deposit: A $500 deposit is required when you register online. Upon receipt of the initial deposit, you will immediately be billed for $2,500 to be paid only by check.
 
 Deposits are refundable as follows: 
 
-By August 31, 2019; full refund<br>
-By November 30, 2019; 50% refund<br>
-By January 31, 2020; 25% refund<br>
-After February 1, 2020; no refund<br>
+By December 15, 2019; 50% refund<br>
+By February 15, 2020; 25% refund<br>
+After February 15, 2020; no refund<br>
 
-Final Payment: The final payment of $4,500 is by check only. That payment is due on March 29, 2020). An invoice will be sent 30 days prior to the due date. Final payments are not refundable. 
+Final Payment: The final payment of $4,000 is by check only. That payment is due on March 29, 2020). An invoice will be sent 30 days prior to the due date. Final payments are not refundable. 
 
 Please note: We will attempt to adhere to this itinerary as much as possible. However, certain conditions (political, climatic, environmental, cultural, or wildlife migrations) may necessitate changes in the itinerary. We reserves the right to alter the itinerary at any time. We will attempt to notify participants of changes as far in advance as possible. Costs incurred by such changes will be the responsibility of the participant.
 
