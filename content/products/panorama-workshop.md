@@ -20,7 +20,7 @@ product:
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2019-12-07T09:00:00Z
+    event_date: 2020-05-23T09:00:00Z
     notes: "This is a hands-on learning experience with Really Right Stuff equipment that will be on loan at the workshop."
     bcolor: black
 weight: 2
