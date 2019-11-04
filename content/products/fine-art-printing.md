@@ -19,7 +19,7 @@ product:
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2020-02-21T08:30:00Z
+  event_date: 2020-03-21T08:30:00Z
   notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make. No refunds after Jan 31, 2020"
   bcolor: "black"
 weight: 10
