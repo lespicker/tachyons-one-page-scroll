@@ -1,7 +1,7 @@
 ---
 title: "<span class='white'>The Secret is in the Art</span>"
 date: "2019-11-26"
-image: images/DSC_2934.jpg
+image: images/IMG_1683.jpeg
 destination:
 comments: true
 categories: opinion
