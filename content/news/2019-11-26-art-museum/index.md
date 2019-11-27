@@ -30,7 +30,7 @@ Now, about those fine art images. Good art, with the possible exception of good 
 
 Take these iPhone captures I made on my visit to the Met where I spent a good deal of time at an exhibit of Dutch masters. 
 
-Let's start with a simple, pastoral landscape by Dutch artist 
+Let's start with a simple, pastoral landscape by Dutch artist Meyndert Hobbema in the mid-1600s. 
 
 {{< figure src="images/IMG_1678.jpg" >}}
 
@@ -43,13 +43,11 @@ But what I feel sets this piece apart is the placement of the woman on the right
 
 ### Portraits
 
-
-
 Portraitists can learn as much from classic fine art painters as they do from the best photo books out there. 
 
 {{< figure src="images/IMG_1688.jpg" >}}
 
-In this 450-year old painting by Rembrandt, I believe everything one could learn about portraiture is present. Look at the lighting, so natural. Look at the gentle fall-off as our eyes move to the shadows. The eyes are in focus, with a specular catch light in the left eye. The background is separated from the subject. Can it get more awesome than this? Could it possibly be more instructive for those of you who do photographic portraits?
+In this 450-year old painting by Rembrandt (as well as the lead image above), I believe everything one could learn about portraiture is present. Look at the lighting, so natural. Look at the gentle fall-off as our eyes move to the shadows. The eyes are in focus, with a specular catch light in the left eye. The background is separated from the subject. Can it get more awesome than this? Could it possibly be more instructive for those of you who do photographic portraits?
 
 ### Interiors
 
@@ -75,6 +73,6 @@ In this final image segment that I chose from my visit, Dutch artist Gerard de L
 
 {{< figure src="images/IMG_1655.jpg" >}}
 
-Notice the restrained use of shading in the horse's neck and face. Note the addition of a hint of green to the shadows. In post-processing very little goes a long way, allowing for naturalistic effects, rather than gaudy transitions. 
+Notice the restrained use of shading in the horse's neck and face. Note the addition of hints of green and violet to the shadows. In post-processing very little goes a long way, allowing for naturalistic effects, rather than gaudy transitions. 
 
 So, if you want to really improve your photography, take a day every few months and visit fine art museums. I think you will be pleasantly surprised at how it informs your own photographic art. 
