@@ -22,7 +22,7 @@ Wise people have long said that life is a journey, and for me photography has al
 
 For nearly fifty years I was a dedicated 35mm shooter, in my case Nikon. Through model after model, film to digital, Nikon served me well, whether photographing for National Geographic publications, capturing wildlife, or recording landscapes that I loved. But, like most professionals, I wanted more, always more. More dynamic range, more detail, more features, better lenses. 
 
-As I evolved from photojournalism to more artful forms of expression, I came to understand that 35mm would never fully meet my needs. I shot film on a 4x5 view camera that I enjoyed, but that rigid system lacked the flexibility portability that I needed. 
+As I evolved from photojournalism to more artful forms of expression, I came to understand that 35mm would never fully meet my needs. I shot film on a 4x5 view camera that I enjoyed, but that rigid system lacked the flexibility and portability that I needed. 
 
 {{< figure src="images/_LAP2920.jpg" >}}
 
@@ -44,7 +44,7 @@ Throughout my career, I've quested for ultimate image quality, not for Instagram
 
 {{< figure src="images/DSCF0217.jpg" >}}
 
-Then, the revelation! I found the Fuji GFX 50Sm mirrorless system. It is not just acceptable for my art, but truly exceptional. I have never had such [customizable, functional buttons](https://www.youtube.com/watch?v=uB_YxWmDJVw&t=891s), ready to engage my creativity with the press of a finger.  The camera has terrific hand feel. I absolutely love the tilting viewfinder, which suits my working style. It eliminates the need for right angle finders and goofy loupes hanging around my neck and allows for a more stable shooting platform. I love having all the info I need showing in my customized viewfinder, with no extraneous distractions. Focus is fast and spot on. But none of that actually matters if the files are not what I want, and the GFX files are simply the best I've ever experienced. 
+Then, the revelation! I found the Fuji GFX 50S mirrorless system. It is not just acceptable for my art, but truly exceptional. I have never had such [customizable, functional buttons](https://www.youtube.com/watch?v=uB_YxWmDJVw&t=891s), ready to engage my creativity with the press of a finger.  The camera has terrific hand feel. I absolutely love the tilting viewfinder, which suits my working style. It eliminates the need for right angle finders and goofy loupes hanging around my neck and allows for a more stable shooting platform. I love having all the info I need showing in my customized viewfinder, with no extraneous distractions. Focus is fast and spot on. But none of that actually matters if the files are not what I want, and the GFX files are simply the best I've ever experienced. 
 
 {{< figure src="images/DSCF0783.jpg" >}}
 
