@@ -30,7 +30,7 @@ In this all day workshop (9AM - 5PM) you will learn how to take exceptional, art
 
 Today it is easier than ever to take panoramic images with an iPhone, point-and-shoot camera, or even a hand-held DSLR. But, to obtain truly professional panoramas that you are able to enlarge into sharp, detailed prints or room-sized wallpaper installations (see video below) you have to use good equipment and flawless technique. In this workshop you will go a few steps further, with Les' tips, suggestions and his personal workflow that will result in the highest level of artistic expression. 
 
-Les' panoramas have been printed for collectors on large-format fine art papers in sizes up to six-feet long. Les' panoramas have also been enlarged into wallpapers that are as large as 30-feet by 10-feet and are exhibited in hospitals and offices. All Les' work is produced in his studio, where the workshop will be held.  
+Les' panoramas have been printed for collectors on large-format fine art papers in sizes up to six-feet long. Les' panoramas have also been enlarged into wallpapers that are as large as 30-feet by 10-feet and are exhibited in hospitals and offices. All Les' work is produced in his studio, where the workshop will be held, with outdoor field work included.  
 
 As with all Les' workshops, students are invited to ask Les questions or for his photographic advice well after the workshop ends. More than 75% of Les' clients have attended one of Les' lectures or have taken a workshop with him before, reflecting his commitment to his clients and his craft. For a list of Les' other workshops, please [click here](https://lesterpickerphoto.com/types/workshop/). 
 
@@ -60,9 +60,9 @@ Les' two panorama instructional videos have been viewed by more than 250,000 pho
 
 ## Requirements
 
-- DSLR Camera
+- DSLR Camera with an Arca-Swiss tripod mounting plate
 - Lens(es) capable of 70mm to 200mm (prime or zoom)
-- Tripod
+- Tripod with Arca-Swiss mount
 - Cable release (electronic or manual)
 - Laptop computer with the latest version of Lightroom installed and enough room to store your pano images
 
@@ -80,7 +80,7 @@ Les' two panorama instructional videos have been viewed by more than 250,000 pho
 - Guaranteed success tips for taking panos 
 - How to post-process your panos in Lightroom
 - Display options for your panos
-- Printing wallpaper-sized panoramas: A Case Study
+- Printing room-sized panoramas: A Case Study (or two)
 
 {{< figure src="/images/pano-workshop/DSCF8112-Pano-Edit.jpg" caption="Maui, Hawaii" >}}
 
