@@ -29,6 +29,9 @@ product:
 weight: 4
 aliases:
 ---
+
+**Please note: This tour needs to be paired with the Tonga tour. It is no longer an optional extention. [Please take a look the details, dates, and pricing](/products/tonga-whales/). You will be registering for both tours.**
+
 This is a unique opportunity to travel to Australia and its neighboring island Tasmania with two professional full-time photographers and guides to photograph the incredible landscapes and wild wilderness areas of the Great Ocean Road and Tasmanian Wilderness.
 
 The workshop is strictly limited to no more than six photographers and has been designed to provide the very best photographic experience in some of the best locations across the Great Ocean Road and Tasmania. It is for photographers looking for a fantastic experience who want to be in the right place at the right time - when the light is at its absolute best.
