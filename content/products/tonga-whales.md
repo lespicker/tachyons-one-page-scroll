@@ -29,7 +29,7 @@ product:
 weight: 3
 aliases:
 ---
-**Please note: This tour needs to be paired with the Austrailia/Tasmania tour. It is no longer an optional extention. [Please take a look the details, dates, and pricing](/products/australia-tasmania/). You will be registering for both tours.**
+**Please note: This tour needs to be paired with the Austrailia/Tasmania tour. It is no longer an optional extension. [Please take a look the details, dates, and pricing](/products/australia-tasmania/). You will be registering for both tours.**
 
 This is a trip you really don’t want to miss! Spend 4 solid days of snorkeling in the waters of Vava’u, Tonga amongst southern humpback whales and their offspring. Imagine snorkeling up to a 40-ton gentle giant, in a peaceful setting, and spending time watching and observing with a small underwater camera or GoPro. Come and join Andy  and Les in the calm waters of Tonga and find out for yourself.
 

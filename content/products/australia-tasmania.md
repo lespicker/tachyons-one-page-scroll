@@ -30,7 +30,7 @@ weight: 4
 aliases:
 ---
 
-**Please note: This tour needs to be paired with the Tonga tour. It is no longer an optional extention. [Please take a look the details, dates, and pricing](/products/tonga-whales/). You will be registering for both tours.**
+**Please note: This tour needs to be paired with the Tonga tour. It is no longer an optional extension. [Please take a look the details, dates, and pricing](/products/tonga-whales/). You will be registering for both tours.**
 
 This is a unique opportunity to travel to Australia and its neighboring island Tasmania with two professional full-time photographers and guides to photograph the incredible landscapes and wild wilderness areas of the Great Ocean Road and Tasmanian Wilderness.
 
