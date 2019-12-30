@@ -1,7 +1,7 @@
 ---
 title: 'Black & White Workshop'
-date: "2018-06-27"
-draft: true
+date: "2019-12-27"
+draft: false
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Fashion | Editorial | Dualities'
@@ -21,7 +21,7 @@ product:
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2019-06-15T08:30:00Z
+    event_date: 2020-04-11T08:30:00Z
     soldout: true
     notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom."
     bcolor: black
