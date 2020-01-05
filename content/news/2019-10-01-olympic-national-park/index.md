@@ -27,7 +27,7 @@ Part of my discombobulation was due to the fact that Washington's famed rain for
 
 {{< figure src="images/DSCF9192-Edit.jpg" caption="" >}}
 
-It may also be that I have primarily switched to black and white photography, so my search for appropriate scenes that could tell a story in that medium was stymied. I am also drawn to simple, classic images. The rain forest is instead a place of riotous greens, confusing ecological abundance, stately redwoods and cedars, and a profusion of ferns. 
+It may also be that I have primarily switched to black and white photography, so my search for appropriate scenes that could tell a story in that medium was stymied. I am also drawn to simple, classic images. The rain forest is instead a place of riotous greens, confusing ecological abundance, stately spruces and cedars, and a profusion of ferns. 
 
 In any event, I never offer excuses for my work (or lack, thereof). My time in Olympic National Park reminded me of the adage that there is no such thing as a bad day for a nature photographer. After all, prize images or not, we are out there, immersed in nature's beauty. 
 
