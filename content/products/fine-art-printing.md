@@ -1,5 +1,6 @@
 ---
 title: 'Fine Art Printing Workshop'
+draft: true
 date: "2019-05-29"
 subtitle: '<span class="dark-red">Hands-on printing of <span class="fw7">your pictures</span> on our professional large-format printers.</span>'
 location: "Havre de Grace, MD"
