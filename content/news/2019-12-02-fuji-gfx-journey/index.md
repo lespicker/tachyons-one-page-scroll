@@ -1,6 +1,6 @@
 ---
 title: "<span class='white'>The Journey to Fuji GFX</span>"
-date: "2019-12-02"
+date: "2020-01-19"
 image: images/DSCF2581.jpg
 destination:
 comments: true
