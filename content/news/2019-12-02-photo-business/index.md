@@ -2,7 +2,7 @@
 title: "<span class='white'>Wanna Be a Pro Photographer?</span>"
 date: "2019-12-02"
 draft: true
-image: images/_LAP2920.jpg
+image: images/lescarsins-2.jpg
 destination:
 comments: true
 categories: opinion
@@ -14,13 +14,15 @@ tags:
 - tips
 ---
 
-People often ask me how I became a pro photographer and what are the secrets to running a successful photography business. The first part is easy to answer; the second not so much.
+Let's start out the new year with some myth-busting. People often ask me how I became a pro photographer and what are the secrets to running a successful photography business. The first part is easy to answer; the second not so much.
 
 I started in photography around age 11 when my father, a well respected amateur photographer, gave me my first 35mm camera. I always enjoyed taking photographs, but school, then college, graduate school and family kept my artistic passion in check. It wasn't until I was in my thirties that I came back to photography and earned my first assignment with National Geographic publications. 
 
 At that time I thought wouldn't it be great to just go out and photograph every day and make a decent living? Perhaps if I had stuck with Nat Geo that would have been possible. But family issues and a child's illness took me in a different direction, while still keeping alive the dream of going pro full time. 
 
 Any who knows me understands the true meaning of ADD. As I struggled to get my photography business off the ground, [I wrote five novels](https://www.amazon.com/Lester-Picker/e/B009E6U9R0/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=lestpick-20) and a couple of non-fiction books. Funny how I couldn't quite make a living from photography alone. Then lightening struck. I realized that to succeed as a pro I needed to dedicate myself 100% to just that. Surprise, it worked!
+
+{{< figure src="images/DSCF6822.jpg" >}}
 
 ### Out With Myths
 
@@ -39,6 +41,8 @@ Standards have also changed. Images must be perfect today. That means more time 
 Oh, and the expenses! I once had a business mentor who told me very simply that when your revenue finally exceeds your expenses, you stand a chance of making a profit. But just a chance. The issue for photographers is that the equipment has become so darned expensive, with full frame camera bodies alone costing $4,000-10,000. Add lenses, tripod, filters, backpacks and more and pretty soon you're talking real money. 
 
 Would I rather be working in an office or for someone else? Okay, who would have me you're probably thinking. Fair enough. The truth is I love doing what I do despite its challenges. My successes and failures are my own. 
+
+{{< figure src="images/DSCF6822.jpg" >}}
 
 This blog is getting a bit long in the tooth, so let me end with ten tips for those of you thinking about making the leap to pro. 
 
