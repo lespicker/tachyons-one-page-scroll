@@ -1,6 +1,6 @@
 ---
 title: "<span class='white'>Wanna Be a Pro Photographer?</span>"
-date: "2020-01-20"
+date: "2020-01-19"
 draft: false
 image: images/lescarsins-2.jpg
 destination:
