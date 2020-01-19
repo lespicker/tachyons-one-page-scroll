@@ -22,7 +22,7 @@ At that time I thought wouldn't it be great to just go out and photograph every 
 
 Any who knows me understands the true meaning of ADD. As I struggled to get my photography business off the ground, [I wrote five novels](https://www.amazon.com/Lester-Picker/e/B009E6U9R0/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=lestpick-20) and a couple of non-fiction books. Funny how I couldn't quite make a living from photography alone. Then lightening struck. I realized that to succeed as a pro I needed to dedicate myself 100% to just that. Surprise, it worked!
 
-{{< figure src="images/DSCF6822.jpg" >}}
+{{< figure src="images/DSCF6641.jpg" >}}
 
 ### Out With Myths
 
