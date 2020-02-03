@@ -1,7 +1,7 @@
 ---
 title: "<span class='white'>Getting Started in Fine Art Printing</span>"
 date: "2020-01-26"
-draft: false
+draft: true
 image: images/lescarsins-2.jpg
 destination:
 comments: true
