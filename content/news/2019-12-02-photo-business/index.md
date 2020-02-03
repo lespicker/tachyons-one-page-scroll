@@ -18,7 +18,7 @@ Let's start out the new year with some myth-busting. People often ask me how I b
 
 I started in photography around age 11 when my father, a well respected amateur photographer, gave me my first 35mm camera. I always enjoyed taking photographs, but school, then college, graduate school and family kept my artistic passion in check. It wasn't until I was in my thirties that I came back to photography and earned my first assignment with National Geographic publications. 
 
-At that time I thought wouldn't it be great to just go out and photograph every day and make a decent living? Perhaps if I had stuck with Nat Geo that would have been possible. But family issues and a child's illness took me in a different direction, while still keeping alive the dream of going pro full time. 
+At that time I thought wouldn't it be great to just go out and photograph every day and make a decent living? Perhaps if I had stuck with Nat Geo that would have been possible. But family issues and a child's illness took me in a different direction, while still keeping alive the dream of eventually going pro full time. 
 
 Any who knows me understands the true meaning of ADD. As I struggled to get my photography business off the ground, [I wrote five novels](https://www.amazon.com/Lester-Picker/e/B009E6U9R0/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=lestpick-20) and a couple of non-fiction books. Funny how I couldn't quite make a living from photography alone. Then lightening struck. I realized that to succeed as a pro I needed to dedicate myself 100% to just that. Surprise, it worked!
 
@@ -28,7 +28,7 @@ Any who knows me understands the true meaning of ADD. As I struggled to get my p
 
 For those of you looking to support yourself in photography, I'm here to tell  you it is hard work, as in **very** hard. It was hard back in my youth, but today it is agonizingly difficult to be a full-time, self-supporting photographer, other than in specialty areas like weddings, for example. If you yearn to be a landscape, wildlife or travel photographer, you'd better listen up. 
 
-I know so many highly talented photographers who cannot make a living following their passion. They are technically proficient and capture iconic images. But their skillset typically does not include business acumen. To be successful you must also be a good businessperson. Make that a very good businessperson.
+I know so many highly talented photographers who cannot make a living following their passion. They are technically proficient and capture iconic images, but their skillset typically does not include business acumen. To be successful you must also be a good businessperson. In today's competitive environment, make that a very good businessperson.
 
 Leading the reasons for this is that everyone nowadays is a photographer. Mobile phones are ubiquitous and take damned good images. Point-and-shoot cameras have evolved into computerized Ansel Adams machines. And high end cameras? Fuggedaboudit! What this means is that the stock of available images is saturated. Competition is intense. 
 
@@ -38,13 +38,13 @@ So now pros have to be very smart and very focused to make a living. If a photog
 
 Standards have also changed. Images must be perfect today. That means more time painfully post-processing, a genuine time suck. Then there is the need to keep up with the technology, so shave some more time off actual photography. And what about the cost of travel to get those shots in the first place? 
 
-Oh, and the expenses! I once had a business mentor who told me very simply that when your revenue finally exceeds your expenses, you stand a chance of making a profit. But just a chance. The issue for photographers is that the equipment has become so darned expensive, with full frame camera bodies alone costing $4,000-10,000. Add lenses, tripod, filters, backpacks and more and pretty soon you're talking real money. 
+Oh, and the other expenses! I once had a business mentor who told me very simply that when your revenue finally exceeds your expenses, you stand a chance of making a profit. But just a chance. The issue for photographers is that the equipment has become so darned expensive, with high end camera bodies alone costing $4,000-10,000. Add lenses, tripod, filters, backpacks and more and pretty soon you're talking real money. 
 
 Would I rather be working in an office or for someone else? Okay, who would have me you're probably thinking. Fair enough. The truth is I love doing what I do despite its challenges. My successes and failures are my own. 
 
 {{< figure src="images/DSCF6822.jpg" >}}
 
-This blog is getting a bit long in the tooth, so let me end with ten tips for those of you thinking about making the leap to pro. 
+This blog is getting a bit long in the tooth, so let me end with ten mini-tips for those of you thinking about making the leap to pro. 
 
 1. **Don't do it!**  Just kidding. If you have the burning desire to be a pro, go for it, but...
 
