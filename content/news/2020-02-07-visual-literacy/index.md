@@ -1,7 +1,7 @@
 ---
 title: "<span class='white'>Visual Literacy</span>"
 date: "2020-02-07"
-draft: true
+draft: false
 image: images/DSCF9230-HDR-Edit.jpeg
 destination:
 comments: true
