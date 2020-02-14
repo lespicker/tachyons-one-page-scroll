@@ -26,7 +26,7 @@ While I can't take issue with the above approach, my own experience over many de
 
 There are many advantages to visiting a place multiple times. By multiple visits, I don't necessarily mean the same place at the same time each visit, although that can be beneficial, too. 
 
-{{< figure src="images/DSCF1680" >}}
+{{< figure src="images/DSCF1680.jpg" >}}
 
 Repeat visits can come at different seasons. They can come at different times of day... and night. They can come during different weather. And they can be recorded with people present or without. 
 
