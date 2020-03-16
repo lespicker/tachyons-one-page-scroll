@@ -14,7 +14,7 @@ readerbg: bg-black-20
 types:
   - workshop
 product:
-    data_item_id: WRK0001
+    data_item_id: WBW20200718
     data_item_name: "Black & White Workshop"
     data_item_price: 295.00
     data_item_description: "Hands-on using Adobe Lightroom."
@@ -25,7 +25,7 @@ product:
     soldout: true
     notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom."
     bcolor: black
-weight: 10
+weight: 5
 aliases:
 ---
 Immerse yourself into the world of black and white photography. What makes a great black and white photograph? In this seven-hour workshop we will take a look at some styles of the masters past and current, and give you tips on looking at the world a little differently when you’re out with your camera.

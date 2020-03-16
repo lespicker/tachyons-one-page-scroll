@@ -13,7 +13,7 @@ readerbg: bg-black-20
 types:
   - workshop
 product:
-    data_item_id: WRK0901
+    data_item_id: WPN20200523
     data_item_name: "Panorama Workshop"
     data_item_price: 325.00
     data_item_description: "One day multi-shot pano workshop."
@@ -23,7 +23,7 @@ product:
     event_date: 2020-05-23T09:00:00Z
     notes: "This is a hands-on learning experience with Really Right Stuff equipment that will be on loan at the workshop."
     bcolor: black
-weight: 2
+weight: 1
 aliases:
 ---
 In this all day workshop (9AM - 5PM) you will learn how to take exceptional, art print quality panorama images. You will receive complete instruction, from understanding parallax and measuring nodal points to the post-processing and display of pano images. 
