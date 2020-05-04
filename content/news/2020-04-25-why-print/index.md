@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Elevate Your Art Through Prints
+date: "2020-04-30"
+draft: false
+image: images/DSCF7227.jpg
 comments: true
 categories: 
 - opinion
@@ -14,8 +17,6 @@ tags:
 - mindfulness
 - Ansel Adams
 ---
-
-{{< figure src="images/DSCF7227.jpg" >}}
 
 Ansel Adams famously said, "The photograph is the score; the print is the performance." I'd like to elaborate on that theme for those of you contemplating fine art printing and for experienced printers looking for new perspectives. 
 
