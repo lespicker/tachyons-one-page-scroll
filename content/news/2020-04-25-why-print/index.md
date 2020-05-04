@@ -2,7 +2,6 @@
 layout: post
 title: Elevate Your Art Through Prints
 comments: true
-draft: false
 categories: 
 - opinion
 destination: 
