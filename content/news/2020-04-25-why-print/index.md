@@ -34,7 +34,7 @@ Simple first. If you want to sell your work, you have to print it. Most people d
 
 Not that selling prints is easy or should be your main objective with your photography. I'm just saying that if you want people to hang your art on a wall, you've got to print it. 
 
-{{< figure src="images/DSC3465.jpg" >}}
+{{< figure src="images/DSC_3465.jpg" >}}
 
 Okay, so why not just use a lab? If you're thinking of selling inexpensive prints or want to gift them, sure, go ahead and use a lab. But, I'm here to tell you why you shouldn't. If you're a serious artist, that is. 
 
@@ -42,7 +42,7 @@ There is nothing at all, in anything that you presently do to advance your photo
 
 Printing is an extension of your photographic art. It requires you to view your work critically. If your work is not up to par in camera, it will look horrible on paper. Even if it is technically perfect, nurturing it to a final print is like going from making a baby to actually birthing one (with apologies to all you women out there for this awful and completely inaccurate analogy). The process is difficult and oftentimes painful. Creating a print forces us to scrutinize our art at a level that challenges our perceptions of our own work (and even our self esteem, truth be told). 
 
-{{< figure src="images/DSC3589.jpg" >}}
+{{< figure src="images/DSC_3589.jpg" >}}
 
 But printing also works in reverse. As you become more attuned to extending your art to the print, you begin to reassess what you choose to capture in camera, how you capture it and, most importantly, why you choose to capture it. While in the field you start to imagine what the image will look like in print. And that is a true gift. You will begin to think through your imagery, to pre-visualize the composition and the resultant print, and to slow down. 
 
