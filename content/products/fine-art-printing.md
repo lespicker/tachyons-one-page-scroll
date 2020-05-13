@@ -20,7 +20,8 @@ product:
   data_item_categories: "workshop"
   data_item_shippable: "false"
   event_date: 2020-05-30T08:30:00Z
-  notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make. No refunds after April 30, 2020"
+  soldout: true
+  notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make. Rescheduled due to Covid-19"
   bcolor: "black"
 weight: 2
 aliases:
