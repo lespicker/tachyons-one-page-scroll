@@ -2,12 +2,10 @@
 layout: post
 title: An Experience in Wine Country
 comments: true
-draft: false
 categories: 
 destination: 
 - Featured
 - Headline
-- Travelogue
 tags:
 - photography
 - filters
