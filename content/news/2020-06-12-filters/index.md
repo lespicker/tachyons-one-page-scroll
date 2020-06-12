@@ -1,11 +1,11 @@
 ---
 layout: post
 title: An Experience in Wine Country
+date: "2020-06-12"
+image: images/_DSC2639.jpg
 comments: true
 categories: 
 destination: 
-- Featured
-- Headline
 tags:
 - photography
 - filters
@@ -16,9 +16,6 @@ tags:
 - Lee filters
 - best filters
 ---
-
-{{< figure src="images/_DSC2639.jpg" >}}
-
 NOTE #1: If you'd like to see a video I did comparing four different filter systems (and why I chose one), [click here](https://youtu.be/pBIAnVJzB70). 
 
 Note #2: I receive no support from any of these companies. 
