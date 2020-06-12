@@ -23,7 +23,7 @@ product:
     data_item_shippable: "false"
     event_date: 2020-07-18T08:30:00Z
     soldout: true
-    notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom."
+    notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom.Rescheduled due to Covid-19"
     bcolor: black
 weight: 5
 aliases:
