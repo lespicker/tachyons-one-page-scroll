@@ -3,6 +3,7 @@ title: "<span class='white'>Poetry of the Northern Lights</span>"
 date: "2019-10-15"
 image: images/DSC_2934.jpg
 destination:
+- Canada
 comments: true
 categories: opinion
 tags:
