@@ -5,7 +5,9 @@ draft: false
 image: images/DSCF2009.jpg
 destination:
 comments: true
-categories: opinion
+categories: 
+- opinion
+- how-to
 tags:
 - photography
 - scenes
