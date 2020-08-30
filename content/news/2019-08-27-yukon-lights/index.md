@@ -4,6 +4,7 @@ subtitle: "<span class='white-70'>The Back Story</span>"
 date: "2019-08-27"
 image: images/DSCF3844.jpg
 destination:
+- Canada
 comments: true
 categories: opinion
 tags:
