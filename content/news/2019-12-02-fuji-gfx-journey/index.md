@@ -4,7 +4,8 @@ date: "2019-12-19"
 image: images/DSCF2581.jpg
 destination:
 comments: true
-categories: opinion
+categories:
+- reviews
 tags:
 - photography
 - journey
