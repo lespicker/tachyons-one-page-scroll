@@ -4,8 +4,9 @@ subtitle: "<span class='black-30'>The Back Story</span>"
 date: "2019-06-17"
 image: images/2006-11-ecuador-amazon-tarantula1_edited-1.jpg
 destination:
+- south america
 comments: true
-categories: opinion
+categories: Travel
 tags:
 - photography
 - composition
