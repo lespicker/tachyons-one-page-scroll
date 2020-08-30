@@ -5,7 +5,9 @@ date: "2019-03-25"
 image: images/_LAP3081.jpg
 destination:
 comments: true
-categories: opinion
+categories: 
+- opinion
+- reviews
 tags:
 - photography
 - composition
