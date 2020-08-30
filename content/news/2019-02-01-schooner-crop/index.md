@@ -4,6 +4,7 @@ subtitle: ''
 date: "2019-02-01"
 image: images/DSCF8250.jpg
 destination:
+- Antarctica
 comments: true
 categories: 
 tags:
