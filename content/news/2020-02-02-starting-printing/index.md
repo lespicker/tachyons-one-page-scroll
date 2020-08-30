@@ -5,7 +5,9 @@ draft: true
 image: images/lescarsins-2.jpg
 destination:
 comments: true
-categories: opinion
+categories: 
+- opinion
+- how-to
 tags:
 - photography
 - printing
