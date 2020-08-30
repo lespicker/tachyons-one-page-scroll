@@ -5,7 +5,8 @@ draft: false
 image: images/lescarsins-2.jpg
 destination:
 comments: true
-categories: opinion
+categories: 
+- How-to
 tags:
 - photography
 - business
