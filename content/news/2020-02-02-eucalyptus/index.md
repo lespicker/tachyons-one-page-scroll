@@ -4,8 +4,10 @@ date: "2020-02-02"
 draft: false
 image: images/DSCF1166.jpg
 destination:
+- USA
+- Hawaii
 comments: true
-categories: opinion
+categories:
 tags:
 - photography
 - art
