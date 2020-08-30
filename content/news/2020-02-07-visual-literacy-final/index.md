@@ -5,7 +5,9 @@ draft: false
 image: images/DSCF9230-HDR-Edit.jpeg
 destination:
 comments: true
-categories: opinion
+categories: 
+- opinion
+- how-to
 tags:
 - photography
 - business
