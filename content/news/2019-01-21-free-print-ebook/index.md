@@ -6,6 +6,7 @@ subtitle: '<span class="white-50">Free<br>e-Book!</span>'
 comments: true
 categories: 
 - how-to
+- reviews
 tags:
 - 
 ---
