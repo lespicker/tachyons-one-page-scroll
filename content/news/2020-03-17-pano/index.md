@@ -5,7 +5,8 @@ draft: false
 image: images/final-flat.jpg
 destination:
 comments: true
-categories: how-to
+categories: 
+- how-to
 tags:
 - photography
 - scenes
