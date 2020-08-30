@@ -5,6 +5,7 @@ date: "2020-06-12"
 image: images/_DSC2639.jpg
 comments: true
 categories: 
+- Reviews
 destination: 
 tags:
 - photography
