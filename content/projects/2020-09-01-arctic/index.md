@@ -4,7 +4,7 @@ date: "2020-09-01"
 title: 'The Arctic'
 sideline: 'Travel | Landscapes | Wildlife'
 sidecolor: 'light-blue'
-image: "images/DSCF3713.jpg"
+image: "images/DSC_5464.jpg.jpg"
 bcolor: "gold"
 background: 'bg-top'
 readerbg: bg-white-80
@@ -12,7 +12,7 @@ quote:
   text: "The polar skies are breathtaking."
   cite: "Les Picker"
 resources:
-  - src: "images/DSCF0543.jpg"
+  - src: "images/DSC_3630.jpg"
     title: "Arctic caption"
   - src: "images/the-place*.jpg"
     title: "The Place"
