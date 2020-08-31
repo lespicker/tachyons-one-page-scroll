@@ -2,7 +2,7 @@
 subtitle: 'China'
 date: "2019-01-20"
 title: 'China: A Changing Land'
-sideline: 'Travel | Landscapes | WildlFrom The Communityife'
+sideline: 'Travel | Landscapes | Wildlife'
 sidecolor: 'light-blue'
 image: "images/DSCF3713.jpg"
 bcolor: "gold"
