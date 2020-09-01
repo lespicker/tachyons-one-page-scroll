@@ -2,6 +2,7 @@
 layout: post
 title: Foreground Elements
 date: 2020-09-01
+image: images/DSCF1796.jpg
 comments: true
 categories: 
 - how-to
@@ -13,8 +14,6 @@ tags:
 - foreground
 - composition
 ---
-
-{{< figure src="images/DSCF1796.jpg" >}}
 
 When we photographers think of foreground elements, we tend to think in terms of wide angle lenses capturing wide expanses, as in these two images taken in Antarctica. In that case the foreground elements, whether they be stones, tree trunks, ice floes or other objects, serve as scene anchors. Our eyes then are free to roam deeper into the image to encompass broad swaths of background that together tell our story.
 
