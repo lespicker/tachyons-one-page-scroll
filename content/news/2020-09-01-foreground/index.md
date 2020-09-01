@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fail!
+title: Foreground Elements
 date: 2020-09-01
 comments: true
 categories: 
