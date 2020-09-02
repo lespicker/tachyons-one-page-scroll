@@ -4,7 +4,7 @@ date: "2020-09-01"
 title: 'The Arctic'
 sideline: 'Travel | Landscapes | Wildlife'
 sidecolor: 'light-blue'
-image: "images/DSC_5464.jpg.jpg"
+image: "images/DSC_5464.jpg"
 bcolor: "gold"
 background: 'bg-top'
 readerbg: bg-white-80
