@@ -21,10 +21,10 @@ product:
     data_item_image: "/images/workshop/tonga/whale-of-a-time-130844.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
-    event_date: 2020-09-28T08:00:00Z
-    event_end: 2020-10-03T08:00:00Z
+    event_date: 2022-09-28T08:00:00Z
+    event_end: 2022-10-15T08:00:00Z
     deposit: $7,000
-    notes: Can anything be more exciting than snorkeling with and photographing humpback whales and their calves? $7,000 per person double occupancy. After initial $500 deposit,  you will immediately be billed $2,500, to be paid by check. Final payment of $4,000 is due on March 29, 2020. Deposits are refundable as follows; 50% by December 15, 2019, and 25% by February 15, 2020. Final payments are not refundable. All costs are in U.S. dollars.  
+    notes: Can anything be more exciting than snorkeling with and photographing humpback whales and their calves? $7,000 per person double occupancy. After initial $500 deposit,  you will immediately be billed $2,500, to be paid by check. Final payment of $4,000 is due on March 29, 2020. Deposits are refundable as follows; 50% by December 15, 2021, and 25% by February 15, 2020. Final payments are not refundable. All costs are in U.S. dollars.  
     bcolor: black
 weight: 3
 aliases:

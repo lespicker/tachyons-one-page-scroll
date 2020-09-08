@@ -19,7 +19,7 @@ product:
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2020-05-30T08:30:00Z
+  event_date: 2021-06-05T08:30:00Z
   soldout: true
   notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make. Rescheduled due to Covid-19"
   bcolor: "black"

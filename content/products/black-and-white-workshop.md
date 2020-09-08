@@ -21,7 +21,7 @@ product:
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2020-07-18T08:30:00Z
+    event_date: 2021-07-17T08:30:00Z
     soldout: true
     notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom.Rescheduled due to Covid-19"
     bcolor: black

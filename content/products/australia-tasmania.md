@@ -21,8 +21,8 @@ product:
     data_item_image: "/images/workshop/australia/page7image24360144 copy.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
-    event_date: 2020-10-05T08:00:00Z
-    event_end: 2020-10-15T08:00:00Z
+    event_date: 2023-10-05T08:00:00Z
+    event_end: 2023-10-15T08:00:00Z
     deposit: $13,216
     notes: This is a unique opportunity to travel to Australia and its neighboring island Tasmania with two professional full-time photographers and guides to photograph the incredible landscapes and wild wilderness areas of the Great Ocean Road and Tasmanian Wilderness. $13,216 per person double occupancy. After initial $500 payment, you will immediately be billed $4,500, to be paid by check. Final payment of $8,216 is due on April 30, 2020. Deposits are refundable as follows; 50% by January 15, 2020, and 25% by March 15, 2020. Final payments are not refundable. All costs are in U.S. dollars.  
     bcolor: black

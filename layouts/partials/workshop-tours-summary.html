@@ -10,7 +10,7 @@
       </div>
     </div>
     <div class="flex flex-wrap flex-nowrap-l items-stretch mw9 ph2 ph0-l min-vh-50">
-      {{ range first 1 (where (where .Data.Pages "Section" "products") "Params.featured" "feature") }}
+      {{ range first 1 (where (where .Site.RegularPages "Section" "products") "Params.featured" "feature") }}
       <div class="w-100 w-60-l mb2 cover bg-center mv4" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ .Params.image }}'); background-position:
       center center; background-size: cover;">
         <article class="flex flex-wrap flex-nowrap-l white ph4 pv4">
@@ -26,7 +26,7 @@
 
       <div class="ml0 ml2-l w-100 w-40-l mt5 mt0-l">
         <div class="">
-          {{ $all_products := (where (where .Data.Pages "Section" "products") "Params.featured" "ne" "feature") }}
+          {{ $all_products := (where (where .Site.RegularPages "Section" "products") "Params.featured" "ne" "feature") }}
           {{ $date_products := (where $all_products ".Params.types" "intersect" (slice "tour" "workshop"))}}
           {{ range first 3 (sort $date_products ".Params.product.event_date") }}
           <article class="flex justify-end items-stretch mb4">
