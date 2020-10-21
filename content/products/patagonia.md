@@ -1,5 +1,5 @@
 ---
-title: 'Patagonia<br>April 2021'
+title: 'Patagonia<br>April 2022'
 date: "2019-05-27"
 subtitle: '<span class="dark-red">Spectacular mountain areas in both <span class="fw7">Chile and Argentina</span>.</span>'
 location: "Tonga"
@@ -25,10 +25,10 @@ product:
     data_item_custom1_name: "Occupancy"
     data_item_custom1_options: "Double Occupancy|Single Occupancy"
     data_item_custom1_value: "Double Occupancy"
-    event_date: 2021-04-10T08:00:00Z
-    event_end: 2021-04-25T08:00:00Z
+    event_date: 2022-04-10T08:00:00Z
+    event_end: 2022-04-25T08:00:00Z
     deposit: $9,980
-    notes: Patagonia in the Fall is nothing short of photographically amazing. Please come join us for an incredible adventure. $9,980 per person double occupancy; $11,000 single occupancy. Payment schedule as follows- after initial $500 deposit on our website, you will immediately be billed $4,500, to be paid by check. Final payment is due on December 1, 2020. Deposits are refundable on a decreasing schedule; 100% by April 30, 2020; 50% by July 31, 2020, and 25% by October 31, 2020. Final payments, due on December 1, 2020, are not refundable. All costs are in U.S. dollars.   
+    notes: Patagonia in the Fall is nothing short of photographically amazing. Please come join us for an incredible adventure. $9,980 per person double occupancy; $11,000 single occupancy. Payment schedule as follows- after initial $500 deposit on our website, you will immediately be billed $4,500, to be paid by check. Deposits are refundable on a decreasing schedule; 100% by April 30, 2021; 50% by July 31, 2021, and 25% by October 31, 2021. Final payments, due on December 1, 2020, are not refundable. All costs are in U.S. dollars.   
     bcolor: black
 weight: 7
 aliases:

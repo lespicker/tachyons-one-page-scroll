@@ -1,8 +1,9 @@
 ---
-title: 'African Photo Adventure<br> June 2021'
+title: 'African Photo Adventure<br> June 2022'
 date: "2019-05-27"
 subtitle: '<span class="dark-red">Photograph  <span class="fw7">the Big Five</span>.</span>'
 location: "Kenya + Uganda"
+draft: true
 featured: feature
 sideline: 'Africa | Photography | Adventure'
 sidecolor: 'dark-red'
@@ -24,8 +25,8 @@ product:
     data_item_custom1_name: "Occupancy"
     data_item_custom1_options: "Double|Single"
     data_item_custom1_value: "Double"
-    event_date: 2021-06-17T08:00:00Z
-    event_end: 2021-06-29T08:00:00Z
+    event_date: 2022-06-17T08:00:00Z
+    event_end: 2022-06-29T08:00:00Z
     deposit: 16,500 DBL
     notes: 13 days / 12 nights - The photo adventure of a lifetime, tracking The Big Five and cheetahs hunting, as well as the incredible Mountain Gorillas. $16,500 per/person double occupancy; $18,000 per/person single occupancy. 
     bcolor: black
@@ -34,7 +35,7 @@ aliases:
 ---
 # Masai Mara (Kenya) and the Mountain Gorillas (Uganda)
 
-## Note Final Trip Begin & End Dates May Vary By A Few Days (Finalized January 2020)
+## Note Final Trip Begin & End Dates May Vary By A Few Days (Finalized June 2021)
 
 Safari means journey in Kiswahili, the language of East Africa, and Kenya is the home of safari. Its varied ecosystems and landscapes mean that the biodiversity here is higher than any other country in Africa. It has been the natural home of celebrity safaris, big game hunters and royalty since the 18th century and remains the most spectacular safari destination with unparalleled wildlife viewing. A complete safari includes at least three of the main ecosystems: the semiarid dramatic landscapes of the north, the tropical woodlands of the Rift Valley and the lush savannahs of the Masai Mara. 
 
@@ -50,7 +51,7 @@ Kenya has a well-established system of guide training and certification. It is i
 
 ## Nairobi 
 
-### June 17
+### Day 1
 
 We begin our journey in Nairobi , one of the most prominent, thriving capital cities on the continent. The world’s only capital city with a national park, Nairobi is a vibrant combination of modern life, African culture and nature. Skyscrapers, banks, malls, international hotels and businesses are prominent throughout Nairobi. Close to Nairobi National Park, the suburbs of Langata and Karen have maintained the traditional Nairobi charm with tall mature trees and vast gardens.
 
@@ -58,7 +59,7 @@ We will lodge at One Forty Eight, a beautiful new boutique hotel bordering the g
 
 ## Amboseli National Park
 
-### June 19-21
+### Day 2-4
 
 {{< figure src="/images/workshop/africa/AndyBiggs_20140121_055118_MaraPlains087.jpg" caption="" >}}
 
@@ -72,7 +73,7 @@ We will lodge in the 5-star Elewana Tortilis Camp, located on the south western 
 
 ## Mara North Conservancy
 
-### June 21-25
+### Day 5-9
 
 {{< figure src="/images/workshop/africa/ABiggs_09102011_MaraPlains0639-Edit.jpg" caption="" >}}
 
@@ -97,7 +98,7 @@ Uganda, or the ‘Pearl of Africa’, as it was famously dubbed by Winston Churc
 
 ## Entebbe
 
-### June 25-27
+### Day 10-13
 
 Situated on a peninsula in Lake Victoria, Entebbe offers plenty to keep visitors amused. This charming town features tree-lined streets and serves as an excellent base from which to explore the surrounding area. Tourists can look forward to spending days on beautiful beaches along the banks of Lake Victoria, stroll through the fields and forests of the magnificent Botanical Gardens, or pay a visit to Ngamba Island Chimpanzee Sanctuary, a haven for country’s orphaned chimps.
 
@@ -107,7 +108,7 @@ We will lodge in the Protea Hotel by Marriott, adjacent to the airport and conve
 
 {{< figure src="/images/workshop/africa/AndyBiggs_081213_Rwanda_219-Edit.jpg" caption="" >}}
 
-### June 26-29
+### Day 14-18
 
 Located in southwestern Uganda, the Bwindi Impenetrable Forest is said to be Africa’s oldest rainforest. It is world-renowned for its excellent gorilla-sighting opportunities. The rugged landscape features dense jungle, cascading waterfalls, sparkling mountain streams, deep valleys and steep ridges. This untouched forest has been declared a UNESCO World Heritage Site because of its breathtaking natural beauty and unique ecological significance.
 
@@ -127,7 +128,7 @@ The newly built Forest Spa Humula mw' Ishamba is open. I've got to say that the 
 
 ## Entebbe
 
-### June 29
+### Day 19
 
 Fly back to Entebbe for our flights home. 
 
