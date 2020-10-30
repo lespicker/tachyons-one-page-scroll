@@ -28,7 +28,7 @@ product:
     event_date: 2022-04-10T08:00:00Z
     event_end: 2022-04-25T08:00:00Z
     deposit: $9,980
-    notes: Patagonia in the Fall is nothing short of photographically amazing. Please come join us for an incredible adventure. $9,980 per person double occupancy; $11,000 single occupancy. Payment schedule as follows- after initial $500 deposit on our website, you will immediately be billed $4,500, to be paid by check. Deposits are refundable on a decreasing schedule; 100% by April 30, 2021; 50% by July 31, 2021, and 25% by October 31, 2021. Final payments, due on December 1, 2020, are not refundable. All costs are in U.S. dollars.   
+    notes: Patagonia in the Fall is nothing short of photographically amazing. Please come join us for an incredible adventure. $9,980 per person double occupancy; $11,000 single occupancy. Payment schedule as follows- after initial $500 deposit on our website, you will immediately be billed $4,500, to be paid by check. Deposits are refundable on a decreasing schedule; 100% by April 30, 2021; 50% by July 31, 2021, and 25% by October 31, 2021. Final payments, due on December 1, 2021, are not refundable. All costs are in U.S. dollars.   
     bcolor: black
 weight: 7
 aliases:
