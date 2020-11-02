@@ -27,7 +27,7 @@ Up until recently I've resisted describing what I carry, but recent emails have 
 	
 I own several (some would say too many) different bags, depending on assignments and functionality. If I'm traveling for a month to a foreign locale I'll take one bag or set of bags and if I'm just out for a quick session near my home I'll take another. It also depends on what my photo goals are for that trip. So, with that in mind, here goes.  
 	
-**Note**: I have no relationship whatsoever with Think Tank or Mondshift, other than to support them sending their kids to college with my many purchases of their excellent gear.   
+**Note**: I have no relationship whatsoever with Think Tank or Mindshift, other than to support them sending their kids to college with my many purchases of their excellent gear.   
 	
 #### Around Town
 	
@@ -37,15 +37,8 @@ If I'm shooting near to my home base, I typically use a LowePro sling pack with 
 
 I always pack the following accessories:
 
-Wine Country filter holder
-GND and ND filters
-Small squeeze blower
-Lenspen
-Microfiber cloth
-Extra storage card or two
-Extra batteries
-Electronic shutter release
-Tripod (carried separately)
+Wine Country filter holder, GND and ND filters, Small squeeze blower, Lenspen, Microfiber cloth, 
+Extra storage card or two, Extra batteries, Electronic shutter release, Tripod (carried separately).
 
 #### Photo Adventures
 
@@ -57,18 +50,7 @@ To begin, I always count on my indispensable Think Tank Airport Security 2.0 rol
 
 For those of you wondering, here is the contents list:
 
-Fujifilm GFX 100 with attached 32-64mm Fujinon lens
-Fujifilm GFX 50S body
-Fujinon 250mm lens with 1.4 extender
-Fujinon 120mm Macro 
-Fujinon 23mm
-Fujifilm articulated eyepiece
-Wine Country filter holder with attached polarizer
-Full kit of filters
-Electronic shutter release (2 parts)
-Case of 20 extra storage cards
-Six extra batteries
-Room for a few extras
+Fujifilm GFX 100 with attached 32-64mm Fujinon lens, Fujifilm GFX 50S body, Fujinon 250mm lens with 1.4 extender, Fujinon 120mm Macro, Fujinon 23mm, Fujifilm articulated eyepiece, Wine Country filter holder with attached polarizer, Full kit of filters, Electronic shutter release (2 parts), Case of 20 extra storage cards, Six extra batteries, Room for a few extras
 
 In addition I usually wear my Mindshift Rotation 180 backpack as my "personal" carry on. Into that I pack whatever else I might need, including my laptop and a spare lens or two, as well as my spotting binocs if I'll be shooting wildlife. In the case where I take both camera bags with me, I will shift the weight around as needed between the two bags. You can see a video of the interior of these bags and how I use them [here](https://youtu.be/ai5f2XhuLpc).
 
