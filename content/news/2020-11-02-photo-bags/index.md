@@ -50,7 +50,7 @@ To begin, I always count on my indispensable Think Tank Airport Security 2.0 rol
 
 For those of you wondering, here is the contents list:
 
-Fujifilm GFX 100 with attached 32-64mm Fujinon lens, Fujifilm GFX 50S body, Fujinon 250mm lens with 1.4 extender, Fujinon 120mm Macro, Fujinon 23mm, Fujifilm articulated eyepiece, Wine Country filter holder with attached polarizer, Full kit of filters, Electronic shutter release (2 parts), Case of 20 extra storage cards, Six extra batteries, Room for a few extras
+Fujifilm GFX 100, 32-64mm Fujinon lens, Fujifilm GFX 50S body, Fujinon 250mm lens with 1.4 extender, Fujinon 120mm Macro, Fujinon 23mm, Fujifilm articulated eyepiece, Wine Country filter holder with attached polarizer, Full kit of filters, Electronic shutter release (2 parts), Case of 20 extra storage cards, Six extra batteries, Room for a few extras. Whenever I lug around loads of equipment in one bag, I'm careful not to have lenses actually mounted to the bodies in transit, to avoid problems with the connection if the bag gets jostled. 
 
 In addition I usually wear my Mindshift Rotation 180 backpack as my "personal" carry on. Into that I pack whatever else I might need, including my laptop and a spare lens or two, as well as my spotting binocs if I'll be shooting wildlife. In the case where I take both camera bags with me, I will shift the weight around as needed between the two bags. You can see a video of the interior of these bags and how I use them [here](https://youtu.be/ai5f2XhuLpc).
 
