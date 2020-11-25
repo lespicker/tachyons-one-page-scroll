@@ -227,34 +227,28 @@ All trip fees are quoted in US dollars and must be paid in US dollars.
 
 ### What is included
 
-- Bed and Breakfast at 148 Giraffe Sanctuary and Hotel No. 5
-- Full board accommodation at Tortilis Camp, Elephant Pepper Camp and Volcanoes Bwindi Lodge
-- Soft drinks, beer and house wine at  Tortilis Camp and Elephant Pepper Camp only
+- Bed and Breakfasts
+- Full board accommodations 
+- Soft drinks, beer and house wines
 - Airport / Airstrip transfers
 - Park Entrance Fees
-- Game drives in a 4 wheel drive vehicles
-- Exclusive use of vehicles at Tortilis Camp and Elephant Pepper camp
-- Scheduled flights mentioned above
+- Game drives in 4 wheel drive vehicles
+- Internal flights mentioned above
 - 3 freight seats on all the routes to cater for the additional weight
-- Limited Laundry at  Tortilis Camp, Elephant Pepper Camp and Volcanoes Bwindi Lodge
-- Sundowners and Bush breakfast
-- Guided walks
 - All transfers mentioned above
 - All domestic flight departure taxes
 - All Known Government Taxes
-- 2 x  days Gorilla trek permits
+- 2 x days Gorilla trek permits
 
 ### Not Included
 
-- All drinks, laundry and extras at 148 Giraffe Sanctuary,  Hotel No. 5 and Volcanoes Bwindi - Lodge
+- All alcoholic drinks, laundry and extras 
 - All items of a personal nature
-- Champagne, Luxury spirits & wines
 - Any activities not included in the itinerary
 - All statutory increases beyond our control
 - International flights and visa fees
 - Gratuities to camp staff
 - Any Unforeseen Tax Increases
-- Balloon safari in the Masai Mara
 
 {{< figure src="/images/workshop/africa/AndyBiggs_20150121_151811_MaraPlains186.jpg" caption="" >}}
 
