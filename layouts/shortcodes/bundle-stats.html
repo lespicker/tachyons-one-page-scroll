@@ -1,0 +1,40 @@
+
+{{ $dir := (.Get "dir") }}
+{{ if eq $dir "" }} {{ $dir = "assets" }} {{ end }}
+{{/* 
+	get all files that matches the directory name
+	which is passed as argument dir="" to the shortcode:
+*/}}
+{{ $assets := .Page.Resources.Match (printf "%s/*" $dir) }}
+{{ $assetdir := (printf "%s/%s" (.Page.Path | path.Dir) $dir) }}
+{{ $page_resources := .Page.Resources.ByType "image" }}
+
+<table class="table table-responsive table-condensed">
+	<th>Name:</th>
+	<th><span style="padding-left:20px"></th>
+	<th>Size <small>/ byte</small>:</th>
+	{{- range $assets -}}
+		<!-- took me a while to figure this out: -->
+		{{ $fname := . | path.Base }}
+		{{ $fstat := os.Stat (printf "%s/%s" $assetdir $fname ) }}
+		<tr>
+		<td>
+			<!-- if the actual file is an image,
+				we'd like to show a small thumbnail image...  -->
+			<div>
+			{{ if ($page_resources.GetMatch (printf "*%s*" . )) }}
+				<img src="{{ .Resize "60x60" }}" width="60px">
+			{{ else if eq (. | path.Ext ) ".pdf" }}
+				<i class="icon-file-pdf1" style="font-size:22px;color:Orange" ></i>
+			{{ else }}
+				<i class="icon-line-file" style="font-size:22px;color:DarkGrey" ></i>
+			{{ end }}
+
+			<a href="{{ .RelPermalink }}"> {{ . | path.Base }} </a>
+			</div>
+		</td>
+		<th></th>
+		<td> {{ $fstat.Size }} </td>
+		</tr>
+	{{- end -}}
+</table>

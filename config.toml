@@ -2,6 +2,12 @@ baseURL = "https://lesterpickerphoto.com/"
 languageCode = "en-us"
 title = "LPFA"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      xhtml = false
+
 [frontmatter]
   date  = [":filename", ":default"]
 

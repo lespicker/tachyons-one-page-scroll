@@ -16,7 +16,7 @@
   <article class="mv0 w-100 w-70-ns">
     <header class="lh-title">
       <img class="" src="{{($.Scratch.Get "img")}}" alt="{{.Title | plainify}}">
-      <h1 class="mt2 mb2 f1 fw3">{{ .Title | plainify }}</h1>
+      <h1 class="mt2 mb2 f1 fw3">{{ .Title | safeHTML }}</h1>
       {{ if isset .Params "subtitle" }}
       <h2 class="mt0 mb4 f3 fw1">{{ .Params.subtitle | safeHTML }}</h2>
       {{ end }}

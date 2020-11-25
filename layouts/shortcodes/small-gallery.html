@@ -1,0 +1,28 @@
+
+{{ $dir := (.Get "dir") }}
+{{ if eq $dir "" }} {{ $dir = "assets" }} {{ end }}
+{{/* 
+	get all files that matches the directory name
+	which is passed as argument dir="" to the shortcode:
+*/}}
+{{ $assets := .Page.Resources.Match (printf "%s/*" $dir) }}
+{{ $assetdir := (printf "%s/%s" (.Page.Path | path.Dir) $dir) }}
+{{ $page_resources := .Page.Resources.ByType "image" }}
+
+<section class="mb4">
+    <div class="flex flex-wrap na2">
+
+        {{- range $assets -}}
+            {{ $fname := . | path.Base }}
+            {{ if ($page_resources.GetMatch (printf "*%s*" . )) }}
+            <div class="w-50 w-25-ns pa2">
+                <div class="aspect-ratio aspect-ratio--1x1">
+                    <div class="aspect-ratio--object bg-center cover" style="background: url({{.Permalink}});">
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        {{ end }}
+    </div>
+</section>
+
