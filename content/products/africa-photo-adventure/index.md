@@ -225,30 +225,26 @@ All trip fees are quoted in US dollars and must be paid in US dollars.
 
 {{< figure src="/images/workshop/africa/ABiggs_09202011_Governors007.jpg" caption="" >}}
 
-### What is included
+### What Is Included?
 
-- Bed and Breakfasts
-- Full board accommodations 
-- Soft drinks, beer and house wines
-- Airport / Airstrip transfers
-- Park Entrance Fees
-- Game drives in 4 wheel drive vehicles
-- Internal flights mentioned above
-- 3 freight seats on all the routes to cater for the additional weight
-- All transfers mentioned above
-- All domestic flight departure taxes
-- All Known Government Taxes
-- 2 x days Gorilla trek permits
+- Accommodation on a shared basis (single rooms available - please inquire)
+- Private meet and assist services at the airport in Entebbe
+- Road transfers to/from the airports and the hotels
+- All internal air flights (with additional weight allowance)
+- All meals while on safari 
+- Breakfasts at Boma Hotel Entebbe.
+- All permits and park fees for the game drives and mountain gorillas.
+- Private vehicles and drivers for all road transfers throughout the trip.
+- The current Tourism Levies and all relevant Value Added Tax or Government Sales Tax.
 
-### Not Included
-
-- All alcoholic drinks, laundry and extras 
-- All items of a personal nature
+### What Is Not Included?
+- International airfare and/or other transportation between your home and Entebbe, Uganda and back home from Kilimanjaro, Tanzania
+- Dinner/drinks in Entebbe on your arrival evening
+- Gratuities
+- Alcoholic Drinks
+- Laundry cost at hotels and lodges.
+- Visas, travel insurance, personal purchases (including curios, spirit liquors, telephone calls, etc.)
 - Any activities not included in the itinerary
-- All statutory increases beyond our control
-- International flights and visa fees
-- Gratuities to camp staff
-- Any Unforeseen Tax Increases
 
 {{< figure src="/images/workshop/africa/AndyBiggs_20150121_151811_MaraPlains186.jpg" caption="" >}}
 
@@ -257,5 +253,7 @@ All trip fees are quoted in US dollars and must be paid in US dollars.
 
 It is highly encouraged for travelers to have travel insurance, whether for medical reasons and/or for trip interruption reasons. 
 
-**Please note:** We will attempt to adhere to this itinerary as much as possible. However, certain conditions (political, climatic, environmental, cultural, or wildlife migrations) may necessitate changes in the itinerary. We reserve the right to alter any itinerary at any time, as necessary. We will attempt to notify travelers of changes, if they occur, as far in advance as possible. Costs incurred by such changes will be the responsibility of the participant.
+You will receive regular communications from me from the time you register to the actual trip. Well before the trip I will send you a detailed letter with suggestions for camera equipment, photo accessories, clothing, baggage, insurances, weather, what to expect, inquiring as to your dietary preferences, and more. Of course, you may always contact me with specific questions. 
+
+**Please note:** We will attempt to adhere to this itinerary as much as possible. However, certain conditions (political, climatic, environmental, cultural, or wildlife migrations) may necessitate changes in the itinerary. We reserve the right to alter any itinerary at any time, as necessary. We will attempt to notify travelers of changes, if they occur, as far in advance as possible. Any additional costs incurred by such changes will be the responsibility of the participant.
 
