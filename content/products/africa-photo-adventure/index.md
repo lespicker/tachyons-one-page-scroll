@@ -16,7 +16,7 @@ types:
 product:
     data_item_id: PAT0010
     data_item_name: "African Photo Adventure"
-    data_item_price: 500.00
+    data_item_price: 5000.00
     data_item_description: "Deposit for African adventure; total price $17,990."
     data_item_image: "/images/workshop/africa/20180809_054416_Amboseli_005.jpg"
     data_item_categories: "tour"
