@@ -12,7 +12,7 @@ quote:
   text: "Can anything on Earth surpass Africa's wildlife and landscapes?"
   cite: "Les Picker"
 resources:
-  - src: "images/DSC_3630.jpg"
+  - src: "images/DSC_9407.jpg"
     title: "Africa caption"
   - src: "images/the-place*.jpg"
     title: "The Place"
