@@ -1,6 +1,6 @@
 ---
 subtitle: 'Africa'
-date: "2020-11-30"
+date: "2020-11-29"
 title: 'Africa'
 sideline: 'Travel | Landscapes | Wildlife'
 sidecolor: 'light-blue'
