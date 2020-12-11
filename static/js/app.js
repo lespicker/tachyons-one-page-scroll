@@ -62,9 +62,8 @@ $( function(){
       templates: {
         item: `
           <h2>
-            {{#helpers.highlight}}{ "attribute": "title" }{{/helpers.highlight}}
+            <a href="{{url}}" class="link white underline-hover">{{ title }}</a>
           </h2>
-          <p>{{ description }}</p>
         `,
       }
     })
