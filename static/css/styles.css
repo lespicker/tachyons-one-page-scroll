@@ -720,4 +720,12 @@ svg {
   cursor: pointer;
 }
 
+#search-icon svg path,
+#search-icon svg circle{
+  stroke: white !important;
+}
+
+#search-icon svg text{
+  fill: white !important;
+}
 
