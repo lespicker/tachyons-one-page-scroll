@@ -59,11 +59,13 @@ $( function(){
 
     instantsearch.widgets.hits({
       container: '#hits',
+      escapeHTML: false,
       templates: {
         item: `
-          <h2>
+          <h2 class="f3 fw4 mt0 mb2 ls-title">
             <a href="{{url}}" class="link white underline-hover">{{ title }}</a>
           </h2>
+          <p class="mt0 mb4 f6 white-50">{{summary}}</p>
         `,
       }
     })

@@ -723,4 +723,29 @@ svg {
 #search-icon svg text{
   fill: white !important;
 }
+/* Algolia */
 
+.ais-Hits-item{
+  width: 100%;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  margin: 0;
+}
+
+.ais-Hits-list{
+  margin: 0;
+}
+
+.ais-SearchBox-input{
+  background: none;
+  border: none;
+  color: white;
+  padding: 0;
+  font-size: 1.5rem;
+}
+
+.ais-SearchBox-submit{
+  left: -2rem;
+  color: lightgray;
+}
