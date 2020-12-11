@@ -7,14 +7,8 @@
   {{ end }}
 
   <div class="page-wrap overflow-x-hidden">
-    <div id="search-box">
-      <!-- SearchBox widget will appear here -->
-    </div>
 
-    <div id="algolia">
-      <!-- Hits widget will appear here -->
-    </div>
-
+  {{ partial "search" . }}
   {{ block "main" . }}
   {{ end }}
 
@@ -73,30 +67,6 @@
         }
       });
     }
-  </script>
-
-  <script>
-    const search = instantsearch({
-      appId: 'GKE6Y4S63I',
-      apiKey: '3723d8a93a52b50655f1771c329cc61c',
-      indexName: 'lpfa',
-      routing: true
-    });
-
-    search.addWidget(
-      instantsearch.widgets.searchBox({
-        container: '#search-box',
-        placeholder: 'Search for products'
-      })
-    );
-
-    search.addWidget(
-      instantsearch.widgets.hits({
-        container: '#algolia'
-      })
-    );
-
-    search.start();    
   </script>
   
 </body>

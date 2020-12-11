@@ -23,6 +23,55 @@ $( function(){
       $("#subscribe").prop("disabled", false);
     }));
   });
+
+  const algoliaClient = algoliasearch(
+    'GKE6Y4S63I',
+    '3723d8a93a52b50655f1771c329cc61c'
+  );
+
+  const searchClient = {
+    search(requests) {
+      if (requests.every(({ params }) => !params.query)) {
+        return Promise.resolve({
+          results: requests.map(() => ({
+            hits: [],
+            nbHits: 0,
+            nbPages: 0,
+            page: 0,
+            processingTimeMS: 0,
+          })),
+        });
+      }
+
+      return algoliaClient.search(requests);
+    },
+  };
+
+  const search = instantsearch({
+    indexName: 'lpfa',
+    searchClient,
+  });
+
+  search.addWidgets([
+    instantsearch.widgets.searchBox({
+      container: '#search-box',
+    }),
+
+    instantsearch.widgets.hits({
+      container: '#hits',
+      templates: {
+        item: `
+          <h2>
+            {{#helpers.highlight}}{ "attribute": "title" }{{/helpers.highlight}}
+          </h2>
+          <p>{{ description }}</p>
+        `,
+      }
+    })
+  ]);
+
+  search.start();
+
 });
 
 $(window).click( function(e) {
