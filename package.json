@@ -1,0 +1,24 @@
+{
+  "name": "tachyons-one-page-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "algolia": "atomic-algolia",
+    "start": "hugo && npm run algolia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lespicker/tachyons-one-page-scroll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lespicker/tachyons-one-page-scroll/issues"
+  },
+  "homepage": "https://github.com/lespicker/tachyons-one-page-scroll#readme",
+  "dependencies": {
+    "atomic-algolia": "^0.3.19"
+  }
+}
