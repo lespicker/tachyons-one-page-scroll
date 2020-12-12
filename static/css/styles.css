@@ -745,6 +745,10 @@ svg {
   font-size: 1.5rem;
 }
 
+.ais-SearchBox-input::placeholder{
+  color:rgba(255, 255, 255, 0.6)
+}
+
 .ais-SearchBox-submit{
   left: -2rem;
   color: lightgray;

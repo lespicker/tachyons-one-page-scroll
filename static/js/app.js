@@ -55,6 +55,7 @@ $( function(){
   search.addWidgets([
     instantsearch.widgets.searchBox({
       container: '#search-box',
+      placeholder: 'search'
     }),
 
     instantsearch.widgets.hits({
