@@ -55,7 +55,7 @@ At the conclusion of the main trip, we will offer a 5-day extension to New Zeala
 
 The brochure lays out the full itinerary and details every day of our journey. 
 
-[link to brochure]
+[download the brochure here](/images/tonga-brochure.pdf)
 
 ## What Do I Do Next?
 
