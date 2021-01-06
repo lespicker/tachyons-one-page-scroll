@@ -61,7 +61,7 @@ The brochure lays out the full itinerary and details every day of our journey.
 
 ## What Do I Do Next?
 
-{{< figure src="/images/workshop/tonga/Tonga+04.jpg" caption="" >}}
+{{< figure src="/images/tonga-brochure-20.jpg" caption="" >}}
 
 Our group is small, so space is limited. If this photography adventure excites you, now is the time to register. If you have any questions before registering, send us an e-mail with any inquiries to lespicker@gmail.com.
  
