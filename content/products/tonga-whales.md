@@ -24,75 +24,58 @@ product:
     event_date: 2022-10-11T08:00:00Z
     event_end: 2022-11-01T08:00:00Z
     deposit: $22,278
-    notes: Can anything be more exciting than snorkeling with and photographing humpback whales and their calves? $22,278 per person double occupancy or $25,040 single occupancy. After initial $500 deposit,  you will immediately be billed $7,000, to be paid by check. You will be billed the remainder in two seperate payments. Deposits are refundable as follows; 50% by August 1, 2021, and 25% by February 15, 2022. Final payments are not refundable. All costs are in U.S. dollars.  
+    notes: Can anything be more exciting than snorkeling with and photographing humpback whales and their calves close up? How about two weeks photographing in spectacular New Zealand? $22,278 per person double occupancy. After initial $500 deposit, you will be billed $7,000, to be paid by check. The remainder will be billed in two separate payments. Deposits are refundable as follows; 100% by June 15, 2021; 50% by August 1, 2021, and 25% by February 15, 2022. After February 15, 2022 no refunds are possible. All costs are in U.S. dollars.  
     bcolor: black
 weight: 3
 aliases:
 ---
-This is a trip you really don’t want to miss! Spend 4 solid days of snorkeling in the waters of Vava’u, Tonga amongst southern humpback whales and their offspring. Imagine snorkeling up to a 40-ton gentle giant, in a peaceful setting, and spending time watching and observing with a small underwater camera or GoPro. Come and join Andy  and Les in the calm waters of Tonga and find out for yourself.
+This is a trip you really don’t want to miss! Spend 7 glorious days in sunny Tonga, with 4 solid days of snorkeling amongst southern humpback whales and their just born calves. Join Les in the calm, clear blue waters of Tonga and find out for yourself.
 
-You will need to be reasonably fit in order to fully enjoy this trip. You don’t need to have any snorkeling experience, however you need to feel comfortable swimming without any assistance in open waters. We will spend our time going from the dock to our boat and into the ocean; humpback whale experiences are real and they are safe. Some of the whale sightings will happen from our boat and some will happen when you are snorkeling in the ocean.
+You will need to be reasonably fit in order to fully enjoy this trip. You don’t need any snorkeling experience. However you should feel comfortable snorkeling without any assistance in open waters, under the watchful eyes of our guides. Humpback whale experiences are amazing and safe. Inexpensive waterproof cameras will enable even a beginner to capture incredible still and video memories. 
 
-The Kingdom of Tonga is made up of 170 tropical islands and most are uninhabited. Tonga has white sand beaches, calm seas and wonderful temperatures at this time of the year. We have chosen accommodations that will give us the best access to the locations, minimize long driving times and allow us to relax at the end of each day, after the sun sets and the cameras are put away. This is a vacation, after all.
+The Kingdom of Tonga is made up of 170 tropical islands with white sand beaches, calm seas and delightful temperatures. We have chosen accommodations that will give us the best access to the locations, minimize long driving times and allow us to relax at the end of each day, after the sun sets and the cameras are put away. Non-photographing spouses are welcome and can participate in all activities. 
 
-Non-photographing spouses are welcome and can participate in all activities. 
+From Tonga we fly to Fiji and then on to the South Island of New Zealand for two weeks of superb photography. Our private bus will take us to spectacular landscapes, quaint towns and iconic places in the very best light. 
+
+At the conclusion of the main trip, we will offer a 5-day extension to New Zealand's North Island. Details available on request. 
+ 
 
 ## Trip Highlights At A Glance
 
 {{< figure src="/images/workshop/tonga/Tonga+02.jpg" caption="" >}}
 
-Snorkel with humpback whales during their breeding season, which takes place in the protected and shallow waters of Tonga, with guidance from expert photographers Andy Biggs and Les Picker.
+- Our small group allows for photographic flexibility. 
+- Six hours of snorkeling on each of 4 days with humpback whales during their breeding season, which takes place in the protected and shallow waters of Tonga, with guidance from Les and our guides. 
+- Trips to uninhabited Tonga beaches, native villages, and more. 
+- Off the beaten path photo adventures in New Zealand in our private, fully-equipped bus, from mountains to fjords, and farms to quaint cities.  
+- We will have opportunities to discuss virtually every aspect of photography, participate in optional critiques, and take advantage of sunrises and sunsets in amazing locales. 
 
-We have six hours of snorkeling arranged for each day. We will have GoPro cameras provided for all travelers. All you need to do is show up, grab a camera and swim. Extra batteries and accessories such as selfie sticks will be provided as well. Hands-on instruction on how to use GoPro cameras for video and stills, as well as instruction on how to use the more popular video editing software on the market. We will work with you to make sure your photo and video needs are met.
-
-Real close-up adventures with humpback whales is an experience of a lifetime. Don’t worry about a thing. We have everything taken care of! All you need to do is arrive and we will take care of the rest.
-
-## The Schedule
-
-{{< figure src="/images/workshop/tonga/Tonga+05_1.jpg" caption="" >}}
 
 ### Download The Full Color Trip Brochure
 
-[**All the details**](/images/tonga-brochure.pdf)
+The brochure lays out the full itinerary and details every day of our journey. 
+
+[link to brochure]
+
 ## What Do I Do Next?
 
 {{< figure src="/images/workshop/tonga/Tonga+04.jpg" caption="" >}}
 
-Our groups are small, so space is limited. If this exciting trip has your name on it; if you're excited by the thought of becoming a member of this trip, then now is the time to register. Remember, there will be limited space available for this workshop. When they're spoken for, that's it. If you have any questions before registering, send us an e-mail with any inquiries to lespicker@gmail.com.
+Our group is small, so space is limited. If this photography adventure excites you, now is the time to register. If you have any questions before registering, send us an e-mail with any inquiries to lespicker@gmail.com.
  
 ## The Cost
 
-The cost of this workshop is US$7,000 (double occupancy only). This fee includes all in-country ground transportation as well as hotel accommodation (double occupancy) and all meals.
+The cost of this 22-day photo adventure is US$22,278 per person (double occupancy). This fee includes all in-country ground transportation as well as hotel accommodation (double occupancy) and all meals. There is an extra fee for the flight from Fiji to Christchurch, New Zealand, which will be billed to you at the time of booking. 
 
-Deposit: A $500 deposit is required when you register online. Upon receipt of the initial deposit, you will immediately be billed for $2,500 to be paid only by check.
+Deposit: A $500 deposit is required when you register online. Upon receipt of that partial deposit, you will be billed for $7,000 to be paid only by check. Two additional installment payments will be billed to you as we approach the start date. An invoice will be sent 21 days prior to each due date.
 
 Deposits are refundable as follows: 
 
-By December 15, 2019; 50% refund<br>
-By February 15, 2020; 25% refund<br>
-After February 15, 2020; no refund<br>
+By June 15, 2021; full refund
+By August 1, 2021; 50% refund<br>
+By February 15, 2022; 25% refund<br>
+After February 15, 2022; no refund<br>
 
-Final Payment: The final payment of $4,000 is by check only. That payment is due on March 29, 2020). An invoice will be sent 30 days prior to the due date. Final payments are not refundable. 
-
-Please note: We will attempt to adhere to this itinerary as much as possible. However, certain conditions (political, climatic, environmental, cultural, or wildlife migrations) may necessitate changes in the itinerary. We reserves the right to alter the itinerary at any time. We will attempt to notify participants of changes as far in advance as possible. Costs incurred by such changes will be the responsibility of the participant.
-
-### What's Included?
-
-- 5 nights’ Accommodations while on Vava’u, Tonga
-- All snorkeling activities with the humpback whales
-- Non-alcoholic beverages with group lunches and select wine and beer with group dinners
-- Welcome gift
-- Personalized snorkel bag
-- Go-Pro camera for use during the Tonga Photo Adventure
-
-### What's Not Included?
-
-- International airfare and/or other transportation between your home and Vava’u, Tonga (We can assist with air transportation)
-- Travel Insurance
-
-### How To Get There
-
-Of course this will depend on your departure point. However, ultimately you will probably need to fly into Tahiti, then take a 90 minute shuttle flight from Tahiti to Vava'u. There you will be greeted by our team. 
 
 **Trip details will be sent once you have registered.** 
 
