@@ -1,6 +1,6 @@
 ---
-title: 'Tonga - Humpback Whales<br>September 2020'
-date: "2019-05-27"
+title: 'Tonga - Humpback Whales<br>& New Zealand October 2022'
+date: "2021-01-04"
 subtitle: '<span class="dark-red">A real  <span class="fw7">close-up experience</span> with Les Picker.</span>'
 location: "Tonga"
 featured: nofeature
@@ -21,10 +21,10 @@ product:
     data_item_image: "/images/workshop/tonga/whale-of-a-time-130844.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
-    event_date: 2022-09-28T08:00:00Z
-    event_end: 2022-10-15T08:00:00Z
-    deposit: $7,000
-    notes: Can anything be more exciting than snorkeling with and photographing humpback whales and their calves? $7,000 per person double occupancy. After initial $500 deposit,  you will immediately be billed $2,500, to be paid by check. Final payment of $4,000 is due on March 29, 2020. Deposits are refundable as follows; 50% by December 15, 2021, and 25% by February 15, 2020. Final payments are not refundable. All costs are in U.S. dollars.  
+    event_date: 2022-10-11T08:00:00Z
+    event_end: 2022-11-01T08:00:00Z
+    deposit: $22,278
+    notes: Can anything be more exciting than snorkeling with and photographing humpback whales and their calves? $22,278 per person double occupancy or $25,040 single occupancy. After initial $500 deposit,  you will immediately be billed $7,000, to be paid by check. You will be billed the remainder in two seperate payments. Deposits are refundable as follows; 50% by August 1, 2021, and 25% by February 15, 2022. Final payments are not refundable. All costs are in U.S. dollars.  
     bcolor: black
 weight: 3
 aliases:
