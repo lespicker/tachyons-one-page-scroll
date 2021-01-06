@@ -15,9 +15,9 @@ types:
  - tour
 product:
     data_item_id: PAT0020
-    data_item_name: "Tonga Whales"
+    data_item_name: "Tonga Whales & New Zealand"
     data_item_price: 500.00
-    data_item_description: "Deposit for Tonga adventure; total price $7,000."
+    data_item_description: "Deposit for Tonga adventure."
     data_item_image: "/images/workshop/tonga/whale-of-a-time-130844.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
