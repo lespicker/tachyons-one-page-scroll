@@ -42,7 +42,9 @@ At the conclusion of the main trip, we will offer a 5-day extension to New Zeala
 
 ## Trip Highlights At A Glance
 
-{{< figure src="/images/workshop/tonga/Tonga+02.jpg" caption="" >}}
+{{< figure src="/images/tonga-brochure-14.jpg" caption="" >}}
+{{< figure src="/images/tonga-brochure-15.jpg" caption="" >}}
+
 
 - Our small group allows for photographic flexibility. 
 - Six hours of snorkeling on each of 4 days with humpback whales during their breeding season, which takes place in the protected and shallow waters of Tonga, with guidance from Les and our guides. 
