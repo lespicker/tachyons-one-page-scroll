@@ -17,14 +17,14 @@ product:
     data_item_id: PAT1001
     data_item_name: "Yukon Photography Adventure 2022"
     data_item_price: 500.00
-    data_item_description: "Deposit for Yukon adventure; total price $8750."
+    data_item_description: "Deposit for Yukon adventure; total price $8995."
     data_item_image: "/images/V2Print.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
-    event_date: 2021-08-27T08:00:00Z
-    event_end: 2021-09-08T08:00:00Z
-    deposit: 8750.00
-    notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after March 31, 2021.
+    event_date: 2022-08-27T08:00:00Z
+    event_end: 2022-09-08T08:00:00Z
+    deposit: 8995.00
+    notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after February 28, 2022.
     bcolor: black
 weight: 12
 aliases:
