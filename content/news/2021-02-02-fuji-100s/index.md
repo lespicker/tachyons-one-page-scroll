@@ -33,7 +33,7 @@ With the 100S you also get a camera that is far lighter, accepts all GF lenses a
 	
 ### Why Stick With the GFX 100?
 	
-I have made a couple of video reviews of the [50S](https://youtu.be/8Q1D0B8bVRU) and the [100](https://youtu.be/8Q1D0B8bVRU). And while I still use my 50S, I have absolutely fallen in love with my 100. It is the first camera system that I feel is fully customized for my particular shooting style. In fact, its customization capability is one of its strongest features. It only took a few outings for me to say that the camera bonded to my style. Despite its being a heavy camera, the ergonomics are terrific. And I say this after being a Nikon and Hasselblad digital photographer for 50 years. 
+I have made a couple of video reviews of the [50S](https://www.youtube.com/watch?v=uB_YxWmDJVw) and the [100](https://youtu.be/8Q1D0B8bVRU). And while I still use my 50S, I have absolutely fallen in love with my 100. It is the first camera system that I feel is fully customized for my particular shooting style. In fact, its customization capability is one of its strongest features. It only took a few outings for me to say that the camera bonded to my style. Despite its being a heavy camera, the ergonomics are terrific. And I say this after being a Nikon and Hasselblad digital photographer for 50 years. 
 
 {{< figure src="images/Fujifilm-GFX-100-screen.jpeg" caption="GFX 100" >}}
 	
