@@ -2,7 +2,7 @@
 layout: post
 title: Why I'm Sticking With My Fuji GFX 100
 date: 2021-02-02
-image: images/fuji-gfx100s.jpg"
+image: images/fuji-gfx100s.jpg
 comments: true
 categories: 
 - reviews
