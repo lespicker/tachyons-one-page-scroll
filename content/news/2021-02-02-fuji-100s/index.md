@@ -2,7 +2,7 @@
 layout: post
 title: Why I'm Sticking With My Fuji GFX 100
 date: 2021-02-02
-image: images/fuji-gfx100s.jpg
+image: images/fuji-gfx100s.jpg caption="GFX 100S"
 comments: true
 categories: 
 - reviews
@@ -35,11 +35,11 @@ With the 100S you also get a camera that is far lighter, accepts all GF lenses a
 	
 I have made a couple of video reviews of the [50S](https://youtu.be/8Q1D0B8bVRU) and the [100](https://youtu.be/8Q1D0B8bVRU). And while I still use my 50S, I have absolutely fallen in love with my 100. It is the first camera system that I feel is fully customized for my particular shooting style. In fact, its customization capability is one of its strongest features. It only took a few outings for me to say that the camera bonded to my style. Despite its being a heavy camera, the ergonomics are terrific. And I say this after being a Nikon and Hasselblad digital photographer for 50 years. 
 
-{{< figure src="images/Fujifilm-GFX-100-screen.jpeg" >}}
+{{< figure src="images/Fujifilm-GFX-100-screen.jpeg" caption="GFX 100" >}}
 	
 Sure, the 100S is a fantastic camera from all indications. But it lacks a few things that I consider essential for my personal shooting style. The first is its inability to accommodate the optional articulated view finder. I rely on that capability for nearly every assignment I take on. That viewfinder works on both the 50S and the 100 and I switch it between the two, depending on which one I plan to use the most over the next few hours. 
 
-{{< figure src="images/gfx100-evf.jpg" >}}
+{{< figure src="images/gfx100-evf.jpg" caption="GFX 100 articulated EVF" >}}
 	
 Second, the 100S has only one battery. My 100 has a tray for two. Granted that Fuji claims the 100S battery will last around 500 shots under ideal conditions, but I rarely shoot under those conditions. If I'm in Yukon Territory or Antarctica, I want two batteries in camera (and 4-6 more next to my body!) ready to go. 
 	
