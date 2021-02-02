@@ -2,7 +2,7 @@
 layout: post
 title: Why I'm Sticking With My Fuji GFX 100
 date: 2021-02-02
-image: images/fuji-gfx100s.jpg caption="GFX 100S"
+image: images/fuji-gfx100s.jpg"
 comments: true
 categories: 
 - reviews
@@ -19,7 +19,7 @@ tags:
 - Fujifilm GFX 100S
 ---
 	
-Without a doubt, Fujifilm's latest announcement of the release of the GFX 100S will shake up the market. I predict that within the next two years, medium format photography will capture an ever increasing share of the market due to this bombshell, which Hasselblad (and maybe Sony) is likely to imitate. Even so, I plan on sticking to my trusty GFX 100 and GFX 50S and I'm here to tell you why.
+Without a doubt, Fujifilm's latest announcement of the release of the GFX 100S (photo above) will shake up the market. I predict that within the next two years, medium format photography will capture an ever increasing share of the market due to this bombshell, which Hasselblad (and maybe Sony) is likely to imitate. Even so, I plan on sticking to my trusty GFX 100 and GFX 50S and I'm here to tell you why.
 	
 ### Revolutionary?
 	
