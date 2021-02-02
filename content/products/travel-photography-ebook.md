@@ -24,6 +24,8 @@ product:
     bcolor: black
 aliases:
 ---
+## [Get Your Free Sample Chapter](/images/travel-sample.pdf)
+
 Many books have been written about travel photography. Some of them are well worth your time and money investment. But, if you are looking for ways to move your travel photography from good to WOW! then Les' travel ebook is the one to carry with you on your travels.
 
 In 234 pages chock full of tips, techniques and wisdom gained from over 40 years of photography, Les takes you on a journey of insight designed to improve your travel images. With hundreds of images, Les points out key elements that will grip readers and draw them into the story you want to tell.
