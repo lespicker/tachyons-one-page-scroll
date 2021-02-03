@@ -14,7 +14,7 @@ types:
 product:
     data_item_id: EBK0100
     data_item_name: "The Art Of The Gallery Show"
-    data_item_price: 9.99
+    data_item_price: 9.95
     data_item_description: "PDF eBook"
     data_item_image: "/images/GalleryShoweBook.jpg"
     data_item_categories: "ebook"
