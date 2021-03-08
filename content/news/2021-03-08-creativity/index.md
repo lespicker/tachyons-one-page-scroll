@@ -25,7 +25,7 @@ That 'elusive truth' is something I’m always conscious of when I photograph. W
 
 > &ldquo;To be creative means to be in love with life... enough that you want to enhance its beauty, you want to bring a little more music to it, a little more poetry to it, a little more dance to it.&rdquo; <br> &mdash; Osho
 
-And then, in a few more seconds, poof!, it’s gone. And when those moments are suddenly pulled out from under me - perhaps someone talking, a bear getting too close, an unsolicited memory - I feel like I’ve crashed. It’s a profound sense of emptiness, of loss. What keeps me going is knowing that at some point it will, hopefully, happen again. Then it’s breathe, pack up, move on. Pretty soon, maybe that night as I review those photos, or years later, I find myself re-experiencing that glorious moment - the elusive truth that I was privileged to capture. 
+Then, in a few more seconds, poof!, it’s gone. And when those moments are suddenly pulled out from under me - perhaps someone talking, a bear getting too close, an unsolicited memory - I feel like I’ve crashed. It’s a profound sense of emptiness, of loss. What keeps me going is knowing that at some point it will, hopefully, happen again. Then it’s breathe, pack up, move on. Pretty soon, maybe that night as I review those photos, or years later, I find myself re-experiencing that glorious moment - the elusive truth that I was privileged to capture. 
 
 > &ldquo;The only unique contribution that we will ever make in this world will be born of our creativity.&rdquo; <br> &mdash; Brene Brown
 
@@ -35,11 +35,11 @@ I'm sure many of you have experienced the same thing, perhaps in a different cre
 
 This rumination on creativity then led my ADD-addled mind to think of critics, whether literary, cinema or art critics. They serve an important role for many, but admittedly I'm not one of that crowd. My take is probably skewed, maybe even unhealthily so, I'll grant you. 
 
-Being a professional critic is a wholly cerebral, cognitive function. The finest critics I've read appear to be highly intelligent folks, with a firm grasp of historical antecedents in their genre. They can quote from great literary works, know the names of legendary film directors from 1922, and can compare a current work of art with the Great Masters. They can dissect the creative works of others, perhaps even synthesize the commonalties of many different creatives. But, how many have actually created such works on their own? 
+Being a professional critic is a wholly cerebral, cognitive function. The finest critics I've read appear to be highly intelligent folks, with a firm grasp of historical antecedents in their genre. They can quote from great literary works, know the names of legendary film directors from 1922, and can compare a current work of art with the Great Masters. They can dissect the creative works of others, perhaps even synthesize the commonalties or contrast the differences of many different creatives. But, how many have actually created such works on their own? 
 
 > &ldquo;The true sign of intelligence is not knowledge but imagination.&rdquo; <br> &mdash; Albert Einstein
 
-This, quite honestly, saddens me.  Critics can write volumes opining about any given creative work, but have they ever been blessed to step out of the flow of time? Have they ever captured that elusive truth, the thrill of discovery, the very humbling, mystifying act of creation itself? I venture that very, very few have. They are merely critics of the end product, no more. Even when they refer to the creative journey of the author/photographer/artist it is an intellectual exercise, divorced from the actual creative experience. How does one describe sex, or the exquisite taste of a 1947 Cheval-Blanc wine, when one has never experienced it? (That's why I never even attempt to describe a 1947 Cheval-Blanc which recently sold for $300,000 a bottle.)
+This, quite honestly, saddens me.  Critics can write volumes opining about any given creative work, but have they ever been blessed to step out of the flow of time? Have they ever captured that elusive truth, the thrill of discovery, the very humbling, mystifying act of creation itself? I venture that very, very few have. They are merely critics of the end product, no more. Even when they refer to the creative journey of the author/photographer/artist it is an intellectual exercise, divorced from the actual creative experience. How does one describe sex, or the exquisite taste of a 1947 Cheval-Blanc wine, when one has never experienced it? (That's why I never even attempt to describe a 1947 Cheval-Blanc, which recently sold for $300,000 a bottle.)
 
 I suspect that true creatives would be petrified to be a critic, grokking as they do how mysterious and uncomprehending the creative act is. 
 
@@ -47,11 +47,11 @@ Critics flaunt their powerful intellects (meant as a compliment) by judging the 
 
 > &ldquo;The criminal is the creative artist; the detective only the critic.&rdquo; <br> &mdash; G.K. Chesterton, himself a critic
 
-For the record, I'm not putting all critics in the same boat. I'm sure there are those who have "done the deed", so to speak, with the Muses of Creativity - at least once in their lives. 
+For the record, I'm not putting all critics in the same boat. I'm sure there are those few who have "done the deed", so to speak, with the Muses of Creativity. 
 
 Rather than ramble on, I'll leave you with a couple more of my favorite quotes about creativity, each one worthy of some quiet contemplation. 
 
-But, allow me one last ramble. If you ever run into one of these august critics of your art work, just ask them to show you their latest true solo act of creation. Then move on, empty-handed, and create. 
+But, allow me one last ramble. If you ever run into one of these august critics of your art work, just ask them to show you their latest true solo act of creation. Then move on, most likely empty-handed, and create. 
 
 
 > &ldquo;Unless we are creators we are not fully alive.&rdquo; <br> &mdash; Madeleine L'Engle <br>
