@@ -19,7 +19,7 @@ product:
     data_item_image: "/images/GalleryShoweBook.jpg"
     data_item_categories: "ebook"
     data_item_shippable: "false"
-    data_item_file_guid: 'ea79bac4-8696-48b4-97b2-06ec84da8574'
+    data_item_file_guid: 'b9f00907-a722-4087-a8b3-f88d4c0b8a1f'
     notes: "Lessons From 50 Years In The Field"
     bcolor: black
 ---
