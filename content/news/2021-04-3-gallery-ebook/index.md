@@ -3,9 +3,10 @@
 layout: post
 title: Would You Like to Land a Gallery Exhibit?
 date: 2021-04-03
-image: images/GalleryShoweBook.jpg
+image: images/DSC_6323.jpg
 comments: true
 categories: 
+- Opinio
 destination: 
 - Featured
 - Headline
