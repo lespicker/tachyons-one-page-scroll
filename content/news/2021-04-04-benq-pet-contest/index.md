@@ -5,7 +5,7 @@ date: 2021-04-05
 image: images/Family Friends announcement-IG (1).jpg
 comments: true
 categories: 
--Opinion
+- Review
 destination: 
 - Featured
 - Headline
@@ -14,6 +14,7 @@ tags:
 - creativity
 - contest
 - BenQ
+- pets
 ---
 
 There are tons of photo contests out there. But if you're looking for one that's fun, as well as challenging, you should consider BenQ's [Family Pet Photo Contest](https://www.benq.com/en-us/content/aqcolor-professional-monitor-events-tips-support.html?&utm_source=influencer_%3clester_picker%3eutm_medium=referral&utm_campaign=pet_contest). 
