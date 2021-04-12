@@ -2,7 +2,7 @@
 layout: post
 title: A Fun Contest by BenQ
 date: 2021-04-05
-image: images/Family Friends announcement-IG (1).jpg
+image: "images/Family Friends announcement-IG (1).jpg"
 comments: true
 categories: 
 - Review
@@ -16,7 +16,6 @@ tags:
 - BenQ
 - pets
 ---
-
 There are tons of photo contests out there. But if you're looking for one that's fun, as well as challenging, you should consider BenQ's [Family Pet Photo Contest](https://www.benq.com/en-us/content/aqcolor-professional-monitor-events-tips-support.html?&utm_source=influencer_%3clester_picker%3eutm_medium=referral&utm_campaign=pet_contest). 
 
 As I'm sure many of you know (and for those of you who don't), [BenQ](https://www.benq.com/en-us/index.html) is the manufacturer of arguably the finest and most affordable large format Adobe RGB monitors available today. In fact, we use one in our studio (the SW321C) for the finest image reproduction and most accurate color proofing prior to generating one of our fine art prints.  
