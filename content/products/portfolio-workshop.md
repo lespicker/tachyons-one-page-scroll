@@ -1,6 +1,6 @@
 ---
 title: 'Portfolio Development Workshop'
-date: "2020-01-14"
+date: "2021-04-01"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 featured: feature
 location: "Havre de Grace, MD"
@@ -21,11 +21,11 @@ product:
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2021-05-21T15:00:00Z
-    event_end: 2021-05-23T16:00:00Z
+    event_date: 2021-11-05T15:00:00Z
+    event_end: 2021-11-07T16:00:00Z
     deposit: 1500.00
     soldout: true
-    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after October 15th, 2020.
+    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after September 15th, 2021.
     bcolor: black
 weight: 7
 aliases:
