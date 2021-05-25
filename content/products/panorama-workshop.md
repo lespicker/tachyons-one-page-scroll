@@ -21,7 +21,6 @@ product:
     data_item_categories: "workshop"
     data_item_shippable: "false"
     event_date: 2021-06-19T09:00:00Z
-    soldout: true
     notes: "This is a hands-on learning experience with Really Right Stuff equipment that will be on loan at the workshop. Rescheduled due to Covid-19"
     bcolor: black
 weight: 1
