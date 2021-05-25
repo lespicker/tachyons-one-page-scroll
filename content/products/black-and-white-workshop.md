@@ -25,7 +25,7 @@ product:
     soldout: false
     notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom."
     bcolor: black
-weight: 5
+weight: 2
 aliases:
 ---
 Immerse yourself into the world of black and white photography. What makes a great black and white photograph? In this seven-hour workshop we will take a look at some styles of the masters past and current, and give you tips on looking at the world a little differently when you’re out with your camera.
