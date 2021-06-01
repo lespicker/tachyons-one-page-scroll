@@ -26,7 +26,7 @@ product:
 weight: 4
 aliases:
 ---
-I'm excited to host a **FREE** 3 hour workshop focused on getting some hands-on experience with the Fuji GFX system. A camera and lens line-up I've grown to love over the last few years. There will be two sessions on July 31, 2021. This one is 9AM until 12PM. [The other will be 1PM until 4PM](/products/fuji-gfx-system-workshop-pm/). Please register for your prefered time.
+I'm excited to host a **FREE** 3 hour workshop focused on getting some hands-on experience with the Fuji GFX system, a camera and lens line-up I've grown to love over the last few years. There will be two sessions on July 31, 2021. This one is 9AM until 12PM. [The other will be 1PM until 4PM](/products/fuji-gfx-system-workshop-pm/). Please register for your prefered time.
 
 Fujifilm USA will be on-site for two workshops in the LPFA studio introducing attendees to the Fujifilm GFX line of medium format cameras and lenses. Both sessions are equivalent, offering convenient morning and afternoon options of 3-hours each. Each session is limited to 8 people in order to give participants hands-on access to all equipment. Aside from the GFX 50S, 50R, 100, and 100S, all Fujinon GF lenses will be available to try. Les will have indoor macro setups available and participants may wander outside to shoot. 
 
