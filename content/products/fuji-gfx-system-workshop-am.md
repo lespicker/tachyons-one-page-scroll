@@ -1,12 +1,12 @@
 ---
-title: 'Fuji GFX Medium Format'
-date: "2018-06-27"
+title: 'Fuji GFX Medium Format: Morning Session'
+date: "2021-06-01"
 subtitle: '<span class="dark-red">Fujifilm USA will be here at the studio with <span class="fw7">the ENTIRE GFX system line-up</span></span>'
 location: "Havre de Grace, MD"
 sideline: 'Photography | Gear | Hands-On'
 sidecolor: 'dark-red'
 textcolor: white
-image: '/images/pano-workshop/DSC_6146.jpg'
+image: '/images/workshop/gfx/BV5A7883.jpg'
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
@@ -23,7 +23,7 @@ product:
     event_date: 2021-07-31T09:00:00Z
     notes: "This is a hands-on learning experience with Fuji GFX equipment that will be available at the workshop."
     bcolor: black
-weight: 1
+weight: 4
 aliases:
 ---
 I'm excited to host a **FREE** 3 hour workshop focused on getting some hands-on experience with the Fuji GFX system. A camera and lens line-up I've grown to love over the last few years. There will be two sessions on July 31, 2021. This one is 9AM until 12PM. [The other will be 1PM until 4PM](/products/fuji-gfx-system-workshop-pm/). Please register for your prefered time.
