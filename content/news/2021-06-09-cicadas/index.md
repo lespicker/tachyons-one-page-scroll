@@ -29,11 +29,11 @@ I figured I should also show you my setup as it appeared in the field (iPhone im
 
 If you're curious as to what the rest of the gear is, here's the list:
 
-Really Right Stuff tripod with BH-55 ball head and leveling base
-Fujifilm GFX 100
-Fujinon 120mm macro lens
-Fujinon macro extension tube (MCEX-45G WR)
-Remote trigger
+- Really Right Stuff tripod with BH-55 ball head and leveling base
+- Fujifilm GFX 100
+- Fujinon 120mm macro lens
+- Fujinon macro extension tube (MCEX-45G WR)
+- Remote trigger
 
 {{< figure src="images/IMG_2788.jpeg" >}}
 
