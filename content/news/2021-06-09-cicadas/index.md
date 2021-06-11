@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Brood X
-date: 2021-06-09
-image: images/DSCF1983.jpg
+title: "Brood X"
+date: "2021-06-09"
+image: "images/DSCF1983.jpg"
 comments: true
 categories: 
-- How-to
+  - How-to
 destination: 
-- Featured
-- Headline
+  - Featured
+  - Headline
 tags:
-- photography
-- insects
-- cicadas
+  - photography
+  - insects
+  - cicadas
 ---
 
 I was out photographing the Brood X cicadas this morning. By now you all should have heard that Brood X is out there in full bloom. Literally billions (1.5 million per acre!) of these amazing creatures are giving new meaning to high decibel sound with their mating calls. I am in awe of this display that only comes every 17 years and this past week I've been stepping on a literal carpet of exoskeletons on the forest floor, abandoned by the adults when they molt. I have had so many cicadas crawling in my hair, beard, arms and up my pant legs that I don't even bother to brush them off (okay, I do shake them off my legs). They don't bite or sting and so I felt a bit guilty cooking up an appetizer of them a few days ago (more on that in another blog... BTW, they are delicious... with lots of garlic!). 
@@ -39,12 +39,12 @@ If you're curious as to what the rest of the gear is, here's the list:
 
 There is a second LumeCube attached to the right tripod leg, but it is hanging down out of the way for this shot. Here it is:
 
-{{< figure src="images/IMG_2789.jpeg >}}
+{{< figure src="images/IMG_2789.jpeg" >}}
 
 For stationary objects the LumeCube is a handy device. I use it all the time for my studio macro photography. With fast moving or flying insects a strobe would probably serve better. 
 
 For those of you who aren't blessed to live near gazzilions of these wonderful creatures, here is a 15-second video of one climbing a tree en route to the mating symphony. Listen to the sounds of her brothers and sisters waiting for her. 
 
-{{< figure src="images/Cicada-on-Tree.mp4 >}}
+{{< figure src="images/Cicada-on-Tree.mp4" >}}
 
 Here's wishing you happy insect hunting... and remember to tuck your pants into your socks to prevent insects ending up in places where the sun don't shine. 
