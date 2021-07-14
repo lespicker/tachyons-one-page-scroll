@@ -24,7 +24,7 @@ product:
     event_date: 2021-11-05T15:00:00Z
     event_end: 2021-11-07T16:00:00Z
     deposit: 1750.00
-    soldout: false
+    soldout: true
     notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after September 15th, 2021.
     bcolor: black
 weight: 7
