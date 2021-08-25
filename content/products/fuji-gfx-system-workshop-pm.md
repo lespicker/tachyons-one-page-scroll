@@ -1,5 +1,6 @@
 ---
 title: 'Fujifilm GFX Medium Format: Afternoon Session'
+draft: true
 date: "2021-06-01"
 subtitle: '<span class="dark-red">Fujifilm USA will be here at the studio with <span class="fw7">the ENTIRE GFX system line-up</span></span>'
 location: "Havre de Grace, MD"

@@ -1,7 +1,7 @@
 ---
 title: 'Black & White Workshop'
+draft: true
 date: "2020-01-14"
-draft: false
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Fashion | Editorial | Dualities'

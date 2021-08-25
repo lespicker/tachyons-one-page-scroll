@@ -1,5 +1,6 @@
 ---
 title: 'Panorama Workshop'
+draft: true
 date: "2018-06-27"
 subtitle: '<span class="dark-red">Creating Panoramas That <span class="fw7">Rock</span></span>'
 location: "Havre de Grace, MD"
