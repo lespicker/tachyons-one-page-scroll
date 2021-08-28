@@ -34,6 +34,8 @@ Participants will:
 - put together a traditional frame with glazing, mats, backing boards, dust covers, hangers and all else needed for a classic display;
 - create an open-frame display.
 
+> After spending time printing images that I would like to hang on my wall (as well as the walls of friends, family, and perhaps others), Les’s framing workshop gave me valuable insight into some of the various techniques one can use to display images.  Covering everything from the cost-effective utilization of Gatorboard to display images, to the soup-to-nuts construction of a traditional frame — including frame construction from framing sticks (I may still have sawdust in my shoes from cutting our own wood frames), mat cutting, glazing, etc. — Les’s framing workshop was a superb and completely hands-on introduction to the world of image display.  Simply put: bravo! <cite>Greg Stuhlman</cite>
+
 {{< figure src="/images/framing/099A3758.jpg" caption="Finished mount, mat, and frames.">}}
 
 The workshop will include demonstrations and hands-on work making their own frames under Les’ supervision. Participants will leave the workshop with at least one example of each of the three  frames. 
