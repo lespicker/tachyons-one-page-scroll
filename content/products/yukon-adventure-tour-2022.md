@@ -22,8 +22,8 @@ product:
     data_item_categories: "tour"
     data_item_shippable: "false"
     event_date: 2022-08-27T08:00:00Z
-    event_end: 2022-09-08T08:00:00Z
-    deposit: 8995.00
+    event_end: 2022-09-07T08:00:00Z
+    deposit: 9250.00
     notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after February 28, 2022.
     bcolor: black
 weight: 12
