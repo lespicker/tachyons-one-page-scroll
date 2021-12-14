@@ -28,6 +28,7 @@ product:
     notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after September 15th, 2021.
     bcolor: black
 weight: 7
+draft: true
 aliases:
   - "page/810"
 ---
