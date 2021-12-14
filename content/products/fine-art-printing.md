@@ -14,13 +14,13 @@ types:
 product:
   data_item_id: WFP20211121
   data_item_name: "Fine Art Printing"
-  data_item_price: 450.00
+  data_item_price: 500.00
   data_item_description: "Take home your photos as large format prints."
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2021-11-20T08:30:00Z
-  soldout: true
+  event_date: 2022-03-19ßT08:30:00Z
+  soldout: false
   notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make."
   bcolor: "black"
 weight: 7
