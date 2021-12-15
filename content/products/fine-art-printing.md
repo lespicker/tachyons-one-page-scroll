@@ -29,6 +29,8 @@ aliases:
 ---
 > This was the perfect workshop for me. It allowed me to separate the theory from the practice and understand the practice of fine art printing with one-on-one guidance from the master artist, Les Picker, and master printer Bob Boyer.<cite>Gary Schubert, Pennsylvania</cite>
 
+**For people taking this printing workshop who wish to add the Framing workshop on Sunday March 20, the cost for that workshop will be $450. For technical reasons, please sign up and pay the $500 fee and $50 will be refunded to your account.**
+
 Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop.
 
 If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts.

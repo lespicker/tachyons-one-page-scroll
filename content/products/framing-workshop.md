@@ -25,7 +25,7 @@ product:
   bcolor: "black"
 weight: 7
 ---
-**For people taking the printing workshop on November 21 who wish to add the Framing workshop, the cost will be $450. For technical reasons, please sign up and pay the $500 fee and $50 will be refunded to your account.**
+**For people taking the printing workshop on March 19 2022 who wish to add the Framing workshop, the cost will be $450. For technical reasons, please sign up and pay the $500 fee and $50 will be refunded to your account.**
 
 In this hands-on workshop participants will be introduced to a variety of framing options, with tips on which are best suited for various types of photography. Participants will take home finished framed products that they have made themselves.
 
