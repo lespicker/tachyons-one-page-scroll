@@ -1,5 +1,5 @@
 ---
-title: '<span class="black-50">Coporate Art Installations</span>'
+title: '<span class="black-50">Corporate Art Installations</span>'
 date: "2018-06-13"
 subtitle: '<span class="dark-red">Custom art &amp design <span class="fw7">for any company.</span></span>'
 sideline: 'Art Installations | Custom | Commercial'
