@@ -1,6 +1,6 @@
 ---
-title: 'Yukon Photography Adventure<br> August 2022'
-date: "2018-11-06"
+title: 'Yukon Photography Adventure<br> August 2023'
+date: "2022-03-15ß"
 subtitle: '<span class="white">Canadian <span class="fw7">grandeur</span> and wildlife.</span>'
 location: "Yukon Territory, Canada"
 featured: "false"
@@ -14,19 +14,19 @@ readerbg: bg-black-20
 types:
  - tour
 product:
-    data_item_id: PAT1001
-    data_item_name: "Yukon Photography Adventure 2022"
+    data_item_id: YUK2023
+    data_item_name: "Yukon Photography Adventure 2023"
     data_item_price: 500.00
     data_item_description: "Deposit for Yukon adventure; total price $8995."
     data_item_image: "/images/V2Print.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
-    event_date: 2022-08-27T08:00:00Z
-    event_end: 2022-09-07T08:00:00Z
-    deposit: 9250.00
-    notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after February 28, 2022.
+    event_date: 2023-08-26T08:00:00Z
+    event_end: 2023-09-06T08:00:00Z
+    deposit: 9750.00
+    notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after February 28, 2023.
     bcolor: black
-    soldout: true
+    soldout: false
 weight: 12
 aliases:
 ---
