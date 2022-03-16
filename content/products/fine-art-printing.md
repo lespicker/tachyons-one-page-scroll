@@ -1,6 +1,6 @@
 ---
 title: 'Fine Art Printing Workshop'
-date: "2021-05-25"
+date: "2022-03-15"
 subtitle: '<span class="dark-red">Hands-on printing of <span class="fw7">your pictures</span> on our professional large-format printers.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
@@ -12,15 +12,15 @@ background: 'bg-top'
 types:
   - workshop
 product:
-  data_item_id: WFP20211121
+  data_item_id: WFP20220709
   data_item_name: "Fine Art Printing"
   data_item_price: 500.00
   data_item_description: "Take home your photos as large format prints."
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2022-03-19T08:30:00Z
-  soldout: true
+  event_date: 2022-07-09T08:30:00Z
+  soldout: false
   notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make."
   bcolor: "black"
 weight: 7
@@ -28,8 +28,6 @@ aliases:
   - "page/803"
 ---
 > This was the perfect workshop for me. It allowed me to separate the theory from the practice and understand the practice of fine art printing with one-on-one guidance from the master artist, Les Picker, and master printer Bob Boyer.<cite>Gary Schubert, Pennsylvania</cite>
-
-**For people taking this printing workshop who wish to add the Framing workshop on Sunday March 20, the cost for that workshop will be $450. For technical reasons, please sign up and pay the $500 fee and $50 will be refunded to your account.**
 
 Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop.
 
@@ -72,6 +70,7 @@ Our historic town of Havre de Grace is fortunate to have excellent lodging choic
 
 ### Please Bring Along
 - Laptop
+- SD Card Reader
 - Software
 - Lunch
 - Latest version of Lightroom
