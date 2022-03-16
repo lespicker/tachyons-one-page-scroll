@@ -27,7 +27,7 @@ product:
     notes: Can anything be more exciting than snorkeling with and photographing humpback whales and their calves close up? How about two weeks photographing in spectacular New Zealand? $22,278 per person double occupancy. After initial $500 deposit, you will be billed $7,000, to be paid by check. The remainder will be billed in two separate payments. Deposits are refundable as follows; 100% by June 15, 2021; 50% by August 1, 2021, and 25% by February 15, 2022. After February 15, 2022 no refunds are possible. All costs are in U.S. dollars.  
     soldout: true
     bcolor: black
-weight: 15
+weight: 11
 aliases:
 ---
 This is a trip you really don’t want to miss! Spend 7 glorious days in sunny Tonga, with 4 solid days of snorkeling amongst southern humpback whales and their just born calves. Join Les in the calm, clear blue waters of Tonga and find out for yourself.
