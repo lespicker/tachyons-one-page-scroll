@@ -23,7 +23,7 @@ product:
   soldout: false
   notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make."
   bcolor: "black"
-weight: 7
+weight: 5
 aliases:
   - "page/803"
 ---

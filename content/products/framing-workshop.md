@@ -1,6 +1,6 @@
 ---
 title: 'Framing Workshop'
-date: "2021-05-25"
+date: "2022-03-14"
 subtitle: '<span class="dark-red">Hands-on mounting, matting, and framing <span class="fw7">your  own prints</span>.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
@@ -12,21 +12,21 @@ background: 'bg-top'
 types:
   - workshop
 product:
-  data_item_id: WFR20211122
+  data_item_id: WFR20220710
   data_item_name: "Framing Workshop"
   data_item_price: 500.00
   data_item_description: "Hands-on print mounting, matting, and framing"
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2022-03-20T08:30:00Z
-  soldout: true
+  event_date: 2022-07-10T08:30:00Z
+  soldout: false
   notes: "Print framing workshop. Traditional mounting, matting, and framing as well as alternative mounting and open framing techniques."
   bcolor: "black"
-weight: 7
-draft: true
+weight: 6
+draft: false
 ---
-**For people taking the printing workshop on March 19 2022 who wish to add the Framing workshop, the cost will be $450. For technical reasons, please sign up and pay the $500 fee and $50 will be refunded to your account.**
+**For people taking the printing workshop on July 9th, 2022 who wish to add the Framing workshop, the cost will be $450. For technical reasons, please sign up and pay the $500 fee and $50 will be refunded to your account.**
 
 In this hands-on workshop participants will be introduced to a variety of framing options, with tips on which are best suited for various types of photography. Participants will take home finished framed products that they have made themselves.
 
@@ -49,7 +49,7 @@ Les has been framing his Limited Edition prints for decades and will share his t
 
 Once you register we will send you a detailed email with all the information you will need. We will be happy to send you a list of recommended lodging in Havre de Grace or nearby. 
 
-
+**No refunds after June 1st, 2022.**
 
 
 	
