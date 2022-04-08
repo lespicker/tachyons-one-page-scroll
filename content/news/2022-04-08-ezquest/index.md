@@ -2,7 +2,7 @@
 layout: post
 title: "On the road...again"
 date: "2022-04-08"
-image: "images/ezquest-device.png"
+image: "images/ezquest-device.jpg"
 comments: true
 categories: 
   - How-to
@@ -24,7 +24,7 @@ Enter stage right... the EZQUEST 5-in-1 USB Type-C Card Reader. If you're like m
 
 I found the EZQUEST 5-in-1 USB Type-C Card Reader to be insanely lightweight, rugged and easy to pack. It is long and slim, with an anodized aluminum enclosure to dissipate heat and take abuse. 
 
-{{< figure src="images/ezquest-cards.png" >}}
+{{< figure src="images/ezquest-cards.jpg" >}}
 
 The device features one CFast 2.0 card slot, one CompactFlash card slot, one UHS-II SDXC card slot, one UHS-II microSDXC card slot, and one Memory Stick PRO card slot. If you are shooting multiple platforms you'll appreciate the fact that all of the slots may be used simultaneously. Data transfer is fast and each slot has an LED indicator which is pretty cool in that you can see what is currently in use. And, the EZQUEST is plug-and-play, no additional drivers needed.
 
