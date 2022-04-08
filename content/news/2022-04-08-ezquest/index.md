@@ -5,10 +5,9 @@ date: "2022-04-08"
 image: "images/ezquest-device.jpg"
 comments: true
 categories: 
-  - How-to
+  - Reviews
 destination: 
   - Featured
-  - Reviews
 tags:
   - photography
   - card reader
