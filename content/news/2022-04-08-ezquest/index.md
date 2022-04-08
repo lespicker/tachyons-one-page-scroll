@@ -29,6 +29,6 @@ The device features one CFast 2.0 card slot, one CompactFlash card slot, one UHS
 
 The one issue I had with the EZQUEST is that while the manufacturers tout its 'long' cord (9" USB Type-C), I do wish it was a tad longer. Using it on a hotel bed with an external disk attached, a power cord, etc, I would have liked the cord long enough to get the unit out of the way and to allow it to lay flat no matter the creases in the comforter. But, aside from that, during the 7-week field test I put it through it held up amazingly well. 
 
-The EZQUEST line of products is [available at Amazon](https://www.amazon.com/EZQuest-USB-C-CFast-Reader-Ports/dp/B08R1MFVGN/ref=sr_1_5?crid=1028ESQX5TDM6&keywords=ezquest+usb+type-c+card+reader&qid=1649292525&sprefix=EZQUEST%2Caps%2C71&sr=8-5), where the EZQUEST 5-in-1 sells for $49.99. EZQUEST offers units with even more ports, as well as other photo-related products. 
+The EZQUEST line of products is [available at Amazon](https://amzn.to/3Krh6lk), where the EZQUEST 5-in-1 sells for $49.99. EZQUEST offers units with even more ports, as well as other photo-related products. 
 
 **Reader Note**: When I am sent equipment to review I insist that the sender acknowledge beforehand that my reviews are honest and may reflect poorly on the item. I don't know in advance whether the sender will ask for the item back or not. If I am told I may keep the item I typically donate it to a charity, as applicable.  
