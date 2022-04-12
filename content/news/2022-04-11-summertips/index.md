@@ -18,14 +18,13 @@ tags:
   - advice
   - tips
 ---
-
 I've written several times in past blogs about staying safe doing [winter photography](https://lesterpickerphoto.com/2015/01/27/mitten-review/). That advice comes from having lived in Maine for ten years, visiting Yukon territory at -40F several times, shooting from f-f-frigid mountaintops, and camping in Antarctica and the sub-Arctic. 
 
 But what about summer? A reader pointed out to me last year that I neglected this topic and it's been on my mind to offer some advice. My recent trip to Hawaii reminded me that this might be a good time to put down some of my suggestions for you and your camera staying safe in hot weather. 
 
 I remember one time I was on assignment in Egypt's western desert when two of my camera bodies ceased working in 120F heat. Another summer assignment when I was in, of all places, Okanagan, Canada when the temperature surprisingly rose into the high nineties and scorched my sensor. 
 
-I've developed a list of recommendations that I'll pass on. Some are quite obvious, others maybe less so. I'd love to hear your comments and any additions you may have to my list. 
+I've developed a list of recommendations that I'll pass on. Some are obvious, others maybe less so. I'd love to hear your comments and any additions you may have to my list. 
 
 - Wear sunscreen and apply it liberally. Even if you think you will only be out for a few minutes, that is the time you will notice a scene that you can't pass up. 
 - Next on the list is insect repellent. Diseases like Lyme or mosquito borne illnesses are no fun. 
