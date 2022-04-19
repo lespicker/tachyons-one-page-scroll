@@ -1,6 +1,6 @@
 ---
 title: 'Yukon Photography Adventure<br> August 2023'
-date: "2022-03-15ß"
+date: "2022-03-15"
 subtitle: '<span class="white">Canadian <span class="fw7">grandeur</span> and wildlife.</span>'
 location: "Yukon Territory, Canada"
 featured: "false"
@@ -17,13 +17,13 @@ product:
     data_item_id: YUK2023
     data_item_name: "Yukon Photography Adventure 2023"
     data_item_price: 500.00
-    data_item_description: "Deposit for Yukon adventure; total price $8995."
+    data_item_description: "Deposit for Yukon adventure; total price $9,925."
     data_item_image: "/images/V2Print.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
     event_date: 2023-08-26T08:00:00Z
     event_end: 2023-09-06T08:00:00Z
-    deposit: 9750.00
+    deposit: 9925.00
     notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after February 28, 2023.
     bcolor: black
     soldout: false
@@ -117,9 +117,9 @@ Depending on flight schedules, we meet for breakfast and say farewells… for no
 
 ### Cost
 
-The cost of the Yukon workshop is $8,750 USD per person, single occupancy. This bespoke adventure is limited to only 3 photographers. A $3,000 deposit is due at sign up ($500 through this website and $2,500 due by check after Les contacts you). Please register below.
+The cost of the Yukon workshop is $9,925 USD per person, single occupancy. This bespoke adventure is limited to only 3 photographers. A $3,000 deposit is due at sign up ($500 through this website and $2,500 due by check after Les contacts you). Please register below.
 
-Deposits are refundable as follows: 100% by November 30,2019; 50% by January 31, 2020; 25% by March 15, 2020. A reminder will be sent to participants. If three people do not sign up, the trip will be cancelled and 100% of all funds returned.
+Deposits are refundable as follows: 100% by November 30,2022; 50% by January 31, 2023; 25% by March 15, 2023. A reminder will be sent to participants. If three people do not sign up, the trip will be cancelled and 100% of all funds returned.
 
 All trip fees are quoted in US dollars and must be paid in US dollars.
 
