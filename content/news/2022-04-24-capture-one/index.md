@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Top 'Likes' (and dislikes) in Capture One"
+title: "Capture One: Likes & Dislikes"
 date: "2022-04-23"
 image: "images/DSCF6979.jpg"
 comments: true
