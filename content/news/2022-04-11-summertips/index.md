@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Summer Safety"
+title: '<span class="near-black">Summer Safety</span>'
+bcolor: near-black
 date: "2022-04-12"
 image: "images/leatherman.jpg"
 comments: true

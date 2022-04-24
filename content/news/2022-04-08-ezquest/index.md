@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "On the road...again"
+title: '<span class="near-black">On the road...again</span>'
+bcolor: near-black
 date: "2022-04-08"
 image: "images/ezquest-device.jpg"
 comments: true
