@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '<span class="near-black">Attenion Fujifilm GFX Users!</span>'
+title: '<span class="near-black">Attention Fujifilm GFX Users!</span>'
 bcolor: near-black
 date: "2022-04-27"
 image: "images/DSCG5390.jpg"
