@@ -23,7 +23,7 @@ product:
   soldout: true
   notes: "Print framing workshop. Traditional mounting, matting, and framing as well as alternative mounting and open framing techniques."
   bcolor: "black"
-weight: 6
+weight: 8
 draft: false
 ---
 **For people taking the printing workshop on July 9th, 2022 who wish to add the Framing workshop, the cost will be $450. For technical reasons, please sign up and pay the $500 fee and $50 will be refunded to your account.**

@@ -27,7 +27,7 @@ product:
     soldout: false
     notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after September 15th, 2022.
     bcolor: black
-weight: 7
+weight: 10
 draft: false
 aliases:
   - "page/810"
