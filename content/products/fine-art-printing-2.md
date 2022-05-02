@@ -6,7 +6,7 @@ location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
 sidecolor: 'white'
 textcolor: white
-image: "/images/Lester-Picker_07.jpg"
+image: "/images/099A8250.jpg"
 bcolor: black
 background: 'bg-top'
 types:
