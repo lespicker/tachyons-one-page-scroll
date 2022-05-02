@@ -1,8 +1,9 @@
 ---
 layout: post
-title: '<span class="near-black">Attention Fujifilm GFX Users!</span>'
+title: '<span class="white">Attention Fujifilm GFX Users!</span>'
+bcolor: white
 date: "2022-04-27"
-image: "images/DSCG5390.jpg"
+image: "images/DSCF5390.jpg"
 comments: true
 categories: 
   - Reviews
