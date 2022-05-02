@@ -20,7 +20,6 @@ product:
   data_item_categories: "workshop"
   data_item_shippable: "false"
   event_date: 2022-10-09T08:30:00Z
-  soldout: true
   notes: "Print framing workshop. Traditional mounting, matting, and framing as well as alternative mounting and open framing techniques."
   bcolor: "black"
 weight: 8
