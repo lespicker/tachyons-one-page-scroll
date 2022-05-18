@@ -1,12 +1,13 @@
 ---
 title: 'Introduction To Awagami Papers'
 date: "2022-09-17"
-subtitle: '<span class="dark-red">Learn how to use Japanese fine art papers for <span class="fw7">your photography</span>.</span>'
+subtitle: '<span class="dark-red">Learn how to use Japanese fine art papers for <span class="fw7">your photography.</span>.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
 sidecolor: 'white'
 textcolor: white
-image: "/images/awagami/099A8290.jpg"
+background: 'bg-top'
+image: "/images/workshop/awagami/099A8290.jpg"
 bcolor: black
 types:
   - workshop
@@ -15,7 +16,7 @@ product:
   data_item_name: "Intro To Awagami"
   data_item_price: 150.00
   data_item_description: "Using Awagami papers for your photography."
-  data_item_image: "/images/awagami/099A8290.jpg"
+  data_item_image: "/images/workshop/awagami/099A8290.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
   event_date: 2022-09-17T09:00:00Z
@@ -23,7 +24,6 @@ product:
   bcolor: "black"
 weight: 7
 ---
-
 ### Summary
 
 Many of us have heard of traditional hand-made Japanese washi papers. Yet few of us have actually experimented with them or figured out how to use them to best effect in our photography.
