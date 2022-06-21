@@ -1,5 +1,5 @@
 ---
-title: 'Patagonia<br>April 2022'
+title: 'Patagonia<br>April 2023'
 date: "2019-05-27"
 subtitle: '<span class="dark-red">Spectacular mountain areas in both <span class="fw7">Chile and Argentina</span>.</span>'
 location: "Tonga"
@@ -18,18 +18,18 @@ product:
     data_item_id: PAT0040
     data_item_name: "Patagonia"
     data_item_price: 500.00
-    data_item_description: "Deposit Patagonia; total price $9,980 (double occ.)/$11,000 (single occ.)/."
+    data_item_description: "Deposit Patagonia; total price $10,320 (double occ.)/$11,975 (single occ.)/."
     data_item_image: "/images/V2Print.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
     data_item_custom1_name: "Occupancy"
     data_item_custom1_options: "Double Occupancy|Single Occupancy"
     data_item_custom1_value: "Double Occupancy"
-    event_date: 2022-04-09T08:00:00Z
-    event_end: 2022-04-24T08:00:00Z
+    event_date: 2023-04-08T08:00:00Z
+    event_end: 2023-04-23T08:00:00Z
     soldout: true
-    deposit: $9,980
-    notes: Patagonia in the Fall is nothing short of photographically amazing. Please come join us for an incredible adventure. $9,980 per person double occupancy; $11,000 single occupancy. Payment schedule as follows- after initial $500 deposit on our website, you will immediately be billed $4,500, to be paid by check. Deposits are refundable on a decreasing schedule; 100% by April 30, 2021; 50% by July 31, 2021, and 25% by October 31, 2021. Final payments, due on December 1, 2021, are not refundable. All costs are in U.S. dollars.   
+    deposit: $10,320
+    notes: Patagonia in the Fall is nothing short of photographically amazing. Please come join us for an incredible adventure. $10,320 per person double occupancy; $11,975 single occupancy. Payment schedule as follows- after initial $500 deposit on our website, you will immediately be billed $4,500, to be paid by check. Deposits are refundable on a decreasing schedule; 100% by July 1, 2022; 50% by September 15, 2022. Final payments, due on December 1, 2022, are not refundable. All costs are in U.S. dollars.   
     bcolor: black
 weight: 7
 draft: true
@@ -37,9 +37,9 @@ aliases:
 ---
 This one of a kind photo safari takes place during the peak of the Patagonian autumn and brings participants to all of Patagonia's most spectacular mountain areas in both Chile and Argentina. We will photograph at top wildlife viewing spots and visit some of the most remote and seldom seen National Parks and Estancias. The Autumn tour begins in Coyhaique, Chile and ends in Punta Arenas, Chile. 
 
-The trip cost is $9,980 USD per person based on double occupancy. Single occupancy is $11,000. Included: All hotel accommodations, all meals, ground transportation and local guides. Not included: International or domestic air tickets, alcoholic beverages and soft drinks (bottled water included), park entrance fees, gratuities for guides and hotel/restaurant staff, laundry service).
+The trip cost is $10,320 USD per person based on double occupancy. Single occupancy is $11,975. Included: All hotel accommodations, all meals, ground transportation and local guides. Not included: International or domestic air tickets, alcoholic beverages and soft drinks (bottled water included), park entrance fees, gratuities for guides and hotel/restaurant staff, laundry service).
 
-**We suggest you book your flights as soon as you register for the photo adventure, especially the flight from Santiago, Chile to Balmaceda/Coyhaique.**
+**We suggest you book your flights as soon as you register for the photo adventure, especially the flight from Santiago, Chile to Balmaceda/Coyhaique. Contact Les for details.**
 
 {{< figure src="/images/workshop/patagonia/DSC_4625 (1).jpg" caption="" >}}
 
