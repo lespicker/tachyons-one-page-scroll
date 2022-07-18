@@ -27,7 +27,7 @@ product:
     data_item_custom1_value: "Double Occupancy"
     event_date: 2023-04-13T08:00:00Z
     event_end: 2023-04-28T08:00:00Z
-    soldout: false
+    soldout: true
     deposit: $10,320
     notes: Patagonia in the Fall is nothing short of photographically amazing. Please come join us for an incredible adventure. $10,320 per person double occupancy; $11,975 single occupancy. Payment schedule as follows- after initial $500 deposit on our website, you will immediately be billed $4,500, to be paid by check. Deposits are refundable on a decreasing schedule; 100% by July 1, 2022; 50% by September 15, 2022. Final payments, due on December 1, 2022, are not refundable. All costs are in U.S. dollars.   
     bcolor: black
