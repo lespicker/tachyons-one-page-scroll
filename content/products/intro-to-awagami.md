@@ -34,6 +34,8 @@ Les will showcase the variety of ink-jet compatible Awagami papers that are curr
 
 The workshop is limited to six people. If you are interested in the infinite artistic possibilities of Japanese washi papers register now.
 
+**The fee for this workshop will be refunded in full to every participant that registers for any advanced Awagami workshop offered by Les Picker Fine Art Photography.**([please email us for details](mailto:lespicker@gmail.com))
+ 
 ### Participants will:
 - gain a detailed knowledge of Awagami washi papers
 - understand techniques for using washi papers
