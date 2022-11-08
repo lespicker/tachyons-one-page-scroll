@@ -12,17 +12,17 @@ background: 'bg-top'
 types:
   - workshop
 product:
-  data_item_id: WFR20221009
+  data_item_id: WFR20230319
   data_item_name: "Framing Workshop"
   data_item_price: 550.00
   data_item_description: "Hands-on print mounting, matting, and framing"
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2022-10-09T08:30:00Z
+  event_date: 2023-03-19T08:30:00Z
   notes: "Print framing workshop. Traditional mounting, matting, and framing as well as alternative mounting and open framing techniques."
   bcolor: "black"
-weight: 11
+weight: 5
 draft: false
 ---
 **For people taking the printing workshop on July 9th, 2022 who wish to add the Framing workshop, the cost will be $450. For technical reasons, please sign up and pay the $500 fee and $50 will be refunded to your account.**

@@ -12,17 +12,17 @@ bcolor: black
 types:
   - workshop
 product:
-  data_item_id: WAG202209017
+  data_item_id: WAG202303011
   data_item_name: "Intro To Awagami"
   data_item_price: 150.00
   data_item_description: "Using Awagami papers for your photography."
   data_item_image: "/images/workshop/awagami/099A8290.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2022-09-17T09:00:00Z
+  event_date: 2023-03-11T09:00:00Z
   notes: "Workshop starts at 9am and ends at 1pm"
   bcolor: "black"
-weight: 7
+weight: 2
 ---
 ### Summary
 
