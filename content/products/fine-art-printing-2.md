@@ -26,6 +26,9 @@ weight: 5
 aliases:
   - "page/803"
 ---
+
+**For people taking both the printing and framing workshops on March 18th and 19th, 2023 the total cost will be $1,000 for both workshops. A total of $100 will be refunded to you after registering for both.**
+
 > This was the perfect workshop for me. It allowed me to separate the theory from the practice and understand the practice of fine art printing with one-on-one guidance from the master artist, Les Picker, and master printer Bob Boyer.<cite>Gary Schubert, Pennsylvania</cite>
 
 Are you ready to move your photo images from hiding in the dark recesses of your hard drive? Have you always wanted to share your best images with others? Would you like to decorate the walls of your home with your best photographic work? If the answer to any of these questions is ‘Yes’ then you should definitely register for our Basic Printing Workshop.
