@@ -22,7 +22,7 @@ product:
   event_date: 2023-03-18T08:30:00Z
   notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make."
   bcolor: "black"
-weight: 10
+weight: 5
 aliases:
   - "page/803"
 ---
