@@ -25,7 +25,7 @@ product:
 weight: 10
 draft: false
 ---
-**For people taking both the printing and framing workshops on March 18th and 19th, 2023 the total cost will be $1,000 for both workshops. A total of $100 will be refunded to you after registering for both.**
+**For people taking both the printing and framing workshops on March 18th and 19th, 2023 the total cost will be $1,000 for both workshops(rather than $1,100). A total of $100 will be refunded to you after registering for both.**
 
 In this hands-on workshop participants will be introduced to a variety of framing options, with tips on which are best suited for various types of photography. Participants will take home finished framed products that they have made themselves.
 
