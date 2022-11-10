@@ -31,9 +31,9 @@ Awagami inkjet papers are a specialized medium for producing fine art digital pr
 
 We recommend those interested in these materials having no in-person exposure to them attend our [Introduction to Awagami Papers half-day workshop](https://lesterpickerphoto.com/products/intro-to-awagami/). The introductory workshop is to understand the full line of inkjet papers offered, see the materials in use, and to understand if these unique papers fit your artistic vision. 
 
-The full price of that workshop is applied to any future advanced Awagami workshop offered by Les Picker Fine Art Photography. If you would like to take the advanced workshop without the introductory workshop feel free to email us to make sure these materials are right for your work.
+The full price of that workshop is applied to any future advanced Awagami workshop, including this workshop, offered by Les Picker Fine Art Photography. If you would like to take the advanced workshop without the introductory workshop feel free to email us to make sure these materials are right for your work.
 
-This day and a half hands-on workshop will result in a completed mounted fine art print that best represents your artistic intention. More importantly the experience with the selection, discernment, and realization of other participants art will be invaluable as you move forward using Awagami materials for future projects.
+This day and a half hands-on workshop will result in two completed mounted Awagami fine art prints that best represents your artistic intention. More importantly the experience with the selection, discernment, and realization of other participants' art will be invaluable as you move forward using Awagami materials for future projects.
 
 ## Preparation
 
@@ -71,6 +71,6 @@ Once registered we will send you a list of lodging options within minutes of our
 
 ### About Us
 
-Lester Picker (www.lesterpickerphoto.com) has more than 650 writing and photo credits in National Geographic Society publications, Better Homes & Gardens, Forbes, Time, Inc. Publications, Money, Fortune Small Business, Bloomberg Personal Finance, National Parks Magazine, and dozens of newspapers, magazines and other publications. He is a former reporter, photojournalist and editor. Les is a Moab Master photographer, lauded for his fine art printing and his workshops. Les was awarded the prestigious Canada Northern Lights Award for Best Travel Photographer. Les has been named the first international ambassador for Awagami.
+Lester Picker (www.lesterpickerphoto.com) has more than 650 writing and photo credits in National Geographic Society publications and dozens of newspapers, magazines and other publications. He is a former reporter, photojournalist and editor. Les is a Moab Master photographer, lauded for his fine art printing and his workshops. Les was awarded the prestigious Canada Northern Lights Award for Best Travel Photographer. Les has been named the first international ambassador for Awagami.
 
 Robert Boyer is a master printer and oversees all fine art printing for LPFA. Bob is also a computer and software technician. He is an experienced studio photographer and workshop presenter.
