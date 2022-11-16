@@ -19,8 +19,8 @@ product:
   data_item_image: "/images/workshop/awagami/099A8290.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2023-06-20T09:00:00Z
-  event_end: 2023-06-21T13:00:00Z
+  event_date: 2023-06-10T09:00:00Z
+  event_end: 2023-06-11T13:00:00Z
   notes: "Workshop starts Saturday at 9am and ends at Sunday 1pm"
   bcolor: "black"
 weight: 20
