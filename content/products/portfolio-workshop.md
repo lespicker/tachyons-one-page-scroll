@@ -24,10 +24,10 @@ product:
     event_date: 2023-07-07T15:00:00Z
     event_end: 2023-07-09T16:00:00Z
     deposit: 1995.00
-    soldout: false
-    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after September 15th, 2022.
+    soldout: true
+    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after April 30, 2023.
     bcolor: black
-weight: 12
+weight: 20
 draft: false
 ---
 One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
