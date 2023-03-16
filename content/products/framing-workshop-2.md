@@ -1,5 +1,6 @@
 ---
 title: 'Framing Workshop'
+draft: true
 date: "2022-05-02"
 subtitle: '<span class="dark-red">Hands-on mounting, matting, and framing <span class="fw7">your  own prints</span>.</span>'
 location: "Havre de Grace, MD"

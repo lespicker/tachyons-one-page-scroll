@@ -1,5 +1,6 @@
 ---
 title: 'Introduction To Awagami Papers'
+draft: true
 date: "2022-05-10"
 subtitle: '<span class="dark-red">Learn how to use Japanese fine art papers for <span class="fw7">your photography.</span>.</span>'
 location: "Havre de Grace, MD"

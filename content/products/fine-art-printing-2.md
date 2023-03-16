@@ -1,6 +1,6 @@
 ---
 title: 'Fine Art Printing Workshop'
-date: "2022-05-02"
+date: "2023-03-02"
 subtitle: '<span class="dark-red">Hands-on printing of <span class="fw7">your pictures</span> on our professional large-format printers.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
@@ -12,23 +12,21 @@ background: 'bg-top'
 types:
   - workshop
 product:
-  data_item_id: WFP20230318
+  data_item_id: WFP20230708
   data_item_name: "Fine Art Printing"
   data_item_price: 550.00
   data_item_description: "Take home your photos as large format prints."
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2023-03-18T08:30:00Z
-  soldout: true
+  event_date: 2023-07-08T08:30:00Z
+  soldout: false
   notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make."
   bcolor: "black"
 weight: 5
 aliases:
   - "page/803"
 ---
-
-**For people taking both the printing and framing workshops on March 18th and 19th, 2023 the total cost will be $1,000 for both workshops(rather than $1,100). A total of $100 will be refunded to you after registering for both.**
 
 > This was the perfect workshop for me. It allowed me to separate the theory from the practice and understand the practice of fine art printing with one-on-one guidance from the master artist, Les Picker, and master printer Bob Boyer.<cite>Gary Schubert, Pennsylvania</cite>
 
