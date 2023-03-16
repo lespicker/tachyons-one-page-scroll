@@ -25,7 +25,6 @@ product:
   notes: "Print framing workshop. Traditional mounting, matting, and framing as well as alternative mounting and open framing techniques."
   bcolor: "black"
 weight: 10
-draft: false
 ---
 **For people taking both the printing and framing workshops on March 18th and 19th, 2023 the total cost will be $1,000 for both workshops(rather than $1,100). A total of $100 will be refunded to you after registering for both.**
 
