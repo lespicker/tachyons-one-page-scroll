@@ -62,7 +62,7 @@ Our historic town of Havre de Grace is fortunate to have excellent lodging choic
 - How to select appropriate papers for images
 - How to judge prints
 - Print display options
-- 
+
 ### What is included
 - Refreshments
 - Museum-quality photo papers by Moab Paper
