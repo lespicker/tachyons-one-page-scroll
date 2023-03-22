@@ -34,9 +34,9 @@ Are you ready to move your photo images from hiding in the dark recesses of your
 
 If you are like most digital photographers today, you have carefully honed your craft and have taken numerous awe-inspiring images. Now you are ready to display them on the finest photo papers for guests to see, to give as gifts, or to sell to those who appreciate your artistic efforts.
 
-By the end of our one-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with an unlimited number of large-format prints on fine art, museum-quality archival papers.
+By the end of our one-day workshop, held in historic Havre de Grace, Maryland, you will not only learn a basic, color-managed workflow that is consistent and repeatable for fine art quality results, but you will leave the workshop with large-format prints on fine art, museum-quality archival paper.
 
-And unlike virtually all printing workshops you will see advertised, we never accept more than six people, so you are assured of individual attention in a learning environment second to none.
+And unlike virtually all printing workshops you will see advertised, we never accept more than four people, so you are assured of individual attention in a learning environment second to none.
 
 ### About Us
 
@@ -49,7 +49,7 @@ Robert Boyer is the Master Printmaker for Lester Picker Fine Art Photography. Bo
 ### Our Learning Environment
 Our studio in Havre de Grace, Maryland has been designed from the ground up to accommodate intimate groups of passionate photographers willing to expand their skills. We constructed our space from bare walls to enable us to produce the finest photographic prints imaginable.
 
-We use a Canon Pro4000 large format printer for prints up to 44”, as well as three additional large format professional Canon printers for prints up to 24” (Don't worry, the concepts you learn will apply to whatever printers you choose).
+We use Canon professional printers (Don't worry, the concepts you learn will apply to whatever printers you choose).
 
 Our in-studio kitchenette has fresh coffee, teas and drinks and refreshments always available to keep you energized. We use all-Apple computer equipment, but Bob is well versed in PC technology as well. In our workshops we focus on Lightroom for post-processing and printing.
 
@@ -62,10 +62,11 @@ Our historic town of Havre de Grace is fortunate to have excellent lodging choic
 - How to select appropriate papers for images
 - How to judge prints
 - Print display options
-- What is included
+- 
+### What is included
 - Refreshments
-- Museum-quality photo papers
-- Use of professional and prosumer printers
+- Museum-quality photo papers by Moab Paper
+- Use of professional printers
 - Instruction from passionate photographers/print-makers
 - Individualized hands-on practice
 
@@ -74,8 +75,8 @@ Our historic town of Havre de Grace is fortunate to have excellent lodging choic
 - SD Card Reader
 - Software
 - Lunch
-- Latest version of Lightroom
-- At least 10 of your own high-quality images (preferably in RAW format)
+- Latest version of Lightroom Classic
+- 5 of your own high-quality images (preferably in RAW format) that you would like to see as a fine art print
 
 > Les and Bob did a good job stepping us through the printing process.  This is a good workshop for those that are not familiar with printing and color management.  I particularly liked Bob’s thoughts on post processing some images in prep for printing.   Very common sense approach.
 <cite>Joe Farrell, Pennsylvania</cite>
