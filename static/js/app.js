@@ -1,5 +1,5 @@
 $( function(){
-  $("form.news").submit(function (event) {
+  $("form.xxxnews").submit(function (event) {
     $("#subscribe").prop("disabled", true);
     $("#spinner").addClass("dib");
     console.log(data = $(this).serializeArray());
