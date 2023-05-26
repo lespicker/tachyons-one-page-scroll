@@ -8,4 +8,3 @@ https://blog.lesterpickerphoto.com/* https://lesterpickerphoto.com/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://lpfa.netlify.com/* https://lesterpickerphoto.com/:splat 301!
-K
