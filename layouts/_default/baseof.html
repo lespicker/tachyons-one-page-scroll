@@ -82,7 +82,7 @@
       // Define what happens on successful data submission
       XHR.addEventListener("load", (event) => {
         window.location = "#popup1"
-        document.getElementById("email").reset();
+        document.getElementById("mcemail").reset();
       });
   
       // Define what happens in case of error
@@ -91,7 +91,7 @@
       });
   
       // Set up our request
-      XHR.open("POST", "/.netlify/functions/hello-world");
+      XHR.open("POST", "/.netlify/functions/subscribe");
       XHR.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
   
       // The data sent is what the user provided in the form
@@ -99,7 +99,7 @@
     }
   
     // Get the form element
-    const form = document.getElementById("email");
+    const form = document.getElementById("mcemail");
   
     // Add 'submit' event handler
     form.addEventListener("submit", (event) => {
