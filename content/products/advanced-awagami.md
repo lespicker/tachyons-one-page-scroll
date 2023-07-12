@@ -24,7 +24,7 @@ product:
   soldout: true
   notes: "Workshop starts Saturday at 9am and ends at Sunday 1pm"
   bcolor: "black"
-weight: 20
+weight: 3
 ---
 ## Introduction
 
