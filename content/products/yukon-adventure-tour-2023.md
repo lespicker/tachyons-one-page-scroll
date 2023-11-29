@@ -23,7 +23,7 @@ product:
     data_item_shippable: "false"
     event_date: 2023-08-26T08:00:00Z
     event_end: 2023-09-06T08:00:00Z
-    deposit: 9925.00
+    deposit: 12500.00
     notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after February 28, 2023.
     bcolor: black
     soldout: true
