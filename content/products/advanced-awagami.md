@@ -29,7 +29,7 @@ weight: 6
 
 Awagami inkjet papers are a specialized medium for producing fine art digital prints. The range runs from subtle matte papers through highly textured dramatic papers. The papers also run the gamut from ultra-thin to extremely thick. The key to utilizing these unique and beautiful materials is matching the paper to a photograph and artistic vision that work in harmony.
 
-We recommend those interested in these materials having no in-person exposure to them attend our [Introduction to Awagami Papers half-day workshop](https://lesterpickerphoto.com/products/intro-to-awagami/). The introductory workshop is to understand the full line of inkjet papers offered, see the materials in use, and to understand if these unique papers fit your artistic vision. 
+We recommend those interested in these materials having no in-person exposure to them attend our [Printing With Awagami Papers](https://lesterpickerphoto.com/products/intro-to-awagami/). The introductory workshop is to understand the full line of inkjet papers offered, see the materials in use, and to understand if these unique papers fit your artistic vision. 
 
 The full price of that workshop is applied to any future advanced Awagami workshop, including this workshop, offered by Les Picker Fine Art Photography. If you would like to take the advanced workshop without the introductory workshop feel free to email us to make sure these materials are right for your work.
 

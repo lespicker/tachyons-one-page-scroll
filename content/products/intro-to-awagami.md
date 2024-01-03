@@ -1,7 +1,7 @@
 ---
-title: 'Introduction To Awagami Papers'
+title: 'Printing With Awagami Papers'
 draft: true
-date: "2022-05-10"
+date: "2024-04-13"
 subtitle: '<span class="dark-red">Learn how to use Japanese fine art papers for <span class="fw7">your photography.</span>.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
@@ -13,18 +13,18 @@ bcolor: black
 types:
   - workshop
 product:
-  data_item_id: WAG202303011
-  data_item_name: "Intro To Awagami"
+  data_item_id: WAG20240413
+  data_item_name: "Printing With Awagami Papers"
   data_item_price: 150.00
   data_item_description: "Using Awagami papers for your photography."
   data_item_image: "/images/workshop/awagami/099A8290.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2023-03-11T09:00:00Z
-  soldout: true
+  event_date: 2024-04-13T09:00:00Z
+  soldout: false
   notes: "Workshop starts at 9am and ends at 1pm"
   bcolor: "black"
-weight: 2
+weight: 3
 ---
 ### Summary
 
