@@ -33,8 +33,6 @@ Many of us have heard of traditional hand-made Japanese washi papers. Yet few of
 
 Les Picker is the first fine art photographer in the world named as an official Awagami Ambassador. In this introductory workshop you will enter the exciting world of washi hand-made papers from the 8th generation Awagami craftspeople. Awagami offers a wide range of papers made specifically for digital printing. 
 
-> The Awagami workshop was exceptional. It provided practical information emphasizing the need for creativity rather than paint-by-numbers instructions. The workshop helped me understand the characteristics of the wide range, the differences among the papers, and useful suggestions as to what types of images will work best, and – equally important – which won’t. I went into the workshop doubtful whether Awagami washi papers would provide results worth the effort. I emerged convinced.<cite>Bill Iverson</cite>
-
 Les will showcase the variety of ink-jet compatible Awagami papers that are currently available. He will explain the pros and cons of each paper and how to use them to reflect your artistic intent. Les will also demonstrate various ways these unique papers can be used and displayed. 
 
 The workshop is limited to six people. If you are interested in the infinite artistic possibilities of Japanese washi papers register now.

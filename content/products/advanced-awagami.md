@@ -35,6 +35,7 @@ The full price of that workshop is applied to any future advanced Awagami worksh
 
 This day and a half hands-on workshop will result in two completed mounted Awagami fine art prints that best represents your artistic intention. More importantly the experience with the selection, discernment, and realization of other participants' art will be invaluable as you move forward using Awagami materials for future projects.
 
+> The Awagami workshop was exceptional. It provided practical information emphasizing the need for creativity rather than paint-by-numbers instructions. The workshop helped me understand the characteristics of the wide range, the differences among the papers, and useful suggestions as to what types of images will work best, and – equally important – which won’t. I went into the workshop doubtful whether Awagami washi papers would provide results worth the effort. I emerged convinced.<cite>Bill Iverson</cite>
 
 ## Preparation
 
