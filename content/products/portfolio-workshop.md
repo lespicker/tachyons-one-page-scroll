@@ -1,6 +1,6 @@
 ---
 title: 'Portfolio Development Workshop'
-date: "2023-07-06"
+date: "2024-01-03"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 featured: feature
 location: "Havre de Grace, MD"
@@ -14,20 +14,20 @@ readerbg: bg-black-20
 types:
  - workshop
 product:
-    data_item_id: WPT20231110
+    data_item_id: WPT20240503
     data_item_name: "Portfolio Workshop"
     data_item_price: 500.00
     data_item_description: "Deposit for portfolio workshop; total price $1995."
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2023-11-10T15:00:00Z
-    event_end: 2023-11-12T16:00:00Z
+    event_date: 2024-05-03T15:00:00Z
+    event_end: 2024-05-05T16:00:00Z
     deposit: 1995.00
     soldout: false
-    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after September 1st, 2023.
+    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after April 1st, 2024.
     bcolor: black
-weight: 20ß
+weight: 4
 draft: false
 ---
 One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
