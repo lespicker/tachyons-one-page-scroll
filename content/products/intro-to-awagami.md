@@ -23,6 +23,7 @@ product:
   soldout: false
   notes: "Workshop starts at 8:30am and ends at 5:00pm"
   bcolor: "black"
+draft: true
 weight: 3
 ---
 ### Summary
