@@ -23,7 +23,7 @@
       <div class="aspect-ratio aspect-ratio--6x4">
         <div class="aspect-ratio--object cover bg-center flex flex-wrap items-center justify-center bg-black" style="background-image:url({{($.Scratch.Get "img")}}) ;">
           <div class="absolute top-0 left-0 w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3));"></div>
-            <div class="w-100 tc">
+            <div class="relative w-100 tc">
             <h2 class="white tc mt0 mb2 ph3 db w-100 f3 fw9 lh-solid">{{ .Title | plainify }}</h2>
             {{ with .Params.product.event_date }}
             <h3 class="w-100 mv0 lh-title f4 fw9 white tc">{{ dateFormat "Jan 2, 2006" . }}</h3>
