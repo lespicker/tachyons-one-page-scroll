@@ -19,9 +19,9 @@ product:
   data_item_image: "/images/workshop/awagami/099A8290.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2024-06-08T09:00:00Z
+  event_date: 2024-06-08T08:30:00Z
   soldout: false
-  notes: "Workshop starts Saturday at 9am and ends at Sunday 1pm"
+  notes: "Workshop starts Saturday at 8:30am and ends at 5:00pm"
   bcolor: "black"
 weight: 6
 ---
@@ -34,6 +34,7 @@ We recommend those interested in these materials having no in-person exposure to
 The full price of that workshop is applied to any future advanced Awagami workshop, including this workshop, offered by Les Picker Fine Art Photography. If you would like to take the advanced workshop without the introductory workshop feel free to email us to make sure these materials are right for your work.
 
 This day and a half hands-on workshop will result in two completed mounted Awagami fine art prints that best represents your artistic intention. More importantly the experience with the selection, discernment, and realization of other participants' art will be invaluable as you move forward using Awagami materials for future projects.
+
 
 ## Preparation
 
@@ -52,9 +53,6 @@ Two to four weeks prior to the workshop we ask that participants prepare a selec
 - Making the final print
 - Review of mounting ideas and options
 - Discussion of the mount we'll use in this workshop
-
-### Sunday
-
 - Protecting the print
 - Mounting the print
 - Wrap-up, review, and going forward
