@@ -12,7 +12,7 @@ background: 'bg-top'
 types:
   - workshop
 product:
-  data_item_id: WFP20230708
+  data_item_id: WFP20240713
   data_item_name: "Fine Art Printing"
   data_item_price: 600.00
   data_item_description: "Take home your photos as large format prints."
