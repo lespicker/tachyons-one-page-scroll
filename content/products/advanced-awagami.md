@@ -21,7 +21,7 @@ product:
   data_item_shippable: "false"
   event_date: 2024-06-08T08:30:00Z
   soldout: false
-  notes: "Workshop starts Saturday at 8:30am and ends at 5:00pm"
+  notes: "Workshop starts Saturday at 8:30am and ends at Sunday 5:00pm"
   bcolor: "black"
 weight: 6
 ---
@@ -39,11 +39,11 @@ This day and a half hands-on workshop will result in two completed mounted Awaga
 
 ## Preparation
 
-Two to four weeks prior to the workshop we ask that participants prepare a selection of 10 to 20 images and share them with us. We will review those images and arrange a conversation to collaborate on our recommendations for final image selection (and a few alternates) to bring to the workshop for printing and mounting. This preparation is important so that we understand your work, your vision, and can provide guidance that will result in realization your art.
+Two to four weeks prior to the workshop we ask that participants prepare a selection of 10 to 20 images and share them with us. We will review those images and arrange a conversation to collaborate on our recommendations for final image selection (and a few alternates) to bring to the workshop for printing and mounting. This preparation is important so that we understand your work, your vision, and can provide guidance that will result in realizing your art.
 
 ## Agenda
 
-### Saturday
+### Saturday-Sunday
 
 - Review of Awagami papers and uses
 - Focus on two *high-impact, highly textured* papers: Unryu and Bizan
