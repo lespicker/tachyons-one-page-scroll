@@ -73,3 +73,7 @@ Once registered we will send you a list of lodging options within minutes of our
 Lester Picker (www.lesterpickerphoto.com) has more than 650 writing and photo credits in National Geographic Society publications and dozens of newspapers, magazines and other publications. He is a former reporter, photojournalist and editor. Les is a Moab Master photographer, lauded for his fine art printing and his workshops. Les was awarded the prestigious Canada Northern Lights Award for Best Travel Photographer. Les has been named the first international ambassador for Awagami.
 
 Robert Boyer is a master printer and oversees all fine art printing for LPFA. Bob is also a computer and software technician. He is an experienced studio photographer and workshop presenter.
+
+### Cancellation policy 
+
+You may cancel your participation up to 60 days prior to the workshop without penalty and receive a full refund or priority placement in the next workshop opportunity. Within 60 days, we will try our best to fill your slot and, if successful, refund 75% of your registration fee. 

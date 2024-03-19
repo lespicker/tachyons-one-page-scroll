@@ -81,3 +81,7 @@ Our historic town of Havre de Grace is fortunate to have excellent lodging choic
 
 > Les and Bob did a good job stepping us through the printing process.  This is a good workshop for those that are not familiar with printing and color management.  I particularly liked Bob’s thoughts on post processing some images in prep for printing.   Very common sense approach.
 <cite>Joe Farrell, Pennsylvania</cite>
+
+### Cancellation policy 
+
+You may cancel your participation up to 60 days prior to the workshop without penalty and receive a full refund or priority placement in the next workshop opportunity. Within 60 days, we will try our best to fill your slot and, if successful, refund 75% of your registration fee. 
