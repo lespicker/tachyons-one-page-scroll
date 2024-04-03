@@ -27,7 +27,7 @@ weight: 6
 ---
 ## Introduction
 
-Awagami inkjet papers are a specialized medium for producing fine art digital prints. The range runs from subtle matte papers through highly textured dramatic papers. The papers also run the gamut from ultra-thin to extremely thick. The key to utilizing these unique and beautiful materials is matching the paper to a photograph and artistic vision that work in harmony.
+Awagami Japanese washi inkjet papers are a specialized medium for producing fine art digital prints. The range runs from subtle matte papers through highly textured dramatic papers. The papers also run the gamut from ultra-thin to extremely thick. The key to utilizing these unique and beautiful materials is matching the paper to a photograph and artistic vision that work in harmony.
 
 This day and a half hands-on workshop will result in two completed, mounted, ready to display, artworks on Awagami paper that best represents your artistic intention. More importantly the experience with the selection, discernment, and realization of your art will be invaluable as you move forward using Awagami materials for future projects. Interaction with your attending colleagues will further enrich your experience.
 
@@ -37,19 +37,18 @@ This day and a half hands-on workshop will result in two completed, mounted, rea
 
 Two to four weeks prior to the workshop we ask that each participant prepare a selection of 10 to 20 images and share them with us. We will review each image and arrange a one-on-one conversation to collaborate on our recommendations for final image selection (and a few alternates). This preparation is important so that we understand your work, your vision, and can provide personalized guidance that will result in realizing your art.
 
-We strictly limit attendance to four photographers so that we can focus on each one's work and provide an relaxed environment with plenty of time to achieve your artistic goals.
+We strictly limit attendance to four photographers so that we can focus on each one's work and provide a relaxed environment with plenty of time to achieve your artistic goals.
 
 ## Agenda
 
 ### Before You Arrive
 
 - Submission of your image selections for our review
-- Discussion on which images we think will pair well with the two premium Awagami paper's we'll be using
-- Choosing the paper that matches your photograph and vision
-- Initial proofing using a matte paper
-- Evaluation and adjustments for final print
-- Making the final print ready for mounting
-- Review of final print
+- Discussion on which images we think will pair well with the two premium Awagami papers we'll be using
+- We'll help you select the paper that matches your photograph and vision
+- We make an initial proof and evaluation using a matte paper
+- We'll make adjustments for final print
+- We'll print two final prints for your review
 
 ### Saturday-Sunday
 
