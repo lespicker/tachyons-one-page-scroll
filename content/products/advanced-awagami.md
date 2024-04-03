@@ -29,31 +29,35 @@ weight: 6
 
 Awagami inkjet papers are a specialized medium for producing fine art digital prints. The range runs from subtle matte papers through highly textured dramatic papers. The papers also run the gamut from ultra-thin to extremely thick. The key to utilizing these unique and beautiful materials is matching the paper to a photograph and artistic vision that work in harmony.
 
-We recommend those interested in these materials having no in-person exposure to them attend our [Printing With Awagami Papers](https://lesterpickerphoto.com/products/intro-to-awagami/). The introductory workshop is to understand the full line of inkjet papers offered, see the materials in use, and to understand if these unique papers fit your artistic vision. 
-
-The full price of that workshop is applied to any future advanced Awagami workshop, including this workshop, offered by Les Picker Fine Art Photography. If you would like to take the advanced workshop without the introductory workshop feel free to email us to make sure these materials are right for your work.
-
-This day and a half hands-on workshop will result in two completed mounted Awagami fine art prints that best represents your artistic intention. More importantly the experience with the selection, discernment, and realization of other participants' art will be invaluable as you move forward using Awagami materials for future projects.
+This day and a half hands-on workshop will result in two completed, mounted, ready to display, artworks on Awagami paper that best represents your artistic intention. More importantly the experience with the selection, discernment, and realization of your art will be invaluable as you move forward using Awagami materials for future projects. Interaction with your attending colleagues will further enrich your experience.
 
 > The Awagami workshop was exceptional. It provided practical information emphasizing the need for creativity rather than paint-by-numbers instructions. The workshop helped me understand the characteristics of the wide range, the differences among the papers, and useful suggestions as to what types of images will work best, and – equally important – which won’t. I went into the workshop doubtful whether Awagami washi papers would provide results worth the effort. I emerged convinced.<cite>Bill Iverson</cite>
 
-## Preparation
+## True Individualized Attention
 
-Two to four weeks prior to the workshop we ask that participants prepare a selection of 10 to 20 images and share them with us. We will review those images and arrange a conversation to collaborate on our recommendations for final image selection (and a few alternates) to bring to the workshop for printing and mounting. This preparation is important so that we understand your work, your vision, and can provide guidance that will result in realizing your art.
+Two to four weeks prior to the workshop we ask that each participant prepare a selection of 10 to 20 images and share them with us. We will review each image and arrange a one-on-one conversation to collaborate on our recommendations for final image selection (and a few alternates). This preparation is important so that we understand your work, your vision, and can provide personalized guidance that will result in realizing your art.
+
+We strictly limit attendance to four photographers so that we can focus on each one's work and provide an relaxed environment with plenty of time to achieve your artistic goals.
 
 ## Agenda
 
-### Saturday-Sunday
+### Before You Arrive
 
-- Review of Awagami papers and uses
-- Focus on two *high-impact, highly textured* papers: Unryu and Bizan
+- Submission of your image selections for our review
+- Discussion on which images we think will pair well with the two premium Awagami paper's we'll be using
 - Choosing the paper that matches your photograph and vision
-- Review and discussion of participants images and vision for final prints
 - Initial proofing using a matte paper
 - Evaluation and adjustments for final print
-- Making the final print
+- Making the final print ready for mounting
+- Review of final print
+
+### Saturday-Sunday
+
+- Review of the wide range of Awagami papers and their unique properties
+- Focus on two *high-impact, highly textured* papers: Unryu and Bizan
+- Review and discussion of participants images and vision for final prints
 - Review of mounting ideas and options
-- Discussion of the mount we'll use in this workshop
+- Discussion of the mounts we'll use in this workshop
 - Protecting the print
 - Mounting the print
 - Wrap-up, review, and going forward
@@ -62,7 +66,7 @@ Two to four weeks prior to the workshop we ask that participants prepare a selec
 
 ### Requirements
 
-You must bring with you a laptop, your images under consideration, and a positive attitude. We provide lunch on Saturday (we accommodate dietary restrictions). Water, coffee, tea, and snacks are available throughout the day.
+You can bring with you a laptop, additional photographs you may wish to discuss as candidates for printing on Awagami, and a positive attitude. We provide lunch on Saturday (we accommodate dietary restrictions). Water, coffee, tea, and snacks are available throughout the day.
 
 ### Lodging
 
@@ -76,4 +80,4 @@ Robert Boyer is a master printer and oversees all fine art printing for LPFA. Bo
 
 ### Cancellation policy 
 
-You may cancel your participation up to 60 days prior to the workshop without penalty and receive a full refund or priority placement in the next workshop opportunity. Within 60 days, we will try our best to fill your slot and, if successful, refund 75% of your registration fee. 
+You may cancel your participation up to 60 days prior to the workshop without penalty and receive a full refund or priority placement in the next workshop opportunity. Within 60 days, we will try our best to fill your slot and, if successful, refund 75% of your registration fee. If we are unable to fill your slot we will not be able to provide any refund.
