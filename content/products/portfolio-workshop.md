@@ -1,6 +1,6 @@
 ---
 title: 'Portfolio Development Workshop'
-date: "2024-01-03"
+date: "2024-04-03"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 featured: feature
 location: "Havre de Grace, MD"
@@ -21,13 +21,13 @@ product:
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2024-05-03T08:30:00Z
-    event_end: 2024-05-05T16:00:00Z
+    event_date: 2024-11-15T08:30:00Z
+    event_end: 2024-11-17T16:00:00Z
     deposit: 1995.00
     soldout: false
     notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after March 15th, 2024.
     bcolor: black
-weight: 4
+weight: 20
 draft: true
 ---
 One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
@@ -132,3 +132,7 @@ Once registered we will send you a list of lodging options within minutes of our
 Lester Picker (www.lesterpickerphoto.com) has more than 650 writing and photo credits in National Geographic Society publications, Better Homes & Gardens, Forbes, Time, Inc. Publications, Money, Fortune Small Business, Bloomberg Personal Finance, National Parks Magazine, and dozens of newspapers, magazines and other publications. He is a former reporter, photojournalist and editor. Les is a Moab Master photographer, lauded for his fine art printing and his workshops. Les was awarded the prestigious Canada Northern Lights Award for Best Travel Photographer. 
 
 Robert Boyer is a master printer and oversees all fine art printing for LPFA. Bob is also a computer and software technician. He is an experienced studio photographer and workshop presenter.
+
+### Cancellation policy 
+
+You may cancel your participation up to 60 days prior to the workshop without penalty and receive a full refund or priority placement in the next workshop opportunity. Within 60 days, we will try our best to fill your slot and, if successful, refund 75% of your registration fee. If we are unable to fill your slot we will not be able to provide any refund.

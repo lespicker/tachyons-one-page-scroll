@@ -21,7 +21,7 @@ product:
   data_item_shippable: "false"
   event_date: 2024-06-08T08:30:00Z
   soldout: false
-  notes: "Workshop starts Saturday at 8:30am and ends at Sunday 5:00pm"
+  notes: "Workshop starts Saturday at 8:30am and ends at Sunday 1:00pm"
   bcolor: "black"
 weight: 6
 ---
