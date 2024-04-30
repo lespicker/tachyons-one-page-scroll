@@ -30,8 +30,8 @@ product:
     deposit: 17,990 DBL
     notes: 13 days / 12 nights - The photo adventure of a lifetime, tracking The Big Five and cheetahs hunting, as well as the incredible Mountain Gorillas. $17,990 per/person double occupancy; $20,490 per/person single occupancy. 
     bcolor: black
-weight: 9
-draft: true
+weight: 1
+draft: false
 aliases:
 ---
 ## OVERVIEW
@@ -40,7 +40,7 @@ Come and experience two of Africa’s most amazing bucket list experiences: see 
 
 After time in Uganda you will fly to Tanzania’s vast Serengeti plains, where you will spend time between two different camps in this vast landscape. Finish your safari at Ngorongoro Crater (this is a 3-day extension to the safari), surrounded by the most beautiful landscape on the continent, abundant wildlife and superb tented accommodations that win design awards.
 
-Andy Biggs and I have selected properties for all locations on this trip to ensure the best wildlife viewing, comfort, excellent dining and superb service throughout. Andy is one of the foremost African wildlife and landscape photographers in the world and has planned and led dozens of safaris. This gorilla and migration safari is based on Andy's and my own experience in designing safaris that exceed your expectations. If you have dreamed about your own Gorillas-In-The-Mist experience, see the Great Migration, set amongst the best hospitality available, this is the trip for you.
+I have selected properties for all locations on this trip to ensure the best wildlife viewing, comfort, excellent dining and superb service throughout. This gorilla and migration safari is based on my own experience in designing safaris that exceed your expectations. If you have dreamed about your own Gorillas-In-The-Mist experience, see the Great Migration, set amongst the best hospitality available, this is the trip for you.
 
 ## THE SCHEDULE
 
