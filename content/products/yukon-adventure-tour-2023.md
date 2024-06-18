@@ -16,7 +16,7 @@ types:
 product:
     data_item_id: YUK2025
     data_item_name: "Yukon Photography Adventure 2025"
-    data_item_price: 500.00
+    data_item_price: 12,990.00
     data_item_description: "Deposit for Yukon adventure; total price $12,990."
     data_item_image: "/images/V2Print.jpg"
     data_item_categories: "tour"
