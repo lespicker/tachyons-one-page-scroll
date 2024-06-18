@@ -119,7 +119,7 @@ Depending on flight schedules, we meet for breakfast and say farewells… for no
 
 The cost of the Yukon workshop is $12,990 USD per person, single occupancy. This bespoke adventure is limited to only 3 photographers. A $5,000 deposit is due at sign up ($500 through this website and $4,500 due by check after Les contacts you). Please register below.
 
-Deposits are refundable as follows: 100% by November 30,2024; 50% by January 31, 2025; 25% by February 28, 2025. No refunds after Februry 28, 2025. A reminder will be sent to participants.
+Deposits are refundable as follows: 100% by November 30,2024; 50% by January 31, 2025; 25% by February 28, 2025. No refunds after Februry 28, 2025. 
 
 All trip fees are quoted in US dollars and must be paid in US dollars.
 
