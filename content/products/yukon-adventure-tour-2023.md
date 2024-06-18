@@ -16,14 +16,14 @@ types:
 product:
     data_item_id: YUK2025
     data_item_name: "Yukon Photography Adventure 2025"
-    data_item_price: 12,990.00
+    data_item_price: 5,000.00
     data_item_description: "Deposit for Yukon adventure; total price $12,990."
     data_item_image: "/images/V2Print.jpg"
     data_item_categories: "tour"
     data_item_shippable: "false"
     event_date: 2025-08-23T08:00:00Z
     event_end: 2025-09-04T08:00:00Z
-    deposit: 500.00
+    deposit: 12,990.00
     notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after February 28, 2025.
     bcolor: black
     soldout: true
