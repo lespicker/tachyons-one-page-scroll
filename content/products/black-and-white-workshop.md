@@ -1,6 +1,5 @@
 ---
 title: 'Black & White Workshop'
-draft: true
 date: "2024-06-26"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 location: "Havre de Grace, MD"
