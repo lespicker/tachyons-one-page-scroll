@@ -1,10 +1,9 @@
 ---
 title: 'Black & White Workshop'
 draft: true
-date: "2020-01-14"
+date: "2024-06-26"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 location: "Havre de Grace, MD"
-sideline: 'Fashion | Editorial | Dualities'
 sidecolor: 'white'
 textcolor: white
 image: "/images/_LAP2490.jpg"
@@ -14,18 +13,18 @@ readerbg: bg-black-20
 types:
   - workshop
 product:
-    data_item_id: WBW20200718
+    data_item_id: WBW20241207
     data_item_name: "Black & White Workshop"
-    data_item_price: 295.00
+    data_item_price: 395.00
     data_item_description: "Hands-on using Adobe Lightroom."
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2021-07-17T08:30:00Z
+    event_date: 2024-12-07T08:30:00Z
     soldout: true
     notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom."
     bcolor: black
-weight: 2
+weight: 30
 aliases:
 ---
 Immerse yourself into the world of black and white photography. What makes a great black and white photograph? In this seven-hour workshop we will take a look at some styles of the masters past and current, and give you tips on looking at the world a little differently when you’re out with your camera.
