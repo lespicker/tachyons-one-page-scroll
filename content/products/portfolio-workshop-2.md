@@ -103,7 +103,7 @@ We firmly believe that every aspect of your portfolio should reflect your best w
 
 We intentionally limit this workshop to four dedicated photographers, so that our attention to detail exceeds your highest expectations.
 
-Prior to the workshop, we ask that you select up to 40 of your finest images and share them with us online (we will tell you how to do this). We will help you narrow that group down to 20 images prior to coming to the workshop.
+Prior to the workshop, we ask that you select up to 50 of your finest images and share them with us online (we will tell you how to do this). We will help you narrow that group down to 20 images prior to coming to the workshop.
 
 Once you are on site, and after showing you some sample professional portfolios, we spend the rest of the day Friday with you, helping you curate your images to the best ten images, in a collegial atmosphere where you can also seek input from the other attendees. We structure those discussions so that they are a positive and affirming experience and provide you with a template for utilizing positive professional critique in your future endeavors.
 
