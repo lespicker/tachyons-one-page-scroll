@@ -20,7 +20,6 @@ product:
     data_item_categories: "workshop"
     data_item_shippable: "false"
     event_date: 2024-12-07T08:30:00Z
-    soldout: false
     notes: "This hands-on learning experience will take a deep dive into processing your black & white photographs using Lightroom."
     bcolor: black
 weight: 30
