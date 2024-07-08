@@ -1,4 +1,3 @@
-
 ---
 title: 'Fine Art Printing Workshop'
 date: "2024-07-01"
@@ -24,7 +23,7 @@ product:
   soldout: true
   notes: "Fine Art printing workshop. Take home large format fine art prints."
   bcolor: "black"
-weight: 22
+weight: 30
 draft: false
 ---
 > This was the perfect workshop for me. It allowed me to separate the theory from the practice and understand the practice of fine art printing with one-on-one guidance from the master artist, Les Picker, and master printer Bob Boyer.<cite>Gary Schubert, Pennsylvania</cite>
