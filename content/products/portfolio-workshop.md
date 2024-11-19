@@ -1,6 +1,6 @@
 ---
 title: 'Portfolio Development Workshop'
-date: "2024-04-03"
+date: "2024-11-19"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 featured: feature
 location: "Havre de Grace, MD"
@@ -21,11 +21,11 @@ product:
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2024-11-15T08:30:00Z
-    event_end: 2024-11-17T16:00:00Z
-    deposit: 1995.00
+    event_date: 2025-11-14T08:30:00Z
+    event_end: 2025-11-16T16:00:00Z
+    deposit: 2250.00
     soldout: false
-    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after March 15th, 2024.
+    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after August 15th, 2025.
     bcolor: black
 weight: 20
 draft: false
@@ -67,7 +67,7 @@ In fact, a professionally curated portfolio is essential for success as a seriou
 
 Yet, in our experience we have found that the majority of photographers either do not have a portfolio to showcase their art, or the one they use is actually detrimental to their success. Unfortunately, photographic portfolios are often poorly planned, poorly curated, and even more poorly executed.
 
-If you are a serious photographer, here is a chance for you to walk home with a beautifully hand-crafted, hand-printed, and carefully curated fine art portfolio that will show off your work to the highest standard in the industry today.
+If you are a serious photographer, here is a chance for you to walk home with a beautifully hand-crafted, professionally-printed, and carefully curated fine art portfolio that will show off your work to the highest standard in the industry today.
 
 {{< figure src="/images/DSCF7227.jpg" >}}
 
@@ -109,19 +109,17 @@ Once you are on site, and after showing you some sample professional portfolios,
 
 On Saturday we work side-by-side with you sharing insights, techniques, and Lightroom methods to finalize your selections while getting the most out of Lightroom. We’ll also offer one-on-one assistance to post-process your images so that they shine and are ready for our state-of-the-art large format Canon printers. By the end of the day, you will have a selection of images that you can rightfully point to with pride.
 
-Sunday, together we print your images on large format, 13“ x 19” fine art, museum-quality paper by world-renowned Moab Paper. We print using state-of-the-art large format printers by Canon, using archival inks. We add artistic finishing touches, giving you a beautiful, professional portfolio.
+Sunday, we print your images on large format, 13“ x 19” fine art, museum-quality paper by world-renowned Moab Paper. We print using state-of-the-art large format printers by Canon, using archival inks. We add artistic finishing touches, giving you a beautiful, professional portfolio.
 
 Afterwards you will assemble your portfolio. You will develop a cover sheet for your portfolio, which we will then print. Then you will have the distinct joy of completing the physical assembly of your professional portfolio.
 
-Finally, we will provide you with information on how to maximize your exposure on social media. We will discuss branding, how to collect material together, and how to create specific personalities in different social media. We will show you how to use images that do not make the final portfolio as teasers in social media. We will also cover how to document the process of making the work - what is known as BTS, or Behind The Scenes - as promotional material to drive viewers to your site.
-
-We will also help you to understand how to best utilize your portfolio to improve your professional image, represent yourself to galleries, increase sales, and showcase your art to family and friends.
+We will also help you to understand how to best utilize your portfolio to improve your professional image, represent yourself to galleries, increase sales, showcase your art to family and friends, and find your audience.
 
 You will leave with your professional, hand-made portfolio and with the knowledge of how to use it and update it to keep it current.
 
 ### Requirements
 
-You must bring with you a laptop, your images under consideration, and a positive attitude. We provide lunches on both days (we accommodate dietary restrictions). Water, coffee, tea, and snacks are available throughout the day.
+You must bring with you a laptop, your images under consideration, and a positive attitude. We provide lunches daily (we accommodate dietary restrictions). Water, coffee, tea, and snacks are available throughout the day.
 
 ### Lodging
 
@@ -129,7 +127,7 @@ Once registered we will send you a list of lodging options within minutes of our
 
 ### About Us
 
-Lester Picker (www.lesterpickerphoto.com) has more than 650 writing and photo credits in National Geographic Society publications, Better Homes & Gardens, Forbes, Time, Inc. Publications, Money, Fortune Small Business, Bloomberg Personal Finance, National Parks Magazine, and dozens of newspapers, magazines and other publications. He is a former reporter, photojournalist and editor. Les is a Moab Master photographer, lauded for his fine art printing and his workshops. Les was awarded the prestigious Canada Northern Lights Award for Best Travel Photographer. 
+Lester Picker (www.lesterpickerphoto.com) has more than 650 writing and photo credits in National Geographic Society publications, Better Homes & Gardens, Forbes, Time, Inc. Publications, Money, Fortune Small Business, Bloomberg Personal Finance, National Parks Magazine, and dozens of newspapers, magazines and other publications. He is a former reporter, photojournalist and editor. Les is a Moab Master photographer, Awagami International Ambassador, lauded for his fine art printing and his workshops. Les was awarded the prestigious Canada Northern Lights Award for Best Travel Photographer. 
 
 Robert Boyer is a master printer and oversees all fine art printing for LPFA. Bob is also a computer and software technician. He is an experienced studio photographer and workshop presenter.
 
