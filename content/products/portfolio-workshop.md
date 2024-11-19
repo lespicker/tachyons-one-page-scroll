@@ -14,7 +14,7 @@ readerbg: bg-black-20
 types:
  - workshop
 product:
-    data_item_id: WPT20241115
+    data_item_id: WPT20251114
     data_item_name: "Portfolio Workshop"
     data_item_price: 500.00
     data_item_description: "Deposit for portfolio workshop; total price $1995."
