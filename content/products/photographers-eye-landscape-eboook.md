@@ -20,7 +20,7 @@ product:
     data_item_categories: "ebook"
     data_item_shippable: "false"
     event_date: 2019-08-24T08:00:00Z
-    data_item_file_guid: '3eff857a-bedc-429d-92a5-8baf1532f242'
+    data_item_file_guid: 'b48fb61e-4b28-4e4f-a1ce-ed026b941dd3'
     notes: "Ten of my best images of people along with how they were made. Contains a bonus section of my top 10 tips for better images of people."
     bcolor: black
 aliases:

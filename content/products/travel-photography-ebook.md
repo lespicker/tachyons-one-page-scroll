@@ -19,7 +19,7 @@ product:
     data_item_image: "/images/_LAP0199.jpg"
     data_item_categories: "ebook"
     data_item_shippable: "false"
-    data_item_file_guid: '01ef03d3-2480-471a-b46a-cf6172565c2a'
+    data_item_file_guid: 'dd6d6055-9e3c-4171-a17a-41935bc0857b'
     notes: "Composition is critical for great images. In this heavily illustrated ebook Les covers some of the most important elements of composition so you can create winning images."
     bcolor: black
 aliases:
