@@ -1,6 +1,6 @@
 ---
-title: 'Framing Workshop'
-date: "2022-03-14"
+title: 'Matting & Framing Workshop'
+date: "2024-11-19"
 subtitle: '<span class="dark-red">Hands-on mounting, matting, and framing <span class="fw7">your  own prints</span>.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
@@ -12,23 +12,23 @@ background: 'bg-top'
 types:
   - workshop
 product:
-  data_item_id: WFR20220710
-  data_item_name: "Framing Workshop"
-  data_item_price: 500.00
+  data_item_id: WFR20250719
+  data_item_name: "Matting & Framing Workshop"
+  data_item_price: 1200.00
   data_item_description: "Hands-on print mounting, matting, and framing"
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2022-07-10T08:30:00Z
-  soldout: true
+  event_date: 2025-07-19T08:30:00Z
+  soldout: false
   notes: "Print framing workshop. Traditional mounting, matting, and framing as well as alternative mounting and open framing techniques."
   bcolor: "black"
-weight: 6
-draft: true
+weight: 21
+draft: false
 ---
-**For people taking the printing workshop on July 9th, 2022 who wish to add the Framing workshop, the cost will be $450. For technical reasons, please sign up and pay the $500 fee and $50 will be refunded to your account.**
+**Starting at 8:15AM Saturday July 19th and ending 5:00PM Sunday July 20th**
 
-In this hands-on workshop participants will be introduced to a variety of framing options, with tips on which are best suited for various types of photography. Participants will take home finished framed products that they have made themselves.
+In this two day hands-on workshop participants will be introduced to a variety of framing options, with tips on which are best suited for various types of photography. Participants will take home finished framed products that they have made themselves.
 
 Participants will:
 - create their own displays on Gatorboard;
@@ -39,17 +39,16 @@ Participants will:
 
 {{< figure src="/images/framing/099A3758.jpg" caption="Finished mount, mat, and frames.">}}
 
-The workshop will include demonstrations and hands-on work making their own frames under Les’ supervision. Participants will leave the workshop with at least one example of each of the three  frames. 
+The workshop will include demonstrations and hands-on work making your own frames under Les’ supervision. You will leave the workshop with at least one example of each of the three framing approaches. 
 
-Prints to be mounted will be supplied by Les, but participants are encouraged to bring their own prints with them for mounting. All prints for the workshop must be on 13 x 19" paper (including 2" borders). 
+Prints to be mounted will be supplied by Les, but participants are encouraged to submit their own photos in advance that we will print on fine art paper. All prints for the workshop will be on 13 x 19" paper (including borders). 
 
-All framing materials are included as is use of all tools needed for construction. No prior knowledge of tools is required. Due to its hand-on nature, the Framing workshop is restricted to four participants. 
+All framing materials are included as is use of all tools needed for construction. No prior knowledge of tools is required. Due to its hand-on nature, the Framing workshop is restricted to three participants. 
 
 Les has been framing his Limited Edition prints for decades and will share his techniques, tips, resources and guidance throughout the workshop experience. 
 
 Once you register we will send you a detailed email with all the information you will need. We will be happy to send you a list of recommended lodging in Havre de Grace or nearby. 
 
-**No refunds after June 1st, 2022.**
+### Cancellation policy 
 
-
-	
+You may cancel your participation up to 60 days prior to the workshop without penalty and receive a full refund or priority placement in the next workshop opportunity. Within 60 days, we will try our best to fill your slot and, if successful, refund 75% of your registration fee. If we are unable to fill your slot we will not be able to provide any refund.
