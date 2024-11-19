@@ -12,14 +12,14 @@ bcolor: black
 types:
   - workshop
 product:
-  data_item_id: WAG20250426ß
+  data_item_id: WAG20250426
   data_item_name: "Advanced Awagami"
   data_item_price: 1000.00
   data_item_description: "Printing & mounting Awagami papers."
   data_item_image: "/images/workshop/awagami/099A8290.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2025-04-27T08:30:00Z
+  event_date: 2025-04-26T08:30:00Z
   soldout: false
   notes: "Workshop starts Saturday at 8:30am and ends at Sunday 1:00pm"
   bcolor: "black"
