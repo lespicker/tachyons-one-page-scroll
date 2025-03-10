@@ -1,6 +1,6 @@
 ---
-title: 'Ultimate African Photo Adventure<br>Mountain Gorillas & Serengeti Migration<br>June 2022'
-date: "2019-05-27"
+title: 'Ultimate African Photo Adventure<br>Mountain Gorillas & Serengeti Migration<br>June 2026'
+date: "2025-01-28"
 subtitle: '<span class="dark-red">Photograph  <span class="fw7">the Big Five</span>.</span>'
 location: "Tanzania + Uganda"
 featured: feature
@@ -24,13 +24,13 @@ product:
     data_item_custom1_name: "Occupancy"
     data_item_custom1_options: "Double|Single"
     data_item_custom1_value: "Double"
-    event_date: 2022-06-16T08:00:00Z
-    event_end: 2022-06-28T08:00:00Z
+    event_date: 2026-06-16T08:00:00Z
+    event_end: 2026-06-28T08:00:00Z
     soldout: true
     deposit: 17,990 DBL
     notes: 13 days / 12 nights - The photo adventure of a lifetime, tracking The Big Five and cheetahs hunting, as well as the incredible Mountain Gorillas. $17,990 per/person double occupancy; $20,490 per/person single occupancy. 
     bcolor: black
-weight: 1
+weight: 25
 draft: false
 aliases:
 ---

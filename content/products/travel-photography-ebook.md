@@ -32,6 +32,6 @@ In 234 pages chock full of tips, techniques and wisdom gained from over 40 years
 
 Les has traveled around the world many times and to some of the most remote places on the planet. He was named Best Travel Photographer in Canada’s most prestigious photo award. Les has also won two awards for his teaching, so in this ebook you will benefit from clear, concise and motivating examples drawn from his experiences.
 
-Upon purchase you will recieve an email with a link for immediate download.
+Upon purchase you will receive an email with a link for immediate download.
 
 Warning: Les’ eBooks can be highly addictive. When you need another ‘fix,’ check out his new titles. You have been warned!

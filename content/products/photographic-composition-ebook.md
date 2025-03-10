@@ -33,7 +33,7 @@ Les' work has appeared in major magazines, newspapers and exhibits. In Photograp
 
 Among his many honors, Les won Canada’s most prestigious photo award. Les has also won awards for his teaching, so in this ebook you will benefit from clear, concise and motivating examples drawn from his body of work.
 
-Upon purchase you will recieve an email with a link for immediate download.
+Upon purchase you will receive an email with a link for immediate download.
 
 Warning: Les’ eBooks can be highly addictive. When you need another ‘fix,’ check out his new titles. You have been warned!
 

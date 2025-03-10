@@ -11,7 +11,7 @@ image: "/images/workshop/patagonia/DSC_5104.jpg"
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
-draft: false
+draft: true
 types:
  - tour
 product:
