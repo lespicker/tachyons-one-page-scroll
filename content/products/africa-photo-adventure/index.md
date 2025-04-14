@@ -220,7 +220,7 @@ Attendees must be at least 16 years of age.
 
 The remainder of the Safari fee will be billed to you in 2 additional installments (March and October, 2021). Payment is due within 15 days of each billing. 
 
-Deposits are refundable as follows: 100% by March 30,2021; 50% by July 30, 2021; 25% by November 30, 2021. If fewer than five people do not sign up, the trip will be cancelled and 100% of all funds returned.
+Deposits are refundable as follows: 100% by March 30,2025; 50% by July 30, 2025; 25% by October 31, 2025. 
 
 All trip fees are quoted in US dollars and must be paid in US dollars.
 
