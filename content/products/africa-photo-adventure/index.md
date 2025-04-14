@@ -31,7 +31,7 @@ product:
     notes: 13 days / 12 nights - The photo adventure of a lifetime, tracking The Big Five and cheetahs hunting, as well as the incredible Mountain Gorillas. $17,990 per/person double occupancy; $20,490 per/person single occupancy. 
     bcolor: black
 weight: 25
-draft: false
+draft: true
 aliases:
 ---
 ## OVERVIEW
