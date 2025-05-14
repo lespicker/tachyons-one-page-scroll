@@ -26,7 +26,7 @@ product:
     deposit: 12,990.00
     notes: Prepare yourself for a truly memorable adventure as we photograph our way through Canada’s Untamed Yukon Wilderness from Whitehorse, Yukon to the Arctic Circle and back.  No refunds after February 28, 2025.
     bcolor: black
-    soldout: false
+    soldout: true
 weight: 15
 aliases:
 ---
