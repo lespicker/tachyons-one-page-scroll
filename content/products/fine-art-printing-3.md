@@ -19,11 +19,10 @@ product:
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2025-01-18T08:30:00Z
+  event_date: 2026-03-21T08:30:00Z
   notes: "Fine Art printing workshop. Take home large format fine art prints."
   bcolor: "black"
-  soldout: true
-weight: 10
+weight: 25
 draft: false
 ---
 > This was the perfect workshop for me. It allowed me to separate the theory from the practice and understand the practice of fine art printing with one-on-one guidance from the master artist, Les Picker, and master printer Bob Boyer.<cite>Gary Schubert, Pennsylvania</cite>
