@@ -12,9 +12,9 @@ background: 'bg-top'
 types:
   - workshop
 product:
-  data_item_id: WFP20250118
+  data_item_id: WFP20260321
   data_item_name: "Fine Art Printing"
-  data_item_price: 750.00
+  data_item_price: 795.00
   data_item_description: "Take home your photos as large format fine art prints."
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
