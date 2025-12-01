@@ -14,7 +14,7 @@ types:
 product:
   data_item_id: WFR20260411
   data_item_name: "Matting & Framing Workshop"
-  data_item_price: 1200.00
+  data_item_price: 1250.00
   data_item_description: "Hands-on print mounting, matting, and framing"
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
