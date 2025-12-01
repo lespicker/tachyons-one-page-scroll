@@ -26,7 +26,7 @@ product:
 weight: 10
 draft: false
 ---
-**Starting at 8:15AM Saturday July 19th and ending 5:00PM Sunday July 20th**
+**Starting at 8:15AM Saturday April 11th and ending 5:00PM Sunday April 12th**
 
 In this two day hands-on workshop participants will be introduced to a variety of framing options, with tips on which are best suited for various types of photography. Participants will take home finished framed products that they have made themselves.
 
