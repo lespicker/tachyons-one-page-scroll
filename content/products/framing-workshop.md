@@ -1,6 +1,6 @@
 ---
 title: 'Matting & Framing Workshop'
-date: "2024-11-19"
+date: "2025-12-01"
 subtitle: '<span class="dark-red">Hands-on mounting, matting, and framing <span class="fw7">your  own prints</span>.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
@@ -12,18 +12,18 @@ background: 'bg-top'
 types:
   - workshop
 product:
-  data_item_id: WFR20250719
+  data_item_id: WFR20260411
   data_item_name: "Matting & Framing Workshop"
   data_item_price: 1200.00
   data_item_description: "Hands-on print mounting, matting, and framing"
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2025-07-19T08:30:00Z
+  event_date: 2026-04-11T08:30:00Z
   soldout: true
   notes: "Print framing workshop. Traditional mounting, matting, and framing as well as alternative mounting and open framing techniques."
   bcolor: "black"
-weight: 21
+weight: 10
 draft: false
 ---
 **Starting at 8:15AM Saturday July 19th and ending 5:00PM Sunday July 20th**

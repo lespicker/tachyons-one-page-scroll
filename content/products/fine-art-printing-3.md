@@ -1,6 +1,6 @@
 ---
 title: 'Fine Art Printing Workshop'
-date: "2024-07-01"
+date: "2025-12-01"
 subtitle: '<span class="dark-red">Hands-on printing of <span class="fw7">your pictures</span> on our professional large-format printers.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
@@ -12,17 +12,17 @@ background: 'bg-top'
 types:
   - workshop
 product:
-  data_item_id: WFP20260321
+  data_item_id: WFP20260801
   data_item_name: "Fine Art Printing"
   data_item_price: 795.00
   data_item_description: "Take home your photos as large format fine art prints."
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2026-03-21T08:30:00Z
+  event_date: 2026-08-01T08:30:00Z
   notes: "Fine Art printing workshop. Take home large format fine art prints."
   bcolor: "black"
-weight: 25
+weight: 15
 draft: false
 ---
 > This was the perfect workshop for me. It allowed me to separate the theory from the practice and understand the practice of fine art printing with one-on-one guidance from the master artist, Les Picker, and master printer Bob Boyer.<cite>Gary Schubert, Pennsylvania</cite>

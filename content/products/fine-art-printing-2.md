@@ -1,6 +1,6 @@
 ---
 title: 'Fine Art Printing Workshop'
-date: "2024-11-19"
+date: "2025-12-01"
 subtitle: '<span class="dark-red">Hands-on printing of <span class="fw7">your pictures</span> on our professional large-format printers.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
@@ -12,18 +12,18 @@ background: 'bg-top'
 types:
   - workshop
 product:
-  data_item_id: WFP20250517
+  data_item_id: WFP20260321
   data_item_name: "Fine Art Printing"
   data_item_price: 750.00
   data_item_description: "Take home your photos as large format prints."
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2025-05-17T08:30:00Z
-  soldout: true
+  event_date: 2026-03-21T08:30:00Z
+  soldout: false
   notes: "Fine Art printing workshop. Take home as many large format prints as you have time to make."
   bcolor: "black"
-weight: 18
+weight: 5
 draft: false
 aliases:
   - "page/803"

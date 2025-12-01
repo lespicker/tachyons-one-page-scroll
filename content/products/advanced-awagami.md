@@ -24,6 +24,7 @@ product:
   notes: "Workshop starts Saturday at 8:30am and ends at Sunday 1:00pm"
   bcolor: "black"
 weight: 15
+draft: true
 ---
 ## Introduction
 

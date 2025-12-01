@@ -24,7 +24,7 @@ product:
   bcolor: "black"
   soldout: true
 weight: 22
-draft: false
+draft: true
 ---
 > This was the perfect workshop for me. It allowed me to separate the theory from the practice and understand the practice of fine art printing with one-on-one guidance from the master artist, Les Picker, and master printer Bob Boyer.<cite>Gary Schubert, Pennsylvania</cite>
 
