@@ -2,7 +2,6 @@
 title: 'Portfolio Development Workshop'
 date: "2024-11-19"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
-featured: feature
 location: "Havre de Grace, MD"
 sideline: 'Fashion | Editorial | Dualities'
 sidecolor: 'white'
@@ -28,7 +27,7 @@ product:
     notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after August 15th, 2025.
     bcolor: black
 weight: 25
-draft: false
+draft: true
 ---
 One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
 
