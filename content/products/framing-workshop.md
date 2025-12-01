@@ -19,7 +19,7 @@ product:
   data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2026-04-11T08:30:00Z
+  event_date: 2026-04-11T08:15:00Z
   soldout: false
   notes: "Print framing workshop. Traditional mounting, matting, and framing as well as alternative mounting and open framing techniques."
   bcolor: "black"
