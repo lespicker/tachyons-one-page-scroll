@@ -6,7 +6,7 @@ location: "Havre de Grace, MD"
 sideline: 'Fashion | Editorial | Dualities'
 sidecolor: 'white'
 textcolor: white
-image: "/images/DSCF7232.jpg"
+image: "/images/099A8415.jpg"
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
