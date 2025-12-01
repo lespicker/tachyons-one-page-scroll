@@ -27,8 +27,8 @@ product:
     soldout: true
     notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after Sept 1st, 2026.
     bcolor: black
-weight: 30
-draft: true
+weight: 40
+draft: false
 ---
 One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
 
