@@ -35,6 +35,8 @@ In this 3-1/2 day workshop you will learn the skills needed to  create your own 
 
 This intensive, very hands-on workshop is taught by Lester Picker, whose work is found in the permanent collections of photography museums and private homes. Always enamored with ancient hand-made books during his tours of museums as a child, Les has devoted the past few years immersed in this historic art form. 
 
+{{< figure src="/images/page-folder.jpg" caption="Assembling signatures from individual folios.">}}
+
 Les has earned several awards for his teaching, and in this workshop you will learn the ins and outs of bookmaking, skills you can carry forward in your work. You will leave this workshop with a hand-crafted, beautifully presented photography book and with knowing how to:
 
 - cull, sequence and self-edit your images
@@ -52,6 +54,8 @@ A critical component of this workshop is to also gain experience in the difficul
 For this workshop you will be required to submit thirty image files in advance and receive feedback and guidance from Les and Bob Boyer, his longtime Associate. Once the images are finalized to 12 images, Bob, a master printer, will print them on the appropriate Moab fine art paper. 
 
 When you arrive in Les' studio, you will be ready to start the hands-on portion of this unique experience. 
+
+{{< figure src="/images/finished book.jpg" caption="Assembling signatures from individual folios.">}}
 
 ## PAYMENT AND REFUNDS
 Please note that we only accept three photographers for this workshop. Due to the amount of equipment and supplies that we need to pre-order, we do not allow any refunds once you are registered and fully paid. 
