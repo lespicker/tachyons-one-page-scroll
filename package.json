@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/lespicker/tachyons-one-page-scroll#readme",
   "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
     "atomic-algolia": "^0.3.19"
   }
 }
