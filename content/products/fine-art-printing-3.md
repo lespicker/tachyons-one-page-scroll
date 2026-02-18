@@ -22,6 +22,7 @@ product:
   event_date: 2026-08-01T08:30:00Z
   notes: "Fine Art printing workshop. Take home large format fine art prints."
   bcolor: "black"
+  soldout: true
 weight: 15
 draft: false
 ---
