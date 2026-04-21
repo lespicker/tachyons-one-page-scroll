@@ -108,7 +108,7 @@ Once you are on site, and after showing you some sample professional portfolios,
 
 On Saturday we work side-by-side with you sharing insights, techniques, and Lightroom methods to finalize your selections while getting the most out of Lightroom. We’ll also offer one-on-one assistance to post-process your images so that they shine and are ready for our state-of-the-art large format Canon printers. By the end of the day, you will have a selection of images that you can rightfully point to with pride.
 
-Sunday, we print your images on large format, 13“ x 19” fine art, museum-quality paper by world-renowned Moab Paper. We print using state-of-the-art large format printers by Canon, using archival inks. We add artistic finishing touches, giving you a beautiful, professional portfolio.
+Sunday, we print your images on fine art, museum-quality paper by world-renowned Moab Paper. We print using state-of-the-art large format printers by Canon, using archival inks. We add artistic finishing touches, giving you a beautiful, professional portfolio.
 
 Afterwards you will assemble your portfolio. You will develop a cover sheet for your portfolio, which we will then print. Then you will have the distinct joy of completing the physical assembly of your professional portfolio.
 
