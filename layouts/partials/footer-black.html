@@ -8,12 +8,12 @@
   </article>
 
   <div class="mb4 mb0-ns flex justify-center">
-    <form id="news" class="news" method="POST" action="/.netlify/functions/subscribe">
+    <form id="news-black" class="news" method="POST" action="/.netlify/functions/subscribe">
       <p class="f4 fw6 mb2 f6 mt0">
         Sign up for our newsletter.
       </p>
       <input placeholder="Email Address" name="email" type="email" class="mw-100 w-100 w5-ns f5 input-reset ba b--white bg-black white pv3 ph4 border-box">
-      <button id="subscribe" type="submit" class="input-reset w-100 w-auto-ns bg-black dark-red f5 ttu pv2 pv3-ns ph4 ba b--dark-red hover-bg-dark-red hover-white">Submit</button>
+      <input id="subscribe" type="submit" class="input-reset w-100 w-auto-ns bg-black dark-red f5 ttu pv2 pv3-ns ph4 ba b--dark-red hover-bg-dark-red hover-white">
     </form>
   </div>
 
@@ -54,7 +54,6 @@
     </div>
   </footer>
 
-
 <script>
   window.addEventListener("load", () => {
     function sendData() {
@@ -66,7 +65,8 @@
       // Define what happens on successful data submission
       XHR.addEventListener("load", (event) => {
         //window.location = "#popup1"
-        document.getElementById("news").reset();
+        document.getElementById("news-black").reset();
+        alert('Thank you for subscribing!');
       });
   
       // Define what happens in case of error
@@ -83,7 +83,7 @@
     }
   
     // Get the form element
-    const form = document.getElementById("news");
+    const form = document.getElementById("news-black");
   
     // Add 'submit' event handler
     form.addEventListener("submit", (event) => {

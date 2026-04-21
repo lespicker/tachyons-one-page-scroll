@@ -27,7 +27,7 @@ product:
     notes: Learn the art of bookmaking. Create a hand-made book and a cloth-covered slipcase containing 12 of your finest images.
     bcolor: black
 weight: 17
-draft: false
+draft: true
 ---
 Set your photography apart from chaotic instant gratification of Instagram likes. Raise your photographic presentations to new heights. Create gifts valued by generations to follow. *Welcome to the world of hand-made photography books!* 
 
