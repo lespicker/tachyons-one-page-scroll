@@ -1,35 +1,35 @@
 ---
 title: 'Portfolio Development Workshop'
-date: "2025-12-01"
+date: "2026-04-21"
 subtitle: '<span class="white">Half <span class="fw7">Naughty</span> and half nice.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Fashion | Editorial | Dualities'
 sidecolor: 'white'
 textcolor: white
-image: "/images/DSCF7232.jpg"
+image: "/images/099A8415.jpg"
 bcolor: "white"
 background: 'bg-top'
 readerbg: bg-black-20
 types:
  - workshop
 product:
-    data_item_id: WPT20271113
+    data_item_id: WCP20270416
     data_item_name: "Portfolio Workshop"
     data_item_price: 500.00
     data_item_description: "Deposit for portfolio workshop; total price $1995."
     data_item_image: "/images/bli/2018/09/Lester-Picker_07.jpg"
     data_item_categories: "workshop"
     data_item_shippable: "false"
-    event_date: 2027-11-12T08:30:00Z
-    event_end: 2027-11-14T16:00:00Z
-    deposit: 2350.00
-    soldout: true
-    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after August 15th, 2027.
+    event_date: 2026-01-01T08:30:00Z
+    event_end: 2026-12-31T16:00:00Z
+    deposit: 2950.00
+    soldout: false
+    notes: Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfolio showcasing ten of your finest images. No refunds after 0ctober 15, 2026.
     bcolor: black
-weight: 50
+weight: 45
 draft: false
 ---
-One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
+One of the hardest things to do as a photographer is curate your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
 
 If you are a serious photographer, here is a chance for you to walk home with a beautifully hand-crafted, hand-printed, and carefully curated fine art portfolio that will show off your work to the highest standard in the industry today.
 
@@ -130,6 +130,3 @@ Lester Picker (www.lesterpickerphoto.com) has more than 650 writing and photo cr
 
 Robert Boyer is a master printer and oversees all fine art printing for LPFA. Bob is also a computer and software technician. He is an experienced studio photographer and workshop presenter.
 
-### Cancellation policy 
-
-You may cancel your participation up to 60 days prior to the workshop without penalty and receive a full refund or priority placement in the next workshop opportunity. Within 60 days, we will try our best to fill your slot and, if successful, refund 75% of your registration fee. If we are unable to fill your slot we will not be able to provide any refund.
