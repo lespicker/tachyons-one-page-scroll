@@ -56,7 +56,7 @@ Learn the art of self-critique. Create a hand-made, cloth-covered, boxed portfol
 - Develop contacts for editorial assistance going forward
 - Experience the value of outside editorial input on your work
 - How the editorial process can shape your art
-- Ten archival prints professionally printed on Moab fine art papers, using state-of-the-art Canon - printers.
+- Ten archival prints professionally printed on museum quality, fine art papers, using state-of-the-art Canon - printers.
 - Distinctive, cloth-covered portfolio box, hand crafted in the USA
 
 One of the hardest things to do as a photographer is edit down your work to a cohesive collection of the best and most fitting images, whether it be to support a single theme, single project or the best representations of your work.
@@ -109,7 +109,7 @@ Once you are on site, and after showing you some sample professional portfolios,
 
 On Saturday we work side-by-side with you sharing insights, techniques, and Lightroom methods to finalize your selections while getting the most out of Lightroom. We’ll also offer one-on-one assistance to post-process your images so that they shine and are ready for our state-of-the-art large format Canon printers. By the end of the day, you will have a selection of images that you can rightfully point to with pride.
 
-Sunday, together we print your images on large format, 13“ x 19” fine art, museum-quality paper by world-renowned Moab Paper. We print using state-of-the-art large format printers by Canon, using archival inks. We add artistic finishing touches, giving you a beautiful, professional portfolio.
+Sunday, together we print your images on fine art, museum-quality paper. We print using state-of-the-art large format printers by Canon, using archival inks. We add artistic finishing touches, giving you a beautiful, professional portfolio.
 
 Afterwards you will assemble your portfolio. You will develop a cover sheet for your portfolio, which we will then print. Then you will have the distinct joy of completing the physical assembly of your professional portfolio.
 
