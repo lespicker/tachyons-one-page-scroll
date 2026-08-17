@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Awagami Printing & Display'
-date: "2026-04-15"
+date: "2026-08-15"
 subtitle: '<span class="dark-red">Hands-On Printing & Mounting Japanese fine art papers for <span class="fw7">your photography.</span>.</span>'
 location: "Havre de Grace, MD"
 sideline: 'Workshop | Printing | Fine Art'
@@ -12,18 +12,18 @@ bcolor: black
 types:
   - workshop
 product:
-  data_item_id: WAG20260808
+  data_item_id: WAG20270515
   data_item_name: "Advanced Awagami"
-  data_item_price: 1500.00
+  data_item_price: 1950.00
   data_item_description: "Printing & mounting Awagami papers."
   data_item_image: "/images/workshop/awagami/099A8290.jpg"
   data_item_categories: "workshop"
   data_item_shippable: "false"
-  event_date: 2026-08-08T08:15:00Z
+  event_date: 2027-05-15T08:15:00Z
   soldout: false
   notes: "Workshop starts Saturday at 8:15am and ends at Sunday 3:00pm"
   bcolor: "black"
-weight: 20
+weight: 50
 draft: false
 ---
 ## Introduction
